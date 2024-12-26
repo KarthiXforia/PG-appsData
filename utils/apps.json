@@ -1,0 +1,829 @@
+{
+  "categories": {
+    "SOCIAL": {
+      "id": "6005",
+      "apps": [
+        {
+          "name": "Instagram",
+          "display_name": "Instagram",
+          "search_terms": {
+            "itunes": "instagram",
+            "playstore": "instagram app"
+          }
+        },
+        {
+          "name": "Facebook",
+          "display_name": "Facebook",
+          "search_terms": {
+            "itunes": "facebook",
+            "playstore": "facebook app"
+          }
+        },
+        {
+          "name": "TikTok",
+          "display_name": "TikTok",
+          "search_terms": {
+            "itunes": "tiktok",
+            "playstore": "tiktok app"
+          }
+        },
+        {
+          "name": "Snapchat",
+          "display_name": "Snapchat",
+          "search_terms": {
+            "itunes": "snapchat",
+            "playstore": "snapchat app"
+          }
+        },
+        {
+          "name": "Twitter",
+          "display_name": "X",
+          "search_terms": {
+            "itunes": "twitter x",
+            "playstore": "twitter x app"
+          }
+        },
+        {
+          "name": "LinkedIn",
+          "display_name": "LinkedIn",
+          "search_terms": {
+            "itunes": "linkedin",
+            "playstore": "linkedin app"
+          }
+        },
+        {
+          "name": "Pinterest",
+          "display_name": "Pinterest",
+          "search_terms": {
+            "itunes": "pinterest",
+            "playstore": "pinterest app"
+          }
+        },
+        {
+          "name": "WhatsApp",
+          "display_name": "WhatsApp Messenger",
+          "search_terms": {
+            "itunes": "whatsapp messenger",
+            "playstore": "whatsapp messenger"
+          }
+        },
+        {
+          "name": "Telegram",
+          "display_name": "Telegram Messenger",
+          "search_terms": {
+            "itunes": "telegram messenger",
+            "playstore": "telegram"
+          }
+        },
+        {
+          "name": "Discord",
+          "display_name": "Discord",
+          "search_terms": {
+            "itunes": "discord",
+            "playstore": "discord chat"
+          }
+        },
+        {
+          "name": "Reddit",
+          "display_name": "Reddit",
+          "search_terms": {
+            "itunes": "reddit",
+            "playstore": "reddit app"
+          }
+        },
+        {
+          "name": "Messenger",
+          "display_name": "Messenger",
+          "search_terms": {
+            "itunes": "messenger facebook",
+            "playstore": "facebook messenger"
+          }
+        },
+        {
+          "name": "WeChat",
+          "display_name": "WeChat",
+          "search_terms": {
+            "itunes": "wechat",
+            "playstore": "wechat app"
+          }
+        },
+        {
+          "name": "Line",
+          "display_name": "LINE",
+          "search_terms": {
+            "itunes": "line messenger",
+            "playstore": "line messenger"
+          }
+        },
+        {
+          "name": "Viber",
+          "display_name": "Viber Messenger",
+          "search_terms": {
+            "itunes": "viber messenger",
+            "playstore": "viber messenger"
+          }
+        },
+        {
+          "name": "Twitch",
+          "display_name": "Twitch",
+          "search_terms": {
+            "itunes": "twitch",
+            "playstore": "twitch app"
+          }
+        },
+        {
+          "name": "BeReal",
+          "display_name": "BeReal",
+          "search_terms": {
+            "itunes": "bereal",
+            "playstore": "bereal app"
+          }
+        },
+        {
+          "name": "Quora",
+          "display_name": "Quora",
+          "search_terms": {
+            "itunes": "quora",
+            "playstore": "quora app"
+          }
+        },
+        {
+          "name": "Threads",
+          "display_name": "Threads",
+          "search_terms": {
+            "itunes": "threads instagram",
+            "playstore": "threads from instagram"
+          }
+        },
+        {
+          "name": "Tumblr",
+          "display_name": "Tumblr",
+          "search_terms": {
+            "itunes": "tumblr",
+            "playstore": "tumblr app"
+          }
+        }
+      ]
+    },
+    "ENTERTAINMENT": {
+      "id": "6016",
+      "apps": [
+        {
+          "name": "Netflix",
+          "display_name": "Netflix",
+          "search_terms": {
+            "itunes": "netflix",
+            "playstore": "netflix app"
+          }
+        },
+        {
+          "name": "Disney+",
+          "display_name": "Disney+",
+          "search_terms": {
+            "itunes": "disney plus",
+            "playstore": "disney+ app"
+          }
+        },
+        {
+          "name": "Amazon Prime Video",
+          "display_name": "Prime Video",
+          "search_terms": {
+            "itunes": "amazon prime video",
+            "playstore": "prime video app"
+          }
+        },
+        {
+          "name": "Hulu",
+          "display_name": "Hulu",
+          "search_terms": {
+            "itunes": "hulu",
+            "playstore": "hulu streaming"
+          }
+        },
+        {
+          "name": "YouTube",
+          "display_name": "YouTube",
+          "search_terms": {
+            "itunes": "youtube",
+            "playstore": "youtube app"
+          }
+        },
+        {
+          "name": "Max",
+          "display_name": "Max",
+          "search_terms": {
+            "itunes": "max streaming",
+            "playstore": "max streaming app"
+          }
+        },
+        {
+          "name": "Peacock",
+          "display_name": "Peacock TV",
+          "search_terms": {
+            "itunes": "peacock tv",
+            "playstore": "peacock streaming"
+          }
+        },
+        {
+          "name": "Paramount+",
+          "display_name": "Paramount+",
+          "search_terms": {
+            "itunes": "paramount plus",
+            "playstore": "paramount plus app"
+          }
+        },
+        {
+          "name": "Crunchyroll",
+          "display_name": "Crunchyroll",
+          "search_terms": {
+            "itunes": "crunchyroll",
+            "playstore": "crunchyroll anime"
+          }
+        },
+        {
+          "name": "Funimation",
+          "display_name": "Funimation",
+          "search_terms": {
+            "itunes": "funimation",
+            "playstore": "funimation app"
+          }
+        },
+        {
+          "name": "Apple TV",
+          "display_name": "Apple TV",
+          "search_terms": {
+            "itunes": "apple tv app",
+            "playstore": "apple tv streaming"
+          }
+        },
+        {
+          "name": "Pluto TV",
+          "display_name": "Pluto TV",
+          "search_terms": {
+            "itunes": "pluto tv",
+            "playstore": "pluto tv app"
+          }
+        },
+        {
+          "name": "Tubi",
+          "display_name": "Tubi",
+          "search_terms": {
+            "itunes": "tubi tv",
+            "playstore": "tubi watch movies"
+          }
+        },
+        {
+          "name": "Discovery+",
+          "display_name": "discovery+",
+          "search_terms": {
+            "itunes": "discovery plus",
+            "playstore": "discovery plus app"
+          }
+        },
+        {
+          "name": "ESPN",
+          "display_name": "ESPN",
+          "search_terms": {
+            "itunes": "espn sports",
+            "playstore": "espn app"
+          }
+        },
+        {
+          "name": "VRV",
+          "display_name": "VRV",
+          "search_terms": {
+            "itunes": "vrv streaming",
+            "playstore": "vrv anime"
+          }
+        },
+        {
+          "name": "IMDb",
+          "display_name": "IMDb",
+          "search_terms": {
+            "itunes": "imdb movies",
+            "playstore": "imdb app"
+          }
+        },
+        {
+          "name": "Vudu",
+          "display_name": "Vudu",
+          "search_terms": {
+            "itunes": "vudu movies",
+            "playstore": "vudu app"
+          }
+        },
+        {
+          "name": "Starz",
+          "display_name": "STARZ",
+          "search_terms": {
+            "itunes": "starz",
+            "playstore": "starz app"
+          }
+        },
+        {
+          "name": "Showtime",
+          "display_name": "SHOWTIME",
+          "search_terms": {
+            "itunes": "showtime",
+            "playstore": "showtime app"
+          }
+        }
+      ]
+    },
+    "GAMES": {
+      "id": "6014",
+      "apps": [
+        {
+          "name": "Minecraft",
+          "display_name": "Minecraft",
+          "search_terms": {
+            "itunes": "minecraft",
+            "playstore": "minecraft game"
+          }
+        },
+        {
+          "name": "Roblox",
+          "display_name": "Roblox",
+          "search_terms": {
+            "itunes": "roblox",
+            "playstore": "roblox game"
+          }
+        },
+        {
+          "name": "Candy Crush Saga",
+          "display_name": "Candy Crush Saga",
+          "search_terms": {
+            "itunes": "candy crush saga",
+            "playstore": "candy crush saga game"
+          }
+        },
+        {
+          "name": "PUBG Mobile",
+          "display_name": "PUBG MOBILE",
+          "search_terms": {
+            "itunes": "pubg mobile",
+            "playstore": "pubg mobile game"
+          }
+        },
+        {
+          "name": "Among Us",
+          "display_name": "Among Us",
+          "search_terms": {
+            "itunes": "among us",
+            "playstore": "among us game"
+          }
+        },
+        {
+          "name": "Call of Duty Mobile",
+          "display_name": "Call of Duty: Mobile",
+          "search_terms": {
+            "itunes": "call of duty mobile",
+            "playstore": "call of duty mobile game"
+          }
+        },
+        {
+          "name": "Subway Surfers",
+          "display_name": "Subway Surfers",
+          "search_terms": {
+            "itunes": "subway surfers",
+            "playstore": "subway surfers game"
+          }
+        },
+        {
+          "name": "Genshin Impact",
+          "display_name": "Genshin Impact",
+          "search_terms": {
+            "itunes": "genshin impact",
+            "playstore": "genshin impact game"
+          }
+        },
+        {
+          "name": "Pokemon GO",
+          "display_name": "Pokémon GO",
+          "search_terms": {
+            "itunes": "pokemon go",
+            "playstore": "pokemon go game"
+          }
+        },
+        {
+          "name": "Clash of Clans",
+          "display_name": "Clash of Clans",
+          "search_terms": {
+            "itunes": "clash of clans",
+            "playstore": "clash of clans game"
+          }
+        },
+        {
+          "name": "Clash Royale",
+          "display_name": "Clash Royale",
+          "search_terms": {
+            "itunes": "clash royale",
+            "playstore": "clash royale game"
+          }
+        },
+        {
+          "name": "Brawl Stars",
+          "display_name": "Brawl Stars",
+          "search_terms": {
+            "itunes": "brawl stars",
+            "playstore": "brawl stars game"
+          }
+        },
+        {
+          "name": "Hay Day",
+          "display_name": "Hay Day",
+          "search_terms": {
+            "itunes": "hay day",
+            "playstore": "hay day game"
+          }
+        },
+        {
+          "name": "8 Ball Pool",
+          "display_name": "8 Ball Pool",
+          "search_terms": {
+            "itunes": "8 ball pool",
+            "playstore": "8 ball pool game"
+          }
+        },
+        {
+          "name": "Mobile Legends",
+          "display_name": "Mobile Legends: Bang Bang",
+          "search_terms": {
+            "itunes": "mobile legends",
+            "playstore": "mobile legends game"
+          }
+        },
+        {
+          "name": "Garena Free Fire",
+          "display_name": "Garena Free Fire",
+          "search_terms": {
+            "itunes": "garena free fire",
+            "playstore": "free fire game"
+          }
+        },
+        {
+          "name": "Stumble Guys",
+          "display_name": "Stumble Guys",
+          "search_terms": {
+            "itunes": "stumble guys",
+            "playstore": "stumble guys game"
+          }
+        },
+        {
+          "name": "Honkai: Star Rail",
+          "display_name": "Honkai: Star Rail",
+          "search_terms": {
+            "itunes": "honkai star rail",
+            "playstore": "honkai star rail game"
+          }
+        },
+        {
+          "name": "Temple Run 2",
+          "display_name": "Temple Run 2",
+          "search_terms": {
+            "itunes": "temple run 2",
+            "playstore": "temple run 2 game"
+          }
+        },
+        {
+          "name": "Hill Climb Racing",
+          "display_name": "Hill Climb Racing",
+          "search_terms": {
+            "itunes": "hill climb racing",
+            "playstore": "hill climb racing game"
+          }
+        }
+      ]
+    },
+    "MUSIC": {
+      "id": "6011",
+      "apps": [
+        {
+          "name": "Spotify",
+          "display_name": "Spotify",
+          "search_terms": {
+            "itunes": "spotify music",
+            "playstore": "spotify music app"
+          }
+        },
+        {
+          "name": "Apple Music",
+          "display_name": "Apple Music",
+          "search_terms": {
+            "itunes": "apple music",
+            "playstore": "apple music app"
+          }
+        },
+        {
+          "name": "YouTube Music",
+          "display_name": "YouTube Music",
+          "search_terms": {
+            "itunes": "youtube music",
+            "playstore": "youtube music app"
+          }
+        },
+        {
+          "name": "SoundCloud",
+          "display_name": "SoundCloud",
+          "search_terms": {
+            "itunes": "soundcloud",
+            "playstore": "soundcloud music"
+          }
+        },
+        {
+          "name": "Amazon Music",
+          "display_name": "Amazon Music",
+          "search_terms": {
+            "itunes": "amazon music",
+            "playstore": "amazon music app"
+          }
+        },
+        {
+          "name": "Pandora",
+          "display_name": "Pandora",
+          "search_terms": {
+            "itunes": "pandora music",
+            "playstore": "pandora radio"
+          }
+        },
+        {
+          "name": "Deezer",
+          "display_name": "Deezer",
+          "search_terms": {
+            "itunes": "deezer music",
+            "playstore": "deezer music app"
+          }
+        },
+        {
+          "name": "Tidal",
+          "display_name": "TIDAL",
+          "search_terms": {
+            "itunes": "tidal music",
+            "playstore": "tidal music streaming"
+          }
+        },
+        {
+          "name": "Shazam",
+          "display_name": "Shazam",
+          "search_terms": {
+            "itunes": "shazam",
+            "playstore": "shazam music"
+          }
+        },
+        {
+          "name": "TuneIn",
+          "display_name": "TuneIn Radio",
+          "search_terms": {
+            "itunes": "tunein radio",
+            "playstore": "tunein radio app"
+          }
+        },
+        {
+          "name": "iHeartRadio",
+          "display_name": "iHeartRadio",
+          "search_terms": {
+            "itunes": "iheartradio",
+            "playstore": "iheartradio music"
+          }
+        },
+        {
+          "name": "Audiomack",
+          "display_name": "Audiomack",
+          "search_terms": {
+            "itunes": "audiomack",
+            "playstore": "audiomack music"
+          }
+        },
+        {
+          "name": "LiveOne",
+          "display_name": "LiveOne",
+          "search_terms": {
+            "itunes": "liveone music",
+            "playstore": "liveone music app"
+          }
+        },
+        {
+          "name": "JioSaavn",
+          "display_name": "JioSaavn Music",
+          "search_terms": {
+            "itunes": "jiosaavn music",
+            "playstore": "jiosaavn music app"
+          }
+        },
+        {
+          "name": "Gaana",
+          "display_name": "Gaana Music",
+          "search_terms": {
+            "itunes": "gaana music",
+            "playstore": "gaana music app"
+          }
+        },
+        {
+          "name": "Wynk",
+          "display_name": "Wynk Music",
+          "search_terms": {
+            "itunes": "wynk music",
+            "playstore": "wynk music app"
+          }
+        },
+        {
+          "name": "Resso",
+          "display_name": "Resso Music",
+          "search_terms": {
+            "itunes": "resso music",
+            "playstore": "resso music app"
+          }
+        },
+        {
+          "name": "Mixcloud",
+          "display_name": "Mixcloud",
+          "search_terms": {
+            "itunes": "mixcloud",
+            "playstore": "mixcloud music"
+          }
+        },
+        {
+          "name": "Qobuz",
+          "display_name": "Qobuz",
+          "search_terms": {
+            "itunes": "qobuz music",
+            "playstore": "qobuz music app"
+          }
+        },
+        {
+          "name": "Napster",
+          "display_name": "Napster Music",
+          "search_terms": {
+            "itunes": "napster music",
+            "playstore": "napster music app"
+          }
+        }
+      ]
+    },
+    "DATING": {
+      "id": "6012",
+      "apps": [
+        {
+          "name": "Tinder",
+          "display_name": "Tinder",
+          "search_terms": {
+            "itunes": "tinder dating",
+            "playstore": "tinder app"
+          }
+        },
+        {
+          "name": "Bumble",
+          "display_name": "Bumble",
+          "search_terms": {
+            "itunes": "bumble dating",
+            "playstore": "bumble app"
+          }
+        },
+        {
+          "name": "Hinge",
+          "display_name": "Hinge",
+          "search_terms": {
+            "itunes": "hinge dating",
+            "playstore": "hinge dating app"
+          }
+        },
+        {
+          "name": "OkCupid",
+          "display_name": "OkCupid",
+          "search_terms": {
+            "itunes": "okcupid dating",
+            "playstore": "okcupid app"
+          }
+        },
+        {
+          "name": "Match",
+          "display_name": "Match.com",
+          "search_terms": {
+            "itunes": "match.com dating",
+            "playstore": "match dating app"
+          }
+        },
+        {
+          "name": "Coffee Meets Bagel",
+          "display_name": "Coffee Meets Bagel",
+          "search_terms": {
+            "itunes": "coffee meets bagel",
+            "playstore": "coffee meets bagel dating"
+          }
+        },
+        {
+          "name": "Badoo",
+          "display_name": "Badoo",
+          "search_terms": {
+            "itunes": "badoo dating",
+            "playstore": "badoo app"
+          }
+        },
+        {
+          "name": "Plenty of Fish",
+          "display_name": "POF Dating",
+          "search_terms": {
+            "itunes": "pof dating",
+            "playstore": "plenty of fish dating"
+          }
+        },
+        {
+          "name": "eHarmony",
+          "display_name": "eharmony",
+          "search_terms": {
+            "itunes": "eharmony dating",
+            "playstore": "eharmony app"
+          }
+        },
+        {
+          "name": "Her",
+          "display_name": "HER",
+          "search_terms": {
+            "itunes": "her lesbian dating",
+            "playstore": "her dating app"
+          }
+        },
+        {
+          "name": "Grindr",
+          "display_name": "Grindr",
+          "search_terms": {
+            "itunes": "grindr",
+            "playstore": "grindr app"
+          }
+        },
+        {
+          "name": "Facebook Dating",
+          "display_name": "Facebook Dating",
+          "search_terms": {
+            "itunes": "facebook dating",
+            "playstore": "facebook dating app"
+          }
+        },
+        {
+          "name": "Happn",
+          "display_name": "happn",
+          "search_terms": {
+            "itunes": "happn dating",
+            "playstore": "happn app"
+          }
+        },
+        {
+          "name": "The League",
+          "display_name": "The League",
+          "search_terms": {
+            "itunes": "the league dating",
+            "playstore": "the league app"
+          }
+        },
+        {
+          "name": "BLK",
+          "display_name": "BLK Dating",
+          "search_terms": {
+            "itunes": "blk dating",
+            "playstore": "blk dating app"
+          }
+        },
+        {
+          "name": "Chispa",
+          "display_name": "Chispa Dating",
+          "search_terms": {
+            "itunes": "chispa dating",
+            "playstore": "chispa latino dating"
+          }
+        },
+        {
+          "name": "Tagged",
+          "display_name": "Tagged Dating",
+          "search_terms": {
+            "itunes": "tagged dating",
+            "playstore": "tagged dating app"
+          }
+        },
+        {
+          "name": "Clover",
+          "display_name": "Clover Dating",
+          "search_terms": {
+            "itunes": "clover dating",
+            "playstore": "clover dating app"
+          }
+        },
+        {
+          "name": "Feeld",
+          "display_name": "Feeld",
+          "search_terms": {
+            "itunes": "feeld dating",
+            "playstore": "feeld app"
+          }
+        },
+        {
+          "name": "Muzmatch",
+          "display_name": "Muzmatch",
+          "search_terms": {
+            "itunes": "muzmatch muslim",
+            "playstore": "muzmatch marriage app"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2407 @@
+{
+  "timestamp": "2024-12-21T08:17:23.851Z",
+  "success": true,
+  "total_apps": 100,
+  "total_failed": 0,
+  "apps": [
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.instagram.android"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.instagram.android",
+      "ios_bundle_id": null,
+      "title": "Instagram",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.instagram.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.instagram.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM",
+      "icon_72": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Instagram"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.facebook.katana"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.facebook.katana",
+      "ios_bundle_id": null,
+      "title": "Facebook",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.facebook.katana"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo",
+      "icon_72": "https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Facebook"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "in.mohalla.video"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "in.mohalla.video",
+      "ios_bundle_id": null,
+      "title": "TikTok",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=in.mohalla.video"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=in.mohalla.video",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KqeKUXHP336vQkJIhdulZRh4V2IO5hoqak-NBd6Etj3-UjlnKz9unx8Z7XpVlXEMEZs",
+      "icon_72": "https://play-lh.googleusercontent.com/KqeKUXHP336vQkJIhdulZRh4V2IO5hoqak-NBd6Etj3-UjlnKz9unx8Z7XpVlXEMEZs=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "TikTok"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.snapchat.android"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.snapchat.android",
+      "ios_bundle_id": null,
+      "title": "Snapchat",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.snapchat.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.snapchat.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/nC95iM2f4dXas2K5x-heZ_uUVH9oc-mnlQF9phleiU2Kfk_Z1Rmwrbwv0QOdwQ__T4A",
+      "icon_72": "https://play-lh.googleusercontent.com/nC95iM2f4dXas2K5x-heZ_uUVH9oc-mnlQF9phleiU2Kfk_Z1Rmwrbwv0QOdwQ__T4A=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Snapchat"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.twitter.android"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.twitter.android",
+      "ios_bundle_id": null,
+      "title": "Twitter",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.twitter.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.twitter.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/A-Rnrh0J7iKmABskTonqFAANRLGTGUg_nuE4PEMYwJavL3nPt5uWsU2WO_DSgV_mOOM",
+      "icon_72": "https://play-lh.googleusercontent.com/A-Rnrh0J7iKmABskTonqFAANRLGTGUg_nuE4PEMYwJavL3nPt5uWsU2WO_DSgV_mOOM=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Twitter"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.linkedin.android"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.linkedin.android",
+      "ios_bundle_id": null,
+      "title": "LinkedIn",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.linkedin.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.linkedin.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw",
+      "icon_72": "https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "LinkedIn"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.pinterest"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.pinterest",
+      "ios_bundle_id": null,
+      "title": "Pinterest",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.pinterest"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.pinterest",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6CFQQ0b9r5fzF1v6f0gIirWsOGL7sGWkJifuUQxxhbCMcBx5aSG_cNXpjDKDn5c1jwjq",
+      "icon_72": "https://play-lh.googleusercontent.com/6CFQQ0b9r5fzF1v6f0gIirWsOGL7sGWkJifuUQxxhbCMcBx5aSG_cNXpjDKDn5c1jwjq=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Pinterest"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.whatsapp"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.whatsapp",
+      "ios_bundle_id": null,
+      "title": "WhatsApp",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.whatsapp"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.whatsapp",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN",
+      "icon_72": "https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "WhatsApp"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "org.telegram.messenger"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "org.telegram.messenger",
+      "ios_bundle_id": null,
+      "title": "Telegram",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=org.telegram.messenger"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q",
+      "icon_72": "https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Telegram"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.discord"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.discord",
+      "ios_bundle_id": null,
+      "title": "Discord",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.discord"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.discord",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ",
+      "icon_72": "https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Discord"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.reddit.frontpage"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.reddit.frontpage",
+      "ios_bundle_id": null,
+      "title": "Reddit",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.reddit.frontpage"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/aSuyYxOTIoGGSNuZRIMkveqZd9aAdEGzZMrH5Yl5UaOkZ0yxLKne0JmhcLXWmQ3Av7A",
+      "icon_72": "https://play-lh.googleusercontent.com/aSuyYxOTIoGGSNuZRIMkveqZd9aAdEGzZMrH5Yl5UaOkZ0yxLKne0JmhcLXWmQ3Av7A=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Reddit"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.facebook.orca"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.facebook.orca",
+      "ios_bundle_id": null,
+      "title": "Messenger",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.facebook.orca"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk",
+      "icon_72": "https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Messenger"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.michatapp.im"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.michatapp.im",
+      "ios_bundle_id": null,
+      "title": "WeChat",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.michatapp.im"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.michatapp.im",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6UntTQTcIHihmg8YReviNr9B2JEfGJ-hqrIat561F1_StnKCJKjo_4K0Mr4V_8AZDXY",
+      "icon_72": "https://play-lh.googleusercontent.com/6UntTQTcIHihmg8YReviNr9B2JEfGJ-hqrIat561F1_StnKCJKjo_4K0Mr4V_8AZDXY=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "WeChat"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "jp.naver.line.android"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "jp.naver.line.android",
+      "ios_bundle_id": null,
+      "title": "Line",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=jp.naver.line.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=jp.naver.line.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/74iMObG1vsR3Kfm82RjERFhf99QFMNIY211oMvN636_gULghbRBMjpVFTjOK36oxCbs",
+      "icon_72": "https://play-lh.googleusercontent.com/74iMObG1vsR3Kfm82RjERFhf99QFMNIY211oMvN636_gULghbRBMjpVFTjOK36oxCbs=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Line"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.viber.voip"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.viber.voip",
+      "ios_bundle_id": null,
+      "title": "Viber",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.viber.voip"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.viber.voip",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EbQM-vsHv42Hg6qZvuK47q_cK3-KObc9GRlhNBWebX0AWrg5nMD92Kniqz8Z1BFpD3U",
+      "icon_72": "https://play-lh.googleusercontent.com/EbQM-vsHv42Hg6qZvuK47q_cK3-KObc9GRlhNBWebX0AWrg5nMD92Kniqz8Z1BFpD3U=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Viber"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "tv.twitch.android.app"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "tv.twitch.android.app",
+      "ios_bundle_id": null,
+      "title": "Twitch",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=tv.twitch.android.app"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QLQzL-MXtxKEDlbhrQCDw-REiDsA9glUH4m16syfar_KVLRXlzOhN7tmAceiPerv4Jg",
+      "icon_72": "https://play-lh.googleusercontent.com/QLQzL-MXtxKEDlbhrQCDw-REiDsA9glUH4m16syfar_KVLRXlzOhN7tmAceiPerv4Jg=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Twitch"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.bereal.ft"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.bereal.ft",
+      "ios_bundle_id": null,
+      "title": "BeReal",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.bereal.ft"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.bereal.ft",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/8Lu1K0dDM8hFB3wlkUgUvOOw9hc7NRwVijiEPqeXZhzz7t2Q3jktTZ_aqT3kofwurG4",
+      "icon_72": "https://play-lh.googleusercontent.com/8Lu1K0dDM8hFB3wlkUgUvOOw9hc7NRwVijiEPqeXZhzz7t2Q3jktTZ_aqT3kofwurG4=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "BeReal"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.quora.android"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.quora.android",
+      "ios_bundle_id": null,
+      "title": "Quora",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.quora.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.quora.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EAVZzDs5jPuXJaR-zNoD3rzYYUu9VcdXciQYq1w2-n55QQeN3yo_krmM__rMjk4GR5FX",
+      "icon_72": "https://play-lh.googleusercontent.com/EAVZzDs5jPuXJaR-zNoD3rzYYUu9VcdXciQYq1w2-n55QQeN3yo_krmM__rMjk4GR5FX=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Quora"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.instagram.barcelona"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.instagram.barcelona",
+      "ios_bundle_id": null,
+      "title": "Threads",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.instagram.barcelona"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/G6jK9S77RN0laf9_6nhDo3AVxbRP9SgMmt8ZmQjKQ2hibn9xhOY-W5YFn_7stJD1CA",
+      "icon_72": "https://play-lh.googleusercontent.com/G6jK9S77RN0laf9_6nhDo3AVxbRP9SgMmt8ZmQjKQ2hibn9xhOY-W5YFn_7stJD1CA=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Threads"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.tumblr"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": ["SOCIAL", "APPLICATION"],
+      "category": "SOCIAL",
+      "description": "",
+      "android_package_name": "com.tumblr",
+      "ios_bundle_id": null,
+      "title": "Tumblr",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.tumblr"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.tumblr",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/G4R3eZm3sDGJk0lVCOr72BwLFIYV0Jg5G7_PBOf9ZMpWwZjXaUdoZMyjFbJwxcmF5qBH",
+      "icon_72": "https://play-lh.googleusercontent.com/G4R3eZm3sDGJk0lVCOr72BwLFIYV0Jg5G7_PBOf9ZMpWwZjXaUdoZMyjFbJwxcmF5qBH=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Tumblr"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.netflix.mediaclient"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.netflix.mediaclient",
+      "ios_bundle_id": null,
+      "title": "Netflix",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.netflix.mediaclient"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
+      "icon_72": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Netflix"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "in.startv.hotstar"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "in.startv.hotstar",
+      "ios_bundle_id": null,
+      "title": "Disney+",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=in.startv.hotstar"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=in.startv.hotstar",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/MatnfBcuMybabLlOqSeIF-z1Ddu8diD2j404zrbmfBlLpZp7ACv6LS7QbA1dvzIjyvA",
+      "icon_72": "https://play-lh.googleusercontent.com/MatnfBcuMybabLlOqSeIF-z1Ddu8diD2j404zrbmfBlLpZp7ACv6LS7QbA1dvzIjyvA=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Disney+"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.amazon.avod.thirdpartyclient"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.amazon.avod.thirdpartyclient",
+      "ios_bundle_id": null,
+      "title": "Amazon Prime Video",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s",
+      "icon_72": "https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Amazon Prime Video"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.justwatch.justwatch"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.justwatch.justwatch",
+      "ios_bundle_id": null,
+      "title": "Hulu",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.justwatch.justwatch"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.justwatch.justwatch",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Riuz226TXAawu8ZXlL7wnsjtMHkTMTDh_RSRiozAdoKe2TyGG4cLp3rPB0CxQFEUzFc",
+      "icon_72": "https://play-lh.googleusercontent.com/Riuz226TXAawu8ZXlL7wnsjtMHkTMTDh_RSRiozAdoKe2TyGG4cLp3rPB0CxQFEUzFc=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Hulu"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.google.android.youtube"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.google.android.youtube",
+      "ios_bundle_id": null,
+      "title": "YouTube",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.youtube"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY",
+      "icon_72": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "YouTube"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.applications.max"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.applications.max",
+      "ios_bundle_id": null,
+      "title": "Max",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.applications.max"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.applications.max",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/G6CTTmXabDiuM42IQUUuKc0cCunygI55Ddkr8R2CmT8jFeXxo4zbCSK2Zbv8iGPED_w",
+      "icon_72": "https://play-lh.googleusercontent.com/G6CTTmXabDiuM42IQUUuKc0cCunygI55Ddkr8R2CmT8jFeXxo4zbCSK2Zbv8iGPED_w=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Max"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.picsart.studio"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.picsart.studio",
+      "ios_bundle_id": null,
+      "title": "Peacock",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.picsart.studio"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.picsart.studio",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/WSEOsbT-CtdxmJ5q_ChABDyGqaiPOMqjRveVi524OS5C7M3Ccy9paoi4rrNzJu4ORhE",
+      "icon_72": "https://play-lh.googleusercontent.com/WSEOsbT-CtdxmJ5q_ChABDyGqaiPOMqjRveVi524OS5C7M3Ccy9paoi4rrNzJu4ORhE=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Peacock"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.paramounttpaapp.paramounttpaapp"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.paramounttpaapp.paramounttpaapp",
+      "ios_bundle_id": null,
+      "title": "Paramount+",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.paramounttpaapp.paramounttpaapp"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.paramounttpaapp.paramounttpaapp",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/I5n8WLg0Ya40MTk010Ay5mhCi2jBjTGgnDjQ8OruRvpFSokomN27w0Rf9MJSzJkgYA",
+      "icon_72": "https://play-lh.googleusercontent.com/I5n8WLg0Ya40MTk010Ay5mhCi2jBjTGgnDjQ8OruRvpFSokomN27w0Rf9MJSzJkgYA=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Paramount+"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.crunchyroll.crunchyroid"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.crunchyroll.crunchyroid",
+      "ios_bundle_id": null,
+      "title": "Crunchyroll",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Fnor8mzNEsiWTfSTI_RXUmsaZW0eYw0RkIgIhSCphG4Y0ZgwC-zK2qzik-9VIxQDWQ",
+      "icon_72": "https://play-lh.googleusercontent.com/Fnor8mzNEsiWTfSTI_RXUmsaZW0eYw0RkIgIhSCphG4Y0ZgwC-zK2qzik-9VIxQDWQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Crunchyroll"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.codiful.AnimeRoulette"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.codiful.AnimeRoulette",
+      "ios_bundle_id": null,
+      "title": "Funimation",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.codiful.AnimeRoulette"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.codiful.AnimeRoulette",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/iHSe0ofon0Af-8d-itWr1jmAWHtwLk59UlQj3AXnYBRlH6m4CMxwh14lZl5z0a_0xg",
+      "icon_72": "https://play-lh.googleusercontent.com/iHSe0ofon0Af-8d-itWr1jmAWHtwLk59UlQj3AXnYBRlH6m4CMxwh14lZl5z0a_0xg=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Funimation"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.apple.atve.sony.appletv"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.apple.atve.sony.appletv",
+      "ios_bundle_id": null,
+      "title": "Apple TV",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.apple.atve.sony.appletv"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.apple.atve.sony.appletv",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1XBAZjSOWaVM7UDFKvzuMR-WRoR5gCnsYrw17_ihHLcJKT9Qc7hXptHwWQ3Bf83mry4",
+      "icon_72": "https://play-lh.googleusercontent.com/1XBAZjSOWaVM7UDFKvzuMR-WRoR5gCnsYrw17_ihHLcJKT9Qc7hXptHwWQ3Bf83mry4=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Apple TV"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.plexapp.android"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.plexapp.android",
+      "ios_bundle_id": null,
+      "title": "Pluto TV",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.plexapp.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.plexapp.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/slZYN_wnlAZ4BmyTZZakwfwAGm8JE5btL7u7AifhqCtUuxhtVVxQ1mcgpGOYC7MsAaU",
+      "icon_72": "https://play-lh.googleusercontent.com/slZYN_wnlAZ4BmyTZZakwfwAGm8JE5btL7u7AifhqCtUuxhtVVxQ1mcgpGOYC7MsAaU=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Pluto TV"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.plexapp.android"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.plexapp.android",
+      "ios_bundle_id": null,
+      "title": "Tubi",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.plexapp.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.plexapp.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/slZYN_wnlAZ4BmyTZZakwfwAGm8JE5btL7u7AifhqCtUuxhtVVxQ1mcgpGOYC7MsAaU",
+      "icon_72": "https://play-lh.googleusercontent.com/slZYN_wnlAZ4BmyTZZakwfwAGm8JE5btL7u7AifhqCtUuxhtVVxQ1mcgpGOYC7MsAaU=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Tubi"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.discoveryplus.mobile.android"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.discoveryplus.mobile.android",
+      "ios_bundle_id": null,
+      "title": "Discovery+",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.discoveryplus.mobile.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.discoveryplus.mobile.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/BJKWRWjg2dukBglRdxG6AWYCyFN8whm8DUj2zxIzc4TAaL40gtDE678zU8cxkVYIrkk",
+      "icon_72": "https://play-lh.googleusercontent.com/BJKWRWjg2dukBglRdxG6AWYCyFN8whm8DUj2zxIzc4TAaL40gtDE678zU8cxkVYIrkk=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Discovery+"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.espn.score_center"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.espn.score_center",
+      "ios_bundle_id": null,
+      "title": "ESPN",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.espn.score_center"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.espn.score_center",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6Jaqkn0Ok9ycbZ0TdDTZ9OAaNfQ3v0J8ftP4QQG-MHnUGIej7-5nLBFTREa0i9EgjHM",
+      "icon_72": "https://play-lh.googleusercontent.com/6Jaqkn0Ok9ycbZ0TdDTZ9OAaNfQ3v0J8ftP4QQG-MHnUGIej7-5nLBFTREa0i9EgjHM=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "ESPN"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.daikin.aircon"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.daikin.aircon",
+      "ios_bundle_id": null,
+      "title": "VRV",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.daikin.aircon"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.daikin.aircon",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Tr70kKswcM6ABkVAoYwMRhR07T0NGVxj8tEhRyexMDooZ4W5ny8Fd5nZhQcZ84Tr0Q",
+      "icon_72": "https://play-lh.googleusercontent.com/Tr70kKswcM6ABkVAoYwMRhR07T0NGVxj8tEhRyexMDooZ4W5ny8Fd5nZhQcZ84Tr0Q=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "VRV"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.imdb.mobile"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.imdb.mobile",
+      "ios_bundle_id": null,
+      "title": "IMDb",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.imdb.mobile"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.imdb.mobile",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/sb30umyAPj9A4ixl4jnPJO15ET-mo4TihKOI0xwFzRbxOfZo6fozeKmAjf8Lhl3mqHY",
+      "icon_72": "https://play-lh.googleusercontent.com/sb30umyAPj9A4ixl4jnPJO15ET-mo4TihKOI0xwFzRbxOfZo6fozeKmAjf8Lhl3mqHY=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "IMDb"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.plexapp.android"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.plexapp.android",
+      "ios_bundle_id": null,
+      "title": "Vudu",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.plexapp.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.plexapp.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/slZYN_wnlAZ4BmyTZZakwfwAGm8JE5btL7u7AifhqCtUuxhtVVxQ1mcgpGOYC7MsAaU",
+      "icon_72": "https://play-lh.googleusercontent.com/slZYN_wnlAZ4BmyTZZakwfwAGm8JE5btL7u7AifhqCtUuxhtVVxQ1mcgpGOYC7MsAaU=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Vudu"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.parsifal.starz"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.parsifal.starz",
+      "ios_bundle_id": null,
+      "title": "Starz",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.parsifal.starz"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.parsifal.starz",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zKnK4waW5UDb5IWEr1RPwDpeXf2p3Uxrna4rwBLsCojk4lTQjqqHMop85fMwsoERblc",
+      "icon_72": "https://play-lh.googleusercontent.com/zKnK4waW5UDb5IWEr1RPwDpeXf2p3Uxrna4rwBLsCojk4lTQjqqHMop85fMwsoERblc=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Starz"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.ssverma.showtime"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": ["ENTERTAINMENT", "APPLICATION"],
+      "category": "ENTERTAINMENT",
+      "description": "",
+      "android_package_name": "com.ssverma.showtime",
+      "ios_bundle_id": null,
+      "title": "Showtime",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.ssverma.showtime"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.ssverma.showtime",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/RPSi-Vvt6WzI1cA3z_FxRKt2K8t61g95JRExtEpEzpxDpFVwxA8NiKzQ4_BJ87oRwyI",
+      "icon_72": "https://play-lh.googleusercontent.com/RPSi-Vvt6WzI1cA3z_FxRKt2K8t61g95JRExtEpEzpxDpFVwxA8NiKzQ4_BJ87oRwyI=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Showtime"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.mojang.minecraftpe"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.mojang.minecraftpe",
+      "ios_bundle_id": null,
+      "title": "Minecraft",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/27O5tpaYE82W6m30rJ_MX3-UvshlDM6O8oXDxb6GseYW2T7P8UNT19727MGmz-0q3w",
+      "icon_72": "https://play-lh.googleusercontent.com/27O5tpaYE82W6m30rJ_MX3-UvshlDM6O8oXDxb6GseYW2T7P8UNT19727MGmz-0q3w=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Minecraft"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.roblox.client"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.roblox.client",
+      "ios_bundle_id": null,
+      "title": "Roblox",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.roblox.client"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.roblox.client",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Oirqdrw3CsCN1M2QBrGdOqONlue6XxX0oA0hEjeEZ1EufDJKSSECwqkhd_VAdSmcns7w",
+      "icon_72": "https://play-lh.googleusercontent.com/Oirqdrw3CsCN1M2QBrGdOqONlue6XxX0oA0hEjeEZ1EufDJKSSECwqkhd_VAdSmcns7w=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Roblox"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.king.candycrushsaga"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.king.candycrushsaga",
+      "ios_bundle_id": null,
+      "title": "Candy Crush Saga",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0",
+      "icon_72": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Candy Crush Saga"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.pubg.imobile"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.pubg.imobile",
+      "ios_bundle_id": null,
+      "title": "PUBG Mobile",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.pubg.imobile"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.pubg.imobile",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/fyx3UVoNV39MhyOPmm3VadLo5x2TT2Gg-NJHCaUKsX3LJurciuj9vFwZevk2S0c4lVpO",
+      "icon_72": "https://play-lh.googleusercontent.com/fyx3UVoNV39MhyOPmm3VadLo5x2TT2Gg-NJHCaUKsX3LJurciuj9vFwZevk2S0c4lVpO=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "PUBG Mobile"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.innersloth.spacemafia"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.innersloth.spacemafia",
+      "ios_bundle_id": null,
+      "title": "Among Us",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "icon_72": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Among Us"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.activision.callofduty.shooter"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.activision.callofduty.shooter",
+      "ios_bundle_id": null,
+      "title": "Call of Duty Mobile",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/dD68NPyT8VBow8rPOkg52ariyuGDTlnUYDOmru_ECcBGwpPlm2Whepi550Q04sJ7Sg",
+      "icon_72": "https://play-lh.googleusercontent.com/dD68NPyT8VBow8rPOkg52ariyuGDTlnUYDOmru_ECcBGwpPlm2Whepi550Q04sJ7Sg=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Call of Duty Mobile"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.kiloo.subwaysurf"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.kiloo.subwaysurf",
+      "ios_bundle_id": null,
+      "title": "Subway Surfers",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/B-P9GyXgwh-ygo8Q8jBeZqPBYaAhQiRxrCkm6Xs23cbzalLk7OMqPsrLTut-H3qymLE",
+      "icon_72": "https://play-lh.googleusercontent.com/B-P9GyXgwh-ygo8Q8jBeZqPBYaAhQiRxrCkm6Xs23cbzalLk7OMqPsrLTut-H3qymLE=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Subway Surfers"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.miHoYo.GenshinImpact"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.miHoYo.GenshinImpact",
+      "ios_bundle_id": null,
+      "title": "Genshin Impact",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/iP2i_f23Z6I-5hoL2okPS4SxOGhj0q61Iyb0Y1m4xdTsbnaCmrjs7xKRnL6o5R4h-Yg",
+      "icon_72": "https://play-lh.googleusercontent.com/iP2i_f23Z6I-5hoL2okPS4SxOGhj0q61Iyb0Y1m4xdTsbnaCmrjs7xKRnL6o5R4h-Yg=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Genshin Impact"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.nianticlabs.pokemongo"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.nianticlabs.pokemongo",
+      "ios_bundle_id": null,
+      "title": "Pokemon GO",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/eftfcMyaaRruAiGPgVZ4rkBsKU_s6qNswWuIOpF7PCNcsd2pY1vhkYnYEKdszfLfTu4",
+      "icon_72": "https://play-lh.googleusercontent.com/eftfcMyaaRruAiGPgVZ4rkBsKU_s6qNswWuIOpF7PCNcsd2pY1vhkYnYEKdszfLfTu4=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Pokemon GO"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.supercell.clashofclans"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.supercell.clashofclans",
+      "ios_bundle_id": null,
+      "title": "Clash of Clans",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.supercell.clashofclans"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/LByrur1mTmPeNr0ljI-uAUcct1rzmTve5Esau1SwoAzjBXQUby6uHIfHbF9TAT51mgHm",
+      "icon_72": "https://play-lh.googleusercontent.com/LByrur1mTmPeNr0ljI-uAUcct1rzmTve5Esau1SwoAzjBXQUby6uHIfHbF9TAT51mgHm=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Clash of Clans"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.supercell.clashroyale"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.supercell.clashroyale",
+      "ios_bundle_id": null,
+      "title": "Clash Royale",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.supercell.clashroyale"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
+      "icon_72": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Clash Royale"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.supercell.brawlstars"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.supercell.brawlstars",
+      "ios_bundle_id": null,
+      "title": "Brawl Stars",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.supercell.brawlstars"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qMI5vUc_ECxZdWaCiPuRWAOVlxf2H8GzmRbChPr2915xmyAYtIepSz98opcZCJTjNw",
+      "icon_72": "https://play-lh.googleusercontent.com/qMI5vUc_ECxZdWaCiPuRWAOVlxf2H8GzmRbChPr2915xmyAYtIepSz98opcZCJTjNw=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Brawl Stars"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.supercell.hayday"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.supercell.hayday",
+      "ios_bundle_id": null,
+      "title": "Hay Day",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.supercell.hayday"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.supercell.hayday",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Za8u0ChNK-3mZ3rnLcBirRBTzLYTdqaaAn63Ha9qKZiDp_bF_5u7OGfvWb1dg88WttKw",
+      "icon_72": "https://play-lh.googleusercontent.com/Za8u0ChNK-3mZ3rnLcBirRBTzLYTdqaaAn63Ha9qKZiDp_bF_5u7OGfvWb1dg88WttKw=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Hay Day"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.miniclip.eightballpool"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.miniclip.eightballpool",
+      "ios_bundle_id": null,
+      "title": "8 Ball Pool",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/m7UzuFoXqeQUzdI0FRjI4peJo901tFPDgHJpnFEXHgywmgPJMYa55g6Yr-ZrmQ6DcPg",
+      "icon_72": "https://play-lh.googleusercontent.com/m7UzuFoXqeQUzdI0FRjI4peJo901tFPDgHJpnFEXHgywmgPJMYa55g6Yr-ZrmQ6DcPg=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "8 Ball Pool"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.mobiin.gp"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.mobiin.gp",
+      "ios_bundle_id": null,
+      "title": "Mobile Legends",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.mobiin.gp"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.mobiin.gp",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/9gIovN1o9ng3aR-Qhwjxn_a3hmsg91igC-4CkdGceB-8b7OHe4v3glrltcQRVtb-A9HL",
+      "icon_72": "https://play-lh.googleusercontent.com/9gIovN1o9ng3aR-Qhwjxn_a3hmsg91igC-4CkdGceB-8b7OHe4v3glrltcQRVtb-A9HL=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Mobile Legends"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.dts.freefiremax"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.dts.freefiremax",
+      "ios_bundle_id": null,
+      "title": "Garena Free Fire",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.dts.freefiremax"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/O7mo7hbMD38TY5YP2h-vGdvm8VU0wNrxlJWEuIPNk1VBbv5Jmw-1bYyeLS5NfygMo1A",
+      "icon_72": "https://play-lh.googleusercontent.com/O7mo7hbMD38TY5YP2h-vGdvm8VU0wNrxlJWEuIPNk1VBbv5Jmw-1bYyeLS5NfygMo1A=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Garena Free Fire"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.kitkagames.fallbuddies"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.kitkagames.fallbuddies",
+      "ios_bundle_id": null,
+      "title": "Stumble Guys",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/oczzo8tP0_uLTByIdA3mLW-rmvTeogFJE8VAVeT9qvR8rmVNKv_niUu6DX-GQebgJQ",
+      "icon_72": "https://play-lh.googleusercontent.com/oczzo8tP0_uLTByIdA3mLW-rmvTeogFJE8VAVeT9qvR8rmVNKv_niUu6DX-GQebgJQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Stumble Guys"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.HoYoverse.hkrpgoversea"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.HoYoverse.hkrpgoversea",
+      "ios_bundle_id": null,
+      "title": "Honkai: Star Rail",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/cM6aszB0SawZNoAIPvtvy4xsfeFi5iXVBhZB57o-EGPWqE4pbyIUlKJzmdkH8hytuuQ",
+      "icon_72": "https://play-lh.googleusercontent.com/cM6aszB0SawZNoAIPvtvy4xsfeFi5iXVBhZB57o-EGPWqE4pbyIUlKJzmdkH8hytuuQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Honkai: Star Rail"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.imangi.templerun2"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.imangi.templerun2",
+      "ios_bundle_id": null,
+      "title": "Temple Run 2",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.imangi.templerun2"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.imangi.templerun2",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "icon_72": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Temple Run 2"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.fingersoft.hillclimb"
+      },
+      "cat_key": "GAMES",
+      "cat_keys": ["GAMES", "APPLICATION"],
+      "category": "GAMES",
+      "description": "",
+      "android_package_name": "com.fingersoft.hillclimb",
+      "ios_bundle_id": null,
+      "title": "Hill Climb Racing",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
+      "icon_72": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Hill Climb Racing"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.spotify.music"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.spotify.music",
+      "ios_bundle_id": null,
+      "title": "Spotify",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.spotify.music"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.spotify.music",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN",
+      "icon_72": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Spotify"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.apple.android.music"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.apple.android.music",
+      "ios_bundle_id": null,
+      "title": "Apple Music",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.apple.android.music"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.apple.android.music",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE",
+      "icon_72": "https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Apple Music"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.google.android.apps.youtube.music"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.google.android.apps.youtube.music",
+      "ios_bundle_id": null,
+      "title": "YouTube Music",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zD8UA5CRdiPzbvTwGKtzR4KjQpxqEK6X0tGDpzEaOo0xPEvG6HUiC_0qkpTfzpuMTqU",
+      "icon_72": "https://play-lh.googleusercontent.com/zD8UA5CRdiPzbvTwGKtzR4KjQpxqEK6X0tGDpzEaOo0xPEvG6HUiC_0qkpTfzpuMTqU=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "YouTube Music"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.soundcloud.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.soundcloud.android",
+      "ios_bundle_id": null,
+      "title": "SoundCloud",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.soundcloud.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/JSSeB3XQtb9sHD5FWTqVM4AksY_Kg2q20eExenxGqPJZdn2uVQxi8eoHkP5MA-IR4w",
+      "icon_72": "https://play-lh.googleusercontent.com/JSSeB3XQtb9sHD5FWTqVM4AksY_Kg2q20eExenxGqPJZdn2uVQxi8eoHkP5MA-IR4w=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "SoundCloud"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.amazon.mp3"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.amazon.mp3",
+      "ios_bundle_id": null,
+      "title": "Amazon Music",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.amazon.mp3"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.amazon.mp3",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NKNTBKRSFyWI25H50UEY_7w7NoBFvqcicq_bdPOWBvV-Kx1qtYB15d0kFhvMEEA4ZQ",
+      "icon_72": "https://play-lh.googleusercontent.com/NKNTBKRSFyWI25H50UEY_7w7NoBFvqcicq_bdPOWBvV-Kx1qtYB15d0kFhvMEEA4ZQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Amazon Music"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "ru.alarmtrade.pandoraspecialist"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "ru.alarmtrade.pandoraspecialist",
+      "ios_bundle_id": null,
+      "title": "Pandora",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=ru.alarmtrade.pandoraspecialist"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=ru.alarmtrade.pandoraspecialist",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jBnKWr2oOkCENOSYC6QWgNhrusmG8PGYh8mQYRj9f0S_3tFUgP0Ug-UQcWsSJuNdc8c",
+      "icon_72": "https://play-lh.googleusercontent.com/jBnKWr2oOkCENOSYC6QWgNhrusmG8PGYh8mQYRj9f0S_3tFUgP0Ug-UQcWsSJuNdc8c=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Pandora"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.deezer.analytics"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.deezer.analytics",
+      "ios_bundle_id": null,
+      "title": "Deezer",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.deezer.analytics"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.deezer.analytics",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/sG7TfVwoZDtKuf37oyFUn5jvf_7sAyrKrhTmmKrK-AwBHmMe2YD7dNLsD97nmTfwpQ",
+      "icon_72": "https://play-lh.googleusercontent.com/sG7TfVwoZDtKuf37oyFUn5jvf_7sAyrKrhTmmKrK-AwBHmMe2YD7dNLsD97nmTfwpQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Deezer"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.neumeric.tidal_watch"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.neumeric.tidal_watch",
+      "ios_bundle_id": null,
+      "title": "Tidal",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.neumeric.tidal_watch"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.neumeric.tidal_watch",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/oUVz7qvjfEj_yR5a5x5P7LfacKGMOEzVwqxxHmjRBNlbWrvaWlghKBQbP2CKc9SEFQM",
+      "icon_72": "https://play-lh.googleusercontent.com/oUVz7qvjfEj_yR5a5x5P7LfacKGMOEzVwqxxHmjRBNlbWrvaWlghKBQbP2CKc9SEFQM=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Tidal"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.shazam.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.shazam.android",
+      "ios_bundle_id": null,
+      "title": "Shazam",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.shazam.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.shazam.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ",
+      "icon_72": "https://play-lh.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Shazam"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "tunein.player"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "tunein.player",
+      "ios_bundle_id": null,
+      "title": "TuneIn",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=tunein.player"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=tunein.player",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KLI43egHmMQhCvDTH-EDWDdtxxPODJk6YO56Fa5cmmiYRd5LfBAXrVZmHcRCQ5j9_rZD",
+      "icon_72": "https://play-lh.googleusercontent.com/KLI43egHmMQhCvDTH-EDWDdtxxPODJk6YO56Fa5cmmiYRd5LfBAXrVZmHcRCQ5j9_rZD=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "TuneIn"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "tunein.player"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "tunein.player",
+      "ios_bundle_id": null,
+      "title": "iHeartRadio",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=tunein.player"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=tunein.player",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KLI43egHmMQhCvDTH-EDWDdtxxPODJk6YO56Fa5cmmiYRd5LfBAXrVZmHcRCQ5j9_rZD",
+      "icon_72": "https://play-lh.googleusercontent.com/KLI43egHmMQhCvDTH-EDWDdtxxPODJk6YO56Fa5cmmiYRd5LfBAXrVZmHcRCQ5j9_rZD=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "iHeartRadio"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.audiomack"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.audiomack",
+      "ios_bundle_id": null,
+      "title": "Audiomack",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.audiomack"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.audiomack",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/4zXhkPkaVyWr-1jyOSw63KXVJSoeJRUOasy9x9Lsr2FBFc1RXHI9hZ-Dioud0hmSlYIv",
+      "icon_72": "https://play-lh.googleusercontent.com/4zXhkPkaVyWr-1jyOSw63KXVJSoeJRUOasy9x9Lsr2FBFc1RXHI9hZ-Dioud0hmSlYIv=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Audiomack"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.livexlive.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.livexlive.android",
+      "ios_bundle_id": null,
+      "title": "LiveOne",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.livexlive.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.livexlive.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ire1O3H7cX6CptWb8f9bFKfvTMboAnElsn3RNdpx-2-BJOcVuo93u9T9CPfGfcwPkG8",
+      "icon_72": "https://play-lh.googleusercontent.com/Ire1O3H7cX6CptWb8f9bFKfvTMboAnElsn3RNdpx-2-BJOcVuo93u9T9CPfGfcwPkG8=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "LiveOne"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.jio.media.jiobeats"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.jio.media.jiobeats",
+      "ios_bundle_id": null,
+      "title": "JioSaavn",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.jio.media.jiobeats"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.jio.media.jiobeats",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gUR8xEKvCngapSZGkZUgoNETAYuhhkCr0Npza-lPSjbRCM55zdS0SK_KxBj1tg2RoQ",
+      "icon_72": "https://play-lh.googleusercontent.com/gUR8xEKvCngapSZGkZUgoNETAYuhhkCr0Npza-lPSjbRCM55zdS0SK_KxBj1tg2RoQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "JioSaavn"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.gaana"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.gaana",
+      "ios_bundle_id": null,
+      "title": "Gaana",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.gaana"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.gaana",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/vHw1Qv2MNAzoXiuJb8lNkybyHBzCsiWblKCefKnsukJlV9z4G0hGL_4uXzLUwxyT7a_q",
+      "icon_72": "https://play-lh.googleusercontent.com/vHw1Qv2MNAzoXiuJb8lNkybyHBzCsiWblKCefKnsukJlV9z4G0hGL_4uXzLUwxyT7a_q=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Gaana"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.bsbportal.music"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.bsbportal.music",
+      "ios_bundle_id": null,
+      "title": "Wynk",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.bsbportal.music"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.bsbportal.music",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/JzeVs_5UBmqGCz-_jNYgA1IAPgSLIoBbc7C1vQ98jqZFGGDI6aqWSQ8E1jAfUL8GLQlB",
+      "icon_72": "https://play-lh.googleusercontent.com/JzeVs_5UBmqGCz-_jNYgA1IAPgSLIoBbc7C1vQ98jqZFGGDI6aqWSQ8E1jAfUL8GLQlB=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Wynk"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.spotify.music"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.spotify.music",
+      "ios_bundle_id": null,
+      "title": "Resso",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.spotify.music"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.spotify.music",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN",
+      "icon_72": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Resso"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.mixcloud.player"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.mixcloud.player",
+      "ios_bundle_id": null,
+      "title": "Mixcloud",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.mixcloud.player"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.mixcloud.player",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/rfhDNX4bfc93ZoeFpHJiFIGwi0-cYST1pls3ZuCggowT3ezDHFo-ay72PgMQ1HwE4hT1",
+      "icon_72": "https://play-lh.googleusercontent.com/rfhDNX4bfc93ZoeFpHJiFIGwi0-cYST1pls3ZuCggowT3ezDHFo-ay72PgMQ1HwE4hT1=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Mixcloud"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.qobuz.club"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.qobuz.club",
+      "ios_bundle_id": null,
+      "title": "Qobuz",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.qobuz.club"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.qobuz.club",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/rDqDFEGUQMLofdvxDP6DYCu5VIM-wpN2MRWB3gYlK5U5mXqPEirLLjWJVvwK-jUIthk",
+      "icon_72": "https://play-lh.googleusercontent.com/rDqDFEGUQMLofdvxDP6DYCu5VIM-wpN2MRWB3gYlK5U5mXqPEirLLjWJVvwK-jUIthk=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Qobuz"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.amazon.mp3"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": ["MUSIC", "APPLICATION"],
+      "category": "MUSIC",
+      "description": "",
+      "android_package_name": "com.amazon.mp3",
+      "ios_bundle_id": null,
+      "title": "Napster",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.amazon.mp3"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.amazon.mp3",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NKNTBKRSFyWI25H50UEY_7w7NoBFvqcicq_bdPOWBvV-Kx1qtYB15d0kFhvMEEA4ZQ",
+      "icon_72": "https://play-lh.googleusercontent.com/NKNTBKRSFyWI25H50UEY_7w7NoBFvqcicq_bdPOWBvV-Kx1qtYB15d0kFhvMEEA4ZQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Napster"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.tinder"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.tinder",
+      "ios_bundle_id": null,
+      "title": "Tinder",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.tinder"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.tinder",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qimgg9SRFgp1S06iKTv5e0L8aziUhPYCE7Vn1YEylejPfOrrMkB5PdADQbsyPBLFy9Xe",
+      "icon_72": "https://play-lh.googleusercontent.com/qimgg9SRFgp1S06iKTv5e0L8aziUhPYCE7Vn1YEylejPfOrrMkB5PdADQbsyPBLFy9Xe=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Tinder"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.bumble.app"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.bumble.app",
+      "ios_bundle_id": null,
+      "title": "Bumble",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.bumble.app"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.bumble.app",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/tcdv5wPymQgUzdtCYkzKfbNm_SpcI3cZudImvvH570E7qjaXiuFSraDY1lgUj2bkTIM",
+      "icon_72": "https://play-lh.googleusercontent.com/tcdv5wPymQgUzdtCYkzKfbNm_SpcI3cZudImvvH570E7qjaXiuFSraDY1lgUj2bkTIM=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Bumble"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "co.hinge.app"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "co.hinge.app",
+      "ios_bundle_id": null,
+      "title": "Hinge",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=co.hinge.app"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=co.hinge.app",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5P5svqXNCWqE0NtHSV91pl2YUGKJ2aitjaUWIVZd-65AtskDVO2o9bpYx1oAV9fr0-nt",
+      "icon_72": "https://play-lh.googleusercontent.com/5P5svqXNCWqE0NtHSV91pl2YUGKJ2aitjaUWIVZd-65AtskDVO2o9bpYx1oAV9fr0-nt=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Hinge"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.okcupid.okcupid"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.okcupid.okcupid",
+      "ios_bundle_id": null,
+      "title": "OkCupid",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.okcupid.okcupid"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.okcupid.okcupid",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Tw-3ZfRQSP0AEixVDpXDCdAWjp-AUoWxf64yniUBrVIIOVdZe7-bczGF2-CvaEjc1g",
+      "icon_72": "https://play-lh.googleusercontent.com/Tw-3ZfRQSP0AEixVDpXDCdAWjp-AUoWxf64yniUBrVIIOVdZe7-bczGF2-CvaEjc1g=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "OkCupid"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.miniclip.cricketleague"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.miniclip.cricketleague",
+      "ios_bundle_id": null,
+      "title": "Match",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.miniclip.cricketleague"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.miniclip.cricketleague",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/DoV-ZWx9trC4wSwGsJHEsH2zxX3jvjej1uXPdA5-LuW6KCvtSpk53SKKlyWPiEBYKA8",
+      "icon_72": "https://play-lh.googleusercontent.com/DoV-ZWx9trC4wSwGsJHEsH2zxX3jvjej1uXPdA5-LuW6KCvtSpk53SKKlyWPiEBYKA8=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Match"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.coffeemeetsbagel"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.coffeemeetsbagel",
+      "ios_bundle_id": null,
+      "title": "Coffee Meets Bagel",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.coffeemeetsbagel"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.coffeemeetsbagel",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2mJVjIklB7PVlN2T1nXt-z2nHvp_0hbsxAiQi5d-Xif1vlBWla3pE-PwW2zhMy_zPNIQ",
+      "icon_72": "https://play-lh.googleusercontent.com/2mJVjIklB7PVlN2T1nXt-z2nHvp_0hbsxAiQi5d-Xif1vlBWla3pE-PwW2zhMy_zPNIQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Coffee Meets Bagel"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.badoo.mobile"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.badoo.mobile",
+      "ios_bundle_id": null,
+      "title": "Badoo",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.badoo.mobile"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.badoo.mobile",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mix0TYeOXNQ8vCIKE-dwOlCUrb5RKuJJVdmWmDfjosD1l-Btx08-rZRK0e91ap_gMrw",
+      "icon_72": "https://play-lh.googleusercontent.com/mix0TYeOXNQ8vCIKE-dwOlCUrb5RKuJJVdmWmDfjosD1l-Btx08-rZRK0e91ap_gMrw=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Badoo"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.pof.android"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.pof.android",
+      "ios_bundle_id": null,
+      "title": "Plenty of Fish",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.pof.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.pof.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/aTMFxLXK9hMjPx9m3ASk3PuZArzBF6nPZnX_RZQNugYAs6q-DlLFvbrMByHA_E0bhEDs",
+      "icon_72": "https://play-lh.googleusercontent.com/aTMFxLXK9hMjPx9m3ASk3PuZArzBF6nPZnX_RZQNugYAs6q-DlLFvbrMByHA_E0bhEDs=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Plenty of Fish"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.bumble.app"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.bumble.app",
+      "ios_bundle_id": null,
+      "title": "eHarmony",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.bumble.app"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.bumble.app",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/tcdv5wPymQgUzdtCYkzKfbNm_SpcI3cZudImvvH570E7qjaXiuFSraDY1lgUj2bkTIM",
+      "icon_72": "https://play-lh.googleusercontent.com/tcdv5wPymQgUzdtCYkzKfbNm_SpcI3cZudImvvH570E7qjaXiuFSraDY1lgUj2bkTIM=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "eHarmony"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.weareher.her"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.weareher.her",
+      "ios_bundle_id": null,
+      "title": "Her",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.weareher.her"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.weareher.her",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/RiU-lgc-ju_D0DodDz9jkGn320RUJ8qpihy7Ah606QirvS7div-jNyLpri9Loqxl0s8",
+      "icon_72": "https://play-lh.googleusercontent.com/RiU-lgc-ju_D0DodDz9jkGn320RUJ8qpihy7Ah606QirvS7div-jNyLpri9Loqxl0s8=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Her"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.grindrapp.android"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.grindrapp.android",
+      "ios_bundle_id": null,
+      "title": "Grindr",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.grindrapp.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.grindrapp.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/D2eK7iIql3Xb7Nx2k2Pasoi7kG-vS2vTJ2uQpJ4DIk3MZEzEhfFr0n2qOC0-QeITTzE",
+      "icon_72": "https://play-lh.googleusercontent.com/D2eK7iIql3Xb7Nx2k2Pasoi7kG-vS2vTJ2uQpJ4DIk3MZEzEhfFr0n2qOC0-QeITTzE=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Grindr"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.facebook.katana"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.facebook.katana",
+      "ios_bundle_id": null,
+      "title": "Facebook Dating",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.facebook.katana"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo",
+      "icon_72": "https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Facebook Dating"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.ftw_and_co.happn"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.ftw_and_co.happn",
+      "ios_bundle_id": null,
+      "title": "Happn",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.ftw_and_co.happn"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.ftw_and_co.happn",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/DDE8YDPYKatiNO8GLTDwNP7FvmmApAx5N4ow4gglmsZQtl9CXFrB793pvSkwHiiMKw",
+      "icon_72": "https://play-lh.googleusercontent.com/DDE8YDPYKatiNO8GLTDwNP7FvmmApAx5N4ow4gglmsZQtl9CXFrB793pvSkwHiiMKw=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Happn"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.league.theleague"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.league.theleague",
+      "ios_bundle_id": null,
+      "title": "The League",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.league.theleague"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.league.theleague",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VQrTqhZS_cNOoEuJgSckNJO_jEK_Qyi6Cgl3djFL8cZSwjxnNrxHINVkytlSd5Gaf_Q",
+      "icon_72": "https://play-lh.googleusercontent.com/VQrTqhZS_cNOoEuJgSckNJO_jEK_Qyi6Cgl3djFL8cZSwjxnNrxHINVkytlSd5Gaf_Q=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "The League"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.leicageosystems.cyclone.blknow"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.leicageosystems.cyclone.blknow",
+      "ios_bundle_id": null,
+      "title": "BLK",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.leicageosystems.cyclone.blknow"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.leicageosystems.cyclone.blknow",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/YahT9Nb9bI_x5d-Akngxz7clz7u9n1ZYe-nCQIN5Iy0V0kBSoXiJtnCr5Zdb56Fh3g",
+      "icon_72": "https://play-lh.googleusercontent.com/YahT9Nb9bI_x5d-Akngxz7clz7u9n1ZYe-nCQIN5Iy0V0kBSoXiJtnCr5Zdb56Fh3g=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "BLK"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.bumble.app"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.bumble.app",
+      "ios_bundle_id": null,
+      "title": "Chispa",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.bumble.app"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.bumble.app",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/tcdv5wPymQgUzdtCYkzKfbNm_SpcI3cZudImvvH570E7qjaXiuFSraDY1lgUj2bkTIM",
+      "icon_72": "https://play-lh.googleusercontent.com/tcdv5wPymQgUzdtCYkzKfbNm_SpcI3cZudImvvH570E7qjaXiuFSraDY1lgUj2bkTIM=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Chispa"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.taggedapp"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.taggedapp",
+      "ios_bundle_id": null,
+      "title": "Tagged",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.taggedapp"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.taggedapp",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/icjCQlWN3Y04d2-G84JzWWpTtGJIyk4R-Gp_QFHhyasgG_LmOd09VdoBG5e2YyQF9R8",
+      "icon_72": "https://play-lh.googleusercontent.com/icjCQlWN3Y04d2-G84JzWWpTtGJIyk4R-Gp_QFHhyasgG_LmOd09VdoBG5e2YyQF9R8=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Tagged"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.wachanga.womancalendar"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.wachanga.womancalendar",
+      "ios_bundle_id": null,
+      "title": "Clover",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.wachanga.womancalendar"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.wachanga.womancalendar",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/nurqxEx-fWDtJEcIVWxCYX76UaI_I86IPl3dpScfUxxrp8sBe2CV9j5TidiP0xaQ5IM",
+      "icon_72": "https://play-lh.googleusercontent.com/nurqxEx-fWDtJEcIVWxCYX76UaI_I86IPl3dpScfUxxrp8sBe2CV9j5TidiP0xaQ5IM=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Clover"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "co.feeld"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "co.feeld",
+      "ios_bundle_id": null,
+      "title": "Feeld",
+      "domain_name": ["https://play.google.com/store/apps/details?id=co.feeld"],
+      "website": "https://play.google.com/store/apps/details?id=co.feeld",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hAy8padxTbfN1ZZvfmL9tWxVpPEaur9S0xnu5HnFVajUwQIQf-CFalwraBgGGvCu77s",
+      "icon_72": "https://play-lh.googleusercontent.com/hAy8padxTbfN1ZZvfmL9tWxVpPEaur9S0xnu5HnFVajUwQIQf-CFalwraBgGGvCu77s=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Feeld"
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US"],
+        "package_name": "com.muzmatch.muzmatchapp"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING",
+      "description": "",
+      "android_package_name": "com.muzmatch.muzmatchapp",
+      "ios_bundle_id": null,
+      "title": "Muzmatch",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.muzmatch.muzmatchapp"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.muzmatch.muzmatchapp",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hR2_S3l6P-VTzky-jpvEqDHUEciRJ_wuOOutUJDTOnBGvMyI0t2I4WXpZ2-NfEu_Wp4",
+      "icon_72": "https://play-lh.googleusercontent.com/hR2_S3l6P-VTzky-jpvEqDHUEciRJ_wuOOutUJDTOnBGvMyI0t2I4WXpZ2-NfEu_Wp4=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Muzmatch"
+    }
+  ],
+  "failed_apps": []
+}

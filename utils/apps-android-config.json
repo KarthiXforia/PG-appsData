@@ -1,0 +1,377 @@
+{
+  "categories": {
+    "SOCIAL": {
+      "id": "SOCIAL",
+      "apps": [
+        { "name": "Instagram", "search_term": "instagram app" },
+        { "name": "Snapchat", "search_term": "snapchat app" },
+        { "name": "TikTok", "search_term": "tiktok app" },
+        { "name": "Facebook", "search_term": "facebook app meta" },
+        {
+          "name": "WhatsApp Messenger",
+          "search_term": "whatsapp messenger app"
+        },
+        { "name": "Discord", "search_term": "discord chat app" },
+        { "name": "Telegram", "search_term": "telegram messenger app" },
+        { "name": "Messenger", "search_term": "facebook messenger app" },
+        { "name": "Twitter", "search_term": "twitter app" },
+        { "name": "Pinterest", "search_term": "pinterest app" },
+        { "name": "Reddit", "search_term": "reddit official app" },
+        { "name": "Tumblr", "search_term": "tumblr social app" },
+        { "name": "Twitch", "search_term": "twitch app" },
+        { "name": "Youtube", "search_term": "youtube app google" },
+        { "name": "WeChat", "search_term": "wechat messenger app" },
+        { "name": "Line", "search_term": "line messenger app" },
+        { "name": "Kik", "search_term": "kik messenger app" },
+        { "name": "Viber", "search_term": "viber messenger app" },
+        {
+          "name": "Signal Messenger",
+          "search_term": "signal private messenger app"
+        },
+        { "name": "GroupMe", "search_term": "groupme social app" },
+        { "name": "Band", "search_term": "band social app" },
+        { "name": "KakaoTalk", "search_term": "kakaotalk messenger app" },
+        { "name": "BeReal", "search_term": "bereal social app" },
+        { "name": "Yubo", "search_term": "yubo social app" },
+        { "name": "Amino", "search_term": "amino communities app" },
+        { "name": "Houseparty", "search_term": "houseparty social app" },
+        { "name": "VK", "search_term": "vk social app" },
+        { "name": "Meetup", "search_term": "meetup social app" },
+        { "name": "Teams", "search_term": "microsoft teams app" },
+        { "name": "Zoom Social", "search_term": "zoom social app" },
+        { "name": "Google Chat", "search_term": "google chat app" },
+        { "name": "Dust", "search_term": "dust messenger app" },
+        { "name": "Wickr Me", "search_term": "wickr me private messenger" },
+        { "name": "Fiesta by Tango", "search_term": "fiesta by tango app" },
+        { "name": "Monkey", "search_term": "monkey social app" },
+        { "name": "Qooh Me", "search_term": "qooh me social app" },
+        { "name": "YOLO", "search_term": "yolo social app" },
+        { "name": "Whisper", "search_term": "whisper anonymous app" },
+        { "name": "Tellonym", "search_term": "tellonym messenger app" },
+        { "name": "Locket Widget", "search_term": "locket widget app" },
+        { "name": "NGL", "search_term": "ngl anonymous app" },
+        { "name": "Gas", "search_term": "gas social app" },
+        { "name": "Sendit", "search_term": "sendit social app" },
+        { "name": "Wink", "search_term": "wink social app" },
+        { "name": "Slay", "search_term": "slay social app" },
+        { "name": "Reddit Talk", "search_term": "reddit talk app" },
+        { "name": "Switch Up", "search_term": "switch up social app" },
+        { "name": "Wizz", "search_term": "wizz social app" },
+        { "name": "Fam", "search_term": "fam social app" },
+        { "name": "Vybe", "search_term": "vybe social app" },
+        { "name": "Pop", "search_term": "pop social app" },
+        { "name": "Tapo", "search_term": "tapo social app" },
+        { "name": "Likeee", "search_term": "likeee social app" },
+        { "name": "Zoom Chat", "search_term": "zoom chat app" },
+        { "name": "Lyka", "search_term": "lyka social app" },
+        { "name": "Tagged", "search_term": "tagged social app" },
+        { "name": "Skout", "search_term": "skout social app" },
+        { "name": "Moco", "search_term": "moco social app" },
+        { "name": "Live Me", "search_term": "live me social app" },
+        { "name": "Story Art", "search_term": "story art social app" },
+        { "name": "Byte", "search_term": "byte social app" },
+        { "name": "Triller", "search_term": "triller social app" },
+        { "name": "Likee", "search_term": "likee video app" },
+        { "name": "Kwai", "search_term": "kwai social app" }
+      ]
+    },
+    "ENTERTAINMENT": {
+      "id": "ENTERTAINMENT",
+      "apps": [
+        { "name": "YouTube", "search_term": "youtube app google" },
+        { "name": "Netflix", "search_term": "netflix streaming app" },
+        { "name": "Disney Plus", "search_term": "disney+ streaming app" },
+        { "name": "Spotify", "search_term": "spotify music app" },
+        {
+          "name": "Amazon Prime Video",
+          "search_term": "amazon prime video app"
+        },
+        { "name": "Twitch", "search_term": "twitch streaming app" },
+        { "name": "TikTok", "search_term": "tiktok entertainment app" },
+        { "name": "Hulu", "search_term": "hulu streaming app" },
+        { "name": "Crunchyroll", "search_term": "crunchyroll anime app" },
+        { "name": "Funimation", "search_term": "funimation anime app" },
+        { "name": "Webtoon", "search_term": "webtoon comic app" },
+        { "name": "Tapas", "search_term": "tapas comic app" },
+        { "name": "Wattpad", "search_term": "wattpad stories app" },
+        { "name": "VLive", "search_term": "vlive streaming app" },
+        { "name": "Viki", "search_term": "viki rakuten app" },
+        { "name": "Manga Reader", "search_term": "manga reader app" },
+        { "name": "Weverse", "search_term": "weverse app" },
+        { "name": "SoundCloud", "search_term": "soundcloud music app" },
+        { "name": "Apple Music", "search_term": "apple music app" },
+        { "name": "Pandora", "search_term": "pandora music app" },
+        { "name": "Amazon Music", "search_term": "amazon music app" },
+        { "name": "YouTube Music", "search_term": "youtube music app" },
+        { "name": "Deezer", "search_term": "deezer music app" },
+        { "name": "Resso", "search_term": "resso music app" },
+        { "name": "Manga Plus", "search_term": "manga plus app" },
+        {
+          "name": "Anime Digital Network",
+          "search_term": "anime digital network app"
+        },
+        { "name": "Viz Manga", "search_term": "viz manga app" },
+        { "name": "Manga Zone", "search_term": "manga zone app" },
+        { "name": "Anime Lab", "search_term": "anime lab app" },
+        { "name": "Tubi", "search_term": "tubi tv app" },
+        { "name": "Pluto TV", "search_term": "pluto tv app" },
+        { "name": "Peacock", "search_term": "peacock tv app" },
+        { "name": "Viu", "search_term": "viu streaming app" },
+        { "name": "iQIYI", "search_term": "iqiyi app" },
+        { "name": "WeTV", "search_term": "wetv app" },
+        { "name": "Bilibili", "search_term": "bilibili app" },
+        { "name": "Likee", "search_term": "likee video app" },
+        { "name": "MX Player", "search_term": "mx player app" },
+        { "name": "Hotstar", "search_term": "hotstar app" },
+        { "name": "Voot", "search_term": "voot app" },
+        { "name": "Zee5", "search_term": "zee5 app" },
+        { "name": "Sun NXT", "search_term": "sun nxt app" },
+        { "name": "ALTBalaji", "search_term": "altbalaji app" },
+        { "name": "Sony LIV", "search_term": "sony liv app" },
+        { "name": "Hoichoi", "search_term": "hoichoi app" },
+        { "name": "Aha", "search_term": "aha video app" },
+        { "name": "MXPlayer", "search_term": "mxplayer app" },
+        { "name": "Ullu", "search_term": "ullu app" },
+        { "name": "Voot Kids", "search_term": "voot kids app" },
+        { "name": "Discovery Plus", "search_term": "discovery plus app" },
+        { "name": "YouTube Kids", "search_term": "youtube kids app" },
+        { "name": "Nick", "search_term": "nickelodeon app" },
+        { "name": "Cartoon Network", "search_term": "cartoon network app" }
+      ]
+    },
+    "GAMES": {
+      "id": "GAME",
+      "apps": [
+        { "name": "Roblox", "search_term": "roblox game" },
+        { "name": "Minecraft", "search_term": "minecraft game" },
+        { "name": "Among Us", "search_term": "among us game" },
+        { "name": "Fortnite", "search_term": "fortnite game" },
+        { "name": "Genshin Impact", "search_term": "genshin impact game" },
+        { "name": "Pokemon GO", "search_term": "pokemon go niantic" },
+        {
+          "name": "Call of Duty Mobile",
+          "search_term": "call of duty mobile game"
+        },
+        { "name": "PUBG Mobile", "search_term": "pubg mobile game" },
+        { "name": "Brawl Stars", "search_term": "brawl stars game" },
+        { "name": "Subway Surfers", "search_term": "subway surfers game" }
+      ]
+    },
+    "EDUCATION": {
+      "id": "EDUCATION",
+      "apps": [
+        {
+          "name": "Google Classroom",
+          "search_term": "google classroom education app"
+        },
+        { "name": "Duolingo", "search_term": "duolingo language learning app" },
+        { "name": "Photomath", "search_term": "photomath math solver app" },
+        { "name": "Quizlet", "search_term": "quizlet learning app" },
+        { "name": "Kahoot", "search_term": "kahoot education app" },
+        {
+          "name": "Socratic by Google",
+          "search_term": "socratic google homework app"
+        },
+        { "name": "Mathway", "search_term": "mathway calculator app" },
+        { "name": "Brainly", "search_term": "brainly homework help app" },
+        { "name": "Coursera", "search_term": "coursera learning app" },
+        { "name": "Udemy", "search_term": "udemy online courses app" },
+        { "name": "Khan Academy", "search_term": "khan academy learning app" },
+        { "name": "Canvas Student", "search_term": "canvas student app" },
+        { "name": "Blackboard", "search_term": "blackboard education app" },
+        { "name": "Remind", "search_term": "remind education app" },
+        { "name": "ClassDojo", "search_term": "classdojo education app" },
+        { "name": "Quizizz", "search_term": "quizizz learning app" },
+        { "name": "EdPuzzle", "search_term": "edpuzzle education app" },
+        { "name": "Nearpod", "search_term": "nearpod education app" },
+        { "name": "Schoology", "search_term": "schoology learning app" },
+        { "name": "Edmodo", "search_term": "edmodo education app" },
+        { "name": "Study Bunny", "search_term": "study bunny focus app" },
+        { "name": "Forest", "search_term": "forest focus app" },
+        { "name": "Grammarly", "search_term": "grammarly keyboard app" },
+        {
+          "name": "Microsoft Lens",
+          "search_term": "microsoft lens scanner app"
+        },
+        { "name": "Notability", "search_term": "notability notes app" },
+        { "name": "GoodNotes", "search_term": "goodnotes notes app" },
+        {
+          "name": "Wolfram Alpha",
+          "search_term": "wolfram alpha calculator app"
+        },
+        {
+          "name": "Desmos Graphing",
+          "search_term": "desmos graphing calculator"
+        },
+        { "name": "GeoGebra", "search_term": "geogebra math app" },
+        { "name": "Brilliant", "search_term": "brilliant learning app" },
+        { "name": "Quizlet Go", "search_term": "quizlet go app" },
+        { "name": "Chegg", "search_term": "chegg study app" },
+        { "name": "Study Smarter", "search_term": "study smarter app" },
+        { "name": "StudyBlue", "search_term": "studyblue flashcards app" },
+        { "name": "Anki", "search_term": "anki flashcards app" },
+        { "name": "Memrise", "search_term": "memrise language app" },
+        { "name": "Busuu", "search_term": "busuu language learning app" },
+        { "name": "Babbel", "search_term": "babbel language app" },
+        {
+          "name": "Rosetta Stone",
+          "search_term": "rosetta stone language app"
+        },
+        { "name": "Drops", "search_term": "drops language learning app" }
+      ]
+    },
+    "CREATIVITY": {
+      "id": "CREATIVITY",
+      "apps": [
+        {
+          "name": "Procreate Pocket",
+          "search_term": "procreate pocket art app"
+        },
+        { "name": "Canva", "search_term": "canva design app" },
+        { "name": "PicsArt", "search_term": "picsart photo editor app" },
+        { "name": "Snapchat", "search_term": "snapchat camera app" },
+        { "name": "VSCO", "search_term": "vsco photo editor app" },
+        { "name": "InShot", "search_term": "inshot video editor app" },
+        { "name": "CapCut", "search_term": "capcut video editor app" },
+        {
+          "name": "Adobe Lightroom",
+          "search_term": "adobe lightroom photo editor"
+        },
+        { "name": "Ibis Paint X", "search_term": "ibis paint x drawing app" },
+        { "name": "FlipaClip", "search_term": "flipaclip animation app" },
+        { "name": "KineMaster", "search_term": "kinemaster video editor app" },
+        { "name": "Gacha Life", "search_term": "gacha life app" },
+        { "name": "Gacha Club", "search_term": "gacha club app" },
+        { "name": "Art Set", "search_term": "art set drawing app" },
+        {
+          "name": "Autodesk SketchBook",
+          "search_term": "autodesk sketchbook app"
+        },
+        { "name": "MediBang Paint", "search_term": "medibang paint art app" },
+        { "name": "Pixel Art", "search_term": "pixel art editor app" },
+        {
+          "name": "Adobe Creative Cloud",
+          "search_term": "adobe creative cloud app"
+        },
+        { "name": "Splice", "search_term": "splice video editor app" },
+        { "name": "GarageBand", "search_term": "garageband music app" },
+        {
+          "name": "TikTok Video Editor",
+          "search_term": "tiktok video editor app"
+        },
+        { "name": "Cute Cut", "search_term": "cute cut video editor app" },
+        { "name": "Funimate", "search_term": "funimate video effects app" },
+        { "name": "Motion Ninja", "search_term": "motion ninja video editor" },
+        { "name": "Videoleap", "search_term": "videoleap editor app" },
+        { "name": "Pixellab", "search_term": "pixellab text editor app" },
+        { "name": "Sketchbook", "search_term": "sketchbook drawing app" },
+        { "name": "Paint by Number", "search_term": "paint by number app" },
+        { "name": "Coloring Book", "search_term": "coloring book app" },
+        { "name": "Drawing Games", "search_term": "drawing games app" }
+      ]
+    },
+    "PRODUCTIVITY": {
+      "id": "PRODUCTIVITY",
+      "apps": [
+        { "name": "Microsoft Office", "search_term": "microsoft office app" },
+        { "name": "Google Drive", "search_term": "google drive app" },
+        { "name": "Zoom", "search_term": "zoom meetings app" },
+        { "name": "Notion", "search_term": "notion productivity app" },
+        { "name": "Evernote", "search_term": "evernote notes app" },
+        { "name": "Todoist", "search_term": "todoist tasks app" },
+        { "name": "Microsoft Teams", "search_term": "microsoft teams app" },
+        { "name": "Google Calendar", "search_term": "google calendar app" },
+        { "name": "Google Docs", "search_term": "google docs app" },
+        { "name": "Google Slides", "search_term": "google slides app" },
+        { "name": "Microsoft Word", "search_term": "microsoft word app" },
+        {
+          "name": "Microsoft PowerPoint",
+          "search_term": "microsoft powerpoint app"
+        },
+        { "name": "OneDrive", "search_term": "microsoft onedrive app" },
+        { "name": "Dropbox", "search_term": "dropbox cloud storage app" },
+        { "name": "Adobe Scan", "search_term": "adobe scan pdf app" },
+        { "name": "CamScanner", "search_term": "camscanner pdf app" },
+        { "name": "Forest", "search_term": "forest focus app" },
+        { "name": "Focus Plant", "search_term": "focus plant app" },
+        { "name": "Flora", "search_term": "flora focus app" },
+        { "name": "Focus Keeper", "search_term": "focus keeper pomodoro app" },
+        { "name": "Study Timer", "search_term": "study timer app" },
+        { "name": "Focus Todo", "search_term": "focus todo app" },
+        { "name": "Focus Time", "search_term": "focus time productivity app" },
+        { "name": "Pomodoro Timer", "search_term": "pomodoro timer app" },
+        { "name": "Study Tracker", "search_term": "study tracker app" }
+      ]
+    },
+    "MUSIC": {
+      "id": "MUSIC",
+      "apps": [
+        { "name": "Spotify", "search_term": "spotify music app" },
+        { "name": "Apple Music", "search_term": "apple music app" },
+        { "name": "YouTube Music", "search_term": "youtube music app" },
+        { "name": "SoundCloud", "search_term": "soundcloud music app" },
+        { "name": "Pandora", "search_term": "pandora music app" },
+        { "name": "Amazon Music", "search_term": "amazon music app" },
+        { "name": "Deezer", "search_term": "deezer music app" },
+        { "name": "Tidal", "search_term": "tidal music app" },
+        { "name": "Resso", "search_term": "resso music app" },
+        { "name": "Gaana", "search_term": "gaana music app" },
+        { "name": "JioSaavn", "search_term": "jiosaavn music app" },
+        { "name": "Wynk", "search_term": "wynk music app" },
+        { "name": "Beatstar", "search_term": "beatstar rhythm game" },
+        { "name": "Shazam", "search_term": "shazam music recognition app" },
+        { "name": "Musixmatch", "search_term": "musixmatch lyrics app" },
+        { "name": "Genius", "search_term": "genius lyrics app" },
+        { "name": "Drum Pad Machine", "search_term": "drum pad machine app" },
+        { "name": "Real Drum", "search_term": "real drum app" },
+        { "name": "Walk Band", "search_term": "walk band music maker app" },
+        { "name": "Piano", "search_term": "piano app" },
+        { "name": "Guitar Tuna", "search_term": "guitar tuna tuner app" },
+        { "name": "Simply Piano", "search_term": "simply piano learning app" },
+        { "name": "Yousician", "search_term": "yousician music learning app" },
+        {
+          "name": "Ultimate Guitar",
+          "search_term": "ultimate guitar tabs app"
+        },
+        { "name": "Drum Kit", "search_term": "drum kit music app" }
+      ]
+    },
+    "LIFESTYLE": {
+      "id": "LIFESTYLE",
+      "apps": [
+        { "name": "Pinterest", "search_term": "pinterest inspiration app" },
+        { "name": "Amazon", "search_term": "amazon shopping app" },
+        { "name": "SHEIN", "search_term": "shein fashion app" },
+        { "name": "Uber Eats", "search_term": "uber eats food delivery app" },
+        { "name": "DoorDash", "search_term": "doordash food delivery app" },
+        { "name": "Grubhub", "search_term": "grubhub food delivery app" },
+        {
+          "name": "Instacart",
+          "search_term": "instacart grocery delivery app"
+        },
+        {
+          "name": "Netflix Party",
+          "search_term": "netflix party teleparty app"
+        },
+        { "name": "Teleparty", "search_term": "teleparty streaming app" },
+        {
+          "name": "Discord Watch Together",
+          "search_term": "discord watch together app"
+        },
+        { "name": "Alarmy", "search_term": "alarmy wake up app" },
+        { "name": "Sleep Cycle", "search_term": "sleep cycle alarm app" },
+        { "name": "Calm", "search_term": "calm meditation app" },
+        { "name": "Headspace", "search_term": "headspace meditation app" },
+        {
+          "name": "Nike Training Club",
+          "search_term": "nike training club workout app"
+        },
+        { "name": "Strava", "search_term": "strava fitness app" },
+        { "name": "Fitbod", "search_term": "fitbod workout app" },
+        { "name": "MyFitnessPal", "search_term": "myfitnesspal fitness app" },
+        { "name": "Flo", "search_term": "flo health app" },
+        { "name": "Countdown", "search_term": "countdown timer app" }
+      ]
+    }
+  }
+}
