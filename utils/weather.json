@@ -1,0 +1,1254 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.accuweather.android"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "AccuWeather’s trusted free weather forecast app is at your fingertips\n\nInternationally recognized by the World Meteorological Organization with awards making AccuWeather one of the best weather apps:\n“Best User Interface and Data Representation”\n“Best Weather Warnings”\n“Best Design and Presentation of Information, User-Friendliness; Access and Customization” \n\n\nWeather Forecasts You Can Depend On\n\n-  Live weather forecasts - including MinuteCast® forecasts for Minute by Minute® precipitation updates\n-  Local weather - including severe weather alerts, temperature, precipitation, and allergy outlooks for your day \n-  WinterCast™: winter weather forecasts - giving you advanced warnings of snowfall probabilities and accumulation\n-  Daily forecasts - include rain probability, cloud coverage, wind, live radar, air quality index, snowfall, and even UV index\n-  Advanced weather radar - gives you up to the minute views of storm tracking, snow, rain, ice, temperature changes, and much more\n-  RealFeel® & RealFeel Shade Temperature™ technology - helping you get a better sense of how the weather actually feels\n\nLive weather with Weather Alerts\n\nThe AccuWeather forecasting and severe weather alerts you know and trust. From local weather updates to WinterCast snow alerts, get the weather forecast you can rely on. With in-depth weather news, forecast updates, free weather alerts, plus today’s forecast and much more. Find out what makes AccuWeather the best as a trusted, free weather app. It’s the weather tracker you need!\n\nAdvanced Weather Radar\nSetting the standard for free weather radar:\n-  The accurate weather radar you know from AccuWeather\n-  Weather watches and warnings for your local area\n-  RealVue™ and Enhanced RealVue™ satellite imagery looking at weather patterns from space\n-  Weather radar views for water vapor, rainfall, sustained winds, and even storm surges\n-  Timely tropical storm radar tracking to see where and when storms might hit\n-  Current conditions maps shows temperature and RealFeel in and around your area\n-  5-day precipitation outlook to see what rain, snow, and ice could be in your area\n-  24-hour snowfall forecast shows detailed maps with snow accumulation and winter weather\n-  Temperature contour maps show how the temperature will change over the next day\n\nFor over 10 years, the AccuWeather app has brought you the weather\n\nWhether you're on the East Coast, Pacific Northwest, Southern Coast, or West Coast this free weather app can show you snow, wind, cold, rain and more! Stay prepared with our local weather and live forecasts. From extreme humidity, severe storms, allergy info, air quality index, snow storms, and ice alerts, get live updates that matter to you. Local weather forecasts are the AccuWeather specialty. \n\nOur weather tracker & live radar gives you Superior Accuracy™\n\nSevere weather warnings, today’s temperature, free weather radar maps & more!\n\n-  Get local forecasts and personalize the app depending on where you are in the world\n-  Go beyond today’s weather and look 45 days ahead to ensure that you’re prepared for any weather\n-  Try the MinuteCast feature for the most up to date live Minute by Minute weather forecast\n-  Weather alerts, storm alerts, and more! Get trending videos from AccuWeather’s dedicated news team\n-  Weather forecasting your way - a weather tracker that can filter and customize according to your preferences\n\nDownload the AccuWeather app today for free and enjoy award-winning Superior Accuracy in weather forecasting on your iPhone, Apple Watch, or other Apple device. More than just a daily forecast, try the best weather app and get more from your forecast.",
+      "android_package_name": "com.accuweather.android",
+      "ios_bundle_id": "com.yourcompany.TestWithCustomTabs",
+      "title": "AccuWeather",
+      "domain_name": [
+        "https://www.accuweather.com",
+        "https://www.accuweather.com"
+      ],
+      "website": "https://www.accuweather.com",
+      "developer": "AccuWeather International, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU",
+      "icon_72": "https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.weather.Weather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "The Weather Channel is the World's Most Accurate Forecaster*. In addition to our daily forecasts, hourly details and 24-Hour Future Radar, you also can personalize your weather preferences from skin health to air quality index forecast and more.\n\nOur live Doppler radar maps, storm watch, and hurricane tracker can warn you ahead of time of severe storms, heavy rain, heat waves, or an incoming flood. Track air quality and wildfires in your area. Severe weather is increasing across the nation - our severe weather alerts have you covered. \n\nToday’s Weather Forecast:\n\nPlan up to 15 days in advance with forecasts from the World’s Most Accurate Weather Forecaster, so you can plan ahead with confidence*. Manage personal weather alerts, so you receive notifications that are important to you.\n\nDownload The Weather Channel to get you through storm season, hurricane season & extreme weather warnings. \n\nThe Weather Channel Features:\n\n- New personalized weather tracking for wherever you are including, uv index, pollen count, humidity & more\n- 15-minute forecast for rain intensity up to 7 hours in the future & radar on your homescreen\n- Check weather forecasts up to two weeks in advance!\n- Prepare for severe storms & hurricane season \n- New Air Quality Index forecast\n\nWidget & Homescreen Features:\n- Our smart widget offers more weather in detail at a glance and one-tap access to the forecast\n- Check your local radar, get severe weather alerts in your area, and check the forecast for the next three hours on your homescreen\n\nAdditional Features:\n- Detailed information on sunset times and allergy & flu forecasts\n- Keep informed with the latest weather news\n- Stay prepared during extreme weather events, hurricanes, and earthquakes with live breaking news alerts \n---\nUpgrade to The Weather Channel Premium for our most comprehensive, dynamic, and precise weather experience available. Exclusive access to:\n- Ad-free weather\n- 15-minute forecast details\n- Advanced 72-Hour Future Radar\n- and more!\n\nYou can cancel The Weather Channel subscription anytime through your iTunes account settings, or it will automatically renew. This must be done 24 hours before the end of any subscription period to avoid being charged another fee. Subscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. For more information, please see our Privacy Policy and Terms of Use.\n\nPrivacy & Feedback\n•Our Privacy Policy can be viewed here: https://weather.com/en-US/twc/privacy-policy\n•Our Terms of Use can be viewed here: http://www.weather.com/common/home/legal.html\n•If you have any questions or suggestions about our weather service, please do not hesitate to get in touch at iphonesupport@weather.com\n\n*The Weather Channel is the World's Most Accurate Forecaster. ForecastWatch, Global and Regional Weather Forecast Accuracy Overview, 2017-2022, https://forecastwatch.com/AccuracyOverview2017-2022, commissioned by IBM.\n\n**The Weather Channel is the Most Trusted News Source In America. According to a YouGov 2024 Trust in Media poll: https://today.yougov.com/politics/articles/49552-trust-in-media-2024-which-news-outlets-americans-trust\n\n***The World's Leading Weather Provider: According to Comscore, The Weather Company, parent of The Weather Channel, is the largest provider of weather forecasts worldwide based on total monthly unique visitors in 2020. Comscore Media Metrix®, Worldwide Rollup Media Trend, News/Information – Weather category incl. [P] Weather Company, The and [M] Weather Channel, The, Jan-Dec. 2020 avg.\n\nThe Weather Channel app had an average of over 35 million combined smartphone monthly active users worldwide from March through October 2021 according to internal analytics. Over 2M total 5-star ratings out of over 3.0 million total reviews since January 2018 according to Apple’s App Store Connect.\n\nThe Weather Channel® is a registered trademark of The Weather Company, LLC 2024",
+      "android_package_name": "com.weather.Weather",
+      "ios_bundle_id": "com.weather.TWC",
+      "title": "The Weather Channel",
+      "domain_name": [
+        "https://www.weather.com",
+        "https://www.weather.com"
+      ],
+      "website": "https://www.weather.com",
+      "developer": "The Weather Channel",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/RV3DftXlA7WUV7w-BpE8zM0X7Y4RQd2vBvZVv6A01DEGb_eXFRjLmUhSqdbqrEl9klI",
+      "icon_72": "https://play-lh.googleusercontent.com/RV3DftXlA7WUV7w-BpE8zM0X7Y4RQd2vBvZVv6A01DEGb_eXFRjLmUhSqdbqrEl9klI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.windyty.android"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "A UNIQUE WEATHER FORECAST VISUALISATION\nWhile most weather forecasting apps rely only on free global models, Windy has gone a few steps further and invested heavily in the most accurate models available, always at the highest possible resolution, to ensure accurate weather forecasts. \n\nAvailable weather models: ECMWF (9 km resolution), HRRR, NAM, GFS, ICON-D2, ICON-EU, ACCESS, AROME, NEMS\n\nWEATHER RADAR & SATELLITE IMAGERY\nA weather radar is the most requested tools for weather forecasting. To provide the most accurate radar imagery, we are constantly expanding our resources so that rain, snow, and storms don't catch you by surprise.\n\nMORE THAN 50 WEATHER MAPS AND TOOLS\n\nWind (current speed, gusts, accumulation) \nTemperature, humidity, pressure, dew point, freezing altitude\nRain, thunder, storms, precipitation type, CAPE-index\nWeather radar and Satellite images (blue, infrared, visible)\nClouds, clouds tops, clouds base and visibility (LIFR, IFR, MVFR, VFR), fog\nWaves, swell, currents\nSolar activity maps (solar power, UV index, wet-bulb temperature)\nSnow depth, new snow, snow density\nNO2, PM 2.5, Aerosol, SO2, Ozone layer, Surface ozone, CO concentration, Dust mass, Fire intensity\nWeather warnings & Extreme forecast \nSoil moisture, Moisture anomaly, Drought intensity\n\nWEATHER ALERTS BASED ON YOUR PREFERENCES\nWant to know about essential weather forecasts before everyone else? Set-up a custom alert based on weather in your favorite location. Whether it's wind strength, precipitation, or temperature.\n\nHURRICANE TRACKING, STORM TRACKING\nWith Windy's hurricane tracking tool, you can track a hurricane's past and projected path. Windy doesn't rely on just one model for hurricanes but will give you all the forecasts available for a given storm or hurricane.\n\nWEATHER WIDGETS\nWindy serves up a quick weather overview on your iPhone or iPad, as well as live radar. You can choose from several view sizes and types. 3-5 day forecast, live radar, live satellite, or a simple lock screen overview.\n\nTOOLS MADE FOR PILOTS\n16 altitude levels from the surface to 13.5km/FL450\n50k+ Airports searchable by ICAO and IATA, including runway info, decoded & raw METARs, TAFs and NOTAMs\nDetailed Airgram and Meteogram\nThermals (beta)\nMeteogram: temperature and dew point, wind speed and wind gusts, pressure, precipitation, altitude cloud cover\n\nWINDY.COM FOR APPLE WATCH\nForecast, radar, METARs, and wind information in a smal lovely package.\nUse Apple Watch face by Windy.com to have it all on your screen anytime. \n\nWINDY PREMIUM\nSubscribe to Windy Premium and get the most detailed forecast.\n\n• Better forecast: Detailed 1-hour data\n• Faster service: Served from 44 locations\n• Full privacy: No ads or tracking\n\nWe offer following auto-renewing subscriptions through In-App Purchases:\n\n• Windy Premium Annual Subscription $18.99*\n• Windy Premium for one year (one-time payment) $29.99*\n\n* These prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence.\n\nSubscriptions will automatically renew at the begining of the next billing period and be charged to your Apple account within 24-hours. Unless auto-renew is turned off at least 24-hours before the end of the current period. You can turn off auto-renew at any time from your Apple account settings, but refunds will not be provided for any unused portion of the term.\n\nTerms of Use: https://account.windy.com/agreements/windy-terms-of-use\nPrivacy Policy: https://account.windy.com/agreements/windy-privacy-policy\n\nGET IN TOUCH\n\nJoin us at community.windy.com to discuss weather-related topics, report a bug, or suggest a new feature. Or contact us at info@windy.com for any topic.\n\nFOLLOW US ON SOCIAL MEDIA\n\n- Facebook: facebook.com/windyforecast\n- Twitter: twitter.com/windycom\n- Instagram: instagram.com/windy_forecast\n- YouTube: youtube.com/@Windyforecast",
+      "android_package_name": "com.windyty.android",
+      "ios_bundle_id": "com.windytv.ios",
+      "title": "Windy",
+      "domain_name": [
+        "https://www.windy.com",
+        "https://www.windy.com"
+      ],
+      "website": "https://www.windy.com",
+      "developer": "Windyty, SE",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qXBOdC6WVNPPZso8m5_Z_lCiNTG130ZwHAumXlLpF5r9yaPYICJw9tGGtPt5v9yh35E",
+      "icon_72": "https://play-lh.googleusercontent.com/qXBOdC6WVNPPZso8m5_Z_lCiNTG130ZwHAumXlLpF5r9yaPYICJw9tGGtPt5v9yh35E=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wunderground.android.weather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Discover a reliable, real-time and hyper-local forecast that will always warn you about upcoming severe weather. Weather Underground combines data from over 250,000+ personal weather stations and a proprietary forecast model to give you the most accurate and hyperlocal forecasts, at a microclimate level. Discover about current conditions, interactive Nexrad radar, get customizable severe weather alerts and much more. You’ll always be prepared for whatever the weather brings.\n\n\n5 REASONS TO DOWNLOAD WEATHER UNDERGROUND\n\n• Severe weather alerts: set weather alerts for your exact position, so you can always be prepared for an upcoming storm!\n• Local conditions: get current weather conditions from local weather stations and hourly/daily summary forecasts up to 10 days in the future, which include chance of precipitation and daily weather summaries.\n• Most detailed weather data: stay updated with the best weather data including temperature, “Feels Like,” wind speed, wind directions, today’s rain accumulation, humidity, dew point, visibility, and pressure.\n• Other geographical data: discover our air quality index, UV index, local flu outbreaks, sunrise & sunset and moonrise & moonset.\n• Customized experience: set your app with light & dark modes, various map types and units.\n\n\nDISCOVER THE UNIQUE FEATURES OF WEATHER UNDERGROUND\n• Interactive radar maps & severe weather:\n• The most interactive weather map on mobile allows you to select from different weather overlays, personal weather stations, nexrad radar, satellite, heat maps, and rain accumulation.\n• Sophisticated weather visualizations with hi-res satellite & cloud cover imagery from GOES-16, powered by data from NOAA.\n• Keep an eye out for extreme weather and always be prepared with severe weather alerts.\n\n\nAccurate hyper-local forecasts:\n• Over 250,000 personal weather stations report the most accurate local weather conditions.\n• Made to fill in the gaps between the airport weather stations that other weather services rely upon to generate forecasts - meaning our data is generated from actual data points in your neighborhood.\n\n\nSubscribe to Premium!\n• Upgrade and remove all ads from your weather app by purchasing an annual subscription.\n• Access Smart Forecasts: set your ideal weather conditions for your outdoor activities and we’ll tell you when to go.\n• View Extended Hourly Forecasts up to 15 days in the future.\n\n\nYou can cancel your Weather Underground subscription anytime through your iTunes account settings, or it will automatically renew. This must be done 24 hours before the end of any subscription period to avoid being charged another fee. Subscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. For more information, please see our Privacy Policy and Terms of Use.\n\n\n-----\n\n\nPrivacy & Feedback\n\n• Our Privacy Policy can be viewed here: https://www.wunderground.com/company/privacy-policy\n• Our Terms of Use can be viewed here: https://www.wunderground.com/company/legal\n• If you have any questions or suggestions about our weather service, please do not hesitate to get in touch at support@wunderground.com.",
+      "android_package_name": "com.wunderground.android.weather",
+      "ios_bundle_id": "com.wunderground.weatherunderground",
+      "title": "Weather Underground",
+      "domain_name": [
+        "https://www.wunderground.com/download",
+        "https://www.wunderground.com"
+      ],
+      "website": "https://www.wunderground.com/download",
+      "developer": "Weather Underground, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/LzUvgH7tSaV1mzA9lzlA8iKnHCrVZnjTYtLZCgIYzN3FhAM84gJ3XLhHhB_6k3Lu9Q",
+      "icon_72": "https://play-lh.googleusercontent.com/LzUvgH7tSaV1mzA9lzlA8iKnHCrVZnjTYtLZCgIYzN3FhAM84gJ3XLhHhB_6k3Lu9Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.pa.lightpollutionmap"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Weather keeps you informed about conditions including temperature, rain, snow, and wind. Check out the forecast by the hour for the next ten days. Use maps to help you explore weather patterns in your area. Stay notified about upcoming adverse conditions. With iCloud your favorite locations are always synced and easily accessible whether you’re on your Mac, your iPad, your Apple Watch, or on your iPhone.\n\nFeatures\n\nForecasts\nQuickly check current and forecasted conditions by the hour for the next 10 days for temperature, wind, humidity, dew point, feels like temperature, UV index, barometric pressure, and visibility. \nStay aware of adverse conditions through severe weather alerts. \nFollow precipitation intensity over the next hour by the minute.\nGet more clarity about the weather at your location through relevant news articles.\n\nLocations\nSearch for the weather at any location and save your favorites. \nConveniently check the weather at your favorite locations on your iPhone, your iPad, or your Mac.\n\nWeather Maps\nTrack the path and intensity of storms for the next-hour by the minute or for the next 12 hours through animated maps of precipitation.\nObserve wind patterns including direction and speed for the next 24 hours through an animated wind map visualization.\nExplore maps that depict how conditions such as temperature and air quality vary near you.\n\nNotifications\nReceive notifications when rain or snow is about to start or stop, or for severe weather events such as tornadoes, hurricanes, and flash floods.\n\nAir Quality\nStay informed about the current level of air quality, how it compares to yesterday, as well as relevant health recommendations.\n\nHistorical Trends\nPlan your future travels and events using visualizations of seasonal averages of temperature and precipitation conditions.\n\nSun and Moon\nTrack today’s sunrise and sunset times, and comprehensive details about daylight.\nLearn about today’s moon phase, and moonrise and moonset times. Tap to see more intricate details such as the next full moon, and current illumination level as well as a full lunar calendar.\n\nMore ways to view Weather\nSee the forecast at a glance by adding Weather widgets to your Home Screen and Lock Screen.\nTrack the weather on-the-go from your Apple Watch. \nAsk Siri questions such as “What’s the weather like today?”, “How windy is it out there?” or “What time is sunrise in Paris?”\n\nSome features available for select countries or regions.",
+      "android_package_name": "com.pa.lightpollutionmap",
+      "ios_bundle_id": "com.apple.weather",
+      "title": "Dark Sky",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/25SWncL19i7SwJtuEWWudfYlX-1azyzS-Dg-HbJXaQKS_jaBfhP64wDePQGwd6t6gQ",
+      "icon_72": "https://play-lh.googleusercontent.com/25SWncL19i7SwJtuEWWudfYlX-1azyzS-Dg-HbJXaQKS_jaBfhP64wDePQGwd6t6gQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.aws.android"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Download the most popular free weather app powered by the largest professional weather network in the world!\n\nEnjoy Free access to 10-Day Forecast and over 140 hours of Hourly Forecast, and explore our Ad-Free Subscription options.\n\nWeatherBug is easy to use and provides forecasts for your every need, from storm warnings to pollen levels. Our weather network delivers the fastest alerts and the best real-time forecasts (current, hourly, and 10-day).\n\nWeatherBug has over 20 weather maps, including Radar, Future Radar, Lightning, Pollen, Severe Storm Risk, Precipitation, and more!\n\nJoin the millions who rely on WeatherBug for weather forecasts every day!\n\n\"I love WeatherBug! It's always accurate & is the first place I go for up-to-the-minute weather!\" –iOS User.\n\nWEATHERBUG FEATURES:\n\nYOUR WEATHER FORECAST\n• Real-Time Pinpoint Forecasts: Get the most accurate current, hourly, and 10-day weather forecasts\n• Enhanced Interactive Map: Visualize weather conditions with 19 weather maps\n• Lifestyle Forecasts: Know how the weather will impact your trips, workouts, allergies, chronic pain and much more\n• Weather Widget: Customize your alerts and display them with weather widgets\n• Weather Alerts: get alerted to weather conditions and storms\n\nTRACK ANY CONDITION\n• Weather Radar: available across the US, Canada, Mexico, and Europe\n• PulseRad® Radar: radar for many international locations using patented Earth Networks Total Lightning Network® technology\n• Spark Lightning Alerts: get minute-by-minute, mile-by-mile lightning proximity alerts\n• Hurricane Center: hurricane forecasts and changing conditions stay informed\n• Fire Center: global fire data to know when you are at risk\n• Winter Weather: Plan with our 10-day snow depth forecast and stay safe in severe winter conditions with our real-time snowstorm alerts\n\nMORE THAN JUST RAIN\n• Pollen Count: Keep your allergies in check by knowing what the local pollen conditions are like\n• Real-Time Traffic Conditions: View local traffic conditions to better plan your day\n• Air Quality: Get an in-depth look at the air quality around you\n• Precise Weather Details: Wind speed, UV index, weather observations and more\n\nLARGEST WEATHER NETWORK\n• Forecasts for 2.6 million+ locations worldwide\n• Largest total lightning detection network\n• 10,000+ professional-grade weather stations\n• Live weather & traffic cameras\n\nFASTEST WEATHER ALERTS\n• Get notified of severe weather 50% faster with our Dangerous Thunderstorm Alerts\n• Receive all NWS and NOAA watches and warnings\n\nAPPLE WATCH SUPPORT\n• Get vital weather information directly on your Apple Watch, including alerts, glances, and complications\n\nCONNECT WITH US\n• Like us on Facebook - https://www.facebook.com/WeatherBug\n• Follow us on Twitter - @WeatherBug\n• Check us out on Instagram - @weatherbug\n• Check out WeatherBug's YouTube weather channel broadcast here: https://www.youtube.com/user/WeatherBugVideo\n\nDownload the weather forecast app used and loved by millions, awarded the \"Best Weather App\" in 2019 and 2016 by Mediapost Appy Awards. Also, voted the \"Best Weather App for iPads\" by AppPicker and \"Best App for Moms\" by Parent Magazine: WeatherBug!\n\nThis app may include \"Interest-Based Ads\" (see https://www.weatherbug.com/legal/privacy#AC) for more information) and may collect or share \"Precise Location Data\" (see https://www.weatherbug.com/legal/privacy#PLD for more details).",
+      "android_package_name": "com.aws.android",
+      "ios_bundle_id": "com.aws.weatherbug.pro",
+      "title": "WeatherBug",
+      "domain_name": [
+        "https://www.weatherbug.com",
+        "https://www.weatherbug.com"
+      ],
+      "website": "https://www.weatherbug.com",
+      "developer": "xAd, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/_rZCkobaGZzXN3iquPr4u2KOe7C-ljnrSkBfw6sVL1kpUfq3sBl5MoRJEisBSnxaD-M",
+      "icon_72": "https://play-lh.googleusercontent.com/_rZCkobaGZzXN3iquPr4u2KOe7C-ljnrSkBfw6sVL1kpUfq3sBl5MoRJEisBSnxaD-M=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.radarx.stormmapping.stormmapping"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "RadarScope is a specialized display utility for weather enthusiasts and meteorologists that allows you view NEXRAD Level 3 and Level 2 radar data along with tornado, severe thunderstorm, flash flood, special marine and snow squall warnings, and predicted storm tracks issued by the U.S. National Weather Service. It can display the latest reflectivity, velocity, dual-polarization, and other products from any NEXRAD or TDWR radar site in the United States, Guam, Puerto Rico, Korea, and Okinawa, as well as data from Environment Canada, Australian Bureau of Meteorology, Finnish Meteorological Institute, and German Weather Service radars. These aren't smoothed images, this is native radar data rendered in its original radial format for a high level of detail. \n\nWhether you are scanning reflectivity for a mesocyclone's tell-tale hook echo, trying to pinpoint the landfall of a hurricane's eye wall, or looking for small features like velocity couplets in the storm relative radial velocity product, RadarScope gives you the power to view true radial weather radar data.\n\nRadarScope displays tornado, severe thunderstorm, flash flood, special marine, and snow squall warnings issued by the U.S. National Weather Service. You can browse the list of active warnings, select a warning to view the details, and even zoom to the selected warning on the map.\n\nPinch or stretch to zoom in and out. Drag your finger around the map to scroll. Tap the radar sweep button in the toolbar to switch radars. Select one of the 289 different radars in the United States, Canada, Australia, Germany, Korea, Puerto Rico, Guam, or Okinawa. Plot your current location by tapping the location button and optionally report it to the Spotter Network. Tap the play button to download and animate over recent images. Display the names of over 25,000 cities and towns on the map as you zoom and scroll. Tap and hold the color legend to see the data values. \n\nMeanwhile, RadarScope will retrieve and display updated data automatically and intelligently (approximately every 2 to 10 minutes, depending on the radar scan strategy). \n\nYou can display radar data from our servers, NOAA's public access web site, or your Allison House subscriber account. Spotter Network members can report their location and view the locations of other spotters.\n\nRadarScope Pro is an optional auto-renewing subscription with two different tiers to choose from.\n\nRadarScope Pro Tier One is an annual subscription that provides access to real-time animated lightning data and up to 30 frames of radar data, including extended loops of super-resolution data. Tier One subscribers can also access a data interrogation tool to quickly determine data values for specific radar pixels and an optional dual-pane mode for viewing two radar products side-by-side.\n\nRadarScope Pro Tier Two is an annual or monthly subscription that combines all the features in Tier One with more advanced features, including 50-frame loops, SPC outlooks, special weather statements, mesoscale discussions, local storm reports, hail size and probability contours, and azimuthal shear contours in the U.S., a 30-day archive of all radar products, a 2-year archive of NEXRAD Level 3 radar products, a full historical archive of NEXRAD Level 2 products, and the ability to use subscription features across multiple platforms.\n\nIf you choose to buy the RadarScope Pro subscription, it will charged to your iTunes account. The subscription will be auto-renewed within 24 hours prior to the end of the current period at the same price you originally paid. Subscriptions may be managed and auto-renewal disabled via your iTunes Account Settings after the purchase. Once purchased, the subscription cannot be cancelled during the active subscription period.\n\nDTN is committed to safeguarding your privacy online. Our privacy policy is available for review at: https://www.dtn.com/privacy-policy/\n\nPlease visit our web site for more information.",
+      "android_package_name": "com.radarx.stormmapping.stormmapping",
+      "ios_bundle_id": "com.basevelocity.RadarScope",
+      "title": "RadarScope",
+      "domain_name": [
+        "http://www.radarscope.app",
+        "https://www.radarscope.app"
+      ],
+      "website": "http://www.radarscope.app",
+      "developer": "Base Velocity, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/4y7uKwpnG8UJ6GhJbkrBRJy5DtIRHh0Ei0PGLV4nKdCJKBgM3KtjAFFksU2oX3FIgvg",
+      "icon_72": "https://play-lh.googleusercontent.com/4y7uKwpnG8UJ6GhJbkrBRJy5DtIRHh0Ei0PGLV4nKdCJKBgM3KtjAFFksU2oX3FIgvg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.grailr.carrotweather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "CARROT Weather is a crazy-powerful (and privacy-conscious) weather app that delivers hilariously twisted forecasts. \n\n** Winner of Apple's App of the Year, Apple Design Award, and App Store Editors' Choice. Featured by The New York Times, Good Morning America, CNN, Wired, & more! ** \n\nOverflowing With Personality\nChoose one of five personalities for CARROT, from the straitlaced “professional” to the profanity-laden “overkill.” You’ll actually be looking forward to a torrential downpour just to see what your weather robot has in store for you!\n\nAccurate & Detailed\nCARROT’s super accurate weather data gives you lightning-quick access to your current, hourly, and daily forecasts. And the easy-to-read details screens are just dripping with with meteorological goodness. \n\nPrivacy First\nYour personal information, including your location data, will never be sold to third parties.\n\nMore Than A Weather App\nComplete activities to strengthen your relationship with the homicidal A.I. Follow clues to track down 100+ secret locations. Unlock 70+ achievements. Film your own TV-news-style weather report videos. Or use Augmented Reality Mode to bring CARROT right into your living room.\n\nJoin Premium Club to unlock:\n\n- More weather data sources, including Apple Weather, AccuWeather, and Tomorrow.io\n- Notifications, including precipitation, weather alerts, and lightning strikes (where available)\n- Lock & Home Screen widgets \n- Live Activities\n- Apple Watch complications and background updates \n- Weather maps with next-hour radar, individual radar stations, and many different layers (where available)\n- Customization of the entire user interface\n- CarPlay app\n- And so much more!\n\nDon’t make CARROT angry. Download her now!\n\n---\n\nCARROT Weather uses auto-renewing subscriptions. \n\nPremium provides additional features like weather data sources, notifications, customization, widgets, and Apple Watch complications.\n\nPremium Ultra includes all the features of Premium, plus rain, lightning, and storm cell notifications (where available), a CarPlay app, super-res radar, a weather maps widget, and quick data source switching.\n\nPremium Family includes all the features of Premium Ultra, with the added benefit of being shareable with up to five family members via Apple’s Family Sharing service. \n\nPayment will be charged to your Apple ID account at the confirmation of purchase. The subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase. Cancellation of the current active subscription period is not allowed.\n\nTerms of Use: http://support.meetcarrot.com/weather/terms.html\nPrivacy Policy: http://support.meetcarrot.com/weather/privacypolicy.html",
+      "android_package_name": "com.grailr.carrotweather",
+      "ios_bundle_id": "com.grailr.CARROTweather",
+      "title": "Carrot Weather",
+      "domain_name": [
+        "http://www.meetcarrot.com/weather",
+        "https://www.meetcarrot.com"
+      ],
+      "website": "http://www.meetcarrot.com/weather",
+      "developer": "Grailr LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/g0CSrsNnHBtlFcJ2-y1CqyzU8OA6Q1J5Mp00S-sGkHkatCZ4v2pMXR_IhLpDgvZ3leU",
+      "icon_72": "https://play-lh.googleusercontent.com/g0CSrsNnHBtlFcJ2-y1CqyzU8OA6Q1J5Mp00S-sGkHkatCZ4v2pMXR_IhLpDgvZ3leU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.yahoo.mobile.client.android.weather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Experience the weather | Apple Design Award Winner\n\nPrepare for your day with the most accurate hourly, 5-day, and 10-day forecasts. Stunning photos match your location, time of day, and current conditions. \n\nFavorite features:\n\n-Get all the details: wind, pressure, and chance of precipitation.\n-See animated sunrise, sunset, wind, and pressure modules.\n-Browse interactive maps: radar, satellite, heat, and wind.\n-Track all your favorite cities and destinations!\n-Twice daily notifications help you be prepared, whatever the weather.\n\nHelpful tips:\n\n-Scroll down for detailed weather information.\n-Tap the plus sign to add your favorite cities.\n-Swipe left-to-right to move between locations.\n\nWhat people are saying:\n\n\"It's a million impressive little things. It's the blurring of the background; its the subtle parallax scroll when flipping between cities; it's the way the windmills spin faster or slower based on the actual current windspeed.\" - Greg Kumparak, TechCrunch \n\nTell us what you think:\n\nWe are committed to building the best mobile experiences and would love to hear your feedback.  Let us know your thoughts by tapping \"Send feedback\" in the app menu.",
+      "android_package_name": "com.yahoo.mobile.client.android.weather",
+      "ios_bundle_id": "com.yahoo.weather",
+      "title": "Yahoo Weather",
+      "domain_name": [
+        "https://yahoo.com",
+        "https://yahoo.com"
+      ],
+      "website": "https://yahoo.com",
+      "developer": "Yahoo Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Q-uvOc2r0-N8wAlSkhAmlTMfB60QbPQj4MO-lH6B0m1bHCLQmQNAgDV-oN09Fqf5jm8",
+      "icon_72": "https://play-lh.googleusercontent.com/Q-uvOc2r0-N8wAlSkhAmlTMfB60QbPQj4MO-lH6B0m1bHCLQmQNAgDV-oN09Fqf5jm8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mobile.hs.hyperware"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Thanks to everyone for making MyRadar so successful, with over 50 million downloads!\n\nMyRadar is a fast, powerful, easy-to-use weather app that displays animated weather radar around your current location and to quickly show what weather is coming your way. Just start the app; your location pops up with animated live radar, with radar loop lengths of up to two hours. This basic functionality provides the quickest way to get a snapshot of the weather on-the-go, and it's what has made MyRadar so successful over the years. Check your phone and get an instant assessment of the weather that will impact your day.\n\nOne of the most useful features in MyRadar is the ability to provide advanced rain alerts; our patent-pending process for predicting hyper-local rainfall is the most accurate in the industry. Instead of having to check the app all the time, MyRadar will send you an alert up to an hour in advance as to when the rain will arrive at your current location, down to the minute, including details on intensity and duration. These alerts can be a life saver when you're on-the-go and don't always have time to check the weather - our systems will proactively do the work for you and let you know in advance before the rain hits.\n\nIn addition to the live radar, MyRadar has an ever-increasing list of weather and environmentally-related data layers that you can overlay on top of the map;  our animated winds layer shows a breathtaking visual representation of both surface winds and winds at the jetstream level; the frontal boundaries layer shows high and low pressure systems as well as frontal boundaries themselves; the earthquakes layer is a great way to stay on top of the latest reports on seismic activity, completely customizable as to severity and time; our hurricane layer allows users to stay on top of the latest tropical storm and hurricane activity throughout the world; the aviation layer overlays AIRMETs, SIGMETs and other aviation-related data, including the ability to track flights and display their IFR flight plans and paths, and the \"wildfires\" layer allows users to stay abreast of the latest fire activity around the United States.\n\nMyRadar also has the ability to send weather and environmental alerts, including alerts from the National Weather Service, such as Tornado and Severe Weather alerts. A new feature introduced in this version of MyRadar includes the ability to receive alerts based off of Tropical  Storm and Hurricane activity;  you can configure the app to send you an alert any time a tropical storm or hurricane forms, or is upgraded or downgraded.\n\nIn addition to the free features of the app, additional upgrades are available, including real-time hurricane tracking - great for the start of hurricane season. The hurricane tracker provides additional data above and beyond the free version, including the cone of probability for tropical storm/hurricane forecast tracks, and it also includes a detailed synopsis from the National Hurricane Center. The premium upgrades also include the professional radar pack, which allows greater detail of radar from individual stations. Users can select individual radar stations around the US, select the radar tilt angle, and also change the radar product being displayed, including base reflectivity and wind velocity - great for experienced weather buffs looks to stay on top of possible tornado formation.\n\nDownload MyRadar today and try it out!\n* Aviation Charts subscription (not required in order to use MyRadar) ($24.99 USD per YEAR)\n* Payments will be charged to your iTunes account\n* Account will be charged for renewal within 24-hours prior to the end of the current period\n* Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase.\n\nMyRadar's Privacy Policy, visit: https://myradar.com/privacy\nFull terms of service: https://myradar.com/terms",
+      "android_package_name": "com.mobile.hs.hyperware",
+      "ios_bundle_id": "com.fboweb.MyRadar",
+      "title": "MyRadar",
+      "domain_name": [
+        "https://myradar.com",
+        "https://myradar.com"
+      ],
+      "website": "https://myradar.com",
+      "developer": "Aviation Data Systems, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/TFMjfG3adcX3AAB2TbQ5gywoO814e53MGSqqZ0SYgMoSZMBWM2qhfiwIkC_Cd_Ew2kU",
+      "icon_72": "https://play-lh.googleusercontent.com/TFMjfG3adcX3AAB2TbQ5gywoO814e53MGSqqZ0SYgMoSZMBWM2qhfiwIkC_Cd_Ew2kU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "weatherradar.livemaps.free"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Now you can accurately track severe weather in real-time with Storm Radar. This all-in-one high-resolution storm and hurricane tracker is designed to help you stay safe and informed when severe weather approaches. Get live NOAA/National Weather Service alerts right on your device, including winter storm warnings, tornado warnings, severe thunderstorm warnings, and more.  \n\nSo whether you need to know about the weather forecast for your job, for your home safety, or hobby, Storm Radar helps you see the weather like never before with our precise and powerful advanced map visualizations (the same technology The Weather Channel depends on).\n\nPLAN AHEAD:\n- Get a detailed view of the changing weather patterns in your area in vivid color, including how much wind and rain are coming your way. \n- Know exactly when and where the storm will hit with 6.5 hours of global future radar.\n- Get notified of incoming rain with real-time precipitation alerts for your area.\n\nSTAY SAFE:\n- Get live local storm alerts including NOAA/National Weather Service severe weather watches, warnings and advisories.\n- Be aware of hazardous lightning strikes: get live lightning alerts for your location.\n- Customizable map layers give you the ability to visualize impending storms, including extreme conditions like cyclones, tornadoes, tropical storms and hurricanes.\n- Use Storm Tracks to understand the storm’s path via motion vectors and up to 30 advanced weather features.\n\nVIEW WEATHER DETAILS:\n- Customize your radar map with detailed data overlays, such as wind speed and temperature.\n- Use our Mini Map to get two important views in one radar screen: see what is happening in your location, while also having access to a big picture view in the mini map.\n\nGET PREMIUM:\n- No Ads\n- Full screen radar\n- Mini Map\n- 6.5 hour future radar\n- Storm Tracks\n- Local storm reports \n- Driving weather impacts \n- Snow accumulation\n- Lightning activity\n- Hurricane tracker\n- And all of our advanced map layers\n\nIf you choose to purchase the Premium version of Storm Radar, subscription payments will be charged to your App Store account at confirmation of your purchase. Storm subscription auto renews annually. Cancel anytime in Settings > AppleID at least 24 hours before your renewal date to avoid charges. Subscription payments will be charged to your account at confirmation of your purchase and upon commencement of each renewal term. For more information, please see our Privacy Policy and Terms of Use below.\n\nPRIVACY\nOur Privacy Policy can be viewed here: https://weather.com/en-US/twc/privacy-policy\nOur Terms of Use can be viewed here: http://www.weather.com/common/home/legal.html\n\nFEEDBACK\nYour feedback is important to us! If you love our weather app, please rate and review us in the App Store. If you have any questions or suggestions, please email us at  twcstormradar@weather.com",
+      "android_package_name": "weatherradar.livemaps.free",
+      "ios_bundle_id": "com.weather.TWCRadar",
+      "title": "Storm Radar",
+      "domain_name": [
+        "https://www.weather.com",
+        "https://www.weather.com"
+      ],
+      "website": "https://www.weather.com",
+      "developer": "The Weather Channel",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hRyrY3ZYyAchyeM6wAQfKdNhCv4k1nkNuLe3Y27KDs4Kv9pTqMWutfzJS1iqr3IP14pO",
+      "icon_72": "https://play-lh.googleusercontent.com/hRyrY3ZYyAchyeM6wAQfKdNhCv4k1nkNuLe3Y27KDs4Kv9pTqMWutfzJS1iqr3IP14pO=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.handmark.expressweather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Get everything you need to stay weather-ready with your free Weather & Radar app:\n\n•\tAccurate weather forecast\n•\tInnovative weather, temperature and wind radar \n•\tWeather alerts + storm tracker\n•       Local air quality forecasts\n•\tSki reports\n•\tExpert weather analysis and videos   \n\nWeather App\nBe ready for all weather conditions with Weather & Radar’s free app, giving you accurate weather reports and forecasts at your exact location in the US and around the world.\n\nWeather Forecast\nThe latest forecasts for temperature and wind, chance of rain or snow, sunshine duration and UV levels. Detailed data on air pressure, dewpoint, feels-like temperature, wind chill and air pollution. Plan further ahead with the 14-day weather trend.  \n\nWeather Map\nDiscover our industry-leading weather radar, including high-resolution rain, snow, wind and lightning areas. The enhanced weather maps allow you to track real-time meteorological conditions down to city and county level.\n\nWeather Alerts\nUsing the latest weather modelling and storm tracking technology, our weather alerts and push notifications keep you updated about inclement or dangerous conditions in and around your area.\n\nWeather News and Videos\nStay informed with breaking news and weather stories from our team of experienced meteorologists, including expert extreme weather analysis and live videos. Blizzards, floods, hurricanes or heatwaves, we have got you covered!\n\nSki Conditions\nYou can rely on Weather & Radar's free app to get the latest forecast and snowpack data. Easily find the best spots to make your skiing trip a success with live updates on lift status, trail and terrain conditions.  \n\n90-Minute Trend\nOur 90-minute nowcast feature gives you all the hyperlocal and time-critical data you need, using a blend of weather observations and high-resolution models to pinpoint the movement and arrival times of rain or storms around your location. \n\nWorld Weather\nSave any location and see current conditions for any number of global locations in our weather app. Global weather data and rain radar at your fingertips!\n\nUse the weather app free of advertising with the in-app purchase and profit from the option to personalize your main page! \n\nWeather & Radar Pro is a subscription service that will be renewed on either a monthly or a yearly basis. Payment for the subscription will be charged to the user’s iTunes Account at confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. The user’s iTunes account will be charged for renewal within 24-hours prior to the end of the current period. iTunes will identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of the Weather & Radar Pro free trial period will be forfeited when the user purchases a subscription thereof.\n\nTerms and Conditions: http://www.weatherandradar.com/ios/terms-of-use/\n\nShould you have any queries or comments, kindly contact us at info@weatherandradar.com",
+      "android_package_name": "com.handmark.expressweather",
+      "ios_bundle_id": "de.wetteronline.WetterApp",
+      "title": "1Weather",
+      "domain_name": [
+        "https://www.weatherandradar.com",
+        "https://www.weatherandradar.com"
+      ],
+      "website": "https://www.weatherandradar.com",
+      "developer": "WetterOnline -  Meteorologische Dienstleistungen GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/xoCEshkxAgHPa-7pOm7__uy_-6QIUqPXjTvoXjt0dePUAwUSBiofV-YrrP6ElebdDiU",
+      "icon_72": "https://play-lh.googleusercontent.com/xoCEshkxAgHPa-7pOm7__uy_-6QIUqPXjTvoXjt0dePUAwUSBiofV-YrrP6ElebdDiU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.weather.nold.forecast"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "With Weather Live°, planning your day-to-day activities is easier than ever before: simply choose the weather parameters you want to track, which layout you prefer, and view your customized weather forecast! Feast your eyes on the breathtaking weather backgrounds that make the forecast as visual as nature itself.\n\nWEATHER AT A GLANCE\n\n- Accurate forecasts for today and the week ahead with local times for multiple locations, worldwide;\n- Animated weather scenes reflecting weather conditions;\n- Bad weather warnings and alerts to give you a heads up about severe weather in your area;\n- Adjustable weather layouts — choose which weather parameters you’d like to see first;\n- Daily weather reports with important information.\n\nINSIGHTFUL DETAILS\n\n- Today's Min, Max and \"Feels Like\" temperature;\n- Pressure in inches, mm, kPa or mbar;\n- Precipitation and humidity info;\n- Wind speed and direction;\n- Sunrise/Sunset and Moonrise/Moonset time;\n- Golden hour and Blue hour;\n- UV and Visibility details;\n- Dew Point info;\n- Wind Chill;\n- Fahrenheit/Celsius and Miles/Kilometers;\n- 12 or 24-hour time format.\n\nSIMPLICITY OF USE\n\n- Useful weather widget: get the detailed temperature forecast and severe weather alerts right on your Home Screen.\n- Handy Apple Watch app: view the current weather conditions and the forecast for the coming hours right on your watch face.\n\nGet Weather Live° and be prepared for any weather!\n\nPlease note that some supplementary features in the basic (free) version are subject to limitations (ex. UV index, Sun and Moon, Visibility, etc.). These limitations are also subject to change.\n\nGet Weather Live° Premium:\n- 14-day hourly forecast;\n- Interactive weather maps;\n- Hurricane Tracker;\n- Lightning Tracker;\n- Lock & Home Screen widgets;\n- Min-by-min precipitation chart as a Live Activity;\n- Air Quality;\n- RainScope;\n- Ability to rearrange the blocks with weather details;\n- Ad-free experience.\n\nSubscription payments will be charged to your App Store account at confirmation of your purchase. Subscriptions will automatically renew and you will be charged unless auto-renew is turned off or unless you cancel at least 24 hours prior to the end of the current subscription or trial period. Any unused portion of a free trial period will be forfeited when you purchase a premium subscription during the free trial period. The cost of renewal depends on the Subscription Plan you choose. \nSubscriptions and auto-renewal may be managed by going to Account Settings after purchase or by contacting Customer Support.\n\nPrivacy Policy: http://www.apalon.com/privacy_policy.html\nEULA: http://www.apalon.com/terms_of_use.html\nAdChoices: http://www.apalon.com/privacy_policy.html#4\nCalifornia Privacy Notice: https://apalon.com/privacy_policy.html#h",
+      "android_package_name": "com.weather.nold.forecast",
+      "ios_bundle_id": "com.apalonapps.wlf",
+      "title": "Weather Live",
+      "domain_name": [
+        "https://bendingspoons.com",
+        "https://bendingspoons.com"
+      ],
+      "website": "https://bendingspoons.com",
+      "developer": "Easy Tiger Apps, LLC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0",
+      "icon_72": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mg.android"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "The Weather Channel is the World's Most Accurate Forecaster*. In addition to our daily forecasts, hourly details and 24-Hour Future Radar, you also can personalize your weather preferences from skin health to air quality index forecast and more.\n\nOur live Doppler radar maps, storm watch, and hurricane tracker can warn you ahead of time of severe storms, heavy rain, heat waves, or an incoming flood. Track air quality and wildfires in your area. Severe weather is increasing across the nation - our severe weather alerts have you covered. \n\nToday’s Weather Forecast:\n\nPlan up to 15 days in advance with forecasts from the World’s Most Accurate Weather Forecaster, so you can plan ahead with confidence*. Manage personal weather alerts, so you receive notifications that are important to you.\n\nDownload The Weather Channel to get you through storm season, hurricane season & extreme weather warnings. \n\nThe Weather Channel Features:\n\n- New personalized weather tracking for wherever you are including, uv index, pollen count, humidity & more\n- 15-minute forecast for rain intensity up to 7 hours in the future & radar on your homescreen\n- Check weather forecasts up to two weeks in advance!\n- Prepare for severe storms & hurricane season \n- New Air Quality Index forecast\n\nWidget & Homescreen Features:\n- Our smart widget offers more weather in detail at a glance and one-tap access to the forecast\n- Check your local radar, get severe weather alerts in your area, and check the forecast for the next three hours on your homescreen\n\nAdditional Features:\n- Detailed information on sunset times and allergy & flu forecasts\n- Keep informed with the latest weather news\n- Stay prepared during extreme weather events, hurricanes, and earthquakes with live breaking news alerts \n---\nUpgrade to The Weather Channel Premium for our most comprehensive, dynamic, and precise weather experience available. Exclusive access to:\n- Ad-free weather\n- 15-minute forecast details\n- Advanced 72-Hour Future Radar\n- and more!\n\nYou can cancel The Weather Channel subscription anytime through your iTunes account settings, or it will automatically renew. This must be done 24 hours before the end of any subscription period to avoid being charged another fee. Subscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. For more information, please see our Privacy Policy and Terms of Use.\n\nPrivacy & Feedback\n•Our Privacy Policy can be viewed here: https://weather.com/en-US/twc/privacy-policy\n•Our Terms of Use can be viewed here: http://www.weather.com/common/home/legal.html\n•If you have any questions or suggestions about our weather service, please do not hesitate to get in touch at iphonesupport@weather.com\n\n*The Weather Channel is the World's Most Accurate Forecaster. ForecastWatch, Global and Regional Weather Forecast Accuracy Overview, 2017-2022, https://forecastwatch.com/AccuracyOverview2017-2022, commissioned by IBM.\n\n**The Weather Channel is the Most Trusted News Source In America. According to a YouGov 2024 Trust in Media poll: https://today.yougov.com/politics/articles/49552-trust-in-media-2024-which-news-outlets-americans-trust\n\n***The World's Leading Weather Provider: According to Comscore, The Weather Company, parent of The Weather Channel, is the largest provider of weather forecasts worldwide based on total monthly unique visitors in 2020. Comscore Media Metrix®, Worldwide Rollup Media Trend, News/Information – Weather category incl. [P] Weather Company, The and [M] Weather Channel, The, Jan-Dec. 2020 avg.\n\nThe Weather Channel app had an average of over 35 million combined smartphone monthly active users worldwide from March through October 2021 according to internal analytics. Over 2M total 5-star ratings out of over 3.0 million total reviews since January 2018 according to Apple’s App Store Connect.\n\nThe Weather Channel® is a registered trademark of The Weather Company, LLC 2024",
+      "android_package_name": "com.mg.android",
+      "ios_bundle_id": "com.weather.TWC",
+      "title": "Weather Pro",
+      "domain_name": [
+        "https://www.weather.com",
+        "https://www.weather.com"
+      ],
+      "website": "https://www.weather.com",
+      "developer": "The Weather Channel",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/rWWb2gQZNBmL2wBqHX4fTHmLw0H3nlxblIW4JMcQgYdEG8SX5blGfx06-NG5va2Ke8cj",
+      "icon_72": "https://play-lh.googleusercontent.com/rWWb2gQZNBmL2wBqHX4fTHmLw0H3nlxblIW4JMcQgYdEG8SX5blGfx06-NG5va2Ke8cj=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.foreca.android.weather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Extremely accurate, clean interface and convenient weather app which is widely customizable to your preferences.\n\n5 REASONS TO CHOOSE FORECA:\n\n1) FORECAST ACCURACY: Foreca is ranked the most accurate weather provider in rain forecasts globally. In general weather forecasts, Foreca has long been the most accurate especially in Europe, and is also placed among the top providers globally.*\n\n2) VERSATILE FEATURES: Unlike other weather apps, Foreca provides all the Premium features for free.\n\n3) CUSTOMIZABLE VIEWS: Choose what weather information you want to see in the app from the wide selection of weather parameters available. You can also hide the information you don’t need as some of the parameters might be irrelevant to you, or beneficial only in winter or summer, for example.\n\n4) CLEAN AND CONVENIENT: Our principle has always been to invest in the clarity of weather data to make the app easy and convenient to use. This has also been praised by our users.\n\n5) SERVICE QUALITY: We respond personally to all the feedback and support requests we get, because we want to continuously develop the app according to your wishes. \n\nPREMIUM FEATURES – ALL AVAILABLE FOR FREE!\n \n– Extremely accurate and convenient radar with radar forecast for the next few hours**\n– Governmental weather warnings**\n– Rain notifications**\n– Current conditions calculated into your exact location\n– Measurement results of the nearest official weather stations\n– Weather observation history – your time machine to past hours, days and years\n– Meteogram with showers and continuous rain separated \n– Editable home screen widgets\n– Dark theme and light theme\n– Theme color options\n– Optional weather symbol set\n– Past forecast for the current day\n– Active hurricanes nearby the USA\n– Lock Screen widgets\n\nFREELY CUSTOMIZABLE VIEWS AND WEATHER PARAMETERS BY HOURLY, DAILY AND AS GRAPHS:\n\n– Temperature and weather symbols (°C, °F)\n– Feels like\n– Chance of precipitation (%)\n– Hourly amount of rain, mixed and snowfall (mm, in)\n– Total rainfall (24h water value: mm, in)\n– Total snowfall (24h snow value: cm, in)\n– Wind direction (arrow, icon or cardinal direction)\n– 10-minute average wind speed (m/s, km/h, mph, Bft, kn)\n– Max wind speed in gusts\n– Relative humidity (%)\n– Atmospheric pressure (hPa, inHg, mmHg, mbar)\n– Dew point (°C, °F)\n– Probability of thunderstorm (%)\n– UV index\n– Air quality index, AQI\n– Daily sunshine hours (hh:mm)\n– Day length\n– Sunrise time\n– Sunset time\n– Moonrise time\n– Moonset time\n– Moon phases\n\nANIMATED WEATHER MAPS:\n\n– Rain radar and accurate radar forecast for the next few hours**\n– 24-hour rain forecast map in hourly steps\n– 3 day weather map with atmospheric pressure (isobars) and rain\n– Satellite images map in hourly steps\n– Cloudiness forecast map in hourly steps\n\nOTHER FEATURES:\n\n– Location search – all location names worldwide\n– One-time positioning and continuous tracking\n– Weather in your favorite locations\n– Choose your start page (tab in the app)\n– Adjust the speed of the map animation\n– Share the weather with your friends\n– Info/user guide\n– Feedback channel and app support\n– Time format (12h/24h)\n– 12h tai 24h aikamuoto\n– 15 languages supported\n\n*) Based on 3rd party reporting, where forecasts are continuously being verified against the real observations from the official weather stations globally.\n**) Country-specific limitations\n\nTerms of Use: https://www.foreca.com/foreca-weather-terms-of-use\n\nPrivacy Policy: https://www.foreca.com/privacy-policy",
+      "android_package_name": "com.foreca.android.weather",
+      "ios_bundle_id": "com.andersinno.foreca.ForecaWeather",
+      "title": "Foreca Weather",
+      "domain_name": [
+        "https://www.foreca.com",
+        "https://www.foreca.com"
+      ],
+      "website": "https://www.foreca.com",
+      "developer": "Foreca Oy",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NtgE_XTYRSQHYLAVlzP-C3SYNRm3r0MrTivMSM_GpGmrkwLaSOChioQAeRT676IUEO-k",
+      "icon_72": "https://play-lh.googleusercontent.com/NtgE_XTYRSQHYLAVlzP-C3SYNRm3r0MrTivMSM_GpGmrkwLaSOChioQAeRT676IUEO-k=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mg.android"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "WeatherPro is a reliable, award winning app that offers unrivalled, high-quality, detailed information, including Apple Watch support. These features are all brought to you by passionate weather professionals – hence the name WeatherPro! \n\n• \t7-day forecast data in periods of 3 hours\n• \tWeather reports for 2 million worldwide locations\n• \tComprehensive detail on temperature, wind direction/ speed, air pressure, precipitation amount/ probability, relative humidity, UV index, feels like temperature and more\n• \tWorldwide alerts and warning levels for extreme weather\n• \tUnlimited favourite locations synchronisable via iCloud\n• \tConnection to Netatmo personal weather stations and the Apple Watch\n• \tGlobal satellite and animated radar for the USA, Australia and much of Europe\n• \tAdditional features like: widget, webcams, weather photo, weather news etc.\n• \tNo adverts\n\nWe also offer an optional premium service which is perfect for if you have specific weather interests, for sports, holidays or more:\n•\t 14-day forecasts in hourly periods\n•\t Windtheme – optional interface focused on wind data\n•\t Precipitation type radar for Europe, radar forecasts, heat maps, lightning strikes, cloud cover forecasts, etc.\n•\t Beach Weather, and more\n\nPrivacy Policy: https://www.weatherpro.com/en/privacy-policy\nTerms and Conditions: https://www.dtn.com/subscription-agreement-standard-terms-conditions/",
+      "android_package_name": "com.mg.android",
+      "ios_bundle_id": "de.meteogroup.WeatherPro",
+      "title": "MeteoGroup",
+      "domain_name": [
+        "https://www.weatherpro.com",
+        "https://www.weatherpro.com"
+      ],
+      "website": "https://www.weatherpro.com",
+      "developer": "DTN Germany GmbH.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/rWWb2gQZNBmL2wBqHX4fTHmLw0H3nlxblIW4JMcQgYdEG8SX5blGfx06-NG5va2Ke8cj",
+      "icon_72": "https://play-lh.googleusercontent.com/rWWb2gQZNBmL2wBqHX4fTHmLw0H3nlxblIW4JMcQgYdEG8SX5blGfx06-NG5va2Ke8cj=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.apalon.weatherradar.free"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Real-time radar images, severe weather alerts, accurate weather forecasts and much more - precise & timely to help keep you safe!\n \nSTAY INFORMED:\n- Radar overlay shows the areas of rain, snow & mixed precipitation in high resolution and vivid colors right on the interactive map;\n- Precipitation map provides precipitation forecast for the next 24 hours; \n- Satellite map illustrates the cloud cover;\n- Choose background maps (standard, hybrid, satellite), search locations, add them to bookmarks and stay out of harm’s way.\n\nKEEP YOURSELF SAFE:\n- Read weather alerts with all the details you might need; \n- Receive push notifications whenever there’s a weather alert for the bookmarked location (tornadoes, hurricanes, freeze warnings, and more);\n- Monitor important National Weather Service watches, warnings and alerts in the form of interactive polygons on the map. Tap one to see the full alert text.\n\nVIEW WEATHER DETAILS:\n- 24-hour and 7-day forecast;\n- Current, today’s min & max and \"Feels Like\" temperature;\n- Pressure, humidity, wind speed, visibility, dew point info;\n- Chance of Precipitation;\n- Sunrise & sunset time.\n\nCoverage Info:\n\nRadar images: the US (Continental US, Alaska (except northern), Hawaii, Northern Mariana Islands and Puerto Rico), Mexico (northern), Canada (southern), Australia, the UK, Ireland, Germany, France, the Netherlands, Italy (northern and north-western), Denmark, Austria, Sweden, Finland, Spain, Portugal, Switzerland, Norway, Poland, Andorra, Japan and more. See the full list on the developer’s website.\nPrecipitation, temperature, satellite maps; wind map; snow depth forecast; hurricane, wildfire, lightning trackers; detailed weather info, precipitation alerts: most of the world.\nNWS watches, warnings: the US only. \nGovernmental severe weather warnings: Australia, Austria, Belgium, Canada, Denmark, Estonia, Finland, France, Germany, Ireland, Italy, Japan, Latvia, Luxembourg, Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland, UK.\n\nGet Premium:\n- Severe weather alerts for all saved locations\n- Hurricane tracker\n- Advanced precipitation forecast\n- Lightning tracker\n- Temperature map\n- Rain alerts\n- Air quality index\n- Wildfire tracking\n- RainScope\n- Hourly forecast\n- 14-day forecast\n- Animated wind map\n- Snow depth forecast \n- No ads\n\nSubscription payments will be charged to your App Store account at confirmation of your purchase. Subscriptions will automatically renew and you will be charged unless auto-renew is turned off or unless you cancel at least 24 hours prior to the end of the current subscription or trial period. Any unused portion of a free trial period will be forfeited when you purchase a premium subscription during the free trial period. The cost of renewal depends on the Subscription Plan you choose. \nSubscriptions and auto-renewal may be managed by going to Account Settings after purchase or by contacting Customer Support.\n\nPrivacy Policy: https://support.bendingspoons.com/privacy.html?app=749133753\nTerms of Service: https://support.bendingspoons.com/tos.html?app=749133753\nContact us: support@climeradar.com",
+      "android_package_name": "com.apalon.weatherradar.free",
+      "ios_bundle_id": "com.apalonapps.radarfree",
+      "title": "Clime: NOAA Weather Radar Live",
+      "domain_name": [
+        "https://climeradar.com",
+        "https://climeradar.com"
+      ],
+      "website": "https://climeradar.com",
+      "developer": "Easy Tiger Apps, LLC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1r5tFBa0XwFuJf4dN1ReBrAUdJ28K_2QRHcClC5m6je3LOI2oDmzOZiyhyWocrXBvgA",
+      "icon_72": "https://play-lh.googleusercontent.com/1r5tFBa0XwFuJf4dN1ReBrAUdJ28K_2QRHcClC5m6je3LOI2oDmzOZiyhyWocrXBvgA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.devexpert.weather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Graphics & Design",
+      "description": "Widgets - that’s what makes your home screen bright and useful instantly. Choose from a variety of standard yet fantastic categories or well-thought out themes. No matter what your choice is going to be - we promise you beauty and great experience!\n\nCreate aesthetic themes - change app icons, mix them with custom widgets and wallpapers.\n\nHome screen customization has never been easier than that. Check for yourself if you don’t believe us! Go through the gallery, choose whichever widget you like and just add it. Easy, right? \n\nWIDGET CATEGORIES FOR YOU:\n\n- DIGITAL CLOCK - when you like digits\n- ANALOG CLOCK - whenever you prefer faces, hands and rotation\n- CALENDAR - solves problems like “what day is it today?”\n- WEATHER - helps keeping your body comfy always\n- BATTERY LIFE - shows if your iPhone is about to say “bye bye”\n- DAILY QUOTE - truly inspires and motivates you every single day\n- COUNTDOWN - lets you know how many days or hours before “that day”\n- REMINDER - makes you get rid of “Oops, I forgot”\n \nADDITIONALLY, TRY OUR HAND-PICKED THEMES:\n\nNEON DREAMS - just bright and strange dreams\nPASTEL - when you like it gentle and decent\nWINTER DOGS - cute doggies and snowflakes that make you smile and say “So sweet!”\n\nDidn’t find anything good for your taste? You can create your own widgets using our layouts - change background, combine colors and do whatever you want to make yourself happy and satisfied!\n\nEnjoy the app and let us know how much you love it…\n\nPrivacy Policy: http://go2020apps.com/privacy-policy.html\nTerms of Service: http://go2020apps.com/terms-of-use.html",
+      "android_package_name": "com.devexpert.weather",
+      "ios_bundle_id": "com.2020apps.widgets",
+      "title": "Weather & Clock Widget",
+      "domain_name": [],
+      "website": "",
+      "developer": "Appflair, OOO",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jgRxxSNZWjiG9pGQNIoE0F-9Xgn7BzvgeyCXb-55TnR7sixhfOsLStXcZLlMwPheaic",
+      "icon_72": "https://play-lh.googleusercontent.com/jgRxxSNZWjiG9pGQNIoE0F-9Xgn7BzvgeyCXb-55TnR7sixhfOsLStXcZLlMwPheaic=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.apalon.weatherradar.free"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Real-time radar images, severe weather alerts, accurate weather forecasts and much more - precise & timely to help keep you safe!\n \nSTAY INFORMED:\n- Radar overlay shows the areas of rain, snow & mixed precipitation in high resolution and vivid colors right on the interactive map;\n- Precipitation map provides precipitation forecast for the next 24 hours; \n- Satellite map illustrates the cloud cover;\n- Choose background maps (standard, hybrid, satellite), search locations, add them to bookmarks and stay out of harm’s way.\n\nKEEP YOURSELF SAFE:\n- Read weather alerts with all the details you might need; \n- Receive push notifications whenever there’s a weather alert for the bookmarked location (tornadoes, hurricanes, freeze warnings, and more);\n- Monitor important National Weather Service watches, warnings and alerts in the form of interactive polygons on the map. Tap one to see the full alert text.\n\nVIEW WEATHER DETAILS:\n- 24-hour and 7-day forecast;\n- Current, today’s min & max and \"Feels Like\" temperature;\n- Pressure, humidity, wind speed, visibility, dew point info;\n- Chance of Precipitation;\n- Sunrise & sunset time.\n\nCoverage Info:\n\nRadar images: the US (Continental US, Alaska (except northern), Hawaii, Northern Mariana Islands and Puerto Rico), Mexico (northern), Canada (southern), Australia, the UK, Ireland, Germany, France, the Netherlands, Italy (northern and north-western), Denmark, Austria, Sweden, Finland, Spain, Portugal, Switzerland, Norway, Poland, Andorra, Japan and more. See the full list on the developer’s website.\nPrecipitation, temperature, satellite maps; wind map; snow depth forecast; hurricane, wildfire, lightning trackers; detailed weather info, precipitation alerts: most of the world.\nNWS watches, warnings: the US only. \nGovernmental severe weather warnings: Australia, Austria, Belgium, Canada, Denmark, Estonia, Finland, France, Germany, Ireland, Italy, Japan, Latvia, Luxembourg, Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland, UK.\n\nGet Premium:\n- Severe weather alerts for all saved locations\n- Hurricane tracker\n- Advanced precipitation forecast\n- Lightning tracker\n- Temperature map\n- Rain alerts\n- Air quality index\n- Wildfire tracking\n- RainScope\n- Hourly forecast\n- 14-day forecast\n- Animated wind map\n- Snow depth forecast \n- No ads\n\nSubscription payments will be charged to your App Store account at confirmation of your purchase. Subscriptions will automatically renew and you will be charged unless auto-renew is turned off or unless you cancel at least 24 hours prior to the end of the current subscription or trial period. Any unused portion of a free trial period will be forfeited when you purchase a premium subscription during the free trial period. The cost of renewal depends on the Subscription Plan you choose. \nSubscriptions and auto-renewal may be managed by going to Account Settings after purchase or by contacting Customer Support.\n\nPrivacy Policy: https://support.bendingspoons.com/privacy.html?app=749133753\nTerms of Service: https://support.bendingspoons.com/tos.html?app=749133753\nContact us: support@climeradar.com",
+      "android_package_name": "com.apalon.weatherradar.free",
+      "ios_bundle_id": "com.apalonapps.radarfree",
+      "title": "NOAA Weather Radar Live",
+      "domain_name": [
+        "https://climeradar.com",
+        "https://climeradar.com"
+      ],
+      "website": "https://climeradar.com",
+      "developer": "Easy Tiger Apps, LLC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1r5tFBa0XwFuJf4dN1ReBrAUdJ28K_2QRHcClC5m6je3LOI2oDmzOZiyhyWocrXBvgA",
+      "icon_72": "https://play-lh.googleusercontent.com/1r5tFBa0XwFuJf4dN1ReBrAUdJ28K_2QRHcClC5m6je3LOI2oDmzOZiyhyWocrXBvgA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.lucky_apps.RainViewer"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "The Rain Viewer weather app gives you highly accurate forecasts directly from weather radars. Be prepared for rain, snow, storm, hurricane, or any other severe weather conditions. Monitor the weather radar map and quickly check the forecast with built-in AI weather assistant - all in one app.\n\nRain Viewer gives you access to all the essential tools needed to stay aware of the weather. This includes hyperlocal forecasts, a down-to-the-minute rain chart, weather alerts, a radar map, and widgets.\n\nWEATHER RADAR MAP\n\nWatch the animation to see the storm’s intensity and its path in the past, present, and future. This will give you a quick heads-up of what to expect in your area.\n\nFORECAST\n\nGet the most important weather information with hourly and daily forecasts that help you plan your days better. Check the minute-by-minute rain forecast when it starts to rain, so you'll know when the rain stops and avoid getting wet.\n\nSIRI INTEGRATION\n\nAdd Siri shortcuts to Rain Viewer and get quick weather updates, such as a forecast for your location or a weather radar map.\n\nAPPLE WATCH\n\nOur Apple Watch app brings the most important weather updates to your wrist. View detailed forecasts for any of your favourite locations, follow precipitation movement direction on a weather radar map, and get weather alerts. Enjoy smooth navigation and a beautiful design optimised for WatchOS 11.\n\nWEATHER ALERTS\n\nGet notified when the rain starts and ends with our precise rain alerts. Be aware of upcoming critical weather conditions with severe weather alerts.\n\nWIDGETS\n\nSmall things can make your life easier, like widgets. Set them up to get quick weather updates without even unlocking your phone. Stay informed and be prepared for any weather, right from your lock or home screen.\n\nTEMPERATURE MAP\n\nVisualise the temperature on the map and see how it will change globally during the next 24 hours. Spot heatwaves, track storms, and find cool retreats easily.\n\nDATA PRIVACY\n\nWe value your privacy. Rain Viewer doesn't personify or sell user data. With your geolocation, we enhance weather features like real-time location updates, precise forecasts, and alerts.\n\nThe Rain Viewer app is the ultimate weather tool, precise and reliable. But there's more, our in-app features take it to the next level:\n\n• AI weather assistant\n• Precipitation direction arrows on the radar map\n• Radar animation forecasts for the next 2 hours\n• Extended daily and hourly forecasts\n• 24-hour temperature and precipitation forecasts on the map\n• 48-hour map archives\n• Hurricane tracker\n• Weather tracking in up to 20 locations\n• No distracting ads\n\nPremium features are available through an in-app monthly subscription for $4.99, a quarterly subscription for $9.99, or an annual subscription for $19.99. Subscriptions renew automatically each month, quarter, or year unless cancelled in your App Store account settings. For more information, please refer to https://rainviewer.com/privacy-policy.html and https://rainviewer.com/terms.html.",
+      "android_package_name": "com.lucky_apps.RainViewer",
+      "ios_bundle_id": "com.lucky-apps.RainViewer",
+      "title": "RainViewer",
+      "domain_name": [
+        "https://www.rainviewer.com",
+        "https://www.rainviewer.com"
+      ],
+      "website": "https://www.rainviewer.com",
+      "developer": "MeteoLab Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EwFmwKbtEg63qi0Am-S1DXtCxupIZoZCo6JMXivLTwgZ5Z1guvcZFRwd2gZBxseL3A",
+      "icon_72": "https://play-lh.googleusercontent.com/EwFmwKbtEg63qi0Am-S1DXtCxupIZoZCo6JMXivLTwgZ5Z1guvcZFRwd2gZBxseL3A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.airvisual"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Instant Air Quality Monitoring & Real-Time Alerts\n\nPaku is the best app for PurpleAir, delivering fast, real-time air quality updates at your fingertips. Track air quality index (AQI), temperature, and humidity from PurpleAir sensors, with optional support for AirNow stations for comprehensive data.\n\n→ Best-in-Class Air Quality Monitoring\nPaku is fast and lightweight. View hyperlocal, real-time air quality, temperature and humidity from PurpleAir sensors, and enable AirNow stations for additional information.\n\n→ Gorgeous and Versatile Widgets\nConfigure widgets to show you the nearest sensor, any public sensor, or your own private sensor. Widgets are available for your Home Screen, Lock Screen, Apple Watch, and Mac Desktop.\n\n→ Real-time Air Quality Alerts\nConfigure alerts for sensors and get real-time push notifications when the AQI exceeds your specified threshold - and when it improves. Whether you live somewhere with frequent wildfires or strong inversions, these notifications can be invaluable.\n\n→ Live Activities\nView real-time air quality index and how it’s trending in the Dynamic Island and on the Lock Screen with Live Activities.\n\n→ Private Sensors\nAdd your private sensors to Paku, and view them on the map, in widgets, or use them with alerts.\n\n→ System Integration\nUse the Air Quality Nearby shortcut to view air quality using Siri, Spotlight, or power shortcuts and automations in the Shortcuts app.\n\n→ iCloud Sync\nPaku is available on iPhone, Apple Watch, iPad, and Mac for seamless monitoring wherever you are. Your favorites and settings sync to all your devices.\n\n→ Privacy First Design\nYour location never leaves the app, and Paku collects no personal information.",
+      "android_package_name": "com.airvisual",
+      "ios_bundle_id": "com.kylebashour.aqi-wtf",
+      "title": "PurpleAir",
+      "domain_name": [
+        "https://paku.app",
+        "https://paku.app"
+      ],
+      "website": "https://paku.app",
+      "developer": "Pitou Technologies, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/x778EXW4_XM-UHwz2S87HsdPVwXcI0sdx50p_QuhiJu5416UUx5MNao_JzgS42sFYQ",
+      "icon_72": "https://play-lh.googleusercontent.com/x778EXW4_XM-UHwz2S87HsdPVwXcI0sdx50p_QuhiJu5416UUx5MNao_JzgS42sFYQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.aqi.data"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Check Air Quality uses your GPS location to determine the levels of air pollution at the closest available air quality measuring station. You can also check the air quality index of other locations and cities worldwide with this easy to use pollution meter app.\n\nThis app is providing transparent air quality information for more than 88 countries, covering more than 11,000 stations in 1000 major cities\n\nBest features:\n1. Check real time AQI for your current city\n2. Show other atmospheric pollutants: SO2, NO2, PM10, CO, Ozone\n3. Search Air Quality data for any location by City name.\n4. Display up to date Air Quality Index (AQI) data for the selected location.\n5. Maintains a list of recently searched locations for easy look up and Air Quality reference.\n6. Display AQI on world map so you can compare AQI among stations or among countries.\n7. Send the latest AQI via notifications\n\nDisclaimer: \n1. The app uses your location permission which will be useful in determining the nearest measuring point.\n2. The data in this app will be updated on the request basis from http://waqi.org/",
+      "android_package_name": "com.aqi.data",
+      "ios_bundle_id": "TriDo.MyAirQualityIdx",
+      "title": "Air Quality Index (AQI)",
+      "domain_name": [],
+      "website": "",
+      "developer": "Do Tri",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zYcmB8SKs2NMSMTBTBDqEqiF57MJNq__XW97SV3hoYfxBnPOizJwfhiE4KvwY4ziFI4",
+      "icon_72": "https://play-lh.googleusercontent.com/zYcmB8SKs2NMSMTBTBDqEqiF57MJNq__XW97SV3hoYfxBnPOizJwfhiE4KvwY4ziFI4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.inmobi.weather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "WeatherUp is a free app to check weather condition of any location. This app is very simple, light weighted and easy-to-use that provides the world's most accurate weather forecasts in your local or any of your desired city.\n\nFeatures:\n\n- This app will detect your location and show you weather forecast of your city.\n\n- Quick view weather forecast.\n\n- You can select any city from the list and check weather situation of that area.\n\n- You can change default location for the weather forecast.\n\n- Flexible and easy to use application\n\n- Very low battery usage",
+      "android_package_name": "com.inmobi.weather",
+      "ios_bundle_id": "com.tchokoapps.weatherup",
+      "title": "WeatherUp",
+      "domain_name": [],
+      "website": "",
+      "developer": "Tientcheu Tchokouaha",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3H3vv_xa88QRlg7BfV33blm_cK6up8zyYticLFsp8kGN-ScZv6QoNF00GxUtomaDdrU",
+      "icon_72": "https://play-lh.googleusercontent.com/3H3vv_xa88QRlg7BfV33blm_cK6up8zyYticLFsp8kGN-ScZv6QoNF00GxUtomaDdrU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.earthheroorg.earthhero"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Lifestyle",
+      "description": "Earth Hero makes acting on climate change easy. It helps you take positive practical action in response to the climate emergency while discovering more satisfying ways to live. Earth Hero connects you to a global movement rising to the interconnected crises of climate change and rapid species loss. \n\n• Mobilize with a community of change-makers actively working to address global warming and rapid extinction.\n• Take climate action collectively.\n• Choose from personalized actions in areas such as travel, food, energy, and advocacy.\n• Discover ideas for healthy, smart, satisfying ways to live.\n• Calculate and use the carbon tracker to understand your carbon footprint and changes over time.\n• Compare your emissions reduction with science-based recommendations for a liveable planet.\n• Set your own green goals.\n• Share your actions with others.\n\nThrough personal change, collective action, and advocacy, together we can rise to the challenge of our age. Join the movement!\n\nPlease share ideas on what features you would like to see in future updates - leave a review or reach out directly through the Earth Hero app. Thanks!",
+      "android_package_name": "com.earthheroorg.earthhero",
+      "ios_bundle_id": "com.EarthHeroOrg.EarthHero",
+      "title": "Climate Change",
+      "domain_name": [
+        "https://earthhero.org",
+        "https://earthhero.org"
+      ],
+      "website": "https://earthhero.org",
+      "developer": "Earth Hero",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NZCMCfr8ur-6ZxnSz6Pm8PXq_93dDSaCr1UpyOzmrJDKOSrdOg1YEOLhHK6UAPI0qGc",
+      "icon_72": "https://play-lh.googleusercontent.com/NZCMCfr8ur-6ZxnSz6Pm8PXq_93dDSaCr1UpyOzmrJDKOSrdOg1YEOLhHK6UAPI0qGc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "dev.fawzi.solar"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Games",
+      "description": "Jump headlong into an astonishingly fun (and incredibly cute) 3D runner! Control your cuddly Fluffy with just a finger, dodging flames, ice, lasers and other crazy hazards. The road is full of pitfalls, but it’s sure to pull you in!\n\nFeatures:\n- Amazing 3D animation meets accessible gameplay that’s surprisingly immersive. \n- Avoid screen-blurring ice, blazing flames and loads of other dangers that can harm your adorable Fluffy.\n- Collect Gold to unlock more than 60 Fluffies and find the cute little puff that suits you the best.\n_____________________________________________\nVisit us at fluffyfall.com\n\nThis app allows you to purchase virtual items within the app and may contain third-party advertisements that may redirect you to a third-party site.\n\nPrivacy Policy:  kilosaurus.com/privacy-policy\nTerms of Use: kilosaurus.com/terms-of-service",
+      "android_package_name": "dev.fawzi.solar",
+      "ios_bundle_id": "com.whatgames.fluffyfall",
+      "title": "SolarPanel",
+      "domain_name": [
+        "http://fluffyfall.com",
+        "https://fluffyfall.com"
+      ],
+      "website": "http://fluffyfall.com",
+      "developer": "Kilosaurus",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Lk-nwY2a1uXtbqWH60Gbb73k-z9ammZRdzKSjDevSyU_XVFVS3LyodrFqTMwsVl4FjA",
+      "icon_72": "https://play-lh.googleusercontent.com/Lk-nwY2a1uXtbqWH60Gbb73k-z9ammZRdzKSjDevSyU_XVFVS3LyodrFqTMwsVl4FjA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.flightradar24free"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "NOAA Weather Radar and Tracker\n\nStay ahead of the weather with NOAA Weather Radar and Tracker! \nYour personal weather guide provides accurate forecasts and timely alerts to keep you safe and informed.\n\nKey Features:\n- Daily Summary\nGet a comprehensive overview of current weather conditions. Temperature, humidity, wind, and more – all in one convenient place.\n\n- Tomorrow’s Forecast\nPlan ahead with accurate predictions for the next day. Perfect for scheduling outdoor activities or travel.\n\n- Rain and Snow Alerts\nNever be caught off guard by rain or snow. The app notifies you of incoming precipitation, so you’re always prepared.\n\n- Frost Warnings\nMonitor temperature drops to avoid disruptions caused by frost, such as transportation issues or damage to plants.\n\n- Extreme Weather Alerts\nReceive timely warnings about hurricanes, thunderstorms, strong winds, or sudden temperature changes to ensure your safety.\n\n- Real-Time Weather Map\nTrack weather changes on an interactive map with live updates. See the movement of clouds, precipitation, and other atmospheric phenomena in real-time.\n\n- Storm Alerts\nGet instant notifications about approaching storms to take the necessary precautions for you and your loved ones.\n\nWhy Choose Us?\nOur advanced technology ensures accurate forecasts, seamless updates, and real-time tracking of weather conditions. The user-friendly interface makes accessing essential weather data simple and hassle-free, keeping you informed no matter where you are.\n\nDownload NOAA Weather Radar and Tracker and take control of the weather in your life! Be prepared for any surprises Mother Nature has in store.\n\nGet SkyRadar Premium:\n\n- Live weather radar\n- Hourly forecast\n- Hurricane tracker\n- Severe weather alerts for all saved locations\n- Precipitation alerts\n- Frosts alerts\n- NOAA alerts\n- Different radars\n- Animated wind map\n- 16-day forecast\n- Weather tracking\n- Extended charts\n- No ads\n\nSubscription payments will be charged to your App Store account at confirmation of your purchase. Subscriptions will automatically renew and you will be charged unless auto-renew is turned off or unless you cancel at least 24 hours prior to the end of the current subscription or trial period. Any unused portion of a free trial period will be forfeited when you purchase a premium subscription during the free trial period. The cost of renewal depends on the Subscription Plan you choose.\n\nSubscriptions and auto-renewal may be managed by going to Account Settings after purchase or by contacting Customer Support.\n\nApple Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nTerms of Use: https://skyradar.link/terms_of_use.html\nPrivacy Policy: https://skyradar.link/privacy_policy.html",
+      "android_package_name": "com.flightradar24free",
+      "ios_bundle_id": "com.weather.meteo.radar.sky.app",
+      "title": "SkyRadar",
+      "domain_name": [
+        "https://skyradar.link",
+        "https://skyradar.link"
+      ],
+      "website": "https://skyradar.link",
+      "developer": "Markov Denys",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/IxxF4rt1_5dQmlqaT2B-0KrF2mmwa_BNsHnkrPg1RsRAWCpT124I_r7rPKBbL1GtSo_e",
+      "icon_72": "https://play-lh.googleusercontent.com/IxxF4rt1_5dQmlqaT2B-0KrF2mmwa_BNsHnkrPg1RsRAWCpT124I_r7rPKBbL1GtSo_e=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "ai.meteum"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Meet Weather Mate. The most hyperlocal, accurate and beautiful weather app on the app store. It combines cutting edge weather forecasting with beautifully crafted UI design to deliver the most accurate climate information suitable for both basic and advanced users. \n\nWhat differentiates Weather Mate from the crowd of other weather apps on the app store?\n\nLOCAL, LOCAL, HYPERLOCAL\n\nWeather Mate uses weather data from the industry leader Weather Underground & The Weather Channel to guarantee that you get the most accurate & reliable weather forecast. But that's not all. Weather Mate uses the network of 250,000+ PERSONAL WEATHER STATIONS in addition to the Automated Surface Observation System (ASOS) stations located at airports around the globe to provide the most localized weather data. You have the option to choose the weather station which is closest to your home or work.\n\nFEATURES\n\n• Current weather conditions from the local weather station\n• 15-Day daily forecast containing textual summary for the day & night\n• Hourly forecast for each hour of the next 15 days containing detailed weather information at each interval\n• Weather widget for the lock screen notification center\n• Apple Watch app with customizable complications\n• Choose the Personal or Airport weather station which is closest to your desired area, to get the most localized weather data. Or you can use Composite weather station, which incorporates aggregated weather data from the network of nearby weather stations in addition to geography and elevation to derive accurate current conditions for any location.\n• Live Interactive Radar & Satellite, to go with 20+ other Map Layers.\n• Severe Weather Alerts Notifications to keep you ahead of bad weather coming your way\n• Push temperature alerts right on your home screen icon's badge. Stay updated about the weather even when not running the app!\n• Detailed Weather History dating back to several decades for any worldwide location.\n• Travel Planner feature to assist you plan your trip to any location based on its historical climate summary between any specified dates\n• Detailed Air Quality data including current, hourly / daily forecast, & historical readings. Also view Pollutant concentrations & Health recommendations\n• Weather Almanac feature: View daily & monthly weather almanac for any location\n• NWS Area Forecast Discussion feature (USA Only)\n• Weather Radio feature: Listen to live NOAA All Hazards Weather Radio for USA / Canadian locations\n• World clock showing the local time for each of your chosen locations\n• Share your weather screen with friends\n\nAPPLE WATCH\n\nComprehensive Apple Watch app, notifications & colorful complications for your watch face. Fast complications updates to always keep your watch face current. Option to customize your complications to any weather parameters of your preference.\n\nDETAILED WEATHER INFO\n\n• Current Temperature / Feels Like Temperature\n• Today's High & Low Temperatures\n• Weather Description / Icon\n• Wind Speed, Gust and Direction\n• Chance of Precipitation\n• Precipitation Rate, Today's Precipitation Accumulation\n• Rain Accumulation (Last 1, 6 & 24 Hours)\n• Snow Accumulation (Last 1, 6 & 24 Hours)\n• Visibility\n• Humidity\n• Barometric Pressure\n• Cloud Cover\n• Wind Chill\n• Heat Index\n• Dew Point\n• UV Index\n• Sunrise Time\n• Sunset Time\n• Moonrise Time\n• Moonset Time\n• Moon Age\n• Moon Illumination\n• Moon Phase\n\nINTERACTIVE WEATHER MAP LAYERS\n\n• Animated Radar including Past & Future modes\n• Animated Satellite including Past & Future modes\n• Storm Tracks\n• Weather Fronts\n• Windstream\n• Animated Dew Point\n• Animated Temperature\n• Animated Wind Speed\n• Animated UV Index\n• Severe Weather Alerts\n• Weather Stations\n• Active Fires (with Smoke Cover)\n• Hurricanes\n• Sea / Oceans Surface Temperature\n• Webcams\n• Lightning\n• Earthquakes\n\nSupport: support@weathermate.net\nPrivacy: www.weathermate.net/privacy-policy\nEULA: https://www.weathermate.net/terms-of-use/\nWe never sell your location data to anyone",
+      "android_package_name": "ai.meteum",
+      "ios_bundle_id": "net.WeatherMate.WeatherMateFREE",
+      "title": "WeatherMate",
+      "domain_name": [],
+      "website": "",
+      "developer": "DylogicApps Pvt Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/-iQ0Z9PA_XdMFUf6NvWenL47FXvkUaIzoLwDgdKiRRs1AEDEGVJadQPVZgNlkWo8Awo",
+      "icon_72": "https://play-lh.googleusercontent.com/-iQ0Z9PA_XdMFUf6NvWenL47FXvkUaIzoLwDgdKiRRs1AEDEGVJadQPVZgNlkWo8Awo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "de.wetteronline.wetterapppro"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "The Weather Channel is the World's Most Accurate Forecaster*. In addition to our daily forecasts, hourly details and 24-Hour Future Radar, you also can personalize your weather preferences from skin health to air quality index forecast and more.\n\nOur live Doppler radar maps, storm watch, and hurricane tracker can warn you ahead of time of severe storms, heavy rain, heat waves, or an incoming flood. Track air quality and wildfires in your area. Severe weather is increasing across the nation - our severe weather alerts have you covered. \n\nToday’s Weather Forecast:\n\nPlan up to 15 days in advance with forecasts from the World’s Most Accurate Weather Forecaster, so you can plan ahead with confidence*. Manage personal weather alerts, so you receive notifications that are important to you.\n\nDownload The Weather Channel to get you through storm season, hurricane season & extreme weather warnings. \n\nThe Weather Channel Features:\n\n- New personalized weather tracking for wherever you are including, uv index, pollen count, humidity & more\n- 15-minute forecast for rain intensity up to 7 hours in the future & radar on your homescreen\n- Check weather forecasts up to two weeks in advance!\n- Prepare for severe storms & hurricane season \n- New Air Quality Index forecast\n\nWidget & Homescreen Features:\n- Our smart widget offers more weather in detail at a glance and one-tap access to the forecast\n- Check your local radar, get severe weather alerts in your area, and check the forecast for the next three hours on your homescreen\n\nAdditional Features:\n- Detailed information on sunset times and allergy & flu forecasts\n- Keep informed with the latest weather news\n- Stay prepared during extreme weather events, hurricanes, and earthquakes with live breaking news alerts \n---\nUpgrade to The Weather Channel Premium for our most comprehensive, dynamic, and precise weather experience available. Exclusive access to:\n- Ad-free weather\n- 15-minute forecast details\n- Advanced 72-Hour Future Radar\n- and more!\n\nYou can cancel The Weather Channel subscription anytime through your iTunes account settings, or it will automatically renew. This must be done 24 hours before the end of any subscription period to avoid being charged another fee. Subscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. For more information, please see our Privacy Policy and Terms of Use.\n\nPrivacy & Feedback\n•Our Privacy Policy can be viewed here: https://weather.com/en-US/twc/privacy-policy\n•Our Terms of Use can be viewed here: http://www.weather.com/common/home/legal.html\n•If you have any questions or suggestions about our weather service, please do not hesitate to get in touch at iphonesupport@weather.com\n\n*The Weather Channel is the World's Most Accurate Forecaster. ForecastWatch, Global and Regional Weather Forecast Accuracy Overview, 2017-2022, https://forecastwatch.com/AccuracyOverview2017-2022, commissioned by IBM.\n\n**The Weather Channel is the Most Trusted News Source In America. According to a YouGov 2024 Trust in Media poll: https://today.yougov.com/politics/articles/49552-trust-in-media-2024-which-news-outlets-americans-trust\n\n***The World's Leading Weather Provider: According to Comscore, The Weather Company, parent of The Weather Channel, is the largest provider of weather forecasts worldwide based on total monthly unique visitors in 2020. Comscore Media Metrix®, Worldwide Rollup Media Trend, News/Information – Weather category incl. [P] Weather Company, The and [M] Weather Channel, The, Jan-Dec. 2020 avg.\n\nThe Weather Channel app had an average of over 35 million combined smartphone monthly active users worldwide from March through October 2021 according to internal analytics. Over 2M total 5-star ratings out of over 3.0 million total reviews since January 2018 according to Apple’s App Store Connect.\n\nThe Weather Channel® is a registered trademark of The Weather Company, LLC 2024",
+      "android_package_name": "de.wetteronline.wetterapppro",
+      "ios_bundle_id": "com.weather.TWC",
+      "title": "Weather Radar Pro",
+      "domain_name": [
+        "https://www.weather.com",
+        "https://www.weather.com"
+      ],
+      "website": "https://www.weather.com",
+      "developer": "The Weather Channel",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/o5Vce1Hs-VFq2yu5wCj3hB1Le2EBI5TUMLc0T5xjqhz9YE9ShEZejALtRdWx1FpZvPk",
+      "icon_72": "https://play-lh.googleusercontent.com/o5Vce1Hs-VFq2yu5wCj3hB1Le2EBI5TUMLc0T5xjqhz9YE9ShEZejALtRdWx1FpZvPk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.probadosoft.weather.pocketweather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Carry the power of a personal weather radar with Pocket Radar - your pocket-sized meteorological assistant. Swiftly view animated radar images and up-to-the-minute weather conditions wherever you go.\n\nEffortlessly monitor the movement of downpours, weather fronts, and storms through our intuitive zoomable rain radar feature. \"Pocket Radar\" delivers precise forecasts for any location worldwide, showcasing real-time weather updates and emerging patterns.\n\nExperience weather insights with speed, simplicity, and no cost! Our weather forecast app provides accurate depictions of current weather and upcoming patterns, ensuring you stay informed effortlessly. Pocket Radar - your dependable, fast, and free companion for a comprehensive weather overview. Elevate your weather tracking experience on the go.",
+      "android_package_name": "com.probadosoft.weather.pocketweather",
+      "ios_bundle_id": "com.badmonkeyteam.3DEarthHDW4cast",
+      "title": "Pocket Weather",
+      "domain_name": [
+        "http://www.bad-monkey.biz",
+        "https://www.bad-monkey.biz"
+      ],
+      "website": "http://www.bad-monkey.biz",
+      "developer": "Dmitry Alaev",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/S-ta7m6C0tbk2G3ggskMMrHSrxYw3z8nSG6NdkxARxYyCP0GxQ6sNNYeGfdwbroOHA",
+      "icon_72": "https://play-lh.googleusercontent.com/S-ta7m6C0tbk2G3ggskMMrHSrxYw3z8nSG6NdkxARxYyCP0GxQ6sNNYeGfdwbroOHA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wunderground.android.weather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Download FOX Weather to get the updates you need, straight from America’s Weather team. Forecast ten days or ten months in advance, customize your locations, and chase the storm with 3D radar tracking.\n\nFOX Weather is ready for whatever the weather brings—rain or shine. Live stream news, get severe weather alerts or track local conditions, including UV index, sunset/sunrise times, and feels-like temp. How?\n\n3D Radar\n• Go inside the eye of the storm with our exclusive 3D mobile radar, including both national and local high-resolution views.\n• Zoom, tilt, or swipe to look at the storm from any angle you choose and switch between 3D and 2D maps.\n\nForecasts\n• Check the forecast for today or 14 days from now.\n• Hour-by-hour breakdown for the next 48 hours.\n• Schedule your wedding, vacation, or family reunion with long-range forecasting, with alerts about changes in the forecast as they happen.\n\nLocation Customization\n• Rename locations that matter to you—customize with names including “Stephanie’s house” or favorite vacation spots, like “Ski Heaven.”\n\nAlerts\n• Push notifications give you the updates you need—when you need them. Plus, toggle between Fahrenheit and Celsius for international weather.\n• Subscribe to severe weather alerts and get notified about extreme or dangerous conditions.\n• Choose between hourly, daily, and historical views for any location worldwide.\n• Use widgets for an at-a-glance way to check the weather, with colors and icons that change depending on what’s going on outside.\n\nLive Streaming News\n• Tap into live streaming, on-demand forecasts, severe weather video clips, and more.\n• Delve into every angle of the story with over 100 meteorologists and firsthand FOX professionals.\n• Follow the storm, hurricane, tornado, or cyclone as it drifts across local, national, and international maps.\n• Stay safe with real-time updates about cold weather including rain, wind, and snow.\n• Be prepared for anything from heat waves to blizzards.\n• Get more than just a barometer read with reports on the humidity, UV index, and reports about thunder and lightning during storm surges.\n• Explore editor’s picks, lifestyle stories, videos of the earth and space, and discover new facts from the Learn section of the News tab.\n\nFeels-Like Temperature\n• Do you need a jacket today? Choose between actual temperatures and feels-like temperatures to find out.\n\nWeather Articles\n• Read about the top weather stories worldwide from our team of Digital Meteorologists, reporting on the biggest weather news around the clock from the FOX Forecast Center.\n\nSunrise and Sunset Times\n• Use the dusk and dawn predictors for that perfect sunrise hike or romantic sunset dinner.\n\nWind speed and gusts\n• Don’t let gusts blow you off your feet, with details including the wind speed and wind advisories.\n\nUV Index\n• Find out what days you need an extra layer of sunscreen.\n\nAmerica’s Weather Team\n• Meet the meteorologists who bring you the research, personality, and education that makes them our top field and studio correspondents.\n• Dive into analysis and coverage that break down even the most complicated weather patterns.\n\nCloud Cover\n• Don’t let clouds get in your way. Get details about how hazy the day will be.\n\nAir Quality Data\n• Breathe easy with reports about how clean the air is today.\n\nWeather apps can be a whirlwind. Get the FOX Weather App for 24/7 forecasts, news, and storm watches. FOX Weather—weathering it together.",
+      "android_package_name": "com.wunderground.android.weather",
+      "ios_bundle_id": "com.fox.weather",
+      "title": "Wunderground Forecasts",
+      "domain_name": [
+        "https://www.foxweather.com",
+        "https://www.foxweather.com"
+      ],
+      "website": "https://www.foxweather.com",
+      "developer": "Fox News Network, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/LzUvgH7tSaV1mzA9lzlA8iKnHCrVZnjTYtLZCgIYzN3FhAM84gJ3XLhHhB_6k3Lu9Q",
+      "icon_72": "https://play-lh.googleusercontent.com/LzUvgH7tSaV1mzA9lzlA8iKnHCrVZnjTYtLZCgIYzN3FhAM84gJ3XLhHhB_6k3Lu9Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.exovoid.weather.app"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "The Weather Channel is the World's Most Accurate Forecaster*. In addition to our daily forecasts, hourly details and 24-Hour Future Radar, you also can personalize your weather preferences from skin health to air quality index forecast and more.\n\nOur live Doppler radar maps, storm watch, and hurricane tracker can warn you ahead of time of severe storms, heavy rain, heat waves, or an incoming flood. Track air quality and wildfires in your area. Severe weather is increasing across the nation - our severe weather alerts have you covered. \n\nToday’s Weather Forecast:\n\nPlan up to 15 days in advance with forecasts from the World’s Most Accurate Weather Forecaster, so you can plan ahead with confidence*. Manage personal weather alerts, so you receive notifications that are important to you.\n\nDownload The Weather Channel to get you through storm season, hurricane season & extreme weather warnings. \n\nThe Weather Channel Features:\n\n- New personalized weather tracking for wherever you are including, uv index, pollen count, humidity & more\n- 15-minute forecast for rain intensity up to 7 hours in the future & radar on your homescreen\n- Check weather forecasts up to two weeks in advance!\n- Prepare for severe storms & hurricane season \n- New Air Quality Index forecast\n\nWidget & Homescreen Features:\n- Our smart widget offers more weather in detail at a glance and one-tap access to the forecast\n- Check your local radar, get severe weather alerts in your area, and check the forecast for the next three hours on your homescreen\n\nAdditional Features:\n- Detailed information on sunset times and allergy & flu forecasts\n- Keep informed with the latest weather news\n- Stay prepared during extreme weather events, hurricanes, and earthquakes with live breaking news alerts \n---\nUpgrade to The Weather Channel Premium for our most comprehensive, dynamic, and precise weather experience available. Exclusive access to:\n- Ad-free weather\n- 15-minute forecast details\n- Advanced 72-Hour Future Radar\n- and more!\n\nYou can cancel The Weather Channel subscription anytime through your iTunes account settings, or it will automatically renew. This must be done 24 hours before the end of any subscription period to avoid being charged another fee. Subscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. For more information, please see our Privacy Policy and Terms of Use.\n\nPrivacy & Feedback\n•Our Privacy Policy can be viewed here: https://weather.com/en-US/twc/privacy-policy\n•Our Terms of Use can be viewed here: http://www.weather.com/common/home/legal.html\n•If you have any questions or suggestions about our weather service, please do not hesitate to get in touch at iphonesupport@weather.com\n\n*The Weather Channel is the World's Most Accurate Forecaster. ForecastWatch, Global and Regional Weather Forecast Accuracy Overview, 2017-2022, https://forecastwatch.com/AccuracyOverview2017-2022, commissioned by IBM.\n\n**The Weather Channel is the Most Trusted News Source In America. According to a YouGov 2024 Trust in Media poll: https://today.yougov.com/politics/articles/49552-trust-in-media-2024-which-news-outlets-americans-trust\n\n***The World's Leading Weather Provider: According to Comscore, The Weather Company, parent of The Weather Channel, is the largest provider of weather forecasts worldwide based on total monthly unique visitors in 2020. Comscore Media Metrix®, Worldwide Rollup Media Trend, News/Information – Weather category incl. [P] Weather Company, The and [M] Weather Channel, The, Jan-Dec. 2020 avg.\n\nThe Weather Channel app had an average of over 35 million combined smartphone monthly active users worldwide from March through October 2021 according to internal analytics. Over 2M total 5-star ratings out of over 3.0 million total reviews since January 2018 according to Apple’s App Store Connect.\n\nThe Weather Channel® is a registered trademark of The Weather Company, LLC 2024",
+      "android_package_name": "com.exovoid.weather.app",
+      "ios_bundle_id": "com.weather.TWC",
+      "title": "Pro Weather",
+      "domain_name": [
+        "https://www.weather.com",
+        "https://www.weather.com"
+      ],
+      "website": "https://www.weather.com",
+      "developer": "The Weather Channel",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/MFMPQ9CI0em-4AuBsiEZ4qiTBBCZ9ThmijX8YA9WD3fv5RhtLyXcpc8qdZhSq1d6XTc",
+      "icon_72": "https://play-lh.googleusercontent.com/MFMPQ9CI0em-4AuBsiEZ4qiTBBCZ9ThmijX8YA9WD3fv5RhtLyXcpc8qdZhSq1d6XTc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.apalon.weatherradar.free"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Weawow is a free (and ad-free) weather app enhanced by beautiful weather-related photos taken by photographers around the world.\nThe photos reflect the current weather at your location, showing you whether it’s fair, cloudy, rainy, snowy, so you can decide whether you’ll need your umbrella or your sunglasses when you go out.\nWhen you open the Weawow app, you’re likely to encounter unexpected \"Wow\" photos, rather than a boring, text-based forecast. And that’s not all: if you take \"Wow\" photos yourself, you can post your \"Wow\" photos from our Website. Then, we can integrate them into the app, where they’ll be seen by weather watchers all over the world (the app is available in over 50 languages).\nThe app’s layout is customizable, allowing you to select what to display like rain, wind gust, pressure, UV index, etc.\nThe Weawow is sustained by user donations. If you like the Weawow and want to support the Weawow project, please donate to us.\nOf course, this is not mandatory, so please feel free to use the app.\n\n\nWEATHER DATA\n- Changeable weather providers: MET Norway, Apple Weather, Weatherbit, World Weather Online, Open Weather map, NWS, DWD, AEMET, Meteo France, (AccuWeather, Foreca).\n- Beautiful photos and weather forecast: The beautiful photos posted by users are matched with the weather forecast and displayed, so you can see the weather conditions from the photographs.\n- Detailed weather: Temperature, Feels-like temperature, Rain, Humidity, Dew point, Clouds, Pressure, Wind, Wind gust, UV index, visibility, Snow depth. Temp., Rain, Wind, Wind gust, Pressure, Dew point, Humidity, Cloud cover, UV index, Visibility, Snowfall, Solar radiation.\n- Supported languages: English, French, German, Spanish, and 50 more languages.\n- Sun and Moon: Sunrise time, sunset time, twilight, moon phases, full moon day, new moon day, age of the moon.\n- Air Quality, Severe Weather Alerts\n\n\nSIMPLE INTERFACE\n- No annoying advertisements are displayed at all.\n- Bookmark: Manage your favorite places with bookmarks. You can change them by swiping left / right.\n- Simple interface: You can get the necessary information by simply scrolling down the screen.\n- Choose your favorite theme: Dark theme and white theme are available.\n\n\nWEATHER MAP\n- Weather Provider: NOAA, RainViewer, MET Norway, MSC.\n- Globe (14 days forecast): You can check the wind animation and various weather layers with the 3D earth.\n- Map (Radar & 1 day forecast): You can check the real rainfall radar with the Apple Map.\n\n\nCUSTOMIZABLE LAYOUT\n- As you like: You can freely change the layout to display daily weather, hourly weather, radar, etc.\n- Sort order: You can change the priority of weather type like Temperature, Rain, Wind, Wind gust, Pressure, UV index.\n\n\nCUSTOMIZABLE WIDGETS\n- As you like: You can always check the weather you care about, such as the hourly UV index on your home screen.\n- Weather forecast widget with photos: Enjoy a richer home screen with beautiful photos and weather forecast.\n- You can custom the widget with various settings such as Details, Simple, Graph, Place, Large clock, Display Photo, etc.\n- You can also custom the lock screen with weather widgets.\n\n\nDONATE\n- If you donate to us, you can use AccuWeather / Foreca.\n\n\nMARKETPLACE\n- You can post and sell your photos from Weawow's browser service.\n- The posted photos are automatically displayed after being matched with the weather in the application as well.",
+      "android_package_name": "com.apalon.weatherradar.free",
+      "ios_bundle_id": "com.weawow",
+      "title": "Climendo",
+      "domain_name": [
+        "https://weawow.com",
+        "https://weawow.com"
+      ],
+      "website": "https://weawow.com",
+      "developer": "weawow Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1r5tFBa0XwFuJf4dN1ReBrAUdJ28K_2QRHcClC5m6je3LOI2oDmzOZiyhyWocrXBvgA",
+      "icon_72": "https://play-lh.googleusercontent.com/1r5tFBa0XwFuJf4dN1ReBrAUdJ28K_2QRHcClC5m6je3LOI2oDmzOZiyhyWocrXBvgA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.weather.nold.forecast"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Weather forecast: pay attention to your city's weather conditions, always make your life in advance to make decisions, to your travel escort.\n\n* Precise positioning: Wherever you go, always provide accurate weather forecasts for your location\n* Long time weather forecast: up to 12 days of weather forecast for your next two weeks good plan\n* Attention to every moment: time to pay attention to the hourly weather changes, to prevent sudden weather\n* More Weather Description: Sunrise Time, Sunset Time, Humidity, Precipitation Probability, Visibility, Wind Speed, Provide More Views for Your Travel Preparation\n* Tens of thousands of cities and towns: accurate coverage of the world's thousands of cities, towns, follow your pace, to provide you with weather conditions\n* Simple, flat UI design, refreshing\n\n  Weather forecast your personal weather steward!",
+      "android_package_name": "com.weather.nold.forecast",
+      "ios_bundle_id": "com.lsz.weather",
+      "title": "Haze - Weather Forecast",
+      "domain_name": [],
+      "website": "",
+      "developer": "硕柱 龙",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0",
+      "icon_72": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mg.android"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Meet Weather. The most beautiful weather app. Ever. Now available on the App Store.\n\nDon't let bad weather take you by surprise! Whether it is cloudy, raining, snowing or even stormy outside, Weather will provide you with current weather conditions and forecast in your city and multiple locations all around the world.\n\nCold or warm weather, it will magically come alive on the crisp screen of your iOS device. You won’t even have to look out the window as Weather will make you feel like you are already outside!\n\nThis app contains subscription :\n- You can subscribe for premium account with detailed forecasts, premium maps and no ads\n- Subscription is from $39.99 USD yearly, with monthly and quarter plan available\n\nLinks to our ToS and Privacy Policy\nhttps://sites.google.com/view/weatherpolicy",
+      "android_package_name": "com.mg.android",
+      "ios_bundle_id": "com.yoyoapps.weather",
+      "title": "WeatherPro HD",
+      "domain_name": [
+        "https://www.luni.app",
+        "https://www.luni.app"
+      ],
+      "website": "https://www.luni.app",
+      "developer": "Luni",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/rWWb2gQZNBmL2wBqHX4fTHmLw0H3nlxblIW4JMcQgYdEG8SX5blGfx06-NG5va2Ke8cj",
+      "icon_72": "https://play-lh.googleusercontent.com/rWWb2gQZNBmL2wBqHX4fTHmLw0H3nlxblIW4JMcQgYdEG8SX5blGfx06-NG5va2Ke8cj=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.accuweather.android"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Weather keeps you informed about conditions including temperature, rain, snow, and wind. Check out the forecast by the hour for the next ten days. Use maps to help you explore weather patterns in your area. Stay notified about upcoming adverse conditions. With iCloud your favorite locations are always synced and easily accessible whether you’re on your Mac, your iPad, your Apple Watch, or on your iPhone.\n\nFeatures\n\nForecasts\nQuickly check current and forecasted conditions by the hour for the next 10 days for temperature, wind, humidity, dew point, feels like temperature, UV index, barometric pressure, and visibility. \nStay aware of adverse conditions through severe weather alerts. \nFollow precipitation intensity over the next hour by the minute.\nGet more clarity about the weather at your location through relevant news articles.\n\nLocations\nSearch for the weather at any location and save your favorites. \nConveniently check the weather at your favorite locations on your iPhone, your iPad, or your Mac.\n\nWeather Maps\nTrack the path and intensity of storms for the next-hour by the minute or for the next 12 hours through animated maps of precipitation.\nObserve wind patterns including direction and speed for the next 24 hours through an animated wind map visualization.\nExplore maps that depict how conditions such as temperature and air quality vary near you.\n\nNotifications\nReceive notifications when rain or snow is about to start or stop, or for severe weather events such as tornadoes, hurricanes, and flash floods.\n\nAir Quality\nStay informed about the current level of air quality, how it compares to yesterday, as well as relevant health recommendations.\n\nHistorical Trends\nPlan your future travels and events using visualizations of seasonal averages of temperature and precipitation conditions.\n\nSun and Moon\nTrack today’s sunrise and sunset times, and comprehensive details about daylight.\nLearn about today’s moon phase, and moonrise and moonset times. Tap to see more intricate details such as the next full moon, and current illumination level as well as a full lunar calendar.\n\nMore ways to view Weather\nSee the forecast at a glance by adding Weather widgets to your Home Screen and Lock Screen.\nTrack the weather on-the-go from your Apple Watch. \nAsk Siri questions such as “What’s the weather like today?”, “How windy is it out there?” or “What time is sunrise in Paris?”\n\nSome features available for select countries or regions.",
+      "android_package_name": "com.accuweather.android",
+      "ios_bundle_id": "com.apple.weather",
+      "title": "Weather+ Free",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU",
+      "icon_72": "https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.studioeleven.windfinder"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Detailed wind and weather forecasts for your location. \nSee wind, waves, tides and weather reports and current wind measurements for your own weather predictions. Easy to use and free of charge.\n\n\nFEATURES:\n\n+ Detailed wind and weather forecasts for over 160,000 locations\n+ Current wind and weather measurements in real-time from 21,000 weather stations\n+ Tide forecasts for high and low tides for over 20,000 locations around the world\n+ Favorites: save nearby locations and monitor the weather\n+ Animated wind map for a global wind overview\n+ Small Wind Widgets (current conditions)\n+ New: Severe weather warnings for the US and Europe\n+ Measurements listed in knots, Beaufort, mph, km/h and m/s\n+ Parameters: Wind speed, wind direction, gusts, air temperature, felt temperature, clouds coverage, precipitation, air pressure, wave height, wave period and wave direction\n+ Webcams\n+ Optimized display for optimal readability on the go and on any mobile device\n+ Optimized data transfer for a quicker load speed\n+ Topographic maps provide a quick overview of weather conditions and assist with route planning\n+ Easy to use interface - even with wet and cold hands\n\n\nPERFECT FOR:\n\n• Kitesurfing & Windsurfing – find that next storm or windy days next door or at your next vacation\n• Sailing – plan your next sailing trip and ensure safe passage by avoiding bad weather at sea\n• Wing Foiling - Catch the wind with your wing\n• Surfing – find the perfect wave and high swell\n• Dinghy sailing & regatta racers\n• SUP & Kayak – make sure high waves and wind don’t risk your adventures\n• Paragliding – find a good wind right from the start\n• Fishing – ensure a good catch with wind directions and tides\n• Cycling, hiking & trekking – check if it will be windy on your route and take the right gear\n• Boat owners & captains – keep an eye on the current wind conditions and tides\n• ... anyone interested in reliable wind and weather predictions\n\n\nWINDFINDER PLUS:\n\nSubscribe to Windfinder Plus to get access to all features.\nWindfinder Plus is made for professionals, weather enthusiasts, athletes, captains and everybody who needs a plus in wind and weather forecasting. \nWith Windfinder Plus you also get:\n\n+ Wind alerts: Specify your preferred wind conditions and get notified when windy or calm days are forecasted\n+ Superforecast: our hourly high-resolution forecasting model for North America, Europe, South Africa, Egypt and the Canary Islands\n+ Wind & Weather widgets in all sizes with wind preview\n+ Ad free: no distractions\n+ Wind preview: get a quick visual overview of the next ten days\n+ Animated wind speed maps with wind gusts, temperature, precipitation and topographic images\n+ Wind report map: real-time wind measurements from over 21,000 stations directly on the wind map\n+ all webcams in the area\n+ many more\nWindfinder Plus is available as an In-App-Purchase.\n\nSubscriptions:\nWindfinder Plus: We offer auto-renewable \"Windfinder Plus\" subscriptions for one month or one year. The subscription unlocks the full feature set of Windfinder Plus.\nRemove Ads: We offer auto-renewable \"Remove Ads\" subscriptions for 3 months, 6 months or one year. The app will be free of ads while the \"Remove Ads\" subscription is active.\n\nDetails:\nA free trial period of 7 days is offered. Payment will be charged to iTunes Account at confirmation of purchase. You will be charged for another period (1 month, 3 months, 6 months or one year) unless you cancel at least 24 hours before the subscription is renewed. You can turn off the auto-renewal in your account settings after purchase.\nTerms of Use: www.windfinder.com/contact/terms\nPrivacy Policy: www.windfinder.com/contact/privacy_policy.htm\n\n\nSOCIAL MEDIA:\n\n• Facebook: @Windfinder.com\n• Instagram: @windfindercom\n• Youtube: wind.to/Youtube\n• Support: support@windfinder.com\n• FAQ: windfinder.com/help",
+      "android_package_name": "com.studioeleven.windfinder",
+      "ios_bundle_id": "net.windfinder.windfinderapp",
+      "title": "Windfinder",
+      "domain_name": [
+        "https://www.windfinder.com/apps",
+        "https://www.windfinder.com"
+      ],
+      "website": "https://www.windfinder.com/apps",
+      "developer": "Windfinder.com",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FNXV9IWrS7n2VMq1R_bRqWXQw-n69fkSxovQ-Wt6BiW7S3T8UuYfymZ4hTXanrhyaaQ",
+      "icon_72": "https://play-lh.googleusercontent.com/FNXV9IWrS7n2VMq1R_bRqWXQw-n69fkSxovQ-Wt6BiW7S3T8UuYfymZ4hTXanrhyaaQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mcy.cihan.darkskyxweather"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "The Weather Channel is the World's Most Accurate Forecaster*. In addition to our daily forecasts, hourly details and 24-Hour Future Radar, you also can personalize your weather preferences from skin health to air quality index forecast and more.\n\nOur live Doppler radar maps, storm watch, and hurricane tracker can warn you ahead of time of severe storms, heavy rain, heat waves, or an incoming flood. Track air quality and wildfires in your area. Severe weather is increasing across the nation - our severe weather alerts have you covered. \n\nToday’s Weather Forecast:\n\nPlan up to 15 days in advance with forecasts from the World’s Most Accurate Weather Forecaster, so you can plan ahead with confidence*. Manage personal weather alerts, so you receive notifications that are important to you.\n\nDownload The Weather Channel to get you through storm season, hurricane season & extreme weather warnings. \n\nThe Weather Channel Features:\n\n- New personalized weather tracking for wherever you are including, uv index, pollen count, humidity & more\n- 15-minute forecast for rain intensity up to 7 hours in the future & radar on your homescreen\n- Check weather forecasts up to two weeks in advance!\n- Prepare for severe storms & hurricane season \n- New Air Quality Index forecast\n\nWidget & Homescreen Features:\n- Our smart widget offers more weather in detail at a glance and one-tap access to the forecast\n- Check your local radar, get severe weather alerts in your area, and check the forecast for the next three hours on your homescreen\n\nAdditional Features:\n- Detailed information on sunset times and allergy & flu forecasts\n- Keep informed with the latest weather news\n- Stay prepared during extreme weather events, hurricanes, and earthquakes with live breaking news alerts \n---\nUpgrade to The Weather Channel Premium for our most comprehensive, dynamic, and precise weather experience available. Exclusive access to:\n- Ad-free weather\n- 15-minute forecast details\n- Advanced 72-Hour Future Radar\n- and more!\n\nYou can cancel The Weather Channel subscription anytime through your iTunes account settings, or it will automatically renew. This must be done 24 hours before the end of any subscription period to avoid being charged another fee. Subscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. For more information, please see our Privacy Policy and Terms of Use.\n\nPrivacy & Feedback\n•Our Privacy Policy can be viewed here: https://weather.com/en-US/twc/privacy-policy\n•Our Terms of Use can be viewed here: http://www.weather.com/common/home/legal.html\n•If you have any questions or suggestions about our weather service, please do not hesitate to get in touch at iphonesupport@weather.com\n\n*The Weather Channel is the World's Most Accurate Forecaster. ForecastWatch, Global and Regional Weather Forecast Accuracy Overview, 2017-2022, https://forecastwatch.com/AccuracyOverview2017-2022, commissioned by IBM.\n\n**The Weather Channel is the Most Trusted News Source In America. According to a YouGov 2024 Trust in Media poll: https://today.yougov.com/politics/articles/49552-trust-in-media-2024-which-news-outlets-americans-trust\n\n***The World's Leading Weather Provider: According to Comscore, The Weather Company, parent of The Weather Channel, is the largest provider of weather forecasts worldwide based on total monthly unique visitors in 2020. Comscore Media Metrix®, Worldwide Rollup Media Trend, News/Information – Weather category incl. [P] Weather Company, The and [M] Weather Channel, The, Jan-Dec. 2020 avg.\n\nThe Weather Channel app had an average of over 35 million combined smartphone monthly active users worldwide from March through October 2021 according to internal analytics. Over 2M total 5-star ratings out of over 3.0 million total reviews since January 2018 according to Apple’s App Store Connect.\n\nThe Weather Channel® is a registered trademark of The Weather Company, LLC 2024",
+      "android_package_name": "com.mcy.cihan.darkskyxweather",
+      "ios_bundle_id": "com.weather.TWC",
+      "title": "Dark Sky Weather",
+      "domain_name": [
+        "https://www.weather.com",
+        "https://www.weather.com"
+      ],
+      "website": "https://www.weather.com",
+      "developer": "The Weather Channel",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/8K5fu-rkBW1Ie5TCR051r1vqGhN7CXyOjJ57SF841z8uc5KXC8lmjMQo2JBL_iNJvjs",
+      "icon_72": "https://play-lh.googleusercontent.com/8K5fu-rkBW1Ie5TCR051r1vqGhN7CXyOjJ57SF841z8uc5KXC8lmjMQo2JBL_iNJvjs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.accurate.weather.forecast.live"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Real-time radar images, severe weather alerts, accurate weather forecasts and much more - precise & timely to help keep you safe!\n \nSTAY INFORMED:\n- Radar overlay shows the areas of rain, snow & mixed precipitation in high resolution and vivid colors right on the interactive map;\n- Precipitation map provides precipitation forecast for the next 24 hours; \n- Satellite map illustrates the cloud cover;\n- Choose background maps (standard, hybrid, satellite), search locations, add them to bookmarks and stay out of harm’s way.\n\nKEEP YOURSELF SAFE:\n- Read weather alerts with all the details you might need; \n- Receive push notifications whenever there’s a weather alert for the bookmarked location (tornadoes, hurricanes, freeze warnings, and more);\n- Monitor important National Weather Service watches, warnings and alerts in the form of interactive polygons on the map. Tap one to see the full alert text.\n\nVIEW WEATHER DETAILS:\n- 24-hour and 7-day forecast;\n- Current, today’s min & max and \"Feels Like\" temperature;\n- Pressure, humidity, wind speed, visibility, dew point info;\n- Chance of Precipitation;\n- Sunrise & sunset time.\n\nCoverage Info:\n\nRadar images: the US (Continental US, Alaska (except northern), Hawaii, Northern Mariana Islands and Puerto Rico), Mexico (northern), Canada (southern), Australia, the UK, Ireland, Germany, France, the Netherlands, Italy (northern and north-western), Denmark, Austria, Sweden, Finland, Spain, Portugal, Switzerland, Norway, Poland, Andorra, Japan and more. See the full list on the developer’s website.\nPrecipitation, temperature, satellite maps; wind map; snow depth forecast; hurricane, wildfire, lightning trackers; detailed weather info, precipitation alerts: most of the world.\nNWS watches, warnings: the US only. \nGovernmental severe weather warnings: Australia, Austria, Belgium, Canada, Denmark, Estonia, Finland, France, Germany, Ireland, Italy, Japan, Latvia, Luxembourg, Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland, UK.\n\nGet Premium:\n- Severe weather alerts for all saved locations\n- Hurricane tracker\n- Advanced precipitation forecast\n- Lightning tracker\n- Temperature map\n- Rain alerts\n- Air quality index\n- Wildfire tracking\n- RainScope\n- Hourly forecast\n- 14-day forecast\n- Animated wind map\n- Snow depth forecast \n- No ads\n\nSubscription payments will be charged to your App Store account at confirmation of your purchase. Subscriptions will automatically renew and you will be charged unless auto-renew is turned off or unless you cancel at least 24 hours prior to the end of the current subscription or trial period. Any unused portion of a free trial period will be forfeited when you purchase a premium subscription during the free trial period. The cost of renewal depends on the Subscription Plan you choose. \nSubscriptions and auto-renewal may be managed by going to Account Settings after purchase or by contacting Customer Support.\n\nPrivacy Policy: https://support.bendingspoons.com/privacy.html?app=749133753\nTerms of Service: https://support.bendingspoons.com/tos.html?app=749133753\nContact us: support@climeradar.com",
+      "android_package_name": "com.accurate.weather.forecast.live",
+      "ios_bundle_id": "com.apalonapps.radarfree",
+      "title": "Weather Live Free",
+      "domain_name": [
+        "https://climeradar.com",
+        "https://climeradar.com"
+      ],
+      "website": "https://climeradar.com",
+      "developer": "Easy Tiger Apps, LLC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2ihahyi6XVQkZ9jXKtZMD5PxPgSZPw4afAxaHghlDYCpGZ-VFY2dPic7ZqcKuVdoRfM",
+      "icon_72": "https://play-lh.googleusercontent.com/2ihahyi6XVQkZ9jXKtZMD5PxPgSZPw4afAxaHghlDYCpGZ-VFY2dPic7ZqcKuVdoRfM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.weather.nold.forecast"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Get daily news and events sent straight to your phone, because small news makes a big difference to communities! Keep up to date with current events, live local news, business news and more!\n\nSmall news makes a big difference! NewsBreak is your #1 local news app for current events, free live news, business news, and more. Download today to stay up to date on all things local!\n\nLocal news is different. NewsBreak believes that local news helps bring neighborhoods together around the unique stories they share in common. And only local, small news has the unique ability to meaningfully inform the decisions we make throughout the day.\n\nWhat’s the weather like in my area? What about traffic? What important events are happening nearby? Join NewsBreak’s growing local news community and see why over 45M people across the U.S. have helped make us the nation’s #1 local news app!\n\nAnd remember - we don’t just do local! Local breaking news, sports news, trending national & international news – NewsBreak’s got it all. Get everything from sports updates to national news headlines sent straight to your phone while coming together with your neighborhood to share in interesting conversations related to local news in your area.\n\nJoin the 45M+ locals across the U.S. that trust NewsBreak as their #1 local news app!\n\nNewsBreak Features:\n\nLocal News Highlights\n• Get a curated daily briefing on local news, traffic, events, local weather, and more.\n• Live stream news on local channels: follow local news, events, and activities.\n• Get local weather reports and traffic updates at a glance.\n\nBreaking News, National and Local\n• Both small news and breaking news, stay up to date with our current news coverage\n• Daily news highlights delivered straight to your device\n• Browse national news headlines and read comprehensive, in-depth stories.\n• Use the discovery engine to discover stories from over 10,000 trusted sources.\n\nPersonalized News Feed\n• Get the stories that matter to you with a highly personalized feed, relevant to your likes and dislikes.\n• Get coverage on the news that matters most to you, including sports news, business news, tech news, and more\n• Keep up with the latest coverage of important news and events, nationally and locally.!\n• Our news aggregator collects and delivers the news that matters to you.\n• Get news alerts customized to your tastes.\n\nYour Community News\n• Find local eats, small news updates, deals, shop openings, and more ahead of time.\n• Read personal and vivid stories from our local news writers and content creators.\n• Treat us as your personal newsstand, magazine collector, restaurant reviewer, and more.\n\nCreate Civic Value - Support the Cause\n• Use NewsBreak to revive the local news ecosystem and support small publishers.\n• Increase local story volume and geographic coverage to stimulate local storytelling and community power.\n\nFollow or Block the Trend - It’s Up to You\n• It’s totally cool to stay on top of some topics, or totally hate them!\n• NewsBreak allows you to follow what is trending, or completely block some topics you don’t appreciate.\n• You can laugh, share, think, cry, upvote, downvote, comment, reply...\n• NewsBreak is a free ground that welcomes you to express emotions & opinions.\n\nDownload NewsBreak today to stay informed on local news, national headlines, and world news!\n\nBetter informed, better life.",
+      "android_package_name": "com.weather.nold.forecast",
+      "ios_bundle_id": "com.particlenews.newsbreak",
+      "title": "World Weather",
+      "domain_name": [
+        "https://www.newsbreak.com",
+        "https://www.newsbreak.com"
+      ],
+      "website": "https://www.newsbreak.com",
+      "developer": "Particle Media Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0",
+      "icon_72": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.snow_forecast.snowforecast"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "AccuWeather’s trusted free weather forecast app is at your fingertips\n\nInternationally recognized by the World Meteorological Organization with awards making AccuWeather one of the best weather apps:\n“Best User Interface and Data Representation”\n“Best Weather Warnings”\n“Best Design and Presentation of Information, User-Friendliness; Access and Customization” \n\n\nWeather Forecasts You Can Depend On\n\n-  Live weather forecasts - including MinuteCast® forecasts for Minute by Minute® precipitation updates\n-  Local weather - including severe weather alerts, temperature, precipitation, and allergy outlooks for your day \n-  WinterCast™: winter weather forecasts - giving you advanced warnings of snowfall probabilities and accumulation\n-  Daily forecasts - include rain probability, cloud coverage, wind, live radar, air quality index, snowfall, and even UV index\n-  Advanced weather radar - gives you up to the minute views of storm tracking, snow, rain, ice, temperature changes, and much more\n-  RealFeel® & RealFeel Shade Temperature™ technology - helping you get a better sense of how the weather actually feels\n\nLive weather with Weather Alerts\n\nThe AccuWeather forecasting and severe weather alerts you know and trust. From local weather updates to WinterCast snow alerts, get the weather forecast you can rely on. With in-depth weather news, forecast updates, free weather alerts, plus today’s forecast and much more. Find out what makes AccuWeather the best as a trusted, free weather app. It’s the weather tracker you need!\n\nAdvanced Weather Radar\nSetting the standard for free weather radar:\n-  The accurate weather radar you know from AccuWeather\n-  Weather watches and warnings for your local area\n-  RealVue™ and Enhanced RealVue™ satellite imagery looking at weather patterns from space\n-  Weather radar views for water vapor, rainfall, sustained winds, and even storm surges\n-  Timely tropical storm radar tracking to see where and when storms might hit\n-  Current conditions maps shows temperature and RealFeel in and around your area\n-  5-day precipitation outlook to see what rain, snow, and ice could be in your area\n-  24-hour snowfall forecast shows detailed maps with snow accumulation and winter weather\n-  Temperature contour maps show how the temperature will change over the next day\n\nFor over 10 years, the AccuWeather app has brought you the weather\n\nWhether you're on the East Coast, Pacific Northwest, Southern Coast, or West Coast this free weather app can show you snow, wind, cold, rain and more! Stay prepared with our local weather and live forecasts. From extreme humidity, severe storms, allergy info, air quality index, snow storms, and ice alerts, get live updates that matter to you. Local weather forecasts are the AccuWeather specialty. \n\nOur weather tracker & live radar gives you Superior Accuracy™\n\nSevere weather warnings, today’s temperature, free weather radar maps & more!\n\n-  Get local forecasts and personalize the app depending on where you are in the world\n-  Go beyond today’s weather and look 45 days ahead to ensure that you’re prepared for any weather\n-  Try the MinuteCast feature for the most up to date live Minute by Minute weather forecast\n-  Weather alerts, storm alerts, and more! Get trending videos from AccuWeather’s dedicated news team\n-  Weather forecasting your way - a weather tracker that can filter and customize according to your preferences\n\nDownload the AccuWeather app today for free and enjoy award-winning Superior Accuracy in weather forecasting on your iPhone, Apple Watch, or other Apple device. More than just a daily forecast, try the best weather app and get more from your forecast.",
+      "android_package_name": "com.snow_forecast.snowforecast",
+      "ios_bundle_id": "com.yourcompany.TestWithCustomTabs",
+      "title": "Snow Forecast",
+      "domain_name": [
+        "https://www.accuweather.com",
+        "https://www.accuweather.com"
+      ],
+      "website": "https://www.accuweather.com",
+      "developer": "AccuWeather International, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/OUXpHZDHyi8HGO099H5WSeS8bhOsaG5S8bahsy2VXTuFaHJQVta_RtVBBcarYfi_qcXS",
+      "icon_72": "https://play-lh.googleusercontent.com/OUXpHZDHyi8HGO099H5WSeS8bhOsaG5S8bahsy2VXTuFaHJQVta_RtVBBcarYfi_qcXS=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.apalon.weatherradar.free"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "The WDAY Mobile Weather App includes:\n\n   • Access to station content specifically for our mobile users\n   • 250 meter radar, the highest resolution available\n   • Future radar to see where severe weather is headed\n   • High resolution satellite cloud imagery\n   • Current weather updated multiple times per hour\n   • Daily and Hourly forecasts updated hourly from our computer models\n   • Ability to add and save your favorite locations\n   • A fully integrated GPS for current location awareness\n   • Severe weather alerts from the National Weather Service\n   • Opt-in push alerts to keep you safe in severe weather",
+      "android_package_name": "com.apalon.weatherradar.free",
+      "ios_bundle_id": "com.wday.StormTRACKER",
+      "title": "StormTracker",
+      "domain_name": [],
+      "website": "",
+      "developer": "Forum Communications Company",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1r5tFBa0XwFuJf4dN1ReBrAUdJ28K_2QRHcClC5m6je3LOI2oDmzOZiyhyWocrXBvgA",
+      "icon_72": "https://play-lh.googleusercontent.com/1r5tFBa0XwFuJf4dN1ReBrAUdJ28K_2QRHcClC5m6je3LOI2oDmzOZiyhyWocrXBvgA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.yeacreate.climatelink"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Transform Your Home Comfort with Climatelink®\n\nElevate your home climate management with Climatelink®, the innovative app designed to put control of your heat pump and house heating system right at your fingertips. With Climatelink®, managing your home's temperature and energy use has never been easier or more efficient.\n\nWhy Climatelink®?\n\nRemote Control: Adjust your heat pump settings anywhere, anytime through your smartphone or tablet.\nWeather Adaptive: Get location-based weather forecasts to optimize your heating and cooling schedules.\nZone Management: Enjoy personalized comfort with detailed zone controls for heating and hot water.\nEnergy Insights: Monitor your energy consumption and CO2 emissions to make smarter, eco-friendly choices.\nFamily Sharing: Simplify home comfort for everyone with easy-to-use sharing features.\nFeatures:\n\nGet Started with Climatelink® Today\n\nDownload Climatelink® and experience the ultimate in home climate control. Compatible with most heat pump systems, Climatelink® is your key to a more comfortable, energy-efficient home.\n\nClimatelink® - Your Comfort, Our Climate Promise.",
+      "android_package_name": "com.yeacreate.climatelink",
+      "ios_bundle_id": "com.theclimatelink.climatelink",
+      "title": "ClimateLink",
+      "domain_name": [
+        "https://yeacreate.com",
+        "https://yeacreate.com"
+      ],
+      "website": "https://yeacreate.com",
+      "developer": "Yea Create Iot Co.,Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/oGBZ0bd3dVFn1kdRip6CtJzvj73UBsddlv3nu7EMkt-HEQ7JqHlJg_zTw7ZtGusk-Q",
+      "icon_72": "https://play-lh.googleusercontent.com/oGBZ0bd3dVFn1kdRip6CtJzvj73UBsddlv3nu7EMkt-HEQ7JqHlJg_zTw7ZtGusk-Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.weather.nold.forecast"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Prep. Predict. Pursue.\nDeerCast is the most advanced whitetail hunting app, built for deer hunters, by deer hunters. DeerCast predicts whitetail movement down to the hour based on weather variables in your area. Install now to see today’s whitetail forecast for free! \n\nWhitetail deer behavior is driven by their environment. Become a better whitetail hunter with the DeerCast hunting app. Get data-driven deer movement predictions, advanced weather forecasts, and mapping features all specifically formulated with the whitetail deer hunter in mind. DeerCast delivers all the information you need to get your buck. \n\n▶ FORECAST ▶ \n\nDesigned by renowned whitetail experts Mark and Terry Drury of Drury Outdoors, DeerCast pulls weather and moon data for your locations and delivers a custom, deer-movement prediction, just for you. \n\n▶ MAP ▶ \n\nPlan your whitetail hunts with multiple GPS maps and tools built specifically for the whitetail hunter. Find property lines, hunting land, and more.\n\n◆ Property Info Maps \n◆ Hunting Land Maps \n◆ Custom Waypoints \n◆ Wind Check \n◆ Food Plots \n◆ Live Doppler Radar \n◆ Virtual Rain Gauges \n\n▶ TRACK ▶ \n\nSelect your hit on an anatomical whitetail model, then get expert advice to track and recover your deer. \n\n▶ COMMUNITY ▶ \n\nGet thousands of hunting articles and share your successes in the field. Learn from the Drury Outdoors team and watch their hunts as they happen. \n\n▶ FEEDBACK ▶ \n\nWe want to know about your experience with DeerCast. Shoot us an email at support@deercast.com. \n\nBilling & Subscription: Charges apply to your iTunes Account upon purchase confirmation. \n\nPrivacy Policy: https://www.deercast.com/privacy-policy/ \n\nTerms & Conditions: https://www.deercast.com/terms-of-service/",
+      "android_package_name": "com.weather.nold.forecast",
+      "ios_bundle_id": "com.druryoutdoors.deercast.app",
+      "title": "Weathercast",
+      "domain_name": [
+        "https://deercast.com",
+        "https://deercast.com"
+      ],
+      "website": "https://deercast.com",
+      "developer": "Drury Marketing, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0",
+      "icon_72": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.exovoid.weather.app"
+      },
+      "cat_key": "WEATHER",
+      "cat_keys": [
+        "WEATHER",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "This amazing app is like magic on your hand! It's truly amazing what you can do with the world at your fingertips!\nThe gorgeous 3D images of our beautiful planet will draw you in, and you'll find yourself forgetting that the app's main feature is actually the weather forecast!\n\nThis amazing app has everything you could possibly want! It has detailed current weather, detailed hourly and daily weather forecasts for the whole world, a fast search, and a beautiful user interface. It's truly one of the best apps in the store!\n\nWe'd love to welcome you to our Premium version! It's got all the premium features you could possibly need.\nWe've got different weather data sources to make sure your weather forecasts are as accurate as can be!\nWe've got your back when it comes to extreme weather! Our weather alerts will keep you informed about any extreme weather conditions and temperature changes.\nWe've got some lovely high-quality animated clouds, wind, temperature and pressure maps with the hourly forecast for you!\nWe'd love to keep you up to date with the latest weather reports! As a Premium subscriber, you can even set the time for getting weather report notifications in the morning and evening. This is a great way to help you plan your next day!\nWe've also added a longer list of locations for you to choose from! We're delighted to let you know that our Premium subscribers can now enjoy an expanded list with more cities and locations.\nWe've got some great weather widgets for you! We've made sure that our Premium subscribers have lots of different weather widgets to choose from, with different sizes, settings and forecast views.\nWe're happy to say that an ad has been removed! Our basic users will see ads throughout the app, but don't worry! Not to worry, Premium subscribers don't have to worry about that! We'd love to welcome you to the faster, ad-free world of Weather Now!\n\nBecome a Premium user and you'll stay in the know about any severe weather that might be heading your way. You'll also get to enjoy the weather on your iPhone and iPad without any pesky ads!\nWe're so excited to give you complete access to all the amazing Weather Now features! To do this, we just need to ask you to allow us to access a couple of things:\n- Location so we can provide you with the weather forecast and alerts for your exact location as you move or travel;\n- Notifications so you never miss an important weather alert.\n\nWe really hope you're as excited about this as we are!\n\nWeather Now PREMIUM\n\nSubscribe to Weather Now Premium and get the more features in the app.\n• Weather Widgets\n• Alternative Weather Sources\n• Full privacy: No ads or tracking\n• Enchanced Weather Maps\n\nSubscription length periods: 1 month with 3 days free trial, and 1 year with 3 days free trial.\nPayment for Weather Now PREMIUM subscriptions will be charged to your iTunes account at the time of purchase. Your subscription will be automatically renewed every 30 or 365 days.\n\nSubscriptions will automatically renew at the begining of the next billing period and be charged to your Apple account within 24-hours. Unless auto-renew is turned off at least 24-hours before the end of the current period. You can turn off auto-renew at any time from your Apple account settings, but refunds will not be provided for any unused portion of the term.\n\nTerms of use link: https://weathernow.app/term-of-use.html\nPrivacy poilicy link: https://weathernow.app/privacy.html",
+      "android_package_name": "com.exovoid.weather.app",
+      "ios_bundle_id": "deluxeware.Weather",
+      "title": "Weather XL Pro",
+      "domain_name": [
+        "https://www.weathernow.app/index.html",
+        "https://www.weathernow.app"
+      ],
+      "website": "https://www.weathernow.app/index.html",
+      "developer": "Evgeny Tormozov",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/MFMPQ9CI0em-4AuBsiEZ4qiTBBCZ9ThmijX8YA9WD3fv5RhtLyXcpc8qdZhSq1d6XTc",
+      "icon_72": "https://play-lh.googleusercontent.com/MFMPQ9CI0em-4AuBsiEZ4qiTBBCZ9ThmijX8YA9WD3fv5RhtLyXcpc8qdZhSq1d6XTc=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

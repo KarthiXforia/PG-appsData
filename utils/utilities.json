@@ -1,0 +1,1347 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.docs"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Google Drive, part of Google Workspace, lets you securely store, intelligently organize and collaborate on files and folders from anywhere, on any device.\n\nWith Drive, you can:\n• Safely store and access your files anywhere\n• Edit and store 100+ file types, including PDFs, Office files, videos and more\n• Quickly access recent and important files\n• Scan and upload paper documents using your device’s camera\n• Search for files by name and content\n• Filter files by type, last modified date and more\n• Share and set permissions for files and folders\n• View your content on the go while offline\n• Receive notifications about important activity on your files\n\nGoogle Workspace subscribers have access to additional Drive functionality, including:\n• Security and management controls for admins to help meet data compliance needs\n• Sharing files and folders directly with groups or teams within your organization\n• Creating a shared drive to store all of your team’s content\n\nLearn more about Google Apps update policy: https://support.google.com/a/answer/6288871\n\nGoogle accounts get 15GB of storage, shared across Google Drive, Gmail, and Google Photos. For additional storage, you can upgrade to Google Workspace or Google One as an in-app purchase.\n\nStorage subscriptions purchased from the app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.\n\nGoogle Privacy Policy: https://www.google.com/intl/en_US/policies/privacy\nGoogle Drive Terms of Service: https://www.google.com/drive/terms-of-service\n\nFollow us for more:\nX: https://x.com/googleworkspace and https://x.com/googledrive\nLinkedIn: https://www.linkedin.com/showcase/googleworkspace\nFacebook: https://www.facebook.com/googleworkspace/",
+      "android_package_name": "com.google.android.apps.docs",
+      "ios_bundle_id": "com.google.Drive",
+      "title": "Google Drive",
+      "domain_name": [
+        "http://drive.google.com/start",
+        "https://drive.google.com"
+      ],
+      "website": "http://drive.google.com/start",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/t-juVwXA8lDAk8uQ2L6d6K83jpgQoqmK1icB_l9yvhIAQ2QT_1XbRwg5IpY08906qEw",
+      "icon_72": "https://play-lh.googleusercontent.com/t-juVwXA8lDAk8uQ2L6d6K83jpgQoqmK1icB_l9yvhIAQ2QT_1XbRwg5IpY08906qEw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.dropbox.android"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Dropbox lets you upload, save, and transfer photos and files to the cloud. Backup and sync your pictures, videos, documents, and other files to cloud storage and access them from any device, anywhere. With advanced sharing features, it’s easy to share and send photos or files to family, friends, and co-workers.\n\nFeatures:\n• Automatically upload videos and photos from your camera roll to cloud photo storage - all in the background - for easy video sharing and photo sharing.\n• Access any file in your account - even offline - and preview over 175 different file types with no special software required.\n• Easily send large files by copying and pasting a link you can give to anyone, even if they don’t have a Dropbox account.\n• Scan documents, receipts, IDs, photos, and more using your mobile device and transform them into high-quality PDFs, so you can view and send anywhere.\n• Sync folders on your PC or Mac to Dropbox with computer backup, and recover older versions or restore deleted files with version history and file recovery.\n\nSign up now for your free Dropbox Plus trial. You’ll get 2 TB (2,000 GB) of storage space - that’s enough room to save files from all your linked devices. And with Dropbox Rewind, you can roll back any file, folder, or your entire account, up to 30 days.\n\nExisting Plus customers can upgrade to Dropbox Professional. With 3 TB (3,000GB), you can store all your stuff - from work projects to personal photos - and have space to spare. You and your clients can comment on most file types without leaving Dropbox. And you can protect your work with a watermark, add shared link controls, or rewind your account up to 180 days.\n\nBefore starting a trial or completing payment, you’ll see the plan price. This amount will be charged to your iTunes account at confirmation of purchase and on renewal and will vary by plan and country. Dropbox subscriptions renew monthly or yearly, depending on your plan. Your account will be charged for renewal 24 hours before the end of your current billing period. To avoid auto-renewal, turn it off within at least 24 hours before your subscription renews. You can turn off auto-renewal anytime from your iTunes account settings. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase.\n\nDropbox is a secure cloud solutions leader trusted by Fortune 500 companies for their most sensitive data. Over 14 million paid users choose Dropbox because they know they can count on a company that’s also dedicated to their security and privacy—no matter what they do or where they are. Let Dropbox be your all-in-one file storage, file organizer, file transfer, and file sharing solution for all your devices.\n\nWe’d love to hear from you! Join the Dropbox community: https://www.dropboxforum.com\n\nTerms of Service: https://www.dropbox.com/terms\n\nPrivacy Policy: https://www.dropbox.com/privacy",
+      "android_package_name": "com.dropbox.android",
+      "ios_bundle_id": "com.getdropbox.Dropbox",
+      "title": "Dropbox",
+      "domain_name": [
+        "https://www.dropbox.com",
+        "https://www.dropbox.com"
+      ],
+      "website": "https://www.dropbox.com",
+      "developer": "Dropbox, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/WUcazXmUT97aoXa1TmB72z1RrP4shaBA4Te9vH5fcCHIPCBVjj5F6fGEPgNq6HXmXw",
+      "icon_72": "https://play-lh.googleusercontent.com/WUcazXmUT97aoXa1TmB72z1RrP4shaBA4Te9vH5fcCHIPCBVjj5F6fGEPgNq6HXmXw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.microsoft.skydrive"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Microsoft OneDrive keeps your photos, videos, and files backed up, protected, synced, and accessible on all your devices. The OneDrive app lets you view and share OneDrive files, photos, and videos with friends and family. You can use the app to automatically back up your phone's photos and videos. Start with 5 GB of free cloud storage or upgrade to a Microsoft 365 subscription to get up to 1 TB.\n \nMicrosoft OneDrive Features:\n \nBack up photos and videos  \n• Automatic photo and video backup when you turn on Camera Upload\n• View photos and videos on your phone, computer, and web browser\n \nFile sharing and management\n• Share files, photos, videos, and albums with friends and family\n• Get notifications when a shared document is edited\n• Set password-protected or expiring sharing links*\n• Access entire folders on the app even when there is no internet connection*\n \nScan\n• Scan and save documents, business cards, receipts, whiteboards, and more\n• Mark up, sign, and send docs right from the OneDrive mobile app\n \nSearch\n• Search docs by name or content\n \nSecurity\n• Personal Vault lets you protect your important files with identity verification\n• Restore documents with version history on all files\n• Ransomware detection and recovery*\n \nWorks with Microsoft Word, Excel, PowerPoint, OneNote, Outlook\n• Back up, view, and save your Office documents.\n• Use Microsoft Office apps to edit and collaborate in real time on Word, Excel, PowerPoint, and OneNote files stored in OneDrive.\n• Edit documents offline and save them once you are back online\n \nUpgrade to a Microsoft 365 Personal or Family subscription:\n• 1TB of storage (1TB of storage per person for up to 6 people with the Family subscription)\n• Access OneDrive premium features\n• Get access to Word, Excel, PowerPoint, Outlook, and OneNote on iPad, iPhone, and iPod touch\n• Install Word, Excel, PowerPoint, and Outlook on PCs or Macs.\n• Bigger personal vault\n• Keep your shared files, folders and photos more secure by giving others access for a limited period of time\n• Ransomware detection and recovery\n• Offline Folders: Stay productive and access entire folders even when there is no internet connection\n• Increase your sharing limit and share 10x content per day with friends and family\n \nYou can also purchase additional cloud storage only, with a Microsoft 365 Basic subscription. This is enough cloud storage for 32,000 photos (9 MP JPEG photos) or 132,000 documents (.7 MB Office files).\n \nTo make an in-app purchase of a Microsoft 365 Basic, Microsoft 365 Personal, Microsoft 365 Family subscription: open the app, tap the Me tab, then tap Get More Storage or the Go Premium diamond icon.\n \nSubscriptions begin at $1.99 a month in the US, and can vary by region. Microsoft 365 subscriptions purchased from the app will be charged to your Apple ID and will automatically renew within 24 hours prior to the end of the current subscription period, unless auto-renewal is disabled beforehand.\n \nTo manage your subscriptions or to disable auto-renewal, after purchase, go to your Apple ID account settings. A subscription cannot be cancelled or refunded during the active subscription period.\n \nUsing this OneDrive app for work or school\nFor you to sign into your work or school account on OneDrive, your organization needs to have a qualifying OneDrive, SharePoint Online or Microsoft 365 business subscription plan.\n \nPrivacy\nThis app is provided by Microsoft. Data provided through the use of this store and this app may be accessible to Microsoft and transferred to, stored, and processed in the United States or any other country where Microsoft or its affiliates maintain facilities.\n \nPrivacy Policy: https://go.microsoft.com/fwlink/?LinkID=507539.\nTerms of Use: https://go.microsoft.com/fwlink/p/?LinkID=246338.\nConsumer Health Data Privacy Policy: https://go.microsoft.com/fwlink/?linkid=2259814.\n \n*Requires Microsoft 365 Personal or Family subscription",
+      "android_package_name": "com.microsoft.skydrive",
+      "ios_bundle_id": "com.microsoft.skydrive",
+      "title": "OneDrive",
+      "domain_name": [],
+      "website": "",
+      "developer": "Microsoft Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6AWr-qrhGT0ohjw0koq3bM8GHEFg1gTurald4FjCDg2RulTp4y_VVsYWUtw7Fo6lsQo",
+      "icon_72": "https://play-lh.googleusercontent.com/6AWr-qrhGT0ohjw0koq3bM8GHEFg1gTurald4FjCDg2RulTp4y_VVsYWUtw7Fo6lsQo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.photos"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Google Photos is a smarter home for all your photos and videos, made for the way you take photos today.\n\n“The best photo product on Earth” – The Verge\n“Google Photos is your new essential picture app” – Wired\n“Upload the pictures, and let Google Photos do the rest” – The New York Times\n\n• 15 GB OF CLOUD STORAGE: Every Google Account comes with 15 GB of storage and you can choose to automatically back up all your photos and videos in High quality or Original quality. Your photos are safe, secure, and private to you. All photos and videos you back up in High quality before June 1, 2021 will not count toward your Google Account storage.\n\n• FREE UP SPACE: Never worry about running out of space on your phone again. Photos that are safely backed up can be removed from your device’s storage in just a tap.\n\n• NO ADS: Google Photos doesn't sell your photos, videos, or personal information to anyone and we don't use your photos and videos for advertising.\n\n• FAST AND POWERFUL SEARCH: Your photos are now searchable by the people, places and things in them—no tagging required.\n\n• GOOGLE LENS: Search what you see. This preview enables you to identify text and objects in your photos to learn more and take action.\n\n• SMARTER SHARING: With smart sharing suggestions, giving your friends the photos you took of them is painless. And they can add their photos, too, so you’ll finally get the photos you’re actually in.\n\n• ADVANCED EDITING: Transform photos with a tap. Use intuitive and powerful photo and video editing tools to apply content-aware filters, adjust lighting, and more.\n\n• MOVIES AND GIFS, MADE FOR YOU: Get automatically created movies, collages, GIFs, and more from your photos. Or easily create them yourself.\n\n• LIVE ALBUMS: Share your latest photos with Live Albums. Select the people and pets you want to see and Google Photos will automatically add photos of them as you take them, no manual updates needed.\n\n• SHARED LIBRARIES: Share without sharing. Grant a trusted person access to all of your photos.\n\n• REDISCOVER: Get collages of photos you took a year ago on this day – perfect for #tbt.\n\n• ON YOUR TV: View your photos and videos on your TV with Chromecast and Airplay support.\n\n\nYou can also upgrade storage for your Google Account, used for Original Quality photos and videos, Google Drive and Gmail by subscribing to Google One, an expanded storage plan. Subscriptions start at $1.99/month for 100 GB in the US. Pricing and availability can vary by region.\n\nStorage subscriptions purchased in-app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.\n\nGoogle Privacy Policy: https://google.com/intl/en_US/policies/privacy\nGoogle One Terms of Service: https://one.google.com/terms-of-service\n\nNote: Face grouping is not available in all countries.\n\nFor the latest updates from the team, follow us on Twitter at @googlephotos\n\nUsing GPS in the background can decrease battery life. Google Photos doesn't run GPS in the background unless you turn on optional features.",
+      "android_package_name": "com.google.android.apps.photos",
+      "ios_bundle_id": "com.google.photos",
+      "title": "Google Photos",
+      "domain_name": [
+        "https://www.google.com/photos/about",
+        "https://www.google.com"
+      ],
+      "website": "https://www.google.com/photos/about",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA",
+      "icon_72": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.adobe.reader"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "MAJOR NEW UPDATE:\n\nThe new Adobe Acrobat AI Assistant makes it easier than ever to do more with PDFs.\n\nAI ASSISTANT\n• Use voice or text prompts with AI chatbot\n• Ask questions and quickly get cited answers about specific details in your document\n• Generate summaries and content for emails, text, study notes, blogs, and more\n• Easily share the responses you get from your AI Assistant\n• Voice support to ask AI Assistant queries and have answers read aloud\n\n[AI Assistant is a paid feature*, free for a limited time]\n\nThe world’s most trusted PDF reader and PDF editor with more than 635 million installs. View, share, annotate, add comments, and sign documents —all in one app. You can store your files online and read documents anywhere.\n\nGet your 7-day free trial and try all the features of Acrobat Reader.\n\nPREMIUM FEATURES:\n\nEDIT PDFs\n• With our PDF editor, edit text and images directly in your PDF (mobile only)\n• Fix typos or add paragraphs with the PDF editor\n• Easily add, delete, or rotate any image\n\nMERGE & ORGANIZE PDFs WITH PDF CONVERTER\n• Split or combine multiple files into one PDF with PDF converter\n• Use the PDF editor to insert, delete, rotate, crop & reorder pages in your PDF file\n\nCREATE, CONVERT & EXPORT PDFs\n• Easily convert to PDF from any file type—including Microsoft files, Google Docs, and images\n• Export and convert PDFs to Microsoft Word, Excel, PowerPoint, or image files (jpg, png, and more)\n\nCOMPRESS & HIGHLY SECURE PDFs\n• Compress PDF files for easy saving and sharing\n• Password Protect PDF documents\n\nSubscribe now to access all these features and use Acrobat across mobile and web platforms.\n\nFREE-TO-USE FEATURES:\n\nFILL & SIGN\nAll the features you loved from Adobe Fill & Sign are free & available here in Acrobat Reader. Fill, sign, and send any form fast and reliably.\n\nRECOGNIZE TEXT\n• Optical Character Recognition (OCR) identifies text in PDF docs\n• Extract text and convert scanned documents into editable, searchable PDF files instantly\n• Matches your fonts. Your new PDF will match your original printout thanks to automatic font generation\n• Works with Office Export PDFs to a Microsoft Word doc, other Office files, or plain text files\n• Preserve the exact look and feel of your documents by saving them as smart PDFs\n\nLIQUID MODE FOR OPTIMAL PDF VIEWING\n• Get the best PDF reading experience with Liquid Mode\n• Quickly navigate & adjust font size or spacing\n• PDFs readjust to fit your screen\n• Use Search to instantly find text in your documents\n\nSHARE PDFs & COLLABORATE\n• Share files for commenting or viewing\n• Collect & respond to comments from multiple people in one file\n• Receive activity notifications for shared files\n• Use @mention tag to invite & add non-collaborators to the review\n\nANNOTATE PDFs\n• Add personalized sticky notes, comments, and highlight text\n• Write and draw directly on PDFs\n• Share files with others and collect their comments in one place\n\nSTORE & MANAGE FILES\n• Link online storage accounts like Microsoft OneDrive, Dropbox, or Google Drive\n• Star files to quickly open important documents\n\nCONNECT THE PDF READER TO GOOGLE DRIVE\n• View, share, and star Google Drive files\n• Create, edit, compress, and export Google Drive files with a subscription\n\nWORK WITH SCANNED DOCUMENTS\n• Access the scanned PDFs you’ve created using the free Adobe Scan app\n• Open your scans in Acrobat’s PDF Reader to fill, sign, comment & share\n\nThe Acrobat Reader mobile app is designed to work with customers who have Enterprise Mobility Management (EMM) enabled.\n\n*An AI Assistant add-on plan is available to Acrobat Individual customers. iOS 16 or above required. \n\nTerms & Conditions: Your use of this application is governed by the Adobe General Terms of Use http://www.adobe.com/go/terms_linkfree_en and the Adobe Privacy Policy http://www.adobe.com/go/privacy_policy_linkfree_en\n\nDo not sell or share my personal information www.adobe.com/go/ca-rights-linkfree",
+      "android_package_name": "com.adobe.reader",
+      "ios_bundle_id": "com.adobe.Adobe-Reader",
+      "title": "Adobe Acrobat Reader",
+      "domain_name": [],
+      "website": "",
+      "developer": "Adobe Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2Ping9j81LZ1m0hErKGopD8FcahtQ92FRiLUCUsPLI13ctWy5urjnZlpqYVGoWy1WZPq",
+      "icon_72": "https://play-lh.googleusercontent.com/2Ping9j81LZ1m0hErKGopD8FcahtQ92FRiLUCUsPLI13ctWy5urjnZlpqYVGoWy1WZPq=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.microsoft.office.officelens"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "The Microsoft 365 Copilot app is your everyday productivity app for work and life that helps you find and edit files, scan documents and create content on the go with access to Microsoft 365 Copilot Chat*, Word, Excel, PowerPoint and PDFs all in one app. (Formerly the Microsoft 365 (Office) app.)\nWith Copilot for work, easily ask, create and draft in a simplified chat experience to boost productivity.\n\n*Copilot Chat in the Microsoft 365 Copilot app is available for Microsoft 365 Enterprise, Academic and SMB subscribers with a work or education account. Microsoft 365 Personal and Family subscribers and free accounts can access Microsoft Copilot at copilot.microsoft.com and on the Copilot mobile app. It is available in these specific markets: https://support.microsoft.com/en-gb/office/supported-languages-for-microsoft-copilot-94518d61-644b-4118-9492-617eea4801d8.\n\nWord, Excel, PowerPoint and Copilot all in one app:\n• Collaborate with Copilot, your AI assistant, to catch up, ask questions and draft content. \n• Use Word to write and edit documents such as CVs with professional templates.\n• Use PowerPoint with tools such as Presenter Coach to practise your presentation.\n• Use Excel to manage your budget with spreadsheet templates.\n• Try Designer* to create designs and edit photos in seconds with the power of AI.\n*Designer is only available for personal Microsoft accounts. A Microsoft 365 Personal and Family subscription will be required to continue using premium features.\n\nPDF capabilities:\n• Scan PDF files and convert them into Word documents with the PDF converter tool.\n• Edit PDF files on your device quickly and easily while on the go.\n• PDF Reader allows you to access and sign PDFs.\n\nAnyone can download the Microsoft 365 Copilot app for free. Access and save documents to the cloud by connecting a Microsoft Account (for OneDrive or SharePoint) or by connecting to a third-party cloud storage provider. Logging in with a personal Microsoft account or a work or school account connected to a Microsoft 365 subscription will unlock premium features within the app.\nSubscription & Privacy Disclaimer\n\nMonthly Microsoft 365 Personal and Family subscriptions purchased from the app will be charged to your App Store account and will automatically renew within 24 hours prior to the end of the current subscription period, unless auto-renewal is disabled beforehand. You can manage your subscriptions in your App Store account settings.\n\nThis app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided using this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.\nPlease refer to Microsoft’s EULA for Terms of Service for Microsoft 365. By installing the app, you agree to these terms and conditions: https://support.office.com/legal?llcc=en-gb&aid=SoftwareLicensingTerms_en-gb.htm",
+      "android_package_name": "com.microsoft.office.officelens",
+      "ios_bundle_id": "com.microsoft.officemobile",
+      "title": "Microsoft Office Lens",
+      "domain_name": [
+        "https://products.office.com/office",
+        "https://products.office.com"
+      ],
+      "website": "https://products.office.com/office",
+      "developer": "Microsoft Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ydTw_fsOTtosGmLEUlUH_l-rJoiE2gN_EYbneUPYwFqpOCj6orGRMffceZW0QHxbk5g",
+      "icon_72": "https://play-lh.googleusercontent.com/ydTw_fsOTtosGmLEUlUH_l-rJoiE2gN_EYbneUPYwFqpOCj6orGRMffceZW0QHxbk5g=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cambyte.okenscan"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "The most intelligent scanner app\nTrusted by 750M+ users\n\nCamScanner is an all-in-one scanner app. It turns your mobile device into a powerful portable scanner that recognizes text automatically (OCR) and improves your productivity to save your time. Download this scanner app for free to instantly scan, save, and share any document in PDF, JPG, Word, or TXT formats.\nWould you like to keep your entire office in your pocket and increase your productivity at work? Use the CamScanner scanner app to handle your paperwork with ease. Say goodbye to huge and heavy copy machines and get this ultra-fast scanner app for free now.\n\nDOCUMENT SCANNER\nThis free-of-charge yet powerful scanner app is a must-have for students and anyone involved in business: accountants, realtors, managers, or lawyers. With this PDF scanner, scan anything you need, receipts, contracts, paper notes, fax papers, books, and store your scans as multipage PDF or JPG files.\n\nVARIOUS SCANNING MODES\n–ID CARD & PASSPORT: A mode specifically designed for fast and convenient scans of ID documents.\n–QR CODE: Scan any QR code with the camera on your mobile device.\n\nPDF CONVERTER\n–PDF Converter: This PDF scanner enables you to create PDF from a website, and convert documents in multiple formats to PDF.\n–Supported file formats: PDF, JPG, DOC, DOCX, TXT, XLS, XLSM, XLSX, CVS, PPT, PPTM, PPTX.\n\nSHARE AND COLLABORATE\n–Share files for commenting or viewing in WhatsApp, iMessage, Microsoft Teams.\n–Collect comments from multiple people in one file online.\n–Speed document reviews by responding to each other's comments.\n–Receive activity notifications for the files you share.\n\nINNOVATIVE PDF SCANNER\n–Scan documents and photos to PDF, JPG, or TXT.\n–Easily scan multiple pages into one document.\n–Extract text from any scannable object with text recognition (OCR).\n–Create and add your own e-signature on documents.\n\nHANDY DOCUMENT EDITOR & FILE MANAGER\n–Edit scans with filters and the feature of noise removal.\n–Manage files with folders, drag & drop to reorder, and enjoy other document editing features.\n–Protect your confidential scans by locking folders and files with passwords.\n\nEASILY SEND DOCUMENT\n–Scan, save and send documents in just a few taps.\n–Email with attachments or send document links.\n–Upload scanned documents to cloud services like Dropbox, Google Drive, Evernote, and OneDrive.\n–Print PDF files, such as contracts and invoices, right from the scanner app.\n–Send files quickly and securely. Scanning or sharing is achieved with no intervention from the CamScanner scanner app team or any third party. Documents are safely stored on your mobile devices.\n\nUNLIMITED ACCESS MEMBERSHIP SUBSCRIPTION\n–You can subscribe to get unlimited access to all features of the scanner app.\n–Subscriptions are billed weekly, monthly, quarterly, or annually at the rate based on the subscription plan.\n–Payment will be charged to iTunes Account at confirmation of purchase.\n–Subscription renews automatically unless auto-renew is turned off at least 24 hours before the end of the current period.\n–Account will be charged for renewal within 24 hours prior to the end of the current period. The cost depends on the selected plan.\n–Subscriptions may be managed by the user, and auto-renewal may be turned off by going to the user's Account Settings after purchase.\n–Any unused portion of the free trial will be forfeited when the user purchases a subscription.\n\nFor Terms of Use, please visit\nhttps://www.camscanner.com/app/service?language=en-us\nFor Privacy Policy, please visit\nhttps://www.camscanner.com/app/privacy?language=en-us\n\nWe'd love to hear your feedback: isupport@camscanner.com\nFollow us on Twitter: @CamScanner\nLike us on Facebook: CamScanner\nFollow us on Google+: CamScanner\n\nCheck out other products of INTSIG:\nCamCard - Business Card Reader",
+      "android_package_name": "com.cambyte.okenscan",
+      "ios_bundle_id": "com.intsig.CamScannerLite",
+      "title": "CamScanner",
+      "domain_name": [
+        "https://www.camscanner.com",
+        "https://www.camscanner.com"
+      ],
+      "website": "https://www.camscanner.com",
+      "developer": "INTSIG Information Co., Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/sUKk_jAEheYf0ZH19vgLS9wGqL95OGcgVK39mC3US46A4RPi8nPhdYZvW97TNFFlNA",
+      "icon_72": "https://play-lh.googleusercontent.com/sUKk_jAEheYf0ZH19vgLS9wGqL95OGcgVK39mC3US46A4RPi8nPhdYZvW97TNFFlNA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ace.ex.file.manager"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "ES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-face fast transfer function: support for transferring files between mobile phones\n\n-Compress and decompress\nSupport the compression and decompression of ZIP, RAR, 7Z format files\nSupport Chinese password\n\n-Built-in audio and video player\nSupport functions: double-speed playback (0.5～2.0), background playback, small window playback, etc.\nCan directly play audio and video resources in the network disk, local area, and local area network\n\n-Netdisk aggregation\nNo need to download, you can access and use the files in the network disk\nSupport simultaneous login with multiple accounts on the same network disk\nSupport mainstream network disks such as Baidu network disk, google drive, OneDrive, dropbox, etc.\n\n-Remote service access:\nSMB, FTP, WebDAV\n\n-Built-in PDF editor\nSupport PDF file browsing\nPDF file editing: supports highlight, underline, strikethrough, pen and other functions\n\n-Built-in novel reader\nSupport TXT, EPUB format, continuous optimization\n\n-Built-in code editor\nSupports browsing and editing of 47 code formats such as json, js, log, java, php, swift, xml, net, etc.\nSupport code theme switching, font size adjustment, encoding format adjustment\n\n-Other functions\nAutomatic backup function: support incremental backup of system albums and ES local files to Baidu network disk, SMB, FTP, WebDAV\nRecycle bin function: support ES local files to be temporarily stored in the ES recycle bin after deletion to prevent file loss\nBrowser: Support web browsing\nApplication lock: protect user privacy and safety\n\n\nES PRO\n- When you purchase ES PRO, you will Unlock all premium features. \n- ES PRO is billed monthly or annually at the rate corresponding to the selected plan. \n- Payment will be charged to your iTunes account at confirmation of purchase. \n- According to the Apple Store policy, your subscription will be automatically renewed after the free trial ends. \n- Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. \n- Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase. \n\nTerms of Service: http://esfile.do-global.com/h5/user_manual.html\nPrivacy Policy: http://www.estrongs.com/privacyStatement/en/index.htm\nEmail: esfileexplorerfeedback@outlook.com\nFacebook: https://www.facebook.com/OfficialESFileExplorer/\nYouTube: https://goo.gl/YVXXV3",
+      "android_package_name": "com.ace.ex.file.manager",
+      "ios_bundle_id": "com.doglobal.ESFileExplorer",
+      "title": "ES File Explorer",
+      "domain_name": [
+        "http://www.estrongs.com",
+        "https://www.estrongs.com"
+      ],
+      "website": "http://www.estrongs.com",
+      "developer": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/35euntW2gTciNDv82LmgrwdcTFBsvctwGHoYY_bZ0dHmG5swbasBp5GUXJZ6V8ghLjM",
+      "icon_72": "https://play-lh.googleusercontent.com/35euntW2gTciNDv82LmgrwdcTFBsvctwGHoYY_bZ0dHmG5swbasBp5GUXJZ6V8ghLjM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.nbu.files"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Google Drive, part of Google Workspace, lets you securely store, intelligently organize and collaborate on files and folders from anywhere, on any device.\n\nWith Drive, you can:\n• Safely store and access your files anywhere\n• Edit and store 100+ file types, including PDFs, Office files, videos and more\n• Quickly access recent and important files\n• Scan and upload paper documents using your device’s camera\n• Search for files by name and content\n• Filter files by type, last modified date and more\n• Share and set permissions for files and folders\n• View your content on the go while offline\n• Receive notifications about important activity on your files\n\nGoogle Workspace subscribers have access to additional Drive functionality, including:\n• Security and management controls for admins to help meet data compliance needs\n• Sharing files and folders directly with groups or teams within your organization\n• Creating a shared drive to store all of your team’s content\n\nLearn more about Google Apps update policy: https://support.google.com/a/answer/6288871\n\nGoogle accounts get 15GB of storage, shared across Google Drive, Gmail, and Google Photos. For additional storage, you can upgrade to Google Workspace or Google One as an in-app purchase.\n\nStorage subscriptions purchased from the app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.\n\nGoogle Privacy Policy: https://www.google.com/intl/en_US/policies/privacy\nGoogle Drive Terms of Service: https://www.google.com/drive/terms-of-service\n\nFollow us for more:\nX: https://x.com/googleworkspace and https://x.com/googledrive\nLinkedIn: https://www.linkedin.com/showcase/googleworkspace\nFacebook: https://www.facebook.com/googleworkspace/",
+      "android_package_name": "com.google.android.apps.nbu.files",
+      "ios_bundle_id": "com.google.Drive",
+      "title": "Files by Google",
+      "domain_name": [
+        "http://drive.google.com/start",
+        "https://drive.google.com"
+      ],
+      "website": "http://drive.google.com/start",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA",
+      "icon_72": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ifttt.ifttt"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Automation for business and home\n\nSave time at work and at home with IFTTT (aka IF This Then That). Join a community of almost 30 million consumers, creators and smart home enthusiasts that use IFTTT to save multiple hours out of a typical day. IFTTT’s simple no-code interface, combined with 1000+ of today's most popular apps, allows you to quickly create sophisticated automations. Discover the power of automation while on the go with location based features, notifications and widgets. Download the app today. We offer a free plan, as well as a fully featured trial.\n\nHere are a few ideas to get you started:\n\n• Write once then cross post to multiple social networks\n• Connect and control every aspect of your smart home\n• Create and summarize content with IFTTT AI\n• Use IFTTT Location to trigger work and smart home automations\n• Automate even more apps with IFTTT Webhooks\n\nTop iOS apps\niOS Calendar, iOS Contacts, iOS Health, iOS Photos, iOS Reading List, iOS Reminders, iOS Shortcuts\n\nIFTTT AI services\nAI Content Creator, AI Prompt, AI Social Creator, AI Summarizer, AI YouTube Assistant\n\nTop 40 business apps on IFTTT\nAcuity, Airtable, Aweber, Buffer, Calendly, Clickup, Constant Contact, Discord, DocuSign, Dropbox, Eventbrite, FaceBook Lead Ads, Gmail, Google Ads, Google Calendar, Google Docs, Google Forms, Google Meet, Google My Business, Google Sheets, Gumroad, Instagram, LinkedIn, Mailchimp, Microsoft, Notion, Pipedrive, QuickBooks, RSS, Shippo, Slack, Stripe, SurveyMonkey, Todoist, Trello, Webflow, WordPress, X(Twitter), YouTube, Zoom\n\nTop 40 home apps on IFTTT\nAqara, Arlo, August, Blink, Coinbase, ESPN, FitBit, GE, Google Assistant, Google Nest, Google Wifi, Home Connect, Honeywell, Husqvarna, iRobot, LaMetric, LIFX, Midea, MyQ, Nanoleaf, NZXT, Philips Hue, Ring, Sengled, Somfy, Smart Life, SmartThings, Soundcloud, Spotify, Strava, SwitchBot, Twitch, Weather Underground, WeMo, Wink, Withings, Wyze, Yeelight, Yelp\n\nGet help: https://help.ifttt.com\nTerms of Use: https://ifttt.com/terms",
+      "android_package_name": "com.ifttt.ifttt",
+      "ios_bundle_id": "com.ifttt.ifttt",
+      "title": "IFTTT",
+      "domain_name": [
+        "https://ifttt.com",
+        "https://ifttt.com"
+      ],
+      "website": "https://ifttt.com",
+      "developer": "IFTTT Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/XFBZEhuA1CdMM4WRd2G9ahWL5SUhIV6MgE0ZKEqtsd3jChyhABQB7-rEjkvnhLt8Als",
+      "icon_72": "https://play-lh.googleusercontent.com/XFBZEhuA1CdMM4WRd2G9ahWL5SUhIV6MgE0ZKEqtsd3jChyhABQB7-rEjkvnhLt8Als=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.filetransfert.sharingfiles.india_2020"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Need to transfer file between phones or between phone and pc? Try Xender and experience the fastest all-in-one file transfer and sharing app!\n\nXender can send anything you want, from documents, photos, to videos, in an instant with a few taps. Besides to transfer and share file between iOS devices,  Xender also allows to transfer file between iOS and other devices.\n\nForget about tangled data cables, slow Bluetooth, transfer apps that have to use your mobile data and tools that need you to install software on your computer. Download Xender now.\n\nPhone to Phone Transfer\n●  No USB, no internet, no data usage!\n●  Transfers everything - files, documents, photos, audios, videos!\n●  Extremely fast - imagine transfer video to friends in seconds!\n●  Supports group file sharing to up to 4 devices.\n●  Supports cross-platform file transfer and sharing between iOS and other devices.\n\nBuilt-in Music Player\nPowerful File Manager with a full featured music player. Enjoy songs within the App.\n\nPhone to Computer Transfer\n●  Connects your phone to computer - even other people’s, anywhere!\n●  Transfers everything - files, documents, photos, videos!\n●  No need to install any software on computer.\n●  Supports off-line mode with high transfer speed and no internet is needed! Send anywhere as you want. \n\nTransfer music from iPhone to iPhone\nTransfer videos from iPhone to other phones\nTransfer photos from iPhone to Laptop PC\nTransfer pictures from other phones to Laptop PC\nTransfer MP3 from iPhone to Desktop PC\nTransfer MP4 from other phones to Desktop PC\nTransfer songs from iPhone to MacBook\nTransfer files from other phones to MacBook\n\nSupported Languages\nArabic, Bangla, Chinese (Hong Kong), Dutch, English, French, German, Hausa, Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Portuguese (Brazil), Punjabi, Romanian, Spanish, Swahili, Thai, Turkish, Urdu, Vietnamese\n\nStay Connected \nFacebook: https://facebook.com/XenderApp\n\nSupport\nservice@xender.com",
+      "android_package_name": "com.filetransfert.sharingfiles.india_2020",
+      "ios_bundle_id": "cn.shanchuan.shanchuan",
+      "title": "Xender",
+      "domain_name": [
+        "http://www.xender.com",
+        "https://www.xender.com"
+      ],
+      "website": "http://www.xender.com",
+      "developer": "Xender (HK) Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5ryB5LLxHzdPyHcTVIkU5EmpBvJAyY6SEhFMAAPkRMCqZUC-b_vqS33f17acSIurjdo",
+      "icon_72": "https://play-lh.googleusercontent.com/5ryB5LLxHzdPyHcTVIkU5EmpBvJAyY6SEhFMAAPkRMCqZUC-b_vqS33f17acSIurjdo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.nbu.files"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Access and organize your files no matter where they’re located — on your device, in the cloud, on an external drive or file server— with Files. The Recents view displays the files you’ve been working on lately in high-resolution thumbnails. Use the powerful Browse view to navigate folders, organize your files with tags, move files between folders, and search. Files also makes it easy to access iCloud Drive and third-party cloud storage services such as Dropbox, Box, and OneDrive.\n\nFeatures\n\n• Press the Files icon in the Dock or Home screen to quickly open a file from anywhere\n\n• Connect an external drive or SD card to your device to access the files\n\n• Connect to a file server at work or a home PC using SMB from Files\n\n• Use tags to organize files stored with different cloud providers and across different apps.\n\n• Pin your favorite folders in Browse view for quick access to the ones you use most.\n\n• Give people access to any file stored in iCloud Drive by sharing a link from the Files app\n\n• Drag and drop to select files and organize them into folders",
+      "android_package_name": "com.google.android.apps.nbu.files",
+      "ios_bundle_id": "com.apple.DocumentsApp",
+      "title": "Files (Apple)",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA",
+      "icon_72": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.sand.airdroid"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "AirDroid is the TOP 1 comprehensive devices management tool which includes file transfer, file management, remote control, screen mirror, and notification management. Trusted by 500 million+ users worldwide, AirDroid is your first choice for a secure management app.\n\nAirDroid provides the most convenient way to help you transfer files across different platforms, sharing and sending photos or files to family, friends, and co-workers is easy. \n\nWith the powerful function of remotely controlling your devices, camera, keyboard, and screen, you will unlock an awesome tool that helps you on many occasions like office, study, etc.,\n\n==KEY FEATURES==\n•\tFile Transfer \n•\tFile Management\n•\tDevice Remote Control\n•\tDevice Remote Mirroring \n•\tCamera Remote Control \n•\tBackup photos and videos in a Tap\n•\tMessages, Calls & Contact Management \n\nTRANSFER & MANAGE FILES & FOLDERS \n•\tManage your files and create folders for all of your needs\n•\tImport files from your computer, web, or any nearby devices remotely\n•\tManage files where you want\n•\tUp to 20Mb/s transfer speed\n \n REMOTE CONTROL DEVICES WITHOUT ROOT\n•\tRemote control devices without a USB cable\n•\tScreen remote control with no latency\n•\tCamera remote control is supported\n•\tKeyboard remote control is supported\n•\tScreen mirror in a tap\n\nLAN CONTROL DEVICES BECOME MUCH EASIER\n•\tLAN files transfer in seconds\n•\tLAN control mobiles\n•\tLAN control camera\n•\tLAN device screen mirroring \n\nBROWSER REMOTE MANAGEMENT\n•\tSupport all browsers\n•\tWeb remote controls, screen mirror, notification management\n•\tFind devices, remote reset device's data \n\nDEVICES MANAGEMENT\n•\tManage calls and SMS\n•\tManage contacts in an easier way\n•\tBackup videos and photos in a click\n\nSHARE YOUR FEEDBACK \nWe are committed to open communication with our users. Before leaving a review, please get in touch with us first with any questions or support issues. We will respond and address your concern promptly. Contact us through our website https://www.airdroid.com/personal",
+      "android_package_name": "com.sand.airdroid",
+      "ios_bundle_id": "com.sandstudio.airdroid.iphone",
+      "title": "Airdroid",
+      "domain_name": [
+        "https://www.airdroid.com",
+        "https://www.airdroid.com"
+      ],
+      "website": "https://www.airdroid.com",
+      "developer": "SAND STUDIO CORPORATION LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/16vTHSEJ9f4CQIKH4wtJ2urNhgY3kwBtyG5gWDRiRmVU2vH2a-8a9l0CQFZOKw2CU_o",
+      "icon_72": "https://play-lh.googleusercontent.com/16vTHSEJ9f4CQIKH4wtJ2urNhgY3kwBtyG5gWDRiRmVU2vH2a-8a9l0CQFZOKw2CU_o=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "pl.solidexplorer2"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Zip Extractor & RAR Opener App here to assist you with anything you need to unarchive or compress files. The file manager built-in allows to open compressed files, browse them and view content of different extensions. Adapt your files routine with all-in-one solution.\n\n*Pricing in countries may vary and actual charges may be converted to your local currency depending on the country of residence.\n*Payment will be charged to iTunes Account at confirmation of purchase.\n*Subscription will be automatically renewed. Auto-renew can be turned off at least 24 hours before the end of the current period.\n*Your account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal.\n*Subscriptions may be managed by you and auto-renewal may be turned off by going to the user's iTunes Account Settings.\n\nFor more information use Apple Support links:\n- https://support.apple.com/en-us/HT202039\n- https://support.apple.com/en-us/HT204084\n\nPrivacy Policy:\nhttps://docs.google.com/document/d/17WUH3vJuicMBVU6ptLKaZyIjkKtZGKlLQDT6YWY2M9Q/edit?usp=sharing\n\nTerms of Use:\nhttps://docs.google.com/document/d/1UlhwQ6-Qy7D_zxo1ZyO3yd2ULs9X8eVq82EkSsMX--c/edit?usp=sharing\n\nContact:\npuzotopollala@gmail.com",
+      "android_package_name": "pl.solidexplorer2",
+      "ios_bundle_id": "com.unzipzip.app",
+      "title": "Solid Explorer",
+      "domain_name": [],
+      "website": "",
+      "developer": "Jekson Turner",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/_sX2KdkFOwzvT3J8dmcLcYAa6mDQG6OBweFxFN6mwwpIY0SMjuEbo6wsjfUhjN0DSA",
+      "icon_72": "https://play-lh.googleusercontent.com/_sX2KdkFOwzvT3J8dmcLcYAa6mDQG6OBweFxFN6mwwpIY0SMjuEbo6wsjfUhjN0DSA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "free.vpn.unblock.proxy.turbovpn"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Want to protect online privacy and secure iPhone data? Try Turbo VPN global servers now! Surf privately and securely, encrypt your traffic, and enjoy a fast online experience.\n\nTurbo VPN Features:\n\nSurf the web privately\nTurbo VPN hides your true IP address and is fully committed to your digital privacy. We follow a strict no-log policy. \n\nStay secure on Wi-Fi hotspots\nSecure your internet connection anytime, anywhere with our stable vpn servers. Rest assured when you connect to a Wi-Fi hotspot next time.\n\nAccess your favorite content\nUltra-fast vpn servers let you browse different sites and stream the world freely no matter where you are.\n\nWorldwide VPN servers \nWe have more than 10000 servers located across 40+ countries. Connect to any servers you like and anonymize your online activity straight away. With the new search feature, you can easily find and enjoy your favorite server. \n\nStable and fast connection\nA large amount of VPN servers to ensure you a better private web browsing experience.\n\nEasy to use\nTurbo VPN brings you a one tap VPN solution where it only takes one tap to set up a secure connection.\n\nFor policy reason, this service is not available in China. We apologize for any inconvenience caused.\n\nAdditional Subscription Information\n\n- Subscription may be cancelled at any time within the iTunes and App Store Apple ID Settings. All prices include applicable local sales taxes.\n- Payment will be charged to iTunes Account at confirmation of purchase.\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. \n- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. \n- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n- Offer limited to one 3 day trial per user. After the first 3 days, subscription renews automatically unless cancelled before the end of the 3 day trial. \n\nPrivacy Policy & Terms of Use\nPrivacy Policy: https://turbovpn.com/policy\nTerms of Use: https://turbovpn.com/terms-of-service\n______________________\n\nDownload Turbo VPN Private Browser!\nEnjoy fast and private browsing at your fingertips!\nProtect your online privacy and surf anonymously now!\nWe never store or share your IP address.",
+      "android_package_name": "free.vpn.unblock.proxy.turbovpn",
+      "ios_bundle_id": "com.allconnected.turbovpn",
+      "title": "Turbo VPN",
+      "domain_name": [
+        "https://www.turbovpn.co",
+        "https://www.turbovpn.co"
+      ],
+      "website": "https://www.turbovpn.co",
+      "developer": "INNOVATIVE CONNECTING PTE.LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/G7AkY7FY1XZQU8Xp_h5OGGovDxySJ2tLSlPxNRfl9E3lKDzyqY-2QYByz3CHovWRcg",
+      "icon_72": "https://play-lh.googleusercontent.com/G7AkY7FY1XZQU8Xp_h5OGGovDxySJ2tLSlPxNRfl9E3lKDzyqY-2QYByz3CHovWRcg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.expressvpn.vpn"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "ExpressVPN: Premium VPN for Security, Privacy, and Blazing Fast Streaming\nSurf the web safely with just a few taps. ExpressVPN is a premium VPN service designed for ultra-fast connections and uncompromised privacy on every device.\n\n7-DAY FREE TRIAL\nGet a full-featured free trial on all your devices—this is the complete ExpressVPN experience, with every premium feature included, not a pared-down version.\n\nBLAZING FAST SERVERS\nStream, game, and browse with lightning-fast speeds and unlimited bandwidth. Perfect for streaming your favorite TV shows and movies, sporting events, and more.\n\nLARGE SERVER NETWORK\nAccess a global network with servers in 105 countries, including an extensive selection across the US, so you’re covered wherever you go.\n\nIRON-TIGHT NO-LOGS POLICY\nBrowse with true privacy. Our strict no-logs policy has been audited to ensure that your IP address, location, and online activity stay private.\n\nPOWERFUL ONLINE SECURITY\nProtect your data and online activity with advanced encryption that keeps your connection safe—even on public Wi-Fi hotspots and shared networks.\n\nEXCLUSIVE VPN PROTOCOL\nExpressVPN’s Lightway protocol was crafted from the ground up for enhanced speed, security, and reliability, making it faster and more dependable on any network.\n\nWIDE LANGUAGE SELECTION\nChoose from 17 languages to make your app experience smooth and accessible, wherever you are in the world.\n\nBUILT-IN PASSWORD MANAGER\nTake your security to the next level with ExpressVPN Keys, our password manager. Securely generate, store, and autofill unlimited passwords, notes, and credit card details.\n\n24/7 CUSTOMER SUPPORT\nGet instant help whenever you need it. Reach out via live chat or email, and our experts will easily answer any questions you may have.\n\niOS APP FEATURES\n• Auto-reconnects if your VPN connection drops\n• Supports Lightway UDP, Lightway TCP, and IKEv2 encryption protocols\n• Threat Manager: Prevents apps from sharing your activity with trackers or malicious third parties\n\nSUBSCRIPTION PLANS\nYour ExpressVPN subscription includes access to apps across all major platforms, letting you secure as many devices as you like. With support for up to 8 simultaneous connections, you can stay protected across your devices, anytime, anywhere.\n\nYou will be charged on the last day of your free trial. Your subscription renews automatically at the end of each billing period unless canceled at least 24 hours before. Manage or cancel any time in your App Store account settings. Any unused portion of a free trial period will be forfeited upon purchasing a subscription.\n\nTerms of Service\nhttps://www.expressvpn.com/tos\n\nPrivacy Policy\nhttps://www.expressvpn.com/privacy-policy",
+      "android_package_name": "com.expressvpn.vpn",
+      "ios_bundle_id": "com.expressvpn.iosvpn",
+      "title": "ExpressVPN",
+      "domain_name": [
+        "https://www.expressvpn.com",
+        "https://www.expressvpn.com"
+      ],
+      "website": "https://www.expressvpn.com",
+      "developer": "Expressco Services, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/CnGsOmhIKfo1_IAnCUxAYXBaxkJ11rQXqPAGU_t29S6nVsrzTx-3OjMWFf2fk_b7u3g",
+      "icon_72": "https://play-lh.googleusercontent.com/CnGsOmhIKfo1_IAnCUxAYXBaxkJ11rQXqPAGU_t29S6nVsrzTx-3OjMWFf2fk_b7u3g=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nordvpn.android"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Looking for a way to stay private online? Here it is! With NordVPN, one tap is all you need to hide your IP address, encrypt your traffic, and enjoy the internet without limits.  \n\nNordVPN is an easy-to-use VPN app for iPhone and iPad, trusted by millions of users worldwide. It shields your online activities from nosy advertisers, malicious actors, and intrusive internet service providers. How? By encrypting your internet traffic. \nNordVPN is the best way to have a private, fast, and secure internet connection wherever you are. \n\nWhy NordVPN?\n\nTURBO SPEEDS\nNordLynx, our modern solution based on the WireGuard® protocol, gives you VPN connection speeds that are hard to beat.\n\nIDEAL FOR PRIVACY\nWe don’t track and store your activity online. Therefore, we can’t give your data away – even if someone asks. And we have two independent audits to prove it!\n\nPOWERFUL ONLINE SECURITY\nNordVPN secures your iPhone data with next-generation encryption complemented with top-notch VPN protocols – NordLynx based on Wireguard and IKEv2/IPsec.\n\nAS EASY AS 1-2-3\nDownload, login, and connect – that’s it! With NordVPN, one tap is enough to encrypt your whole traffic. You can also set the app to connect automatically and enjoy full peace of mind.\n\nGET HELP 24/7\nOur award-winning customer support team is ready to assist you all day, every day. Browse the Help Center, write an email, or visit our website for a live chat.\n\nSTAY SAFE ON PUBLIC WI-FI\nFound a cozy cafe with a Wi-Fi hotspot, but it’s unsecured? Don’t give up just yet! Use NordVPN and hide your online activities from snoopers and hackers. \n\nTHOUSANDS OF SERVERS\nLightning-fast VPN protocols sure help, but our vast server network is there to do the heavy lifting. 6000+ servers covering 111 countries mean that the perfect one is always just a tap away. Click “Quick Connect,” and you’re all set!\n\nPROTECT TEN DEVICES WITH ONE ACCOUNT\nYour iPhone is probably not the only connected device you have. Use NordVPN to protect your laptop, tablet, and smart TV, or share your account with your family.  \n\nENCRYPT EVERYTHING\nHow would you like to protect your whole home with one app? Install NordVPN on your Wi-Fi router and enjoy a private internet connection on every connected device in your home.\n\nFEATURES FOR ADVANCED USERS\nSet a custom DNS address, pick your preferred network protocol, or browse our Specialty Servers list for extra protection. Double VPN, Obfuscated, P2P – we have servers to match your needs.\n\nRELIABLE SERVICE\nUnlike a proxy server or the Tor browser, NordVPN will not only hide your IP. It will also encrypt your traffic and maintain a stable connection with speeds that are hard to match.\n\nCONNECT TO ANY DEVICE\n• Securely access files on other devices with our Meshnet feature.\n• Safe, encrypted, and easy to use — you only need the NordVPN app.\n• Perfect for file sharing, gaming, and work. Access files on your home computer even while traveling abroad or joining virtual LAN parties with your friends.\n\nFeatures our users love:\n• Strong encryption for top-grade security.\n• Unlimited data for internet freedom.\n• VPN protocols: IKEv2/IPsec, NordLynx based on WireGuard.\n• 7,000+ servers worldwide for turbo speeds.\n• 110+ server locations in every corner of the world.\n• Double VPN for ultimate privacy.\n• VPN auto-connect for effortless online protection.\n• 24/7 customer support from our award-winning team.\n \nHide your IP address and location. Stay safe when hopping on public Wi-Fi or any other network. Browse the internet without the fear of being watched and tracked. It’s easy. \nOnline security is just a tap away – wind down, connect to NordVPN, and enjoy safe and private internet access wherever you go.\n\nWireGuard® is a registered trademark of Jason A. Donenfeld.\nAuto-renewals do not apply to subscriptions purchased from resellers.\n\nFor Terms of Service, visit: https://nordvpn.com/terms-of-service/\nFor Privacy Policy, visit: https://nordvpn.com/privacy-policy/",
+      "android_package_name": "com.nordvpn.android",
+      "ios_bundle_id": "com.nordvpn.NordVPN",
+      "title": "NordVPN",
+      "domain_name": [
+        "https://nordvpn.com/features",
+        "https://nordvpn.com"
+      ],
+      "website": "https://nordvpn.com/features",
+      "developer": "Nordvpn S.A.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/G166NGtIsLp_UdpDjC1FF6dooIgd83fs2lstSI7mhW06q7gmiE1cw4BZ16OCX0WokPE",
+      "icon_72": "https://play-lh.googleusercontent.com/G166NGtIsLp_UdpDjC1FF6dooIgd83fs2lstSI7mhW06q7gmiE1cw4BZ16OCX0WokPE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.onepassword.android"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "1Password remembers all your passwords for you, and keeps them safe and secure behind the one password that only you know.\n\n1Password: the password manager that's as beautiful and simple as it is secure. Just add your passwords and let 1Password do the rest. Sign in to websites and apps with just a few taps, and use the password generator to change your passwords and make them stronger.\n\n**Webby Award Winner**!\n\nTry 1Password free for 30 days, then keep going with a 1Password subscription*.\n\nPUT PASSWORDS IN THEIR PLACE\n\n◆  Create strong, unique passwords and memorizable pass-phrases for your online accounts\n◆  Fill usernames, passwords, credit card numbers and addresses into websites and supported apps\n◆  Access your information on all your mobile devices and computers\n\nGET ORGANIZED\n\n◆  Store items in more than a dozen categories: logins, credit cards, addresses, notes, bank accounts, driver’s licenses, passports, and more\n◆  Create multiple vaults to keep different areas of your life separate\n◆  Organize your information with tags and favorites\n◆  Add custom fields to your items to store security questions, extra URLs, and any other information you can think of\n◆  Use Spotlight to search for information when you need it\n\nSTAY SAFE\n\nEverything you store in 1Password is protected by a Master Password that only you know. 1Password uses end-to-end encryption, so your data is only ever decrypted offline. The encryption keys never leave your device, and you are the only one who can see your passwords.\n\n◆  Unlock the app quickly and securely with Face ID\n◆  Lock the app automatically to ensure your data is protected, even if your device is lost or stolen\n◆  Use 1Password as your authenticator: store two-factor authentication codes and access them quickly when it's time to sign in\n◆  Get alerts when a site you use has been compromised and you need to change your passwords\n\nSHARE WITH TEAMS AND FAMILIES\n\n1Password for iOS has full support for team and family accounts. It’s never been so easy to share the simple security of 1Password with those you work and live with.\n\n◆ Add all your accounts — family, team, individual — and see all your information in one place\n◆ Easily migrate information between accounts\n◆ Share passwords, documents, and more with teammates and family members\n\nTRY FREE\n\nGet a 30-day free trial when you install 1Password, and subscribe at any time using the in-app purchase*.\n\nYour subscription includes the full 1Password experience for all your computers and mobile devices. Your data syncs securely and automatically between your devices, and can also be accessed on the web.\n\nLOVED AND USED BY MILLIONS\n\n1Password has been highlighted in The New York Times, The Wall Street Journal, Forbes, The Verge, Ars Technica, Mashable, and The Guardian. We’ve also received many awesome honors:\n\n◆ Named One of The World’s Greatest 100 Apps by Business Insider\n◆ Inducted into Macworld’s App Hall of Fame\n◆ Received an Ars Design Award\n\nWe’re proud of this recognition, and we’re even happier that millions of people love and use 1Password every day.\n\nWe love 1Password and strive to make it the best it can be. Connect with us with us at support@1password.com, @1Password on Twitter, and Facebook.com/1Password!\n\n* 1Password is a monthly service that costs $3.99 for individuals or $6.99 for a family of 5 (prices vary by region). Payment will be charged to iTunes Account at confirmation of purchase and auto-renews at the same price unless disabled in iTunes Account Settings at least 24 hours before the end of the current period. Your subscription can be managed in your iTunes Account Settings. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription.\n* Privacy policy: https://1password.com/legal/privacy/\n* Terms of Use: https://1password.com/legal/terms-of-service/",
+      "android_package_name": "com.onepassword.android",
+      "ios_bundle_id": "com.agilebits.onepassword-ios",
+      "title": "1Password",
+      "domain_name": [
+        "https://1password.com",
+        "https://1password.com"
+      ],
+      "website": "https://1password.com",
+      "developer": "AgileBits Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/RyPWI5dSfKqMUnuEYqMqQPMLv8AvKehIhut1yIKJU91HWpvtUHPj1rzn_UHwpEqH2a0",
+      "icon_72": "https://play-lh.googleusercontent.com/RyPWI5dSfKqMUnuEYqMqQPMLv8AvKehIhut1yIKJU91HWpvtUHPj1rzn_UHwpEqH2a0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.lastpass.lpandroid"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "LastPass is a password manager that secures your passwords and personal information in an encrypted vault. As you visit apps and sites, LastPass autofills your login credentials. From your LastPass vault, you can store passwords and logins, create online shopping profiles, generate strong passwords, track personal information securely in notes, and more. All you have to do is remember your LastPass master password, and LastPass will autofill web browser and app logins for you.\n\nStop getting locked out of your online accounts or struggling with frustrating password resets. Let LastPass remember your passwords for you and keep you safe online.\n\nNEW TO LASTPASS?\nDownload LastPass now and get the protection you need for your online information.\n\n- Store usernames and passwords for all your online accounts securely in your LastPass encrypted vault.\n- Autofill your usernames and passwords in apps and websites. Simply launch your apps or navigate to a sign-in page and LastPass will fill in your credentials.\n- Automatically save usernames and passwords to your vault in Safari and other mobile browsers.\n- New! LastPass now offers a mobile Safari extension that simplifies filling, generating, and saving of credentials directly from your Safari browser.\n- Never forget a password again. Only remember your LastPass master password and LastPass secures the rest.\n- With automatic device sync, anything you save on one device is instantly available on other devices.\n- Securely store information like credit card numbers, health insurance cards, and notes in the encrypted vault.\n- Safely and conveniently share passwords with others, such as the cable login or Wi-Fi password. \n- Create secure passwords in one click with the built-in password generator.\n- Multi-factor authentication (MFA) secures your password vault to add a second layer of protection to your account.\n\nLastPass never has the key to your encrypted data, so your information is available to you, and only you. Your vault is encrypted with bank-level, AES 256-bit encryption.\n\nTrusted by Millions\n- Trusted by 33+ million users and 100,000+ businesses\n- LastPass has been highlighted in PCWorld, Inc., PCMag, ITProPortal, LaptopMag, TechRadar, U.S. News & World Report, NPR, TODAY, TechCrunch, CIO, and more!\n\nGet more with LastPass Premium:\nLastPass offers a free 30-day trial of our Premium solution. With our LastPass Premium and Families, you will benefit from:\n- Unlimited device type access from any operating system\n- Unlimited sharing of passwords, items, and notes\n- 1GB encrypted file storage\n- Premium multi-factor authentication (MFA), like YubiKey\n- Emergency access\n- Personal support\n\nYour subscription will automatically renew every year and payment will be charged to your iTunes account within 24 hours prior to the end of the current period. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Any unused portion of a free trial will be forfeited when you purchase a subscription. You can turn off auto-renewal by going to your Account Settings after purchase. No cancellation of your subscription is allowed during the active subscription period.\n\nTerms of service: https://www.lastpass.com/legal-center/terms-of-service/\n\nDownload LastPass today for simple, secure access to your passwords!",
+      "android_package_name": "com.lastpass.lpandroid",
+      "ios_bundle_id": "com.lastpass.ilastpass",
+      "title": "LastPass",
+      "domain_name": [
+        "https://www.lastpass.com",
+        "https://www.lastpass.com"
+      ],
+      "website": "https://www.lastpass.com",
+      "developer": "LastPass US LP",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/BPgJq2T40gw219T9wcXPld0urrii1L9WwGZ0xovChB7fy-KFfVlKPE6oT5D7lIeQRecJ",
+      "icon_72": "https://play-lh.googleusercontent.com/BPgJq2T40gw219T9wcXPld0urrii1L9WwGZ0xovChB7fy-KFfVlKPE6oT5D7lIeQRecJ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bitdefender.security"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Bitdefender Mobile Security is a free app designed to keep your sensitive data safe against online dangers. Get the most powerful protection against threats with the least impact on battery.\n\nKeep your personal data secure while online: passwords, address, social and financial information. Avoid accidental data exposure and misuse for all installed apps.\n\nReceive instant alerts whenever a security incident is prevented. Fix any security misconfiguration that might put your data at risk and check your online accounts against data breaches.\n\nFeatures:\n\nScam Alert\n\nThe newest preventive protection layer that makes sure scams and phishing attempts stay out of your calendar and messages. Now you can use the Bitdefender Mobile Security SMS/MMS filter to make sure messages from unknown senders that contain malicious links are sent straight to the junk folder.\nScam Alert will also identify malicious calendar events, helping you deal with the \"calendar virus\".\n\nWeb Protection\n\nUse your iPhone worry-free knowing that all your traffic gets protected. Simply turn Web Protection “ON”, and any phishing pages and dangerous connections going after your personal information (such as your credit card details or social security number) will be blocked. Now you can shop and bank securely online without worrying that your financial data will be stolen.\n\nAnd it’s not just your browsing activity that gets protected against scams, phishing attempts, and online threats. Any app on your iPhone that sends information over the internet is prevented from misusing it.\n\nSecurity Scan\n\nSafety starts with the basics. Run scans to learn if there are any misconfigurations that put your phone and data at risk and close those gaps to enjoy complete security. Rely on the tips and recommendations we provide to increase your level of protection.\n\nAccount Privacy\n\nIs your email account still private? Find out if your account information has been leaked. Simply validate your email address with the app and Bitdefender Mobile Security will run a check to discover if your privacy has been breached and let you know if it’s time to change passwords\n\nVPN\n\nThe included Bitdefender VPN offers an extra layer of privacy that secures all your traffic to prevent any data loss.\n\nBitdefender VPN protects your online presence by encrypting all Internet traffic. It also secures your device’s connection while you’re connected to public Wi-Fi hotspots, cellular data networks and other public locations.\n\nFree - 200 MB traffic / day.\n\nUpgrade to PREMIUM VPN to get unlimited traffic and multiple virtual locations all over the world.\n\nMore about Web Protection\n\nProtect yourself against dishonest webpages going after your personal information\n\nFree – 7-day trial / 14-day trial. Monthly / Yearly subscriptions available.\n\nThe payment will be charged to your iTunes Account at confirmation of purchase.\n\nThe subscription renews automatically unless auto-renew is turned off at least 24-hours before the end of the current period.\n\nSubscriptions may be managed and auto-renewal may be turned off by going to your user’s Account Settings after purchase.\n\nPlease Note!\n\nYou need to have or create a Bitdefender account to use this free app.\n\nSubscription Agreement - https://www.bitdefender.com/site/view/subscription-agreement.html\n\nPrivacy Policy - https://www.bitdefender.com/site/view/legal-privacy-policy-for-home-users-solutions.html",
+      "android_package_name": "com.bitdefender.security",
+      "ios_bundle_id": "com.bitdefender.iossecurity",
+      "title": "Bitdefender Mobile Security",
+      "domain_name": [
+        "http://www.bitdefender.com",
+        "https://www.bitdefender.com"
+      ],
+      "website": "http://www.bitdefender.com",
+      "developer": "Bitdefender SRL",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/iJ4nhjiExeaowbVd8-rXfVafEa3HUykm_UGlAPc18H9wB5J9r4FiJDcmWBdnH3OCuw0d",
+      "icon_72": "https://play-lh.googleusercontent.com/iJ4nhjiExeaowbVd8-rXfVafEa3HUykm_UGlAPc18H9wB5J9r4FiJDcmWBdnH3OCuw0d=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.avast.android.mobilesecurity"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Protect your device from online threats and intruders, keep your email accounts safe from scams, browse safely on public Wi-Fi, and stay in control of your online accounts. \n\n\nFeatures include:\n\n► Threats and vulnerabilities scan (FREE) \nStop hackers in their tracks and get alerted if vulnerabilities and threats are found on your device.\n\n► Malicious website blocker (FREE) \nBrowse the internet worry-free. No matter which browser you’re using, we’ll protect you against fake and malicious websites.\n\n► VPN protection (PREMIUM) \nSafeguard your online privacy by making sure no one can spy on what you're doing. Our VPN encrypts your internet traffic on any network, allowing you to connect safely even on risky public Wi-Fi networks.\n\n► Identity Protection (check one account with FREE. All accounts with PREMIUM.) \nCheck if your passwords have been stolen or leaked, and get alerts if your online accounts have been breached. \n\n► Photo Vault (protect 40 photos with FREE. All photos with PREMIUM). \nProtect photos in an encrypted folder and secure them by PIN, Touch ID, or Face ID so that only you have access to them. \n\n► Security and privacy tips for your device (FREE) \nScan your device and follow an easy guide to correctly set up your security and privacy settings.\n\n► Smart Scan (FREE)\nRun an advanced scan to check for potential vulnerabilities and risks to your browsing, Wi-Fi networks, and identity.\n\n► Email Guardian (PREMIUM) \nProtect up to 5 email accounts from scams and malware. We’ll scan all new emails for you and mark them as safe or suspicious, on all your devices. \n\n\nAbout our subscriptions:\n- Trial: A yearly subscription includes a 14-day trial period, while a monthly subscription comes with a 7-day trial period. During these trial periods, you can cancel anytime free of charge, as long as you do so before the final 24 hours of your trial.\n- Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.\n- You will be charged for renewal within 24 hours prior to the end of the current period, for the same duration and at the current subscription rate.\n- Payment will be charged to your App Store Account.\n- You can manage your subscriptions and turn off auto-renewal by going to your Account Settings after purchase.\n- Cancellation of the current subscription is not allowed during your active subscription period.\n- Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription.\n\nPrivacy Policy available at https://www.avast.com/privacy-policy\nTerms and Conditions info at https://www.avast.com/eula",
+      "android_package_name": "com.avast.android.mobilesecurity",
+      "ios_bundle_id": "com.avast.ios.security",
+      "title": "Avast Mobile Security",
+      "domain_name": [
+        "https://www.avast.com",
+        "https://www.avast.com"
+      ],
+      "website": "https://www.avast.com",
+      "developer": "AVAST Software s.r.o",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gK1KIIVtzLA5ekGMo8JpOAhMsuJDog-seYq-Pe5d1oZb5N2yi9d_cYx_XZbO2s_aOos",
+      "icon_72": "https://play-lh.googleusercontent.com/gK1KIIVtzLA5ekGMo8JpOAhMsuJDog-seYq-Pe5d1oZb5N2yi9d_cYx_XZbO2s_aOos=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.symantec.mobilesecurity"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Navigate the web more safely with Norton 360 for iOS.\n\nNorton 360 for mobile provides powerful layers of phone protection and award-winning mobile security for your Apple device. It combines security and antivirus features to help protect against ransomware, malware, spyware, and other online threats so you can bank, browse and shop online with more peace of mind. And, with our secure, global VPN servers, you can encrypt your internet traffic on the go before accessing your favorite apps and websites. \n \nYour personal information and online privacy have protection at home and on the go with bank-grade encryption with Secure Norton VPN. [1]\n \nOur VPN helps block cybercriminals from accessing personal information sent and received when you connect to your home and public Wi-Fi.[1] \n \nNorton 360 checks for the latest security patches and OS updates and helps monitor your device against cyberattacks that try to leverage OS vulnerabilities for malicious purposes. \n\nUpdates\n– SMS Security: This feature filters spam SMS text messages that may contain phishing attacks. These attacks use links to fraudulent sites that compromise your personal information. \n– Device Report Card: See a 30-day analysis of previously scanned Wi-Fi networks, websites, device vulnerabilities, and risky apps.\n– Suspicious Network Detection: See potentially unsafe Wi-Fi networks in your area and get notified when a Wi-Fi network you’re using is compromised.\n \nYour partner against cyberthreats.\n– Mobile Security: Protection against vulnerabilities cybercriminals may use to take control of your device or steal your personal information.\n– Norton Secure VPN: Connect to one of our global VPN servers and access your favorite apps and websites. Use it when you connect to Wi-Fi at home or while traveling with the reassurance of bank-grade encryption.[1] \n– Wi-Fi Security Alerts: Get notified about Wi-Fi networks under attack. Avoid cybercriminals who try to eavesdrop on your Wi-Fi connection to steal or glean personal information or infect your device with malware.\n– Internet Security: Helps detect and safeguard you from navigating to fraudulent (phishing) and malicious websites when using your preferred browser or opening links from apps, text messages, and emails. \n– Dark Web Monitoring: We monitor the dark web and notify you if we find your personal information.[2]\n \nSubscription details\n– An annual subscription is required to activate the 14-day trial (see in-app product pricing) \n– Cancel the subscription from your iTunes account before the end of the trial to avoid payment\n– After the 14-day trial, your subscription will start and renew automatically annually unless canceled\n– You can manage your subscriptions and adjust automatic renewal in your iTunes settings after purchase\n– The 14-day trial is valid for one subscription only\n \nPRIVACY POLICY\nGen Digital respects the privacy of our users and carefully safeguards personal data.\nFor more information: https://www.gendigital.com/privacy​\n \nNo one can prevent all cybercrime or identity theft\n \n[1] Secure Norton VPN is not available in all countries.\n\n[2] Dark web monitoring is not available in all countries. Monitored information varies based on country of residence or choice of plan. It defaults to monitor your email address and begins immediately. Sign in to your account to enter more information for monitoring.\n\n[3] Norton Secure VPN is no longer available for use within India as a result of governmental regulations requiring the logging and saving of user data, but you can still use your subscription when traveling outside of India.",
+      "android_package_name": "com.symantec.mobilesecurity",
+      "ios_bundle_id": "com.symantec.mobilesecurity",
+      "title": "Norton Mobile Security",
+      "domain_name": [],
+      "website": "",
+      "developer": "Gen Digital Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/xcyvpWdno5pWOisGwypGim48FPPg6kJgfPHSBXKUwSedI7URGl7AZyDYEXRWxyszf1c",
+      "icon_72": "https://play-lh.googleusercontent.com/xcyvpWdno5pWOisGwypGim48FPPg6kJgfPHSBXKUwSedI7URGl7AZyDYEXRWxyszf1c=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.antivirus"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Get protected!\n\n\nLosing your device is just a matter of the past with our location feature.\n\n\nPrevent your device from being stolen by a sneaky robber with our intelligent alarm system.\n\n\nKeep your photos and contacts safe with a backup on your own cloud.\n\n\nFeatures:\n\n\n-Anti Theft Alarm for your Device\n-Secure and Backup Photos and Contacts.\n-Locate your Device.\n\n Prices of subscriptions: \n- 3 day free trial then $49.99 per year\n- 3 day free trial then $9.99 per month\n- 3 day free trial then $2.99 per week\n\nSubscriptions automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. You can turn of the auto-renew subscription from iPhone setting\n\n Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n\n Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase \n\n\nTerms of use: http://safety-phone.com/terms\nPrivacy policy: https://safety-phone.com/policy\nThank you!",
+      "android_package_name": "com.antivirus",
+      "ios_bundle_id": "com.security.securityapp",
+      "title": "Kaspersky Mobile Antivirus",
+      "domain_name": [],
+      "website": "",
+      "developer": "Protection & Security App LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/loQRDq_NcAoN6BNT_55saSYIDjK3FqLI63bcUuKaKbIzTRVTv09JnJ3dWTmykymppSE",
+      "icon_72": "https://play-lh.googleusercontent.com/loQRDq_NcAoN6BNT_55saSYIDjK3FqLI63bcUuKaKbIzTRVTv09JnJ3dWTmykymppSE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.piriform.ccleaner"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "VPN Proxy Master – best VPN proxy for WiFi hotspot security and privacy protection. You can stay anonymous online and enjoy your favorite content anytime, anywhere.\n\nFeatures\n* 6700+ worldwide VPN servers \n* Protect your privacy on public Wi-Fi hotspots \n* Best VPN for school Wi-Fi and home office\n* Fast servers for streaming(Premium only)\n* High-level encryption protocols: OpenVPN, IKEv2\n* Simple setup, one tap connect to VPN\n* Strict no log policy\n* 24/7 live chat support\n\nStay Secure Online\nVPN Proxy Master brings an encrypted VPN connection to your iPhone. It will protect your online privacy and network traffic under any Wi-Fi hotspots. \n\nSurf the Web Anonymously\nVPN Proxy Master hides your true IP address and is fully committed to your digital privacy. Your online activities will stay completely anonymous.\n\nWorldwide VPN Servers\nA worldwide VPN network with over 6700+ servers around the world to ensure you a fast and stable VPN experience. Now you can easily search and save your favorite servers.\n\n24/7 customer support\nOur team is always here to support you. Feel free to drop us a message via live chat or email.\n\nFor policy reason, this service is not available in China. We apologize for any inconvenience caused.\n\nAdditional Subscription Information\n\n- Subscription may be cancelled at any time within the iTunes and App Store Apple ID Settings. All prices include applicable local sales taxes.\n\n- Payment will be charged to iTunes Account at confirmation of purchase.\n\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. \n\n- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.\n\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. \n\n- No cancellation of the current subscription is allowed during active subscription period.\n\n- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\n\n- Check out our privacy policy and terms of use:\nPrivacy policy: https://vpnproxymaster.com/ios/privacy_policy.html\nTerms of use: https://vpnproxymaster.com/ios/terms_of_use.html",
+      "android_package_name": "com.piriform.ccleaner",
+      "ios_bundle_id": "co.allconnected.vpnmaster",
+      "title": "Clean Master",
+      "domain_name": [
+        "https://vpnproxymaster.com",
+        "https://vpnproxymaster.com"
+      ],
+      "website": "https://vpnproxymaster.com",
+      "developer": "All Connected Co., Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/_Ukn57uZ7uL4TjcSRhd_pUhnd9stWVdIYF4xLWoiraU4FuqRiqvzMiz7rY4W2iEgUp4",
+      "icon_72": "https://play-lh.googleusercontent.com/_Ukn57uZ7uL4TjcSRhd_pUhnd9stWVdIYF4xLWoiraU4FuqRiqvzMiz7rY4W2iEgUp4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.piriform.ccleaner"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "TRUSTED BY OVER 64 MILLION USERS—THE ULTIMATE IPHONE CLEANER YOU NEED TO KEEP YOUR DEVICE ORGANIZED\nCleaner Kit is an iPhone cleaner that helps you free up space effortlessly and keep your device running smoothly. Powered by AI, it removes clutter from your device, whether photos, videos, or contacts, keeping everything in order. \n\nHOW CAN THE PHONE CLEANER HELP YOU?\n\n►Remove duplicate photos and videos\nSay goodbye to repeating shots, blurry photos, and unnecessary screenshots! The phone cleaner scans your gallery to identify the files that waste storage space. Even low-quality shots and doc images won’t escape its smart analysis. \n\n►Sort photos with swipes\nThis feature groups your photos by time periods. Swipe right to keep favorites, or left to archive blurry and outdated shots. Review archived photos later or delete them immediately if you need space.\n\n►Clean up automatically\nNo need to sift through your gallery—let the iPhone cleaner do the work for you. It can automatically remove files marked as unnecessary, so you can enjoy an organized device with just a few taps.\n\n►Compress videos\nRunning low on storage but don't want to delete precious videos? The iPhone cleaner can compress them without significant quality loss, while saving space and keeping your memories intact.\n\n►Organize contacts\nDuplicate or unnamed contacts clogging your list? The iPhone cleaner merges, organizes, and removes empty contacts, giving you a neat and functional contact list.\n\n►Clear out calendar\nThe iPhone cleaner removes outdated events from your calendar in seconds. Cleaner Kit helps you quickly and effectively tidy up your schedule, so you can focus on what's ahead.\n\n►Hide sensitive items\nYour privacy matters. The iPhone cleaner allows you to securely store sensitive files and contacts, ensuring they remain accessible only to you.\n\nEXTRA FEATURES TO EXPLORE\nCleaner Kit doesn’t stop at being an effective phone cleaner. Explore extra features like an ad blocker, cleaning guides, charging animations, system and Wi-Fi security checks, and detailed device performance stats. You can even mark favorite files to protect them from accidental deletion, keeping your most treasured memories safe.\n\nWHY WAIT?\nDecluttering your phone has never been that easy. With this phone cleaner, you can enjoy a streamlined, efficient, and enjoyable cleanup that saves time and effort. Download Cleaner Kit now and enjoy a perfectly organized iPhone, finally!\n\nUNLIMITED ACCESS TO ALL FEATURES\n– You can subscribe for unlimited access to all the phone cleaner features.\n– Subscriptions are billed weekly or annually at the rate depending on the selected subscription plan.\n– Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.\n– Subscription auto-renewal may be turned off in the Account Settings on the App Store.\n\nBy using Cleaner Kit, you agree to our Privacy Policy and Terms of Use:\nhttps://bpmob.com/smartcleaner/web/v2/privacy \nhttps://bpmob.com/smartcleaner/web/v2/terms",
+      "android_package_name": "com.piriform.ccleaner",
+      "ios_bundle_id": "bp.rmaster.free",
+      "title": "CCleaner",
+      "domain_name": [
+        "http://bpmobile.com",
+        "https://bpmobile.com"
+      ],
+      "website": "http://bpmobile.com",
+      "developer": "BP Mobile LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/_Ukn57uZ7uL4TjcSRhd_pUhnd9stWVdIYF4xLWoiraU4FuqRiqvzMiz7rY4W2iEgUp4",
+      "icon_72": "https://play-lh.googleusercontent.com/_Ukn57uZ7uL4TjcSRhd_pUhnd9stWVdIYF4xLWoiraU4FuqRiqvzMiz7rY4W2iEgUp4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "eu.thedarken.sdm"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Darksy Phone Cleaner\" is a magical assistant in your smartphone. This is a pocket-sized Mr. Proper - it will easily and conveniently delete\nold or similar photos, screenshots, Live Photos, and contacts.\n\nKey Features:\nDelete similar photos and videos\nFree up valuable space with Darksy Cleaner. Effortlessly locate and delete screenshots, similar pictures, Live Photos, burst photos, and videos, all in one convenient place. Whether you're clearing a few or a bundle, it's easy and simple.\nOrganize contacts\nAre duplicate or unnamed contacts cramping your style? Darksy Cleaner is your lifesaver for organizing contacts – merge, back up, and remove quickly for a streamlined contact list.\nOne-Click Smart Cleaning:\nSimplify your digital life with one-click removal of unnecessary similar photos, screenshots, duplicate images, and contacts. Your favorites and edited files remain untouched\nSave your Battery Life:\nBeyond device cleaning, Darksy Cleaner cares for your battery life. Explore our Battery section for tips on how to make your iPhone's charge last longer or choose from various charging animations for a personalized touch.\nProtect Privacy\nDarksy Cleaner is not just a space-saver; it's a secure vault for your sensitive information. Safely stash photos and contacts in your secret space, with our app ensuring your privacy is meticulously protected.\nVideo Compression:\nEfficiently compress videos and choose their quality, saving up to 3x of memory without compromising content integrity.\n\nWe also offer the ability to create backup copies of contacts, add storage widgets to your home screen for quick access, and effortlessly clear out old calendar events\n\nBid farewell to useless clutter with \"Darksy Phone Cleaner,\" ensuring your smartphone data stays in impeccable shape\n\nNote: this app will not be able to completely clear your phone's memory.\n\n\"Payment & Subscription Terms:\nChoose from the following subscription options for unlimited access to all features:\nWeekly Subscription\nMonthly Subscription\nYearly Subscription\nFREE TRIAL FOR 3 DAYS - UNLIMITED GALLERY CLEANING FOR A LIMITED TIME\nYou can cancel your subscription at any time\"\n\nPrivacy Policy\nhttp://darksycleaner.space/privacy.html\nTerms and conditions\nhttp://darksycleaner.space/terms.html",
+      "android_package_name": "eu.thedarken.sdm",
+      "ios_bundle_id": "ru.ksushaklement.cleaner",
+      "title": "SD Maid",
+      "domain_name": [
+        "https://darksycleaner.space",
+        "https://darksycleaner.space"
+      ],
+      "website": "https://darksycleaner.space",
+      "developer": "DARKSY OU",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/PZ1VnaL1JZWt52aT34P5wcZt0uvsi1PARmbbHGQ0xvk4QngUhZIiHcEg3mrFvpm1TX0",
+      "icon_72": "https://play-lh.googleusercontent.com/PZ1VnaL1JZWt52aT34P5wcZt0uvsi1PARmbbHGQ0xvk4QngUhZIiHcEg3mrFvpm1TX0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.keep"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "• Capture, edit, share, and collaborate on your notes on any device, anywhere.\n• Add notes, lists, photos, and audio to Keep.\n• Organize your notes with labels and colors.\n• Set and forget. Get reminded about a note at the right time or place.\n• Record a voice memo and have it automatically transcribed.\n• Grab the text from an image to help you quickly find that note again through search.\n\nWHEN AND WHERE YOU NEED IT\nNeed to remember to pick up some groceries? Set a location-based reminder to pull up your grocery list right when you get to the store. Need to finish a to-do? Set a time-based reminder to make sure you never miss a thing.\n\nSHARE YOUR THOUGHTS WITH FAMILY AND FRIENDS\nNext time you go to the store, share your shopping list on Keep and watch as items get checked off in real time. No need for text messages back and forth. Get things done together, faster.\n\nFIND WHAT YOU NEED, FAST\nQuickly filter and search for notes by color and other attributes like lists with the label “To-dos”, audio notes with reminders or just see shared notes. Find what you're looking for even faster, and let Keep do the remembering for you.\n\nALWAYS WITHIN REACH\nKeep works on your phone, tablet and computer. Everything you add to Keep syncs across your devices so your important stuff is always with you.\n\nTry Google Keep on the web at http://keep.google.com and find it in the Chrome Web Store at http://g.co/keepinchrome.",
+      "android_package_name": "com.google.android.keep",
+      "ios_bundle_id": "com.google.Keep",
+      "title": "Google Keep",
+      "domain_name": [
+        "http://www.google.com/keep",
+        "https://www.google.com"
+      ],
+      "website": "http://www.google.com/keep",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5",
+      "icon_72": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.evernote"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Capture ideas when inspiration strikes. Bring your notes, to-dos, and schedule together to tame life’s distractions and accomplish more—at work, at home, and everywhere in between. \n\nEvernote syncs to all your devices, so you can stay productive on the go. Tackle your to-do list with Tasks, connect your Google Calendar to stay on top of your schedule, and see your most relevant information quickly with a customizable Home dashboard. \n\n---\n\n“Use Evernote as the place you put everything… Don’t ask yourself which device it’s on—it’s in Evernote” – The New York Times\n\n“When it comes to taking all manner of notes and getting work done, Evernote is an indispensable tool.” – PC Mag\n\n---\n\nCAPTURE IDEAS\n• Write, collect, and capture ideas as searchable notes, notebooks, and to-do lists.\n• Clip interesting articles and web pages to read or use later. \n• Add different types of content to your notes: text, docs, PDFs, sketches, photos, audio, web clippings, and more.\n• Use your camera to scan and organize paper documents, business cards, whiteboards, and handwritten notes.\n\nGET ORGANIZED\n• Manage your to-do list with Tasks—set due dates and reminders, so you never miss a deadline.\n• Connect Evernote and Google Calendar to bring your schedule and your notes together.\n• See your most relevant information instantly on the Home dashboard.\n• Create separate notebooks to organize receipts, bills, and invoices.\n• Find anything fast—Evernote's powerful search can even find text in images and handwritten notes.\n\n\nACCESS ANYWHERE\n• Sync your notes and notebooks automatically across any computer, phone, or tablet.\n• Start work on one device and continue on another without missing a beat.\n\nEVERNOTE IN EVERYDAY LIFE\n• Keep a journal to keep your thoughts organized. \n• Go paperless by scanning receipts and important documents.\n\nEVERNOTE IN BUSINESS\n• Keep everyone up to date by capturing meeting notes and sharing notebooks with your team.\n• Bring people, projects, and ideas together with shared Spaces. \n\nEVERNOTE IN EDUCATION\n• Keep track of lecture notes, exams, and assignments so you don’t miss important details.\n• Create notebooks for each class and keep everything organized.\n\n---\n\nAlso available from Evernote:\n\nEVERNOTE PERSONAL\n• 10 GB of new uploads each month\n• Unlimited number of devices\n• Create and manage tasks\n• Connect one Google Calendar account\n• Access your notes and notebooks offline\n\nEVERNOTE PROFESSIONAL\n• 20 GB of new uploads each month\n• Unlimited number of devices\n• Create, manage, and assign tasks\n• Connect multiple Google Calendar accounts\n• Access your notes and notebooks offline\n• Home dashboard - Full customization\n\n--\n\nPrice may vary by location. Subscriptions will be charged to your credit card through your iTunes account. Where applicable, your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. Subscriptions may not be cancelled for refund except as provided in Evernote's Commercial Terms. Manage your subscriptions in Account Settings after purchase.\n\n---\n\nPrivacy Policy: https://evernote.com/legal/privacy.php\nTerms of Service: https://evernote.com/legal/tos.php\nCommercial terms: https://evernote.com/legal/commercial-terms",
+      "android_package_name": "com.evernote",
+      "ios_bundle_id": "com.evernote.iPhone.Evernote",
+      "title": "Evernote",
+      "domain_name": [
+        "http://evernote.com",
+        "https://evernote.com"
+      ],
+      "website": "http://evernote.com",
+      "developer": "Evernote Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3",
+      "icon_72": "https://play-lh.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "notion.id"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Write, plan, organize. With AI at your side. Your notes, docs, tasks, and projects — all in one place.\n\n“AI’s everything app” — Forbes\n\nFREE FOR PERSONAL USE\n• Create as many notes, docs, and content as you want.\n• Use one of thousands of templates to get started.\n\nFREE TO TRY WITH YOUR TEAM\n• Millions run on Notion every day, from next-generation startups to established enterprises.\n• Get started by easily importing your content from Google Docs, PDFs, and more.\n• Connect tools like Figma, Slack, and GitHub to Notion.\n\nFREE FOR STUDENTS\n• Your study planner, class notes, to-dos and more, your way. Loved by millions of students worldwide.\n• Get organized for your best school year yet with beautiful, customizable templates created by students, for students.\n\nNOTES & DOCS\n• Create beautiful docs with images, to-dos, and 50+ more content types.\n• Find exactly what you need using Search with powerful filters to find content across your workspace.\n\nTASKS & PROJECTS\n• Choose the exact info you want to track. Create your own priority labels, status tags, and automations to craft the perfect workflow.\n• Capture every detail in a table. Break projects into manageable pieces to get the work done.\n\nAI\n• Write better. Use Notion AI to help write and brainstorm.\n• Get answers. Ask Notion AI questions about all your content and get answers in seconds.\n• Autofill tables. Notion AI turns overwhelming data into clear, actionable information  — automatically.\n\nSYNCS WITH BROWSER, MAC, AND WINDOWS APPS.\n• Pick up on mobile where you left off on desktop.\n\nMORE PRODUCTIVITY. FEWER TOOLS.\n• Track to-dos, write notes, create docs, and manage projects in one connected workspace.",
+      "android_package_name": "notion.id",
+      "ios_bundle_id": "notion.id",
+      "title": "Notion",
+      "domain_name": [
+        "https://www.notion.so",
+        "https://www.notion.so"
+      ],
+      "website": "https://www.notion.so",
+      "developer": "Notion Labs, Incorporated",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/i9njThXyZWOMReki5FARL9oN28AmzKg99kC07p7xaSyTqA-3wYc0yD5OJjUN5qhFHA",
+      "icon_72": "https://play-lh.googleusercontent.com/i9njThXyZWOMReki5FARL9oN28AmzKg99kC07p7xaSyTqA-3wYc0yD5OJjUN5qhFHA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.todoist"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Trusted by over 42 million people, Todoist simplifies tasks for individuals and teams. Instantly declutter your mind, boost productivity and use it as a habit tracker.\n\nWith a simple tap, add your tasks and remind yourself about them, enjoy multiple views like calendar, list and boards, filter tasks by work and/or personal life, collaborate on projects, and achieve peace of mind. \n\nWhy choose Todoist?\nTodoist is a simple yet powerful planner tool that organizes both your life and work. \n• Create a habit of adding tasks like “Plan next week’s work every Friday afternoon” or “Do homework every Wednesday at 6pm” using Todoist’s powerful language recognition and recurring due dates.\n• View any project as a list, as boards or as a calendar planner to give you ultimate flexibility when planning both your tasks and your time. \n• Available on any device – with apps, extensions, and widgets – Todoist is everywhere you need it to be. \n• Link Todoist with your calendar, voice assistant, and 60+ other tools such as Outlook, Gmail, and Slack.\n• Collaborate on projects of all sizes by assigning tasks to others. Keep everything at hand by adding comments, notes, and files.\n• Use one-click templates to tackle everything from meeting agendas and accounting tasks, to packing lists and wedding planning.\n• Instantly see what’s most important by setting visual task priority levels.\n• Get to know your habits better with insights into your personalized productivity streaks.\n\nTodoist on Apple iOS\n• Todoist is beautifully designed, simple to get started, and intuitive to use. \n• Stay organized from your iPhone, iPad, and Apple Watch, while also syncing across desktop and all other devices.\n• With natural language, write tasks like \"tomorrow at 4pm\" or “every other wednesday starting in two weeks” and Todoist will instantly parse it all out for you.\n• Location-based reminders available on upgrade. Never forget an errand again.\n• All the power from iOS: Siri, Today widget, share extension, handoff, and quick actions.\n\nQuestions? Feedback? Visit https://todoist.com/help.\n\nRecommended by: \nThe Verge: “Simple, straightforward, and super powerful”\nWirecutter: “It’s simply a joy to use”\nPC Mag: “The best to-do list app on the market”\nTechRadar: “Nothing short of stellar”\n\n*About Pro plan billing*:\nTodoist is free. But if you choose to upgrade to Pro plan, payment will be charged to your iTunes account, and your account will be charged for renewal within 24 hours prior to the end of the current period. You can choose to be billed monthly or yearly. You can turn off auto-renew in your Apple ID Account Settings any time after purchase.",
+      "android_package_name": "com.todoist",
+      "ios_bundle_id": "com.todoist.ios",
+      "title": "Todoist",
+      "domain_name": [
+        "https://todoist.com",
+        "https://todoist.com"
+      ],
+      "website": "https://todoist.com",
+      "developer": "Doist Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/GK0SwEBVqlFBpRkPjY6y_1go6E6xZzAN0Ivzfgbuf28J4TTOoOsgWnqR4oJ_RhIhsg",
+      "icon_72": "https://play-lh.googleusercontent.com/GK0SwEBVqlFBpRkPjY6y_1go6E6xZzAN0Ivzfgbuf28J4TTOoOsgWnqR4oJ_RhIhsg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.anydo"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Join over 40 million people who rely on Any.do to organize their life, work and get more done. \"IT'S A MUST HAVE APP\" (NYTimes, WSJ, USA Today & Lifehacker). It's the perfect combo of a task list, calendar, planner & reminders all-in-one app.\n\nTHE #1 TO DO LIST & TASK LIST\nSYNCS SEAMLESSLY between your mobile, desktop, web, and tablet. Keeps all your to do list, tasks, reminders, calendar & agenda always in sync so you’ll never forget a thing\nGET REMINDERS for a scheduled time, when you reach a particular location or set recurring reminders so you never miss a thing\nWORK TOGETHER with shared lists and assigned tasks to collaborate and get more done, with anyone. \nWidget with simple and powerful features to keep your to do list and calendar events always at hand\n\nSIMPLE & POWERFUL CALENDAR OUTLOOK\nEASILY VIEW your events and to-do list & Tasks for the day, week & month\nSYNC SEAMLESSLY in real-time with your phone’s calendar, google calendar, Facebook events, outlook calendar, or any other calendar so you don’t forget an important event\n\nALL-IN-ONE APP FOR GETTING THINGS DONE\nTo easily create reminders we added voice entry so you can just speak your mind and we’ll add it to your to do list. For better task management flow we added a calendar integration to keep your agenda always up to date. To enhance your productivity we added cross-platform support for recurring reminders, location reminders, sub-tasks, notes & file attachments. To keep your to-do list always up to date, we’ve added a one-of-a-kind daily planner.\n\nTO DO LIST, CALENDAR & REMINDERS MADE SIMPLE\nAny.do was designed to keep you on top of your to do list and calendar with no hassle. Thanks to the intuitive drag and drop of tasks, swiping to mark to-do's as complete, and shaking your device to remove completed from your to do list - you can keep yourself organized and enjoy every minute of it.\n\nPOWERFUL TASK LIST MANAGEMENT\nLooking for more? Add a to do list item straight from your email inbox by forwarding do@any.do. Attach files from your computer, Dropbox, or Google Drive to your tasks. \n\nLIFE ORGANIZER & DAILY PLANNER\nAny.do is a to do list, a calendar, an inbox, a notepad, a checklist, task list, a board for post its or sticky notes, a project management tool, a reminders app, a daily planner, a family organizer, and overall the simplest and most useful productivity tool you will ever have. \n\nSHARE LISTS & ASSIGN TASKS\nTo plan & organize projects has never been easier. Now you can share lists between family members, assign tasks to each other, chat and much more. Any.do will help you and the people around you stay in-sync and get reminders so that you can focus on what really matters, knowing you had a productive day and crossed off your to do list\n\nGROCERY LIST & SHOPPING LIST\nAny.do task list is also great for shopping at the grocery store. Right there on your to do list is a handy shopping list option that you can share with others. Forgot to buy post-it notes? Want reminders? Simply create a list on Any.do, share it with your loved ones and see them adding their shopping items in real-time. You won’t believe how you’ve done shopping or grocery lists before\n\nAuto-Renewable subscription payment will be charged to iTunes Account at confirmation of purchase. Unless auto-renew is turned off at least 24-hours before the end of the current period, your account will be charged for renewal within 24 hours prior to the end of the current period. Your account will be charged at the cost of the subscription plan you chose:\n\n$9.99 - monthly plan\n$26.99 - 6 months plan\n$59.99 - 12 months plan with 7 days trial (50% OFF)\n\nYou can manage and cancel the auto-renew subscription at any time from the account settings on iTunes (post-purchase), but we are unable to issue refunds for any pay periods that have already been billed. \n\n*Please note we do not support Family Sharing at the moment.*\nTerms: www.any.do/legal/app-license-agreement\nPrivacy: www.any.do/legal/privacy-policy",
+      "android_package_name": "com.anydo",
+      "ios_bundle_id": "com.anydo.AnyDO",
+      "title": "Any.do",
+      "domain_name": [
+        "https://www.any.do",
+        "https://www.any.do"
+      ],
+      "website": "https://www.any.do",
+      "developer": "Any.DO inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/rmzeq_sIQ0Ajs1R0Dx1FhZevoTgnWfY_enZ1AOkBRdhAjnwFqekzw-o-B2rTRyO0XA",
+      "icon_72": "https://play-lh.googleusercontent.com/rmzeq_sIQ0Ajs1R0Dx1FhZevoTgnWfY_enZ1AOkBRdhAjnwFqekzw-o-B2rTRyO0XA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.microsoft.todos"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Stay organized and manage your day-to-day with Microsoft To Do. Make shopping lists or task lists, take notes, record collections, set reminders and more to improve your productivity and focus on what matters.\n\nMicrosoft To Do is the task management app that makes it easy to stay organized and manage your life. Accomplish what’s important to you each day with My Day and Suggestions, personalized day planner tools. Intelligent suggestions recommend tasks from across your lists that may be relevant each day.\n\nQuickly capture and retrieve your lists and tasks across devices by syncing reminders and tasks with Microsoft 365 to access them anywhere. For lists in personal accounts, you can collaborate with anyone with updated notifications for any changes to your to-do lists.\n\nCapture tasks from different Microsoft apps and services and sync them with Microsoft To Do, from flagging emails as tasks in Outlook to lists from Cortana. Your tasks and lists are hosted securely on the Microsoft 365 service.\n\nMake your lists unique with customizable features like emoji, colorful themes, dark mode and more. Stay connected and collaborate with friends and family by sharing lists that stay synced as changes are made.\n\nMicrosoft To Do Features:\n\nDaily planner\n• Stay focused with My Day, a personalized daily planner with suggested tasks\n• Get your lists anywhere, on any device\n• Share your list with anyone and work together \n• Add notes to any task\n\nTask manager\n• Share lists and tasks with your friends, family, colleagues, and classmates\n• Get notified when others create, complete or remove tasks in shared lists\n• Personalize your lists by choosing theme colors or backgrounds\n• Set one-time or recurring due dates and reminders\n• Break your tasks into manageable steps\n• Attach up to 25MB of files to any task\n\nTo-do lists for any purpose\n• Bill planner\n• Shopping lists\n• Set reminders\n• Task management\n• Business calendar\n• Note taking\n• And more\n\nMicrosoft 365 Integration\n• Sync your tasks between Outlook and To Do\n• Host lists and tasks with the reliability and security of Microsoft 365\n• Compile tasks from across your Microsoft 365 apps and services\n\nWhether it's for work, school, or home, To Do helps you organize and simplify your plans. To Do is free and available on all your devices.\n\nLearn more: https://to-do.microsoft.com\nFollow us on Twitter: @MicrosoftToDo\nHave an idea or feature suggestion? https://go.microsoft.com/fwlink/?linkid=2171952\nNeed support?  https://go.microsoft.com/fwlink/?linkid=2156547\n\nBy installing Microsoft To Do, you agree to the Microsoft Terms of Use: https://go.microsoft.com/fwlink/?linkid=842575",
+      "android_package_name": "com.microsoft.todos",
+      "ios_bundle_id": "com.microsoft.to-do",
+      "title": "Microsoft To Do",
+      "domain_name": [
+        "https://go.microsoft.com/fwlink/?linkid=846683",
+        "https://go.microsoft.com"
+      ],
+      "website": "https://go.microsoft.com/fwlink/?linkid=846683",
+      "developer": "Microsoft Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/PH-2iORSfQs-iizoHzePXBaJCXml443pgoC14-lZESLFIp78A4SvxLKUVv1FyIQFtC8",
+      "icon_72": "https://play-lh.googleusercontent.com/PH-2iORSfQs-iizoHzePXBaJCXml443pgoC14-lZESLFIp78A4SvxLKUVv1FyIQFtC8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.taskade.mobile"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Introducing Taskade AI - your all-in-one AI chat and workflow assistant that supercharges your productivity! With just a few taps, get instant answers to complex questions, generate notes and outlines, organize your tasks and projects, and summarize long-form content. Best of all, it's completely free!\n\nTo start a new project, head to the AI Project Studio to craft complete project workflows from scratch effortlessly. Navigate to your workspace or folder, tap the New project button and select AI Project Studio, define the project you want to generate, and let the magic happen.\n\nTo access Taskade AI Assistant, open a project and start writing. Tap the robot icon in the keyboard toolbar to access AI-powered commands that elevate your productivity.\n\nExciting AI commands you can try:\n\n● AI Chat (/ask): Get instant answers to questions based on AI's knowledge.\n● AI Outline (/outline): Generate a structured hierarchy for your topic or question.\n● AI Research Agent (/research): Search the web for more information on a topic.\n● AI SEO Agent (/SEO): Fetch the top search results for given keywords.\n● AI Expand (/expand): Enrich your content with AI's help, making it more descriptive.\n● AI Rewrite (/rewrite): Enhance legibility and clarity with AI's assistance.\n● AI Summarize (/summarize): Turn lengthy content into a quick summary.\n● Generate Subtasks (/subtask): Create subtasks for a parent task effortlessly.\n● Brainstorm Ideas (/brainstorm): Discover and explore new, exciting ideas.\n● Translate Text (/translate): Translate text into one of the available languages.\n● Prioritize Tasks (/prioritize): Arrange tasks based on their importance.\n● Roundtable Agent (/roundtable): Draw expert insights from a team of AI agents.\n● Spelling and Grammar Fix (/fix): Improve the structure and flow of documents.\n\nIn addition, you can now talk to your documents with Taskade AI File Chat. \nEngage with your document files like never before. Upload, ask questions, extract summaries, and uncover insights—all within your project. Whether it's PDFs or CSVs, upload and Ask AI.\n\nTaskade AI is powered by OpenAI's GPT-4 API and ChatGPT - perfect for upgrading your workflows. Create amazing content faster than ever. Download Taskade AI today and write smarter, not harder!\n\nLooking to get things done faster and smarter? Need to track multiple tasks or projects? Taskade is the ultimate online to-do list for work. Boost productivity with smart to-do lists, outliner notes, and mind maps in one unified workspace. Taskade is simple, beautiful, and fun - the ideal to-do list manager for personal and work goals.\n\nUse Taskade individually or in teams, at home, or work. Automatic syncing keeps data up-to-date on every device. Empower your team with Taskade!\n\nCollaborate with team members on the same page and edit projects in real-time. Chat, organize, and work together instantly. Supercharge team productivity with Taskade.\n\nCAN I USE TASKADE WITH MY TEAM?\nYes, Taskade is designed to boost team productivity. Share a to-do list project or invite team members to a Workspace. Work together in real-time to manage projects and assign tasks.\n\nWHAT IS A WORKSPACE?\nA workspace is a collection of projects. Workspaces help keep task lists and notes organized. Make workspaces collaborative by inviting team members. Team members can edit projects inside and collaborate in real-time. They will also receive push notifications for updates.\n\nCUSTOM TEMPLATES\nExplore limitless creative ways to use Taskade by selecting a template. Design your own team productivity system and workflows.\n\nGET IN TOUCH\nWe value your feedback. For any feedback, email us at support@taskade.com or visit https://taskade.com/contact\n\nVisit us at https://taskade.com\nPrivacy Policy: http://taskade.com/privacy\nTerms of Service: http://taskade.com/terms",
+      "android_package_name": "com.taskade.mobile",
+      "ios_bundle_id": "com.taskade.mobile",
+      "title": "Taskade",
+      "domain_name": [
+        "https://www.taskade.com",
+        "https://www.taskade.com"
+      ],
+      "website": "https://www.taskade.com",
+      "developer": "Taskcade Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2f5I8Qzu2kdkLtPYnpjYXG-_GLoGZEzbNE1qFzEdoDr9C4qAlNjxuo8Z3y0omklZug",
+      "icon_72": "https://play-lh.googleusercontent.com/2f5I8Qzu2kdkLtPYnpjYXG-_GLoGZEzbNE1qFzEdoDr9C4qAlNjxuo8Z3y0omklZug=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.automattic.simplenote"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Simplenote is an easy way to take notes, create to-do lists, capture ideas, and more. Open it, jot down some thoughts, and you're done. As your collection grows, stay organized with tags and pins, and find what you need with instant search. Since Simplenote will sync across your devices for free, your notes are with you at all times.\n\n- A simple, note taking experience\n- Sync everything across all your devices\n- Collaborate and share\n- Stay organized with tags\n- Log in with your email or WordPress.com account\n\nSYNC WITH CONFIDENCE\n- Automatically sync seamlessly across any computer, phone or tablet.\n- Back up and sync everything as you take notes, so you never lose your content.\n\nCOLLABORATE AND SHARE\n- Collaborate and work together -- share ideas with a colleague, or write a grocery list with your roommate.\n- Choose whether to publish your content to the web, and share a link with whoever you want.\n- Publish directly to a WordPress site by connecting your WordPress.com account.\n- Quickly and easily share with third-party apps.\n\nORGANIZE AND SEARCH\n- Stay organized with tags, and use them for quick searching and sorting.\n- Instantly find what you’re looking for with keyword highlighting.\n- Use markdown to add formatting.\n- Create to-do lists.\n- Choose the sorting order of your notes and tags.\n- Pin the notes that you use the most.\n- Edit tags directly by renaming and reordering.\n- Protect your content with a passcode lock.\n\n--\n\nPrivacy Policy: https://automattic.com/privacy/\nTerms of Service: https://simplenote.com/terms/\nCalifornia Users Privacy Notice: https://wp.me/Pe4R-d/#california-consumer-privacy-act-ccpa\n\n--\n\nVisit simplenote.com to download Simplenote for your other devices.",
+      "android_package_name": "com.automattic.simplenote",
+      "ios_bundle_id": "com.codality.NotationalFlow",
+      "title": "Simplenote",
+      "domain_name": [
+        "https://simplenote.com",
+        "https://simplenote.com"
+      ],
+      "website": "https://simplenote.com",
+      "developer": "Automattic, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/tt2b9Mt4M2clkweReVwD0ZRlDGQNRaheCpESIFynT61Cazgq4wx-0q4tWZK_yyWTa1Y",
+      "icon_72": "https://play-lh.googleusercontent.com/tt2b9Mt4M2clkweReVwD0ZRlDGQNRaheCpESIFynT61Cazgq4wx-0q4tWZK_yyWTa1Y=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.authenticator2"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. This means that in addition to your password, you'll also need to enter a code that is generated by the Google Authenticator app on your phone.\n\nThe verification code can be generated by the Google Authenticator app on your phone, even if you don't have a network or cellular connection.\n\n• Sync your Authenticator codes to your Google Account and across your devices. This way, you can always access them even if you lose your phone.\n\n• Set up your Authenticator accounts automatically with a QR code. This is quick and easy, and it helps to ensure that your codes are set up correctly.\n\n• Support for multiple accounts. You can use the Authenticator app to manage multiple accounts, so you don't have to switch between apps every time you need to sign in.\n\n• Support for time-based and counter-based code generation. You can choose the type of code generation that best suits your needs.\n\n• Transfer accounts between devices with a QR code. This is a convenient way to move your accounts to a new device.\n\n\nTo use Google Authenticator with Google, you need to enable 2-Step Verification on your Google Account. To get started visit http://www.google.com/2step",
+      "android_package_name": "com.google.android.apps.authenticator2",
+      "ios_bundle_id": "com.google.Authenticator",
+      "title": "Google Authenticator",
+      "domain_name": [
+        "http://www.google.com/2step",
+        "https://www.google.com"
+      ],
+      "website": "http://www.google.com/2step",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NntMALIH4odanPPYSqUOXsX8zy_giiK2olJiqkcxwFIOOspVrhMi9Miv6LYdRnKIg-3R",
+      "icon_72": "https://play-lh.googleusercontent.com/NntMALIH4odanPPYSqUOXsX8zy_giiK2olJiqkcxwFIOOspVrhMi9Miv6LYdRnKIg-3R=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.azure.authenticator"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Use Microsoft Authenticator for easy, secure sign-ins for all your online accounts using multi-factor authentication, passwordless, or password autofill. You also have additional account management options for your Microsoft personal, work or school accounts.\n\nGetting started with multi-factor authentication\n\nMulti factor authentication (MFA)provides a second layer of security. When enabled, during login after entering your password, you’ll be asked for an additional way to prove it’s really you. Either approve the notification sent to the Microsoft Authenticator, or enter the one-time password (OTP) generated by the app. The OTP codes have a 30 second timer counting down. This timer is so you never have to use the same time-based one-time password (TOTP) twice and you don’t have to remember the number. The OTP doesn’t require you to be connected to a network, and it won’t drain your battery. You can add multiple accounts to your app, including non-Microsoft accounts like Facebook, Amazon, Dropbox, Google, LinkedIn, GitHub, and more.\n\nGetting started with passwordless\n\nUse your phone, not your password, to log into your Microsoft account. Just enter your username, then approve the notification sent to your phone. Your fingerprint, face ID, or PIN will provide a second layer of security in this two-step verification process. After you’ve signed in with two factor authentication (2FA), you’ll have access to all your Microsoft products and services, such as Outlook, OneDrive, Office, and more.\n\nGetting started with autofill\n\nMicrosoft Authenticator app can also autofill passwords for you. Sign-in on the Passwords tab inside the Authenticator app with your personal Microsoft account to start syncing passwords, including the passwords saved in Microsoft Edge. Make Microsoft Authenticator the default autofill provider and start autofilling passwords on apps and sites you visit on your mobile. Your passwords are protected with multi-factor authentication in the app. You will need to prove yourself with your fingerprint, face ID, or PIN to access and autofill passwords on your mobile. You can also import passwords from Google Chrome and other password managers.\n\nMicrosoft personal, work or school accounts\n\nSometimes your work or school might ask you to install the Microsoft Authenticator when accessing certain organization resources. You will need to register your device to your organization through the app and add your work or school account. Microsoft Authenticator supports cert-based authentication by issuing a certificate on your device. This will let your organization know that the sign-in request is coming from a trusted device and help you seamlessly and securely access additional Microsoft apps and services without needing to log into each.",
+      "android_package_name": "com.azure.authenticator",
+      "ios_bundle_id": "com.microsoft.azureauthenticator",
+      "title": "Microsoft Authenticator",
+      "domain_name": [
+        "https://www.microsoft.com/authenticator",
+        "https://www.microsoft.com"
+      ],
+      "website": "https://www.microsoft.com/authenticator",
+      "developer": "Microsoft Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/_1CV99jklLbXuun-6E7eCPR-sKKeZc602rhw_QHZz-qm7xrPdgWsJVc7NtFkkliI8No",
+      "icon_72": "https://play-lh.googleusercontent.com/_1CV99jklLbXuun-6E7eCPR-sKKeZc602rhw_QHZz-qm7xrPdgWsJVc7NtFkkliI8No=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.authy.authy"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Your use of the Authy App is subject to these Authy App Terms (www.twilio.com/legal/authy-app-terms) and Twilio’s Privacy Notice (www.twilio.com/legal/privacy)\n\nAuthy brings the future of two-factor authentication to the convenience of your iPhone or iPad.\n\nThe Authy app generates secure 2 step verification tokens on your device. It helps you protect your account from hackers and hijackers by adding an additional layer of security.\n\nWhy Authy is the best multi factor authentication app:\n\n - Secure Cloud Backups:\n   Did you lose your device and get locked out of all of your accounts? Authy provides secure cloud encrypted backups so you will never lose access to your tokens again. We use the same algorithm that banks and the NSA use to protect their information.\n\n - Multi Device Synchronization:\n   Are you re-scanning all your QR codes just to add them to your tablet and smartphone? With Authy you can simply add devices to your account and all of your 2fa tokens will automatically synchronize.\n\n- Offline:\n   Still waiting for an SMS to arrive? Do you travel constantly and lose access to your accounts? Authy generates secure tokens offline from the safety of your device, this way you can authenticate securely even when in airplane mode.\n\n- All of your accounts:\n  We support most major multi-factor authentication accounts including Facebook, Dropbox, Amazon, Gmail, and thousands of other providers. We also support 8 digit tokens.\n\n- Protect your bitcoins:\n   Authy is the preferred two factor authentication solution to protect your bitcoin wallet. We are the default 2fa provider for trusted companies like Coinbase, CEX.IO, BitGo and many others.\n\nOfficial website:\nhttps://www.authy.com",
+      "android_package_name": "com.authy.authy",
+      "ios_bundle_id": "com.authy",
+      "title": "Authy",
+      "domain_name": [
+        "https://www.authy.com",
+        "https://www.authy.com"
+      ],
+      "website": "https://www.authy.com",
+      "developer": "Authy Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NxyEuJRx4jjR1Q9PXOPGExFQXDKr_pZJ61Cb15eR0aX3UTZKAxWsXvK9Gh4K-NUd5A",
+      "icon_72": "https://play-lh.googleusercontent.com/NxyEuJRx4jjR1Q9PXOPGExFQXDKr_pZJ61Cb15eR0aX3UTZKAxWsXvK9Gh4K-NUd5A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.razeeman.util.simpletimetracker"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Stocks Tracker - The most comprehensive stock app in the mobile world.  Brings you free streaming live quotes, pre-market/after-hour quotes, portfolio  monitoring, advanced full screen chart, push notification based alert, economic news, event/earnings calendar, market signal scans and a lot more...\n\nFeatures Highlights:\n\n-Multiple watch lists\n-Multiple portfolios\n-Support all major US brokers for trading\n-Real-time Alerts\n-Real-time streaming quotes\n-Market single scans\n-Global Indexes & Currencies\n-Futures & Commodities \n-Stock Screener\n-Interactive chart with 50+ technical indicators\n-Paper Trade\n-News, Events & Earnings\n\nFeature Details:\n\n---------------------------------------------\n-== Watchlist and real time quotes ==-\n---------------------------------------------\nFree real-time streaming quotes, no more refresh, no more 15-20 min delay *\nAfter hour and pre-market price\nCreate unlimited watchlists\nAdd unlimited symbols to existing watchlist\nDelete/Re-order your watch list and symbols\n\n---------------------------------------------\n-== Market single scans ==-\n---------------------------------------------\n52-week high/low\nStrong Volume Gainer/Losser\n50/200 MA Crossover\nMACD Crossover\nRSI Oversold/Overbought\nAbove/Below Bollinger Band\nSAR Buy/Sell\nADX Uptrend/Downtrend\nAroon Uptrend/Downtrend\nGap Up/Down\n\n---------------------------------------------\n-== Stock details ==-\n---------------------------------------------\nOpen, previous close, high/low, 54 week high/low, volume/avg volume\nEarnings info for up to past 6 quarters\nNext earning release date\nAdd coming earning release date to your calendar\nCompany news\n\n\n\n---------------------------------------------\n-== Chart ==-\n---------------------------------------------\nSimple line/candle chart\n1, 5 day, 1,3,6 month and 1,2,5 year chart\n\nAdvanced Chart:\nIntraday chart. 1min, 5min, 15min chart\nMACD,RSI,Bollinger bands, Stochastic ...\nMore than 50 technical indicators and overlays \n\n\n---------------------------------------------\n-== Portfolio tracker ==-\n---------------------------------------------\nCreate unlimited portfolios\nAdded unlimited positions to existing portfolio\nCash management\nDelete/Re-order your portfolio and positions\nGain/Loss summary per portfolio\nGain/Loss details per position\nRealized Gain/Loss and Gain/Loss summary in transaction log\n\n-----------------------------------------\n-== Alerts ==-\n-----------------------------------------\nSetup unlimited push notification based alert\nBacked by our streaming quote engine, alerts are run/triggered in seconds\nSetup simple alerts based on price, price change/percent, volume\nTrailing stop alert\nPrice on home screen (badge)\n\n------------------------------------------\n-== News and economic events ==-\n------------------------------------------\nEarnings calendar\nEconomic event calendar\n\n* real-time quotes provided by BATS, US stocks only\n\n-== Nasdaq Qutes Subscriptions ==-\n$.99 /month for elite member\n$5.99/month for non member\n- Subscription Auto Renewable\n\n-== Elite Membership Subscriptions ==-\n\n– VIP server\n– 15/30 secs chart\n– Extended hour chart\n– All full version features are included\n\n- Subscription Auto Renewable: $9.99/month\n– 7 Days free trial \n- No charge will be applied if you cancel before the trail ends\n– Payment will be charged to iTunes Account at confirmation of purchase \n– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n– Unused portion of a free trial period, will be forfeited when the user purchases a subscription to that publication, where applicable\n-Privacy & Terms of Use:\nhttps://www.stockstracker.com/terms.html",
+      "android_package_name": "com.razeeman.util.simpletimetracker",
+      "ios_bundle_id": "com.ppking.StockTracker",
+      "title": "Time Tracker",
+      "domain_name": [
+        "https://www.stockstracker.com",
+        "https://www.stockstracker.com"
+      ],
+      "website": "https://www.stockstracker.com",
+      "developer": "Dajax LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/um-P93L4xr7Y2rItD_Q7LzsqtXxtmU6DW8gsARAkQhRSruall2_NkDB9GDCmVyiPbA",
+      "icon_72": "https://play-lh.googleusercontent.com/um-P93L4xr7Y2rItD_Q7LzsqtXxtmU6DW8gsARAkQhRSruall2_NkDB9GDCmVyiPbA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "cc.forestapp"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "## Top productivity app in 136 countries. More than 2 million satisfied paying users. Featured in Apple's \"Amazing Apps\" TV commercial.\n## Staying focused with the cutest gamified timer. \n## Over 1,500,000 real trees were planted on Earth by our users.  \n\n\"Forest works well, and if your goal is to be more in the moment, ignore your phone and actually talk to your friends when you are with them, this is the app for you.\"— The New York Times \n\n\"In order to establish new, better habits, it's helpful to engage with tools that make it easier to reinforce them. For anyone looking to curtail their phone usage, the Forest app might be for you.\"— Business Insider\n\nIf you want to temporarily put down your phone and focus on what’s more important in real life, you can plant a seed in Forest. As time goes by, this seed will gradually grow into a tree. However, if you cannot resist the temptation of using your phone and leave the app, your tree will wither. \n\nThe sense of achievement and responsibility will encourage you to stay away from your phone, and will help you make better use of your time. Stop getting distracted by your phone, make you self-motivated and get more things done.\n\nStay focused, Be present! \n\nSTAY FOCUSED\n• A interesting way to help you beat phone addiction and overcome distraction\n• Turn your focused moments into a lush forest.\n• Create personalized Allow Lists for different situations. Non-allowed apps will be blocked. (iOS 16 or above)\n\nGET MOTIVATED\n• Earn rewards and unlock more than 90 new tree species and white noises.\n• Share your forest and compete with friends and users around the world.\n• Plant trees along with friends & family.\n• Unlock achievements and earn extra rewards.\n• Plant real trees on Earth and protect the environment with tree-planting organization Trees for the Future.\n\nSTATISTICS\n• Manage your own tags and view detailed statistics of your time distribution.\n• Browse your weekly, monthly and even your yearly big forest.\n• Track your focused time in the Apple Health App.\n• Track your daily phone usage and screen time.\n• Recall memories of your planting journey with our brand new Forest Timeline!\n\nIt's never too late to build up productive habits! \n\nNOTICE\n• Forest is compatible with iPhone, iPad and Apple Watch, and can be used across these iOS devices with a one-time purchase. The full app with the aforementioned features is available on iPhone and iPad; on Apple Watch you can view live planting session and today’s focus stats. To download or unlock a non-iOS version, it requires a separate purchase. By logging into the same account, your data can be synchronized across all platforms.\n• Due to iOS limitations, the Allow List feature is only available on iOS/iPadOS 16 or above. If you’re using a device running iOS/iPadOS 15 or below, your tree will wither when you leave Forest during a planting session.\n• Due to budget constraint, the number of real trees each user can plant is limited to five. We will be introducing limited time events that will allow users to plant more real trees. Please follow our social media page or check the in-app announcement for more updates.\n• There is only one version of Forest on the App Store. Other apps that are similar and mimics Forest are not developed by the Forest team. Thank you for your support!\n\nLike us on Facebook: https://www.facebook.com/forestapp.cc/\nFollow us on Twitter: https://twitter.com/forestapp_cc\nFollow us on Instagram: https://www.instagram.com/forest_app/\n\nWe also provide browser extensions. Find out more on www.forestapp.cc",
+      "android_package_name": "cc.forestapp",
+      "ios_bundle_id": "com.forestapp.Forest",
+      "title": "Forest",
+      "domain_name": [
+        "http://www.forestapp.cc",
+        "https://www.forestapp.cc"
+      ],
+      "website": "http://www.forestapp.cc",
+      "developer": "SEEKRTECH CO., LTD.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NWRVVF6zXvmcqspJwdFOKcQG6OlsNwpMOxED_DgB6B2BBDeWwAeWZKZxGhgqU0LQVJU",
+      "icon_72": "https://play-lh.googleusercontent.com/NWRVVF6zXvmcqspJwdFOKcQG6OlsNwpMOxED_DgB6B2BBDeWwAeWZKZxGhgqU0LQVJU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.rescuetime.android"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "**RescueTime for iOS is designed to pair with our powerful desktop time management app.** \nOver the past 14 years, RescueTime has helped 2.5 million people understand how they spend their time, block distractions, and focus on the work they want to get done. \n\nOnce you download the app on your iPhone or iPad, we’ll send you instructions on how to set up the RescueTime Desktop Assistant. \n\nMOBILE FEATURES:\n>> Guided Focus Sessions\nTake back control of your time with guided Focus Sessions. Choose what you want to work on, set a timer, and RescueTime will guide prevent you from being distracted by your phone or distracting apps or websites on your computer. \n\n>> Assistant\nThe RescueTime Assistant pairs with our desktop app and gives you a personal daily Focus Work goal and automatically keeps track as you work on your computer. You can also track time spent focusing and enter offline time from your phone. \n\n>> Total Privacy \nLocation data is stored locally on your device and never shared.\n\nYOUR RESCUETIME DESKTOP ACCOUNT:\nRescueTime’s desktop app is a powerful desktop time tracker and productivity tool that shows you the exact time you’ve spent on websites, apps, meetings, communication tools, and gives you breakdowns of time spent on Focus Work and Personal time. \n\n(Note: Due to Apple restrictions RescueTime can’t track your time spent on apps and websites on your phone.)\n\n>> Real-Time Nudges to Stay Focused \nWe’ll send you quick messages when you get distracted and help guide you back to focus.\n\n>> Weekly Reports \nTrack your progress over time and build a better phone habit!\n\n>> Support, Privacy, and More\nYou have total control over what RescueTime tracks and when. If you have any questions, our support team is here to help. Just send an email to support@rescuetime.com.\n\n>>Terms of Service\nThis app offers optional in-app purchases with auto-renewing monthly and annual subscriptions. For more information about our terms of service, go here: https://www.rescuetime.com/tos",
+      "android_package_name": "com.rescuetime.android",
+      "ios_bundle_id": "com.rescuetime.ios",
+      "title": "RescueTime",
+      "domain_name": [
+        "https://www.rescuetime.com",
+        "https://www.rescuetime.com"
+      ],
+      "website": "https://www.rescuetime.com",
+      "developer": "RescueTime, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/tCojEbNBb3EP9mS6BCoyhmLcJIP9yNWy_k5xyDbEheAjlTAHdN4w4G0X2BZnzxo_rg",
+      "icon_72": "https://play-lh.googleusercontent.com/tCojEbNBb3EP9mS6BCoyhmLcJIP9yNWy_k5xyDbEheAjlTAHdN4w4G0X2BZnzxo_rg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cv.docscanner"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "ScanGuru is a scanner app that will turn your phone into the powerful tiny scanner that fits in your pocket!\n\nScan, edit, sign and share any document in PDF or JPEG. With our scanner you don’t need an Internet connection as all scans are stored locally on your device.\n\nBecome even more productive with e-sign and OCR. Add your signature to scanned documents with just a few taps in scanner pro. Use text recognition to convert any scan into text.\n\nAdvanced scanner features:\n- Sign documents in a few taps\n- OCR (convert any scan into text)\n- Annotate PDFs by highlighting text\n- Translate scanned documents\n- Export to Word in one tap\n- Save your scans in black and white, grayscale or color\n- Highlight the key points of your scans.\n- Scan to high-quality PDF or JPEG\n- Multipage scanning - scan as many pages as you need\n- Automatic shutter and border detection for any scannable object\n- Protect your scans with Touch/Face ID or pin code\n\nUse our free scanner app to scan anything you need:\n- IDs, business documents, agreements, letters, invoices, order sheets, receipts\n- Paper notes and sketches\n- Any articles and book pages\n- Business cards\n- Rentals, credit notes, bills or any other printed documents\n\nShare your scanned documents via:\n- Email or messengers as PDF, JPEG\n- Print your scans with any Wi-Fi printer\n- Save scans to Camera Roll\n\nPremium features:\n- Unlimited number of scans and folders.\n- Text Recognition (OCR)\n- Signature, Watermark, Stamp, Annotation\n\nInformation about the auto-renewal of subscription:\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.\n- Any unused portion of a free trial period will be forfeited when the user purchases a subscription.\n- Payment will be charged to iTunes Account at confirmation of purchase.\n- An account will be charged for renewal within 24 hours prior to the end of the current period. The cost depends on the selected plan.\n\nTerms of Services: https://universeapps.limited/scanguru/tos.html\nPrivacy Policy: https://universeapps.limited/scanguru/privacy.html\nBilling terms: https://universeapps.limited/scanguru/billing.html\n\nContact us via Customer Support: support@universeapps.limited",
+      "android_package_name": "com.cv.docscanner",
+      "ios_bundle_id": "com.sergey-gerasimenko.EasyDocScan",
+      "title": "Scanner App - PDF Document Scan",
+      "domain_name": [
+        "https://uni.tech/en",
+        "https://uni.tech"
+      ],
+      "website": "https://uni.tech/en",
+      "developer": "GM UniverseApps Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/u1RTeZ-HJFxTOn4ok8l_EjY-XIeYZFSZMFM6T9CrI3-LESxvx4U75SconHwXXw3TCU8D",
+      "icon_72": "https://play-lh.googleusercontent.com/u1RTeZ-HJFxTOn4ok8l_EjY-XIeYZFSZMFM6T9CrI3-LESxvx4U75SconHwXXw3TCU8D=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.appxy.tinyscanner"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Why have we stood out among countless scanning apps for a full decade?  \n\n- Simple: As easy as taking a photo—sometimes you don’t even need to press the shutter.  \n- Fast: Automatically detects edges for seamless scanning.  \n- Accurate: Each scan looks just like a digital document.\n\nEnter Tiny Scanner - your trusted pocket scanner for over a decade!\nWith an impressive track record spanning over 10 years, and the trust of millions of users worldwide, Tiny Scanner is your perfect scanning companion on-the-go - be it for contractors, small businesses, freelancers, and more.\nEffortlessly recognizes almost anything you need to scan. Documents, books, receipts, notes, photos, IDs, passports, whiteboards, posters, cards, letters, newspapers, screens, licenses, menus, certificates, music scores, you name it!\n\nFREE SCANNER APP WITH POWERFUL TOOLS\n- Single/Multi-page scan mode allowing document scanning from a single page to an entire book, guided by helpful tutorials;\n- AI-powered OCR text recognition;\n- PDF encryption with password protection;\n- Smart border detection for automatic document recognition;\n- Professional filter options, including De-shadow, Smart Black & White, Color, Black & White, Photo, and Grayscale;\n- Document sharing as PDF, JPG through fax or email, or uploading to Dropbox, Google Drive, Box, OneDrive, Evernote, iCloud Drive;\n- Share your document seamlessly via a link.\n- Cloud-sync system to backup your important documents and access across all devices;\n- Add watermark to document page;\n- Add a signature to a document by handwriting or scanning;\n- Add tags to files to make them easier to search and organize;\n- Recovery of documents from the trash bin.\n\nCLOUD SYNC OF TINY SCANNER\n- Store your files in a secure cloud. \n- Sync PDF files and folders in real time. \n- Transfer and view files from any platform.\n- Access and manage PDF files anytime and anywhere.\n- Use one subscription for all your devices.\n\n\n\n\n---\nWHY Tiny Scanner?\n- Speed: Decades of refining ensure the smoothest and fastest scanning experience.\n- Convenience: Quickly access the functions you need through the \"Actions\" page.\n- Customizability: Redact, replace or move pages, or even merge documents.\n- Organization: All scanned documents or files can be neatly organized in your preferred manner. Move or archive them into folders at your convenience.\n- Accessibility: Cloud storage allows you to access your scanned documents anytime, anywhere.\n- Reliability: With a decade of trust from millions of small businesses and individuals, Tiny Scanner stands as a reliable scanning solution.\n- Free your space: Scan important documents into your phone to free up space in your backpack, eliminating the need for piles of paper documents.\n\n\nSubscription Details\n• Weekly and annual subscriptions are available.\n• Payment will be charged to your Apple ID Account at confirmation of purchase.\n• Your subscription will automatically renew unless auto-renew is disabled at least 24 hours before the end of the current subscription period.\n• Subscriptions can be managed by going to Account Settings on the App Store after purchase.\nTerms of Service: https://bit.ly/3kaDAeG\nPrivacy Policy: https://bit.ly/2UzHqVJ\n\n\nTiny Scanner is constantly updated with new features. Please write to us before leaving negative reviews, as we can often help with your problem or help you better use the app.\nIf you have any problem or suggestion, please send mail to support@tinyscanner.app, you will get the response and solution in a short time.",
+      "android_package_name": "com.appxy.tinyscanner",
+      "ios_bundle_id": "com.btgs.scannerhdlite",
+      "title": "Tiny Scanner",
+      "domain_name": [
+        "https://www.tinyscan.app",
+        "https://www.tinyscan.app"
+      ],
+      "website": "https://www.tinyscan.app",
+      "developer": "TinyWork Apps",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/P3q8Lrq1bx0wm4iuDIq9Oa8L1eoKRiEfVttyz3Iawf841lF-xuvZS4I2-6ggO2AFOVqO",
+      "icon_72": "https://play-lh.googleusercontent.com/P3q8Lrq1bx0wm4iuDIq9Oa8L1eoKRiEfVttyz3Iawf841lF-xuvZS4I2-6ggO2AFOVqO=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "free.faxing.app.machine.fax.documents.from.phone"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Are you in need of a hassle-free & cost-effective way to fax from your iPhone for free? Look no further than iFax, the original & best free e Fax app. With iFax, your iPhone or iPad instantly transforms into a portable free online fax machine. Say hello to your go to online fax services!\nWith a user base of over 5 million individuals spanning 20,000 companies, including Fortune 500 powerhouses & esteemed nonprofit institutions like Citibank, the US Government, Harvard University, SAS, Lyft, PWC, 3M, Invitae, & many more, iFax has established itself as the go-to faxer service for all your internet faxing needs, including unlimited fax plus many other features.\n\nHow iFax Works\n- Whether you need to send a single fax or a multitude of faxes, iFax has you covered, right from your iPhone.\n- Get started with faxing in minutes, all without the need to create an account or deal with cumbersome paperwork.\n- Seamlessly send & receive faxes on the go with iFax, the world's leading fax app, offering free fax from iphone free app features.\n-Send a free fax from iphone free with iFax \n\nWhy Choose iFax App for Your Free e Fax++ Needs\nHIPAA & GLBA-Compliant, Enterprise-Grade Faxing: iFax offers faxing with enhanced security, bulk faxing, & multiple fax numbers – the ultimate fax plus solution.\n\nGo Paperless with Cloud Faxing: Leverage cloud integration for importing & faxing images, documents, & PDFs from iCloud, Google Drive, Dropbox, while enjoying efax free benefits.\n\n100% Safe & Private: Securely fax business & personal documents worldwide with iFax's robust 256-bit SSL encryption & HIPAA-compliant faxing, your security is our priority.\n\nPowerful Document Scanner: iFax features an advanced e-fax scanner for swift & easy faxing of personal files, business documents, images, & more.\n\nMulti-Platform Support: Send & receive faxes effortlessly with iFax on your iPhone, iPad,computer  & Apple Watch, making faxing a breeze for individuals & businesses.\n\nThe iFax Success Story\nLaunched in 2008, the same year as the Apple App Store's inception, iFax has faithfully served millions of users who have collectively sent & received over 20 million faxes. Over the past decade, iFax has risen to become the world's most popular fax app today, offering fax plus features that are hard to beat.\n\nSUBSCRIPTIONS\n- Prices vary based on selected region & duration, starting from $27.99/month (USD).\n- Subscription duration options include 1 month & 1 week.\n- A fax number will remain active as long as the subscription is active. Once deactivated, faxes received to your number may not be accessible.\n- The free trial period lasts for 7 days & monthly subscription charges are then made automatically to the given payment account unless canceled 24 hours prior to the end of the trial period.\n- iFax contains both free trial & paid subscriptions for fax+. Free trial offers are only available once per subscription per user.\n- Subscriptions will automatically renew unless auto-renew is turned off at least 24-hours prior to the end of the current period.\n- Initial payments are charged to a user's iTunes Account at confirmation of purchase.\n- Charges for renewal occur within 24-hours prior to the end of the current period.\n- Subscriptions can be managed by the user & auto-renewal can be turned off by going to the user's Account Settings after purchase.\n- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n- Fair Use Policy - iFax reserves the right to limit any or all of the above services based on what it deems to be abusive practices, unusually high usage or what iFax deems as 'Fair Use'.\n- Privacy Policy - https://www.ifaxapp.com/privacy\n- Terms Of Use - https://www.ifaxapp.com/terms\n- Apple Terms of Use - https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n*iPhone & iPad are trademarks of Apple Inc.",
+      "android_package_name": "free.faxing.app.machine.fax.documents.from.phone",
+      "ios_bundle_id": "com.crowdedroad.ifaxpro",
+      "title": "Fax Burner",
+      "domain_name": [
+        "https://www.ifaxapp.com/?utm_source=store&utm_medium=ios",
+        "https://www.ifaxapp.com"
+      ],
+      "website": "https://www.ifaxapp.com/?utm_source=store&utm_medium=ios",
+      "developer": "Maplewoods Associates Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/waHKd0AG-FG5hikIF3YMpVaNjkrQD7GrAHQz1hDJUOOVX9mc7U6GUs4yoLSX7AvqoA",
+      "icon_72": "https://play-lh.googleusercontent.com/waHKd0AG-FG5hikIF3YMpVaNjkrQD7GrAHQz1hDJUOOVX9mc7U6GUs4yoLSX7AvqoA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.viber.voip"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Rakuten Viber is a secure, fun, and exciting messaging and calling app, connecting over a billion people worldwide!\n\nYou can do it all with Rakuten Viber: group chats, disappearing messages, reminders, and more:\n\nSend messages for free\nStaying in touch has never been easier. Send a free text, photo, sticker, GIF, voice or video message, along with many other types of files.\n\nMake free audio and video calls\nEnjoy unlimited Viber-to-Viber calls to anyone in the world for free. You can even call up to 60 people at the same time! Great for connecting with friends, family, and colleagues :)\n\nExperience end-to-end encryption\nOn by default for all 1-on-1 calls, chats, and group chats, end-to-end encryption allows to you to communicate with confidence knowing that all messages will remain private. No one, not even Rakuten Viber, can read your messages.\n\nMake low-cost calls to landlines with Viber Out\nCall any landline or mobile phone with Viber Out’s low-cost international calling service. Get a Viber Out subscription to call a specific destination or keep your options open and buy minutes to call anywhere in the world. \n\nOpen a group chat\nCatch up with friends, family, and colleagues by opening a group chat for up to 250 members. Use polls and quizzes, @mentions and reactions to get the most out of your group!\n\nExpress yourself with lenses, GIFs, and stickers\nPersonalize your chats! Get creative with fun, funny, and beautifying Viber lenses. GIFs and over 55,000 stickers also await you - you can even create your own.\n\nUse disappearing messages\nSend disappearing messages in your 1-on-1 and group chats by setting a timer for each message. You can choose how long the message will be available after it’s opened - 10 seconds, 1 minute, or up to 1 day!\n\nConnect in Communities and Channels\nWhether it's sports, news, cooking, travel or entertainment, get the content you really want and connect with others with similar interests. You can even start your own Community or Channel and gain a global following. \n\nChat with AI bots\nRakuten Viber's AI bots will answer all your questions and turn your words into beautiful art. You can also find verified bots to get the latest news on fashion, book your travel, and even pay your electricity bills!\n\nReact to messages\nReact to messages with emojis to express exactly how you feel in chats!\n\nCreate notes and reminders\nForward interesting messages, keep meaningful links, and add your thoughts to your notes. You can also set reminders to ensure you never forget important tasks and events. \n\nRakuten Viber is part of the Rakuten Group, a world leader in e-commerce and financial services. \n\nTerms & Policies: https://www.viber.com/terms/",
+      "android_package_name": "com.viber.voip",
+      "ios_bundle_id": "com.viber",
+      "title": "Viber",
+      "domain_name": [
+        "http://www.viber.com",
+        "https://www.viber.com"
+      ],
+      "website": "http://www.viber.com",
+      "developer": "Viber Media SARL.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EbQM-vsHv42Hg6qZvuK47q_cK3-KObc9GRlhNBWebX0AWrg5nMD92Kniqz8Z1BFpD3U",
+      "icon_72": "https://play-lh.googleusercontent.com/EbQM-vsHv42Hg6qZvuK47q_cK3-KObc9GRlhNBWebX0AWrg5nMD92Kniqz8Z1BFpD3U=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.android.chrome"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Download the new Google Chrome for your iPhone and iPad. Now more simple, secure and faster than ever. Get the best of Google Search, and easily sync your bookmarks and passwords with Chrome on your laptop. Download the fast, secure browser recommended by Google.\n\nNEW - You can now set Chrome as your default browser. Follow the in-app prompt or go to Settings > Google Chrome to set Chrome as default. All web links will automatically open in Chrome.\n\n• SEARCH WITH GOOGLE - Chrome is the browser with Google built in. Search and get answers on Google fast.\n\n• BROWSE FAST - Choose from personalized search results that instantly appear as you type and quickly browse previously-visited websites.\n\n• SEARCH FROM YOUR HOME SCREEN - Access Chrome from your iOS home screen with the new widget.\n\n• ACCESS YOUR CHROME ACROSS DEVICES - When you sign in to Chrome, you can save bookmarks, passwords and more in your Google Account, so you can access them on your other devices.\n\n• STORE PASSWORDS & PAYMENT METHODS - Chrome can save your passwords and payment information, and automatically fill them into forms when you need them.\n\n• VOICE SEARCH - Use Google voice search to get answers without typing.\n\n• MANAGE TABS EASILY - See all your tabs in a single view and easily organize them into groups.\n\n• ARTICLES FOR YOU - Chrome surfaces articles, blogs, and content that we think you might like. The more you use Chrome, the more personalized it gets. You’ll always have what’s most relevant to you at your fingertips.\n\n• GOOGLE TRANSLATE - Chrome lets you translate an entire site in a single click with Google Translate built in.\n\n• INCOGNITO MODE - Use Incognito mode to browse without saving your history (learn more at http://goo.gl/WUx02)\n\n• SAVE YOUR SITES - Save pages for later with bookmarks in Chrome.",
+      "android_package_name": "com.android.chrome",
+      "ios_bundle_id": "com.google.chrome.ios",
+      "title": "Google Chrome",
+      "domain_name": [
+        "http://www.google.com/chrome",
+        "https://www.google.com"
+      ],
+      "website": "http://www.google.com/chrome",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc",
+      "icon_72": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "savannah.internet.web.browser"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Explore the web with lightning-fast speed, powerful privacy protections and robust customization options. With Safari you can browse sites, translate web pages, and access your tabs across iOS, iPadOS, and macOS. \n\nFeatures\n\n• Passwords, bookmarks, history, tabs and more seamlessly sync across iPhone, iPad and Mac\n• Private Browsing mode doesn’t save your history and keeps your browsing your business\n• Intelligent Tracking Prevention prevents trackers from following you across websites you visit\n• Tab Groups let you save and organize your tabs and access them across iOS, iPadOS and macOS\n• Profiles help keep your browsing history, website data, and more separate between topics like work and personal\n• Shared Tab Groups help you share tabs and collaborate with family and friends\n• Extensions allow you to personalize Safari and add even more functionality to the browser\n• Reader formats articles for easy reading without ads, navigation, or other distracting items\n• Privacy Report shows known trackers that have been blocked from tracking you\n• Reading List easily saves articles for you to read later\n• Voice Search lets you search the web using just your voice\n• Web page translation converts entire webpages into other languages right in the browser\n• Handoff effortlessly passes what you’re doing in Safari from one device to another\n• Add to Home Screen allows you to quickly launch a website or web app from your Home Screen",
+      "android_package_name": "savannah.internet.web.browser",
+      "ios_bundle_id": "com.apple.mobilesafari",
+      "title": "Safari",
+      "domain_name": [
+        "https://www.apple.com/safari",
+        "https://www.apple.com"
+      ],
+      "website": "https://www.apple.com/safari",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/4e3t_if5IUZegzhgbcXs78VXtP3yVNagYzYSnykKTqTEcGvT1_2kOsbizvJenxRLzt0",
+      "icon_72": "https://play-lh.googleusercontent.com/4e3t_if5IUZegzhgbcXs78VXtP3yVNagYzYSnykKTqTEcGvT1_2kOsbizvJenxRLzt0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.duckduckgo.mobile.android"
+      },
+      "cat_key": "UTILITIES",
+      "cat_keys": [
+        "UTILITIES",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "DuckDuckGo is a free browser that provides the most comprehensive online privacy protection in one app. Unlike most popular browsers, it has powerful privacy protections by default, including our search engine that doesn’t track your history and over a dozen other built-in protections. Millions of people use DuckDuckGo as their go-to browser to protect their everyday online activities, from searching to browsing, emailing, and more.\n\nFEATURE HIGHLIGHTS\n\n• Search Privately by Default: DuckDuckGo Private Search comes built-in, so you can easily search online without being tracked.\n\n• Block Most Trackers Before They Load: Our 3rd-Party Tracker Loading Protection exceeds what most popular browsers offer by default, stopping hidden tracking scripts from loading and collecting your personal data.\n\n• Enable Built-in Email Protection: Block most email trackers and hide your existing email address with @duck.com addresses.\n\n• Automatically Enforce Encryption: Shield your data from network and Wi-Fi snoopers by forcing many sites to use an HTTPS connection.\n\n• Escape Fingerprinting: Make it harder for companies to create a unique identifier for you by blocking attempts to combine info about your browser and device.\n\n• Sync and Backup: Securely sync bookmarks and passwords across your devices.\n\nWe feature many protections not available on most browsers, even in private browsing mode, including protection from link tracking, AMP tracking, and more.\n \n\nEVERYDAY PRIVACY CONTROLS\n\n• Clear your tabs and browsing data in a flash with the Fire Button.\n\n• Banish cookie pop-ups and automatically set your preferences to minimize cookies and maximize privacy.  \n\n• Signal Your Privacy Preference with Global Privacy Control (GPC) built into our app. GPC intends to help you express your opt-out rights automatically by telling websites not to sell or share your personal info. Whether it can be used to enforce your legal rights depends on the laws in your jurisdiction.\n\nPRIVACY PRO \nSubscribe to Privacy Pro for: \n\n• Our VPN: Secure your connection on up to 5 devices. \n\n• Identity Theft Restoration: If your identity is stolen, we’ll help restore it. \n\nSync across DuckDuckGo apps: Activate your subscription in other DuckDuckGo apps. For example, you can access Personal Information Removal in DuckDuckGo for Mac.\n \nPrivacy Pro Pricing & Terms \n\nPayment will be charged automatically to your iTunes account until you cancel, which you can do in app settings. Your personal info is not required to subscribe. You have the option to provide an email address to activate your subscription on other devices, and we will only use that email address to verify your subscription. For terms of service and privacy policy, visit https://duckduckgo.com/pro/privacy-terms\n\nYou don't need to wait to take back your privacy. Join the millions of people using DuckDuckGo and protect many of your everyday online activities with one app. It's privacy, simplified.\n\nRead more about our free Tracking Protections at https://help.duckduckgo.com/privacy/web-tracking-protections\n\nPrivacy Policy: https://duckduckgo.com/privacy/\nTerms of Service: https://duckduckgo.com/terms",
+      "android_package_name": "com.duckduckgo.mobile.android",
+      "ios_bundle_id": "com.duckduckgo.mobile.ios",
+      "title": "DuckDuckGo",
+      "domain_name": [
+        "https://duckduckgo.com",
+        "https://duckduckgo.com"
+      ],
+      "website": "https://duckduckgo.com",
+      "developer": "Duck Duck Go, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NW2ASwJ4qtxfThhVIpm4641sR4o-yGv80yqaJnOnpC4lEmdxEcNTFcF6-TlZYtmdaA",
+      "icon_72": "https://play-lh.googleusercontent.com/NW2ASwJ4qtxfThhVIpm4641sR4o-yGv80yqaJnOnpC4lEmdxEcNTFcF6-TlZYtmdaA=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

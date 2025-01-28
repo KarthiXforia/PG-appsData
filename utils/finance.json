@@ -1,0 +1,1356 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.htmedia.mint"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Mint Mobile is premium wireless, without all the B.S, for just $15 bucks a month. All our plans come with everything you need and nothing you don’t: unlimited talk & text, plus a monthly helping of 5G • 4G LTE data. Download our app for free to manage your account, activate a plan, or to take us for a FREE 7-day test drive.\n\nManage your account:\n• Keep track of your monthly data usage\n• Change and renew your plan\n• Refer friends and earn free Mint\n\nManage your family:\n• Create a Mint Family and manage up to 4 Mint accounts under one login\n• Change and pay for members’ plans\n• Pay for member’s add-on requests\n\nActivate your plan:\n• Activate and set up your Mint plan or trial plan\n\nTry us out for FREE:\n• Try Mint for FREE directly on your phone for 7 days\n• Trial includes 250 minutes of talk, 250 text messages & 250MB of 5G • 4G LTE data\n• When you love us, upgrade to a full plan directly in the app and get your $5 back \n\nDownload the app and join the moveMint.\nLove us? Give us a follow on social\nhttps://www.facebook.com/MintMobileWireless/\nhttps://www.instagram.com/mintmobile/\nhttps://twitter.com/mintmobile\nLearn more at mintmobile.com",
+      "android_package_name": "com.htmedia.mint",
+      "ios_bundle_id": "com.uvnv.mintsim",
+      "title": "Mint",
+      "domain_name": [
+        "https://www.mintmobile.com",
+        "https://www.mintmobile.com"
+      ],
+      "website": "https://www.mintmobile.com",
+      "developer": "UVNV, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/lPcM48w2i1EoggSEdsQlqg4R2tsheJ-zlhEZe4XJG_AwD4ajQhNv4XVthAFylsbrkR8",
+      "icon_72": "https://play-lh.googleusercontent.com/lPcM48w2i1EoggSEdsQlqg4R2tsheJ-zlhEZe4XJG_AwD4ajQhNv4XVthAFylsbrkR8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.paypal.android.p2pmobile"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "PayPal is a smart and secure way to shop in-store and online, earn cash back on brands you love, send money to friends and much more. Get started in the app.\n\nSAVE OFFERS IN THE APP\nGet cash back offers* from brands you love. We’ll automatically apply them at checkout.\n*Eligible items only. Redeem points for cash or other options. Terms and exclusions apply: PayPal.com/rewards-terms\n\nSEND AND REQUEST MONEY FOR FREE\nSecurely send and receive money with just about anyone in 120+ countries\nIt’s free to send and receive with friends & family in the US when funded by a bank account or PayPal balance\n\nGET THE PAYPAL DEBIT CARD AND EARN CASH BACK\nRequest your card right in the app. No credit check required.\nShop with your PayPal balance everywhere Mastercard® is accepted.\nEarn 5% cash back on a category you choose each month*\n \n*5% cash back earned as points you redeem for cash & other options on up to $1000 spend/month. Terms apply: http://paypal.com/rewardspal.\nA PayPal balance account is required to get the card.\nThe PayPal Debit Mastercard® is issued by The Bancorp Bank N.A. (“Bancorp”), pursuant to a license by Mastercard International Incorporated and may be used everywhere Mastercard is accepted. Mastercard and the circles design are registered trademarks of Mastercard International Incorporated. Bancorp is issuer of the Card only and not responsible for the associated accounts or other products, services, or offers from PayPal. PayPal is a financial technology company, not a bank. The Card is linked to your PayPal Balance account. See PayPal Balance Terms and Conditions: https://www.paypal.com/us/legalhub/pp-balance-tnc#holding\n\nCRYPTOCURRENCY\nBuy, sell and hold Bitcoin, Ethereum, PayPal USD, Bitcoin Cash and Litecoin with PayPal*\n\n*PayPal, Inc. is licensed to engage in virtual currency business activity by the NY Dept. of Financial Services. To buy, sell, transfer, and hold crypto is subject to risks, may result in significant losses, and not available where prohibited by law. We do not make recommendations about crypto transactions. Consider seeking advice from a financial and tax advisor. Crypto custody, trades and transfer services are performed for us by Paxos Trust Co. LLC or other appropriately authorized provider. See terms: paypal.com/crypto_terms\n\nGROW YOUR MONEY WITH HIGH-YIELD PAYPAL SAVINGS\nRoll your money into PayPal Savings and earn a competitive APY*\nEasily manage your account right from the app. Transfer money in and out, set individual goals, and track your progress as your savings grows.\n\n*PayPal Savings annual percentage yield (APY) is a variable rate and can change at any time, including after the account is opened. PayPal is a financial technology company, not a bank. Banking service provided by Synchrony Bank, Member FDIC. PayPal Balance account is required to use PayPal Savings. \n\nTRACK YOUR PACKAGES\nView your orders and their delivery status right from the PayPal app–even if you didn’t pay with PayPal. Simply link your Gmail or Outlook to get started.\nGet live updates each step of the way until they arrive safely at your door.\nNot all sellers are participants.\n\nPAY IN 4 WITH NO LATE FEES\nSplit everyday purchases into 4 interest-free payments at millions of online stores.\nNo late fees. No impact to your credit score.\nManage payments right in the app.\n\n*Pay in 4 is available upon approval for purchases of $30 - $1500 and is currently not available to residents of MO or NV. 18 years old or older to apply. PayPal, Inc.: Loans to CA residents are made or arranged pursuant to a CA Financing Law License. GA Installment Lender Licensee, NMLS #910457. RI Small Loan Lender Licensee. NM residents: Go to paypal.com/us/webapps/mpp/campaigns/newmexicodisclosure. Learn more at paypal.com/payin4\n\nAvailability of features varies by market.\u000b\u000b\n\nPayPal\n2211 N 1st St San Jose, CA 95131",
+      "android_package_name": "com.paypal.android.p2pmobile",
+      "ios_bundle_id": "com.yourcompany.PPClient",
+      "title": "PayPal",
+      "domain_name": [
+        "https://www.paypal.com",
+        "https://www.paypal.com"
+      ],
+      "website": "https://www.paypal.com",
+      "developer": "PayPal, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/xOKbvDt362x1uzW-nnggP-PgO9HM4L1vwBl5HgHFHy_n1X3mqeBtOSoIyNJzTS3rrj70",
+      "icon_72": "https://play-lh.googleusercontent.com/xOKbvDt362x1uzW-nnggP-PgO9HM4L1vwBl5HgHFHy_n1X3mqeBtOSoIyNJzTS3rrj70=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.paypal.android.p2pmobile"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Cash App is the easy way to spend, save, and invest your money.*\n\nPay anyone in cash or bitcoin* instantly and enjoy Cash App's free Lightning Network transfers with compatible wallets. Start saving by rounding up your spare change to the nearest dollar or invest in stocks, ETFs, or bitcoin.\n\nExperience a faster, simpler way to bank.* Set up direct deposits and access your paycheck up to 2 days early. Receive a prepaid, customizable debit card for free** that you can add to your digital wallet. Save on everyday spending with exclusive Cash App Card discounts.\n\nDownload Cash App and create an account in minutes.\n\nCASH APP FEATURES\n\nP2P PAYMENTS\n• Send & receive money or bitcoin for free instantly\n• Pay anyone easily using their phone number, email, $cashtag, or QR code\n• Keep your money safe with advanced security features\n\nCUSTOMIZABLE DEBIT CARD*\n• No hidden fees – Your debit card works anywhere that Visa® is accepted\n• Customizable – Make it personal & add your unique card to your digital wallet\n• Safe & secure – Receive real-time transaction alerts & fraud monitoring\n• Instant discounts – Save on spending. Check out securely in person & online\n\nSIMPLIFIED BANKING SERVICES*\n• Set up direct deposits & receive your paycheck up to 2 days early\n• Get paid in bitcoin by setting up direct deposits for your bitcoin investments\n• Take advantage of no monthly balance minimums or activity requirements\n• Waived ATM withdrawal fees when you deposit $300 or more monthly\n• No overdraft fees & up to $50 in free overdraft coverage on Cash App Card transactions when you qualify\n\nEXCLUSIVE DISCOUNTS & SAVINGS***\n• Unlock interest on your savings when you sign up for Cash App Card (1.5% APY)\n• Receive up to 4.5% APY when you direct deposit $300 or more monthly\n• Round up your spare change to the nearest dollar to start saving\n• Enjoy exclusive discounts on top brands & events when you use your Cash App Card\n\nSTOCK & BITCOIN INVESTMENTS****\n• Slide into the stock market with as little as $1 or buy as little as $1's worth of bitcoin\n• Buy stock & bitcoin with custom orders or auto invest\n• Invest with analyst opinions, earnings stats & market trend alerts\n\nCash App offers simplified financial services for everyone 13 and up with an account sponsored by a parent or guardian.***** Do more with your money and download Cash App today.\n\n—\n\n*Cash App is a financial services platform, not a bank. Banking services provided by Cash App’s bank partner(s). Prepaid debit cards issued by Sutton Bank, Member FDIC. Brokerage services by Cash App Investing LLC, member FINRA/SIPC, subsidiary of Block, Inc. Bitcoin services provided by Block, Inc. Trading bitcoin involves risk; you may lose money.  P2P services and Savings are provided by Block, Inc. and not Cash App Investing LLC.\n\n**Free cards come in black or white.\n\n***To earn the highest interest rate on your Cash App savings balance, you need to be 18 or older, have a Cash App Card, and direct deposit at least $300 monthly into Cash App. Sponsored Accounts are not eligible to earn interest. Other exceptions may also apply. Cash App will pass through a portion of the interest on your savings balance held in an account for the benefit of Cash App customers at Wells Fargo Bank, N.A., Member FDIC. Savings yield rate is subject to change.\n\n****Investing involves risk; you may lose money. Cash App Investing LLC does not trade bitcoin and Block, Inc. is not a member of FINRA or SIPC. This is not a recommendation for you to transact in securities. Fractional shares are not transferable. For additional conditions and limitations, see the Cash App Investing LLC Customer Agreement. Regulatory and external transfer fees may apply, see the House Rules. Cash App Investing LLC is not a bank.\n\n*****Eligible parents and guardians can sponsor up to four (4) teens who are 13 or older.\n\nContact Cash App Support by phone at (800) 969-1940 or mail at:\nBlock, Inc.\n1955 Broadway, Suite 600\nOakland, CA 94612",
+      "android_package_name": "com.paypal.android.p2pmobile",
+      "ios_bundle_id": "com.squareup.cash",
+      "title": "Cash App",
+      "domain_name": [
+        "https://cash.app",
+        "https://cash.app"
+      ],
+      "website": "https://cash.app",
+      "developer": "Block, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/xOKbvDt362x1uzW-nnggP-PgO9HM4L1vwBl5HgHFHy_n1X3mqeBtOSoIyNJzTS3rrj70",
+      "icon_72": "https://play-lh.googleusercontent.com/xOKbvDt362x1uzW-nnggP-PgO9HM4L1vwBl5HgHFHy_n1X3mqeBtOSoIyNJzTS3rrj70=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.paypal.android.p2pmobile"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Venmo is the fast, safe, social way to pay and get paid. Join over 83 million people who use the Venmo app today\n \nSEND AND RECEIVE MONEY\nPay and get paid for anything from your share of rent to a gift. Add a note to each payment to share and connect with friends\n\nSPLIT A REQUEST AMONG MULTIPLE VENMO FRIENDS\nYou can now send a payment request to multiple Venmo friends at once and customize the amount each person owes\n \nGET REWARDED WITH THE VENMO CREDIT CARD\nEarn up to 3% cash back on your eligible top spend category¹ —we’ll do the math. Split card purchases with Venmo friends, and shop everywhere Visa® credit cards are accepted—online, in-store, worldwide²\n\nBUY CRYPTO WITH AS LITTLE AS $1\nBuy, hold, and sell cryptocurrency right on the Venmo app. New to crypto? Learn more with in-app resources. Crypto is volatile, so it can rise and fall in value quickly. Be sure to take it at a pace you're comfortable with³\n\nSHOP WITH THE VENMO DEBIT CARD\nSpend your money in Venmo everywhere Mastercard® is accepted in the U.S. — and earn cashback from some of your favorite spots. Terms apply: https://venmo.com/about/debitcard/rewards/⁴\n\nVENMO TEEN ACCOUNTS\nA debit card of their very own and a Venmo account to send money to trusted friends and family⁵. All with no minimum balance or monthly fee\n \nDO BUSINESS ON VENMO\nCreate a business profile for your side gig, small business, or anything in between—all under your same Venmo account\n\nPAY IN STORES\nUse your Venmo QR code to pay touch-free at stores like CVS\n \nPAY IN APPS & ONLINE\nCheck out with Venmo on some of your favorite apps, like Uber Eats, StockX, Grubhub\n \nMANAGE YOUR MONEY\nGet your Venmo money in the bank within minutes using Instant Transfer⁶. Want your paycheck up to two days earlier* than your normal payday? Try Direct Deposit\n \n¹Use of cash back is subject to the terms of the Venmo account. See Rewards Program Terms: https://www.synchronycredit.com/gecrbterms/html/RewardsTerms.htm\n²Application subject to credit approval. You must be at least 18 years old and reside in the US or its territories to apply. You must have a Venmo account in good standing, that has been open for at least 30 days prior to application\nThe Venmo Credit Card is issued by Synchrony Bank pursuant to a license from Visa USA Inc. VISA is a registered trademark of Visa International Service Association and used under license\n³Terms apply. Only available in the US and limited in certain states. Buying and selling cryptocurrency is subject to a number of risk and may result in significant losses. Venmo does not make any recommendation regarding buying or selling cryptocurrency. Consider seeking advice from your financial or tax adviser\n⁴The Venmo Mastercard® is issued by The Bancorp Bank, N.A., pursuant to license by Mastercard International Incorporated. Mastercard and the circles design are registered trademarks of Mastercard International Incorporated. The Bancorp Bank, N.A. is issuer of the Card only and not responsible for the associated accounts or other products, services, or offers from Venmo\n⁵ The Venmo Teen Debit Card is available for eligible users 13-17 years old with parent or legal guardian sign up. Terms apply\n⁶ Transfer speed depends on your bank and could take up to 30 minutes. Transfers are reviewed which may result in delays or funds being frozen or removed from your Venmo account.\n* Early access compared to standard banking practice of posting funds at settlement and subject to your employer providing pay information to the bank prior to payday. It may take up to two pay cycles for Direct Deposit to take effect. Transactions are reviewed, which may result in delays or funds being frozen or removed from your account\n\nEmoji artwork is provided by emojitwo.github.io/, originally released as emojione.com/ by Ranks.com with contributions from the Emojitwo community and is licensed under creativecommons.org/licenses/by/4.0/legalcode\n\nVenmo\n2211 N. First St., San Jose, CA 95131",
+      "android_package_name": "com.paypal.android.p2pmobile",
+      "ios_bundle_id": "net.kortina.labs.Venmo",
+      "title": "Venmo",
+      "domain_name": [
+        "https://venmo.com",
+        "https://venmo.com"
+      ],
+      "website": "https://venmo.com",
+      "developer": "The Delancey Corporation, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/xOKbvDt362x1uzW-nnggP-PgO9HM4L1vwBl5HgHFHy_n1X3mqeBtOSoIyNJzTS3rrj70",
+      "icon_72": "https://play-lh.googleusercontent.com/xOKbvDt362x1uzW-nnggP-PgO9HM4L1vwBl5HgHFHy_n1X3mqeBtOSoIyNJzTS3rrj70=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.robinhood.gateway"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Robinhood helps you run your money your way. Identify trends for your investing strategies with technical indicators like moving average (MA), relative strength index (RSI), and more.\n\nTRADING\n-Commission-free trading on stocks, options, and ETFs.\n-Lowest costs on average on Bitcoin (BTC), Ethereum (ETH), Dogecoin (DOGE), and other crypto.\n-Invest as much or little as you want. Other fees may apply*.\n\nROBINHOOD GOLD ($5/month)\n-Earn 4% APY on uninvested cash (no cap).¹\n-Earn a 3% retirement IRA match.²\n-Get Instant Deposits up to $50,000.³\n-First $1K of margin investing (if eligible)⁴\n\nSECURITY + 24/7 LIVE SUPPORT\n- Chat with a Robinhood associate anytime\n- Security tools, like 2-factor authentication, keep your account safe\n\nDisclosures \nInvesting is risky, consider investment objectives & risks carefully before investing.\n\n*View Robinhood Financial's fee schedule at rbnhd.co/fees.\n\n1. In addition to joining Robinhood Gold, customers must enroll in the Brokerage Cash Sweep program for their deposits to earn interest.\n2. The 3% matching on contributions requires a subscription with Robinhood Gold (fees apply), must be subscribed to Gold for 1 year after your contribution to keep the full 3% match. You must have compensation (wage income) in order to contribute to an IRA. The funds that earned the match must be kept in the account for at least 5 years to avoid a potential Early IRA Match Removal Fee.\nYou must have compensation (wage income) in order to contribute to an IRA. Funds being contributed into or distributed from retirement accounts may entail tax consequences. Contributions are limited and withdrawals before age 59 1/2 may be subject to a penalty tax. Robinhood does not provide tax advice; please consult with a tax adviser if you have questions.\nThe Robinhood IRA is available to any U.S. customer with a Robinhood brokerage account in good standing.\n3. Bigger Instant Deposits are only available to customers in good standing and may be limited for trades involving volatile assets or derivatives.\n4. Not all investors will be eligible to trade on Margin. Margin investing involves the risk of greater investment losses. Additional interest charges may apply depending on the amount of margin used.\nCryptocurrency trading is offered through an account with Robinhood Crypto (NMLS ID: 1702840).\nFractional shares are illiquid outside of Robinhood & are not transferable. Not all securities are eligible for fractional share orders. Learn more at robinhood.com\nRobinhood Gold is a subscription-based membership program of premium services offered through Robinhood Gold, LLC.\nSecurities trading offered through Robinhood Financial LLC, member SIPC. See our Customer Relationship Summary at rbnhd.co/crs.\nRobinhood Financial LLC, Robinhood Gold, LLC, and Robinhood Crypto, LLC are wholly-owned subsidiaries of Robinhood Markets, Inc.\nThere are additional, unique risks with trading outside of regular market hours you should be aware of before making an investment decision, including the risk of lower liquidity, increased volatility, greater spreads, and pricing uncertainty. Robinhood 24 Hour Market is from Sunday 8 PM ET - Friday 8 PM ET.\nRobinhood, 85 Willow Road, Menlo Park, CA 94025",
+      "android_package_name": "com.robinhood.gateway",
+      "ios_bundle_id": "com.robinhood.release.Robinhood",
+      "title": "Robinhood",
+      "domain_name": [
+        "https://robinhood.com",
+        "https://robinhood.com"
+      ],
+      "website": "https://robinhood.com",
+      "developer": "Robinhood Markets Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/oyCtCqSQ6gFSJbEXKVMGjhmIzGCcrKnNcGkO8PiYa1zvmBCC8LhhdFwmwyz9qj92glqm",
+      "icon_72": "https://play-lh.googleusercontent.com/oyCtCqSQ6gFSJbEXKVMGjhmIzGCcrKnNcGkO8PiYa1zvmBCC8LhhdFwmwyz9qj92glqm=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "eco.acorn"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Acorns helps you save, invest, and grow for your future. Our automated saving, investing, and spending tools help you grow your money and your financial wellness.\n\nAt Acorns, we believe that financial wellness is for everybody. It has nothing to do with how much you make — it’s about finding balance with what you have. Financial wellness is when you are spending smarter today, saving for tomorrow, and investing for your future all at once.\n\nMore than 13,000,000 Americans have invested over $22,000,000,000 with Acorns. You can get started in under 5 minutes, with as little as your spare change.\n\nSECURE: Acorns is committed to your security with 2-factor authentication, fraud protection, 256-bit data encryption, and all-digital card lock. Acorns Investment accounts are SIPC-protected up to $500,000, and Acorns checking accounts are FDIC-insured up to $250,000.\n\nWHAT’S IN THE APP: \n\nINVEST:\n\n- EASY, AUTOMATED INVESTING\nYour money is automatically invested into one of our diversified, ETF* portfolios, built by experts and recommended for you. You can invest spare change each time you make a purchase with Round-Ups®, or set up automated recurring investments starting as low as $5.\n\n- INVEST IN BITS OF BITCOIN\nRide Bitcoin’s highs and ride out its lows by allocating up to 5% of your already-diversified portfolio towards a Bitcoin-linked ETF.\n\n- PERSONALIZE YOUR PORTFOLIO\nPersonalize your investments with a Custom Portfolio, allowing you to add individual stocks from the largest 100+ public US companies.\n\n- INVEST FOR RETIREMENT\nSave for the future with an Acorns Later retirement account, and get a 3% IRA match on new contributions with a Gold subscription.\n\n- INVEST FOR YOUR KIDS\nStart building your kids’ futures with Acorns Early Invest, a dedicated investment account for your kids. Plus, we’ll match your investments by 1%!\n\nSAVE:\n\n- EMERGENCY FUND\nBuild savings for life’s unexpected hiccups, including a 4.05% APY** to help your money grow.\n\n- CHECKING WITH APY\nEarn 2.57% on your checking account with the Mighty Oak debit card.\n\nAND MORE:\n\n- KIDS & TEEN DEBIT CARD\nTeach your kids financial wellness with an Acorns Early debit card, included in the Gold subscription.\n\n- EARN BONUS INVESTMENTS\nShop 15,000+ brands and receive bonus investments and exclusive deals from your favorite brands. Plus, earn limited-time referral bonuses of up to $1,200.\n\n- GROW YOUR MONEY KNOWLEDGE\nAccess custom articles, videos, courses, and live Q&As to learn about investment and savings strategies.\n\n\nSUBSCRIPTION PLANS\n\nWhether you’re new to investing or planning for your family’s future, we bundle our money tools into subscription plans. No hidden costs or transaction fees — just one, transparent monthly payment to start growing your oak.\n\nBronze ($3/mo)\n—\nInvesting tools to get you started on your financial journey.\n\n- Round-Ups®\n- Expert-built diversified portfolio\n- Retirement account\n- Checking account, and more\n\nSilver ($6/mo)\n—\nLevel up your saving and investing skills.\n\n- Everything in Bronze\n- 1% IRA match on new contributions to your Acorns Later retirement account\n- Emergency fund\n- Courses and videos to help you grow your money knowledge\n- Live Q&As with investing experts\n\nGold ($12/mo)\n—\nFull suite of saving, investing, and learning tools for you and your family.\n\n- Everything in Silver\n- 3% IRA match on new contributions to your Acorns Later retirement account\n- Investment accounts for your kids with a 1% match\n- Acorns Early smart money app and debit card for kids\n- Ability to add individual stocks to your portfolio\n- $10,000 life insurance policy\n- Complimentary Will, and more\n\n—\n\n*ETF (Exchange-Traded Fund) = collection of investments, made up of pieces of various stocks, bonds, or other assets.\n\n**APY (Annual Percentage Yield) = the amount of interest you can earn from the money you have in a bank account in a year.\n\n—\n\nDisclosures are available in the images above and at www.acorns.com/disclosures\n\n5300 California Ave Irvine CA 92617",
+      "android_package_name": "eco.acorn",
+      "ios_bundle_id": "com.acorns.investor",
+      "title": "Acorns",
+      "domain_name": [
+        "http://www.acorns.com",
+        "https://www.acorns.com"
+      ],
+      "website": "http://www.acorns.com",
+      "developer": "Acorns Grow Incorporated",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bDCI8Lyp2CHi35g5T1doA-DywjRJ8qm6cTFD6EmWFDF7NHuOC98PB2OES2ZpMmBZug",
+      "icon_72": "https://play-lh.googleusercontent.com/bDCI8Lyp2CHi35g5T1doA-DywjRJ8qm6cTFD6EmWFDF7NHuOC98PB2OES2ZpMmBZug=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.stashfin.android"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Are you ready to take control of your financial future? The Stash app is your all-in-one solution offering a portfolio managed by experts, automated saving and investing, Stock-BackⓇ Debit Card, and expert guidance to achieve your financial goals. Join millions of users who trust Stash to save money, invest wisely, and improve their lives.\n\nWhy Choose Stash?\nBUILD A SAFETY NET FASTER: With Stash, your money works harder for you than at a bank, helping you build your savings faster. Our automated savings and investing tools make it simple to get on the path to success. Customers who Auto-Stash have more than $900 in their accounts on average after one year. That’s 40% more (1.4x) than customers who don’t Auto-Stash*.\n\nINVESTING IS EASY WITH STASH: Anyone can invest. Even if you don’t know how, you can get it right with Stash. We do the hard work for you. Our expert-managed portfolios and personalized guidance make it simple for anyone to start their investment journey and see their money grow.\n\nEXPERT ADVICE AND RECOMMENDATIONS: As a registered investment advisor (RIA), we always work in your best interest, in the same way that wealthy people get advice from pricey financial experts. You’ll see investing tips and recommendations you can trust to help you understand personal finance, investing, and money management. Stash makes smart investing possible for you.\n\nInside the app you’ll find award-winning saving and investing tools: \n- Stash Managed portfolio: Experts build and rebalance your investments for you \n- Self-directed portfolios: Choose your own stocks and ETFs \n- Auto-Stash: Set a regular investing schedule and take advantage of market moves\n- Penalty-free withdrawals: Access your money when you need it \n- Stock-BackⓇ Debit Card: Earn stock rewards for everyday purchases\n- Retirement accounts: Traditional and roth individual retirement accounts\n- Custodial Accounts: Build savings for a child’s future \n- Goals: Set a financial goal and get investing guidance along the way\n- Financial education: Exclusive live webinars and content to provide you with guidance on investing, saving, and money management \n\nStash is one of the best personal finance apps: \nNamed to CNBC and Statista’s World’s Top Fintech Companies 2024 in the Wealth Technology category \n\n“Best Personal Finance App” award in the 2023 FinTech Breakthrough Awards\n\nOne of the top ‘Personal Finance Apps That Can Change Your Life’ 2024 according to MSN.com\n\nAmongst the USA Today’s Top 500 “Best Financial Advisory Firm 2023” from USA Today and Statista\n\nDisclosures\n*Based on Stash internal data as of February 29, 2024. “Set Aside” is defined as complete incoming transfers from external funding sources to Stash across all brokerage and banking accounts. This statistic does not take withdrawals into consideration.\n\n Monthly Subscription Fee starts at $3/month. Ancillary fees charged by Stash and/or its custodian are not included in the subscription fee.See Advisory Agreement & Deposit Account Agreement: stsh.app/legal.\n\nA Stash Managed Portfolio is an account that Stash has full authority to manage.\n\nStash Banking services provided by Stride Bank, N.A., Member FDIC. The Stash Stock-Back® Debit Mastercard® is issued by Stride Bank pursuant to license from Mastercard International. Mastercard and the circles design are registered trademarks of Mastercard International Incorporated. Investment products and services provided by Stash Investments LLC, not Stride Bank, and are Not FDIC Insured, Not Bank Guaranteed, and May Lose Value.\n\nInvestment advisory services offered by Stash Investments LLC, an SEC registered investment adviser. Investing involves risk and investments may lose value.Must be 18+ to open an account. Stash only available to US citizens, permanent residents, & select visa types.",
+      "android_package_name": "com.stashfin.android",
+      "ios_bundle_id": "com.stash.stash-invest",
+      "title": "Stash",
+      "domain_name": [
+        "http://www.stash.com",
+        "https://www.stash.com"
+      ],
+      "website": "http://www.stash.com",
+      "developer": "Stash Financial, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/W8a39yT2JsKimODEroFe3Wj-LZ_lbnAZonJx9B3kf58FL5Ly4WFT3LfX1WRWXasRIDU",
+      "icon_72": "https://play-lh.googleusercontent.com/W8a39yT2JsKimODEroFe3Wj-LZ_lbnAZonJx9B3kf58FL5Ly4WFT3LfX1WRWXasRIDU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.chase.sig.android"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Bank securely with the Chase Mobile® app: send and receive money with Zelle®, deposit checks, monitor credit score, budget and track income & spend. Use J.P. Morgan Wealth Management to plan, invest, & set and track long-terms goals with Wealth Plan.\n\nManage your accounts\n• Review account activity: checking, savings, credit card, home, auto & business \n• Deposit checks\n\nPayments: Convenient ways to pay\n• Send & receive money with Zelle® \n• Schedule and manage payments for your Chase credit card & other bills\n• Transfer money between accounts\n\nChase Credit Journey®: Get free credit score \n• Take control of your credit, know where you stand, & set score goals \n• Receive free identity monitoring to help keep your information safe \n\nBudget & Save\n• See daily insights at a glance\n• Set up your budget & track debit/credit transactions\n\nSecurity: Keep your money safe & secure\n• We may notify you of unusual debit or credit card purchases\n• Lock & unlock your card in the app\n\nPlan for your future and manage your investments\n• Commission $0 trades for equities, ETFs & options\n• Use J.P. Morgan Wealth Plan for goal setting and tracking \n• Schedule meetings with an advisor\n\nRewards, offers & deals\n• Track & redeem rewards\n• Earn statement credit by using Chase Offers with eligible credit/debit cards\n\nConnect with Chase\n• Schedule meetings with bankers\n• Find Chase branches & ATMs\n• Chat with representatives 24/7\n\nChase QuickDeposit℠ is subject to deposit limits and funds are typically available by the next business day. Available on select mobile devices. See chase.com/QuickDeposit for terms and conditions. Message and data rates may apply. Enrollment in Zelle® is required. Eligible U.S. bank account required. Terms and conditions apply. Learn more at Chase.com/zelle. Zelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license. \n• Some features are available for eligible customers and accounts only. Any time you review your balance, keep in mind it may not reflect all transactions including recent debit card transactions or checks you have written. \n• For illustrative purposes only—not intended as an endorsement or recommendation. \n• IMPORTANT: The projections or other information generated by Wealth Plan regarding the likelihood of various investment outcomes are hypothetical in nature, do not reflect actual investment results and are not guarantees of future results. Results may vary with each use and over time.\n• Commission-free online trades apply to trading in U.S. listed stocks, Exchange-Traded Funds (ETFs), and options. Option trades are subject to a $0.65 per-contract fee. Sales are subject to a regulatory transaction fee of between $0.01 and $0.03 per $1,000 of principal. There are costs associated with owning certain investments, including mutual funds and ETFs. Offer terms and pricing are subject to change and/or termination. Other fees and restrictions (including account types) apply. See chase.com/online-investing-pricing for terms and conditions.\n• Options contract and other fees may apply.\n• J.P. Morgan Wealth Management is a business of JPMorgan Chase & Co., which offers investment products and services through J.P. Morgan Securities LLC (JPMS), a registered broker-dealer and investment adviser, member of FINRA and SIPC. Insurance products are made available through Chase Insurance Agency, Inc. (CIA), a licensed insurance agency, doing business as Chase Insurance Agency Services, Inc. in Florida. Certain custody and other services are provided by JPMorgan Chase Bank, N.A. (JPMCB). JPMS, CIA and JPMCB are affiliated companies under the common control of JPMorgan Chase & Co. Products not available in all states.\nINVESTMENT PRODUCTS:\n• NOT A DEPOSIT\n• NOT FDIC INSURED\n• NO BANK GUARANTEE\n• MAY LOSE VALUE\n• Deposit products provided by JPMorgan Chase Bank, N.A. Member FDIC\n• Equal Opportunity Lender",
+      "android_package_name": "com.chase.sig.android",
+      "ios_bundle_id": "com.chase",
+      "title": "Chase Mobile",
+      "domain_name": [
+        "https://www.chase.com/online/services-banking.htm",
+        "https://www.chase.com"
+      ],
+      "website": "https://www.chase.com/online/services-banking.htm",
+      "developer": "JPMorgan Chase Bank, NA",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/nSkpJQa6V2cjC0JEgerrwner4IelIQzg06DZY8dtGwRsq6iXcrxCX2Iop_VI9pohvnI",
+      "icon_72": "https://play-lh.googleusercontent.com/nSkpJQa6V2cjC0JEgerrwner4IelIQzg06DZY8dtGwRsq6iXcrxCX2Iop_VI9pohvnI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wellsFargo.ceomobile"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Account Management\n•Access your cash, credit, and investment accounts with Touch ID®¹ or Face ID®¹\n•Review activity and balances\n•View your credit card transactions and manage your rewards\n•Easily activate or turn cards on or off², add cards to digital wallets³, view recurring payments, and manage account access with Card Settings\n\nDeposit Funds⁴\n•Deposit checks using your iPhone® camera\n•Instantly view the processing deposit in your account\n\nMake Transfers and Payments\n•Transfer funds between your Wells Fargo accounts and to other financial institutions⁵\n•Send and receive money with friends and family using a U.S. mobile phone number or email address with Zelle®⁶\n•Pay your bills\n•Add your eligible cards to Apple Wallet™ to use Apple Pay® for fast and convenient payments³\n\nTrack Investments\n•Monitor balances, holdings, account activity, and open orders for your WellsTrade® accounts\n•Get real-time quotes, charts, and market data\n\nStay Secure\n•Visit the Security Center to report fraud and maintain safe accounts\n•Manage alerts⁷\n•Get notified of suspicious card activity with alerts\n•Access to your FICO® Credit Score\n\nContact Us\n•Email appstorefeedback@wellsfargo.com\n•Locate one of more than 12,700 ATMs or find one of our approximately 4,800 branches\n•Set up an appointment to meet with a Banker\n____________________________\nScreens are simulated.\n1.Only certain devices are eligible to enable biometrics.\n2.Turning your card off is not a replacement for reporting your card lost or stolen.\n3.Not all smartphones are enabled to use a digital wallet. Your mobile carrier’s message and data rates may apply.\n4.Some accounts are not eligible for mobile deposit. Deposit limits and other restrictions apply.\n5.Terms and conditions apply. See Wells Fargo’s Online Access Agreement for more information.\n6.Mobile numbers may need to be enrolled with Zelle before they can be used. Available to U.S.-based bank account holders only.\n7.Sign-up may be required.\n8.Some features not offered on all devices or to all users.\n\nApple, the Apple logo, Apple Pay, Apple Watch, Face ID, iPad, iPad Pro, iPhone, iTunes, Mac, Safari, and Touch ID are trademarks of Apple Inc., registered in the U.S. and other countries. Apple Wallet is a trademark of Apple Inc. App Store is a service mark of Apple Inc.\n\nFICO is a registered trademark of Fair Isaac Corporation in the United States and other countries.\n\nZelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license.\n\nInvestment and Insurance Products are:\n•Not Insured by the FDIC or Any Federal Government Agency\n•Not a Deposit or Other Obligation of, or Guaranteed by, the Bank or Any Bank Affiliate\n•Subject to Investment Risks, Including Possible Loss of the Principal Amount Invested\n\nDEPOSIT PRODUCTS OFFERED BY WELLS FARGO BANK, N.A. MEMBER FDIC.\n\nInvestment products and services are offered through Wells Fargo Advisors. Wells Fargo Advisors is a trade name used by Wells Fargo Clearing Services, LLC (WFCS) and Wells Fargo Advisors Financial Network, LLC, Members SIPC, separate registered broker-dealers and non-bank affiliates of Wells Fargo & Company. WellsTrade(R) and Intuitive Investor(R) accounts are available through WFCS.\n\nUse of stock symbols is for illustrative purposes only and not a recommendation.\n\n9.$0 per trade is applicable to commissions for online and automated telephone trading of stocks and exchange-traded funds (ETFs). For stock and ETF trades placed with an agent over the telephone, a $25 agent-assisted trading fee is charged. Each trade order will be treated as a separate transaction subject to commission. An order that executes over multiple trading days may be subject to additional commission. One commission will be assessed for multiple trades, entered separately, that execute on the same day, on the same side of the market. Other fees and commissions apply to a WellsTrade account. Schedule subject to change at any time.\nPM-04202025-6041073.1.1",
+      "android_package_name": "com.wellsFargo.ceomobile",
+      "ios_bundle_id": "com.wf.mobilebanking",
+      "title": "Wells Fargo Mobile",
+      "domain_name": [
+        "https://www.wellsfargo.com",
+        "https://www.wellsfargo.com"
+      ],
+      "website": "https://www.wellsfargo.com",
+      "developer": "Wells Fargo Bank",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0OJZjU39FvK5ojOx0b-E4FopETjMwjfVaeyp2r55kqqoOMzJebfQR7JbH7Ha32hwRak",
+      "icon_72": "https://play-lh.googleusercontent.com/0OJZjU39FvK5ojOx0b-E4FopETjMwjfVaeyp2r55kqqoOMzJebfQR7JbH7Ha32hwRak=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.creditcard.onecard"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Navigate your unique financial path confidently with help from Credit Karma and make the most of your money.\n\nCONNECT YOUR ACCOUNTS FOR FINANCIAL INSIGHTS \n- Track your monthly spending\n- Monitor transactions \n- Look out for ATM fees, late payments and more\n\nGET TO KNOW YOUR CREDIT\n- Get alerts when credit scores change \n- Learn what affects your scores and how to build credit\n\nEXPLORE YOUR OFFERS\nCompare offers and apply with more confidence:†\n- Loan amounts\n- Rates you could be approved for\n\nSTAY INFORMED\n - Be alerted of changes and opportunities.\n - Credit score changes\n - Identity monitoring\n - Rate monitoring—we’ll let you know if we see better interest rates\n\nSIMPLIFY TAX TIME\n - Upload a photo of your W-2\n - We’ll prefill your profile info\n - Finish filing on your computer\n\nBANK ONLINE\nOpen Credit Karma Money Spend and Save accounts*** from the app.\n\nFIND COMPETITIVE CAR INSURANCE OPTIONS\n - Compare options to see if you could save\n - You may unlock a discount on a new policy if you’re a good driver\n\nDISCLOSURES\n\n*Credit Builder plan requires you to open a line of credit and a Credit Builder savings account, both banking services provided by Cross River Bank, Member FDIC. Credit Builder savings account is a deposit product, insured up to $250,000. Credit Builder is serviced by Credit Karma Credit Builder. Members with a TransUnion credit score of 619 or below at time of application may be prompted to apply for Credit Builder.\n\n**From June 2024 to Nov 2024, members with a TU credit score of 619 or below who opened a plan and had it reported on their TU report saw an average score increase of 17 points in 3 days of activation. Late payments and other factors can negatively impact your score.\n\n***Banking services provided by MVB Bank, Inc., Member FDIC. Maximum balance and transfer limits apply.\n\n^ Borrowing Power is based on the highest offer amount available to you through Credit Karma where you have Outstanding Approval Odds. The offers themselves are not guaranteed and are subject to change without notice.\n\n† Approval Odds are not a guarantee of approval. Credit Karma determines Approval Odds by comparing your credit profile to other Credit Karma members who were approved for the card shown, or whether you meet certain criteria determined by the lender. Of course, there's no such thing as a sure thing, but knowing your Approval Odds may help you narrow down your choices. For example, you may not be approved because you don't meet the lender's \"ability to pay standard\" after they verify your income and employment; or, you already have the maximum number of accounts with that specific lender.\n\nScreens simulated. For display only.\n\nIntuit Assist is an emerging tool that provides information to consider as you make financial choices. Not all features are available to all members. You must link your external financial accounts for full functionality. Please check for mistakes. Always review terms and conditions before applying for financial products.\n\n\nLoan services offered through Credit Karma Offers, Inc., NMLS ID# 1628077 | Read licenses at https://www.creditkarma.com/about/loan-licenses | CA loans arranged pursuant to a CA Financing Law license.\n\nInsurance services offered through Karma Insurance Services, LLC. CA resident license #0172748.\n\nMortgage products and services offered through Credit Karma Mortgage, Inc. NMLS ID# 1588622",
+      "android_package_name": "com.creditcard.onecard",
+      "ios_bundle_id": "com.creditkarma.mobile",
+      "title": "Credit Karma",
+      "domain_name": [
+        "https://www.creditkarma.com",
+        "https://www.creditkarma.com"
+      ],
+      "website": "https://www.creditkarma.com",
+      "developer": "Credit Karma, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ytbt5ggr-teE6RsNwA8TU73PfAZZVCXHPUCmsiZBsR1ZB1lLQ0cWZ0abUUPjpI1BGI4",
+      "icon_72": "https://play-lh.googleusercontent.com/Ytbt5ggr-teE6RsNwA8TU73PfAZZVCXHPUCmsiZBsR1ZB1lLQ0cWZ0abUUPjpI1BGI4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.youneedabudget.evergreen.app"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Where does all your money go? Exactly where you tell it to!\n\n\n“We started YNAB January 1st with $37 saved and ended the year with $42,000. Plus we paid $14,000 cash for a new roof.”\n-Kyle, YNAB user since 2020\n\n\nIf you’re like the average YNABer (just AVERAGE), you’ll save $600 in the first two months. And $6,000 in the first year. But you might experience something much more powerful than a growing bank account balance or paid off credit cards: 92% of YNABers report feeling less stressed since starting YNAB.\n\n\n“YNAB has removed the stress of money from my life and in doing so has helped make me a better husband. It's like I got to remove a personal flaw I had never been able to fix.\"\n-Kyle, again. We didn’t even pay him to say this, but maybe we should.\n\n\nEvery dollar represents you—it’s the product of your energy. You work too hard for all that to go to waste. We’ll show you how to give every dollar a job, so your paychecks are working toward your priorities and values, your wants and needs, your work and your play. Your money is your life. Spend it well with YNAB.\n\nStart your one-month free trial today!\n\nFeatures:\nBUILT FOR PARTNERS & FAMILIES\n-Up to six people can share budgets on one YNAB subscription\n-Simplifies sharing finances with a partner\n-Cheaper than couples counseling\n\n\nPAY OFF YOUR DEBT\n-Loan planner tool\n-Calculate time and interest saved \n-A debt-paying community to cheer you on\n\n\nIMPORT TRANSACTIONS AUTOMATICALLY\n-Securely link financial accounts to bring in transactions\n-Option to add transactions manually\n-Experience the oddly satisfying routine of categorizing transactions\n\n\nNO ADS\n-Privacy protection\n-No in-app ads\n-No third-party product pitching. Ew.\n\n\nVIEW YOUR FINANCIAL PICTURE ALL IN ONE PLACE\n-Net worth report\n-Spending breakdown\n-Income vs expense report\n\n\nSET & REACH GOALS FASTER\n-Track expenses\n-Set spending targets\n-Visualize progress as you go\n\n\nREAL HELP FROM REAL HUMANS\n-Award-winning support team\n-Free live workshops\n-Real people (who aren’t perfect either)\n\n\n“My wife and I can attest to the fact that the average budgeter saves around $600 in 2 months. We did! We love everything about YNAB except that WE DIDN’T START SOONER!!!!!!!!!”\n-Gideon, YNAB user since 2019\n\n\"I never, ever thought I'd see this, and yet here it is: CREDIT CARD BEAST DEFEATED!”\n-@taber\n\n“I’m sleeping better now. Our arguments about money have magically evaporated.”\n-Jonathan, YNABer (former Mint user)\n\n\n\"My fiance and I will be paying for our wedding without any loans because of YNAB.\"\n-@Thai_Jonny\n\n“A year of YNAB costs less than a massage and is a heck of a lot better for reducing stress.”\n-Kat, YNAB user since 2016\n\n\nYour money is your life. Spend it well with YNAB. \n\nFree for 30 Days, then Monthly/Annual Subscriptions Available\n\nSubscription Details\n-YNAB is a one-year auto-renewable subscription, billed monthly or annually.\n-Payment will be charged to iTunes Account at confirmation of purchase.\n-Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n-Account will be charged for renewal within 24-hours prior to the end of the current period.\n-Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.\n-Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a\nsubscription to that publication, where applicable.\n\nYou Need A Budget UK Limited is acting as an agent of TrueLayer, who is providing the regulated Account Information Service, and is authorized by the Financial Conduct Authority under the Electronic Money Regulations 2011 (Firm Reference Number: 901096)\n\nTerms of Use:\nhttps://www.ynab.com/terms/?isolated\n\nPrivacy Policy:\nhttps://www.ynab.com/privacy-policy/?isolated\n\nCalifornia Privacy Policy:\nhttps://www.ynab.com/privacy-policy/california-privacy-disclosure?isolated",
+      "android_package_name": "com.youneedabudget.evergreen.app",
+      "ios_bundle_id": "com.youneedabudget.evergreen.YNAB-Evergreen",
+      "title": "YNAB (You Need A Budget)",
+      "domain_name": [
+        "https://app.ynab.com",
+        "https://app.ynab.com"
+      ],
+      "website": "https://app.ynab.com",
+      "developer": "You Need A Budget LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/nOIdGnvcac0-qefkx_JaxWj-Ae0VAdl3KzB2_2rYZoxdTDqRR9GmHp_w3ti7F0BdPH44",
+      "icon_72": "https://play-lh.googleusercontent.com/nOIdGnvcac0-qefkx_JaxWj-Ae0VAdl3KzB2_2rYZoxdTDqRR9GmHp_w3ti7F0BdPH44=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.droid4you.application.wallet"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Mint Mobile is premium wireless, without all the B.S, for just $15 bucks a month. All our plans come with everything you need and nothing you don’t: unlimited talk & text, plus a monthly helping of 5G • 4G LTE data. Download our app for free to manage your account, activate a plan, or to take us for a FREE 7-day test drive.\n\nManage your account:\n• Keep track of your monthly data usage\n• Change and renew your plan\n• Refer friends and earn free Mint\n\nManage your family:\n• Create a Mint Family and manage up to 4 Mint accounts under one login\n• Change and pay for members’ plans\n• Pay for member’s add-on requests\n\nActivate your plan:\n• Activate and set up your Mint plan or trial plan\n\nTry us out for FREE:\n• Try Mint for FREE directly on your phone for 7 days\n• Trial includes 250 minutes of talk, 250 text messages & 250MB of 5G • 4G LTE data\n• When you love us, upgrade to a full plan directly in the app and get your $5 back \n\nDownload the app and join the moveMint.\nLove us? Give us a follow on social\nhttps://www.facebook.com/MintMobileWireless/\nhttps://www.instagram.com/mintmobile/\nhttps://twitter.com/mintmobile\nLearn more at mintmobile.com",
+      "android_package_name": "com.droid4you.application.wallet",
+      "ios_bundle_id": "com.uvnv.mintsim",
+      "title": "Mint: Budget, Bills, & Finance Tracker",
+      "domain_name": [
+        "https://www.mintmobile.com",
+        "https://www.mintmobile.com"
+      ],
+      "website": "https://www.mintmobile.com",
+      "developer": "UVNV, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/DqAKT8mJJWAQMzPuNTFL1CyhwVJkCEfQlv8CGlh7tNLPe81h92T-SwWG6UQLXydpEBNz",
+      "icon_72": "https://play-lh.googleusercontent.com/DqAKT8mJJWAQMzPuNTFL1CyhwVJkCEfQlv8CGlh7tNLPe81h92T-SwWG6UQLXydpEBNz=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.zelle.zelleclients"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Zelle® has partnered with leading banks and credit unions across the U.S. to bring you a fast, safe and easy way to send money to friends and family. Money moves quickly - directly from bank account to bank account. If your bank or credit union offers Zelle, you already have it in your mobile banking app or online banking – if they don’t, the Zelle app will make it easy for you to send money to enrolled Zelle users that already have access through their financial institution.\nZelle. This is how money moves®.\nUsing just your recipient’s email address or U.S. mobile number, you can settle up simply and safely with almost anyone you know and trust. Even better, Zelle does not charge any fees to use the service. (Mobile carrier or bank fees may apply).\nGET STARTED:\n1.\tDownload the Zelle app.\n2.\tEnroll using a Visa® or Mastercard® debit card linked to a U.S. checking account; or \n3.\tEnroll your U.S. checking account by using your online banking username and password, if your bank supports this feature*.\n4.\tChoose a person to pay, or request money from, by entering their U.S. mobile number or email address.\n5.\tConfirm the amount and hit send. If they’re already enrolled with Zelle, they’ll typically get the money in minutes. If they aren’t, they will be notified and can follow a few simple steps to complete the payment. \n\n*Some banks allow customers to enroll in the Zelle app using their online or mobile banking username and password.\n\nZelle and the Zelle related marks and logos are property of Early Warning Services, LLC\n\nYou must have a bank account in the U.S. to use Zelle.",
+      "android_package_name": "com.zelle.zelleclients",
+      "ios_bundle_id": "com.zellepay.zelle",
+      "title": "Zelle",
+      "domain_name": [
+        "https://www.zellepay.com",
+        "https://www.zellepay.com"
+      ],
+      "website": "https://www.zellepay.com",
+      "developer": "Early Warning Services, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/iffFdElrva6izd0KlQJ7UieU59tJpCLgCg9BBjQAW2sfas4zbC2OxOloGLe13B-37UBV",
+      "icon_72": "https://play-lh.googleusercontent.com/iffFdElrva6izd0KlQJ7UieU59tJpCLgCg9BBjQAW2sfas4zbC2OxOloGLe13B-37UBV=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.revolut.revolut"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Join the 50+ million customers worldwide who use our app to spend, send, and save smarter.\n\nMake your spend, well-spent\nPay any way, with physical cards, virtual cards, single-use virtual cards for extra protection, Google or Apple Pay\nSpend abroad with great exchange rates (fees additional to the rate provided may apply)\nAccess 55+ K in-network ATMs worldwide with no fees\nLink your external bank accounts to stay on top of all your spending\nDesign a physical card you vibe with (fees may apply).\n\nSet your kids up for financial success. Get them a Revolut ＜18 account, with their own card, so they can learn about money in a safe and fun way\n\nSend money near, far, wherever they are\nRequest or send 25+ currencies with a tap to anyone, anywhere\nChat, send, and receive money, in one place. Whatever your plans, transfers are almost instant between your Revolut friends with P2P payments\nSplit and settle bills in one place. You can even share a fun GIF to diffuse any tension\n\nSave the interest-ing way\nGrow your money with up to 4.25%* APY with Savings Vaults, Access your savings whenever you need to, with zero penalties or fees\nBuild your savings effortlessly — set up recurring transfers and round up spare change to stash cash\n\nExplore Stock Trading (capital at risk)\nStart trading stocks from $1 (other fees may apply)\nChoose from 2,000+ stocks to invest in some of the world's most popular companies\nEnjoy no-commission stock trading within your monthly allowance (other fees may apply)\n\nAll investments involve risk, including possible loss of principal. Investment accounts and disclosures may be displayed together. Self-directed brokerage products are provided by Revolut Securities Inc., member FINRA/SIPC. Brokerage Products •  Not FDIC Insured • No Bank Guarantee • May Lose Value. Automated investing is provided by Revolut Wealth Inc, an SEC-registered investment adviser.\n\nEnd the overspend\nGet instant spending notifications to keep track of every payment\nUse smart budgeting and analytics tools to stop wondering where your money went, and start telling it where to go\nWorried about missing upcoming payments or subscription charges? Don't be — we'll notify you beforehand\nUpgrade to one of our paid plans to get exclusive cards, more benefits, and even cooler perks. Pick the plan that's right for you: Premium or Metal (Paid Plan T&Cs and subscription fees apply).\n\nUnlock security features that you control\nFreeze and unfreeze your card in a tap\nUse single-use cards with new details generated each time you use it, for an extra layer of protection\nSet spending limits and get notifications to keep track of your money\n\nHow we protect your money\nOur sophisticated fraud prevention system flags high-risk transactions and pings you an alert, so you can spot scams, and nip 'em in the bud\nExtensive identity verification keeps sign-ups secure, and your account is protected with passcodes and biometrics\nWe're available 24/7 via our in-app customer support\n\nFunds in your Revolut Prepaid Card Account are held at or transferred to Lead Bank, Member FDIC, and are insured by the FDIC up to $250,000 applicable limits by the FDIC in the event Lead Bank fails if specific deposit insurance requirements are met. See FDIC-Prepaid Cards and Deposit Insurance Coverage.\n\nCalifornia Privacy Notice:  https://www.revolut.com/en-US/legal/privacy\n\n*The highest APY is available to users on a Premium or Metal plan. Annual Percentage Yield (APY) is a variable rate and subject to change. These APYs are accurate as of October, 20th, 2023. Monthly fees apply for Premium and Metal plans. Terms and Conditions Apply. No minimum amount required. Savings Vault services provided by Sutton Bank, Member FDIC\n\nRevolut Ltd (No. 08804411) is authorized by the Financial Conduct Authority under the Electronic Money Regulations 2011 (Firm Reference 900562). Registered address: 107 Greenwich Street, 20th Floor, New York, NY 10006",
+      "android_package_name": "com.revolut.revolut",
+      "ios_bundle_id": "com.revolut.revolut",
+      "title": "Revolut",
+      "domain_name": [
+        "https://revolut.com",
+        "https://revolut.com"
+      ],
+      "website": "https://revolut.com",
+      "developer": "Revolut Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/g7oEwBJVoWxTdjfPIy9tKkeLn7pG1c_vwCUCCcbd0KFDE8z4zHQhvt-LKHXU9emN0g",
+      "icon_72": "https://play-lh.googleusercontent.com/g7oEwBJVoWxTdjfPIy9tKkeLn7pG1c_vwCUCCcbd0KFDE8z4zHQhvt-LKHXU9emN0g=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.squareup"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Square Point of Sale is the free point-of-sale app that enables you to sell anywhere, with optional hardware that lets customers buy any way they want.\n\nUse the Point of Sale app with a Square Reader for contactless and chip to allow customers to pay touch free using payment links, QR codes, Apple Pay, and EMV chip cards. \n \nTake in-person contactless payments with just your iPhone. Enable Tap to Pay to accept contactless card, Apple Pay, or other digital wallet.\n\nIssue and track invoices directly from the app. Customize your invoices, set up weekly or monthly recurring invoices from your Dashboard, and let customers pay online with a credit or debit card.\n \nGet the job done faster. Add other Square tools, such as Online Checkout, Gift Cards, and Team Management, right to your POS.\n \nConnect your Point of Sale app to a free Square Online Store to accept orders for pickup and delivery.\n\nFunds are transferred fast—see money in your bank account in one to two business days.\n\nUse your point-of-sale system to keep track of sales and inventory in real time, manage items and employees, and view analytics about your business.\n \nAll this with no long-term contracts or surprise fees.\n\nYou can accept payments from 70 million Cash App customers on Square Point of Sale. Customers can now use Cash App to pay on your Square Online site or at your Square Point of Sale.\n\nSquare Dashboard\nThe free Square Dashboard app works in sync with the Square Point of Sale app and lets you view your live sales data, access powerful analytics and other easy tools to help you track and improve your business.\n \nPayment Information for U.S.\n2.6% + 10¢ per tap, dip, scan, or swipe. Charge $100 in a single transaction and see $97.30 in your bank account. Accept Visa, Mastercard, Discover, and American Express cards all at the same rate. Invoices are free to send and cost 2.9% + 30¢ per invoice paid online.\n \nNext-day Transfers\nGet your money fast. Square transfers payments into your bank account in one to two business days.\n \n- Record cash, gift cards, and other forms of tender\n- Customize your POS with photos, names, and variations\n- Send receipts via email or text message\n- Apply discounts and issue refunds\n- Track inventory in real time\n- Connect to a receipt printer, kitchen ticket printer, barcode scanner, and cash drawer",
+      "android_package_name": "com.squareup",
+      "ios_bundle_id": "com.squareup.square",
+      "title": "Square",
+      "domain_name": [
+        "https://squareup.com",
+        "https://squareup.com"
+      ],
+      "website": "https://squareup.com",
+      "developer": "Block, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/coMv1dl31PCfEs6essJoEUwVryaqKHKQvENdZ_WYpN-PXa8Qfitkg3grQxIVN22W5A",
+      "icon_72": "https://play-lh.googleusercontent.com/coMv1dl31PCfEs6essJoEUwVryaqKHKQvENdZ_WYpN-PXa8Qfitkg3grQxIVN22W5A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.flipkart.shopsy"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Get up to $1000 in stock when you open and fund an active invest account. Bank, borrow, budget, and invest- all in one app. \n\nWHY DO 10 MILLION MEMBERS LOVE SOFI?\n\n-----\nHIGH-YIELD MOBILE BANKING\n-----\n• No account fees and no minimum balance requirements \n• 55,000+ free ATMs nationwide\n• Get paid up to 2 days early with direct deposit*\n• FDIC insured to $250,000\n\n-----\nSMART INVESTING\n-----\n• Stock and ETF trading without commission\n• Exclusive access to IPO investments\n• Start investing with just $5 in fractional shares\n• Automated investing options available\n• Get up to $1,000 in stock when you open and fund an active invest account\n\n-----\nPOWERFUL BUDGET TRACKER\n-----\n• Connect all accounts for a complete financial view\n• Set and monitor custom savings goals\n• Categorize and analyze spending habits\n• Receive bill payment reminders\n• Credit score monitoring and updates\n\n-----\nLOW-RATE LOANS & CREDIT\n-----\n• Competitive personal, student, and home loans\n• 2% cash back rewards credit card, 3% on SoFi Travel\n• Build credit while earning rewards\n• Check loan rates without affecting credit score†\n\n-----\nMORE MOBILE BANKING FEATURES\n-----\n• Instant bill pay and peer-to-peer transfers\n• Mobile check deposit\n• Complementary 1-on-1 sessions with financial planners\n• Manage digital wallet and contactless payments\n• Bank-level security with multi-factor authentication\n\nSupport: Call (855) 456-SOFI (7634) or chat with us online at https://www.sofi.com/contact-us/\n \n*Early access to direct deposit funds is based on the timing in which we receive notice of impending payment from the Federal Reserve, which is typically up to two days before the scheduled payment date, but may vary.\n\n†To check the rates and terms you may qualify for, SoFi conducts a soft credit pull that will not affect your credit score. However, if you choose a product and continue your application, we will request your full credit report from one or more consumer reporting agencies, which is considered a hard credit pull and may affect your credit.\n\nOne app for all your financial needs: bank, invest, borrow, and budget. Boost your savings, start investing, and take control of your finances today.\n\nDownload SoFi now to bank, invest, and budget smarter!",
+      "android_package_name": "com.flipkart.shopsy",
+      "ios_bundle_id": "com.sofi.mobile",
+      "title": "SoFi",
+      "domain_name": [
+        "https://www.sofi.com",
+        "https://www.sofi.com"
+      ],
+      "website": "https://www.sofi.com",
+      "developer": "Social Finance, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ornb14bIU5LtffQy9wwf1bjPP27s7sLG9VyXE5mJyf4Hy585RZcOTERMd93Apjunjzw",
+      "icon_72": "https://play-lh.googleusercontent.com/Ornb14bIU5LtffQy9wwf1bjPP27s7sLG9VyXE5mJyf4Hy585RZcOTERMd93Apjunjzw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.capitalnowapp.mobile"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "You’ve never seen your money like this before. Reach your goals and take control of your financial life with Empower’s free app. Have all your financial accounts in one place, see your true net worth, plan for retirement, track your portfolio, and more. \n\nAt Empower we’re more than a financial tool. We’re professional-grade tech built to make a personalized experience that fits your needs. \n\nMANAGE ALL YOUR ACCOUNTS IN ONE PLACE\nEmpower Personal Dashboard™ gives you a complete picture of your finances by bringing everything together– including bank accounts, 401k, IRA, investments, stocks, debt, and more.\n\nTRACK YOUR NET WORTH\nUse the net worth tracker to get an accurate view of your net worth—what you have minus what you owe. Understanding this number can help you make smarter decisions about how to manage your money.\n\nPLAN FOR RETIREMENT\nSee if you’re on track to retire by your target date with the retirement planner and use the retirement calculator to enter hypothetical scenarios–you may even use one of them to turn into your new plan.\n\nBUDGET YOUR EXPENSES\nOrganize your spending and savings automatically by date, category, or merchant to see if you are tracking over or under your plan.\n\nSEE WHERE YOUR INVESTMENTS STAND\nStay on top of your investments by comparing your current portfolio allocation to an ideal target allocation that’s designed to minimize risk and maximize returns.\n\nWE WORK HARD TO KEEP YOUR INFORMATION SAFE\nYou can rest assured it’s our security team’s primary job to safeguard your financial data. We use multiple layers of security, in every component of our systems, to protect your accounts, your money, and keep your information private.\n\nReady to take control of your finances — and your future? \n\nAll visuals are illustrative only.\n\nFeatured individuals are paid spokespeople and not clients of Personal Capital Advisors Corporation or Empower Advisory Group, LLC and do not make any endorsements or recommendations about securities offerings or investment strategy.\n\n* For more information about Personal Capital Advisors Corporation or Empower Advisory Group, LLC advisory services, including fees and full disclosures, visit https://www.empower.com/personal-investors/wealth-management. © 2023 Empower Holdings, LLC. All rights reserved. \n“EMPOWER” and all associated logos, and product names are trademarks of Empower Annuity Insurance Company of America.",
+      "android_package_name": "com.capitalnowapp.mobile",
+      "ios_bundle_id": "com.personalcapital.personalcapital",
+      "title": "Personal Capital",
+      "domain_name": [
+        "https://www.empower.com",
+        "https://www.empower.com"
+      ],
+      "website": "https://www.empower.com",
+      "developer": "Personal Capital Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3sYpbXWctXB-xcTEKmmEObvJYP2wc4zBSgCymri5gtCQAqpxrWJcHL8zL0KwwB_XfA",
+      "icon_72": "https://play-lh.googleusercontent.com/3sYpbXWctXB-xcTEKmmEObvJYP2wc4zBSgCymri5gtCQAqpxrWJcHL8zL0KwwB_XfA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.freevpnintouch"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Invest and save better with Betterment. Investing apps are a dime a dozen, right? So, you might be wondering why you should download this investing app. It’s simple: Betterment is a robo advisor built with technology that optimizes for you, creating a tailored experience that fits your needs whether you’re an investor-in-training or a stock market guru. Join the 900,000+ people who entrust us with over $50+ billion.\n\nAs an independent digital investment advisor and fiduciary, Betterment is built to help you do what’s best for your money so you can live better. With no minimum balance, you can get started with just $10 in minutes. Keep track of your financial life across your short- and long-term savings goals with our easy-to-use app.\n\nNEW CUSTOMERS EARN 4.50% VARIABLE APY* (as of 12/27/24) ON CASH \n-   Get an extra 0.50% APY* with qualifying deposit—nearly 11x** the national average.\n-   Protect your earnings with up to $2 million† in FDIC insurance at our program banks, subject to certain conditions. Betterment is not a bank.\n-   See program banks at www.betterment.com/cash-portfolio\n\nINVEST TODAY AND EARN UP TO $1K\nNew investing customers can get up to $1,000 with a qualifying deposit or rollover. \nOpen any individual investing account (including a Roth or traditional IRA) and complete a qualifying deposit or rollover to get some extra money on us. The more you invest, the more you get. \nEnroll at www.betterment.com/tiered-investing-offer-2025. Terms apply. \n\nEXPERT-BUILT PORTFOLIOS TO HELP YOU WEATHER THE MARKET\n-   Customize your stock-and-bond risk level with recommendations from the pros.\n-   Choose one of our optimized, curated portfolios of ETFs, like Innovative Tech, Goldman Sachs Smart Beta, or socially responsible investing options: Broad, Social, or Climate Impact portfolios\n-   Looking for an all-bond strategy? Try our BlackRock Target Income portfolio or our Goldman Sachs Tax-Smart Bond portfolio to target higher yields while taking on less risk than stocks. \n\nINVEST WITH TECH THAT OPTIMIZES FOR YOU\n-   Rebalance your portfolio and reinvest dividends automatically\n-   Limit your tax impact with automated tools like tax-loss harvesting and tax coordination between accounts\n-   Set up recurring deposits on your preferred schedule\n-   Questions? You can browse our expert resources or ask our financial advisors!\n\nKEEP MORE OF YOUR MONEY\n-   Invest with us for just $4/month, or pay an annual fee of 0.25% on your investing account balance when you:\n          -   Have a total Betterment balance of $20,000 or more across investing and cash accounts you hold at Betterment, or\n          -   Set up a recurring deposit(s) of $250/month or more into any account\n-   Upgrade to Premium for unlimited access to advisors at just .65% of your invested assets, a fraction of the cost compared with traditional advisors\n          -   These are CERTIFIED FINANCIAL PLANNER™ professionals, salaried never commissioned, for a significantly lower management fee\n\nTURN LIFE GOALS INTO MONEY GOALS\n-   Manage money for everyday spending and get cash back with Checking\n-   Save for that exercise bike, your next vacation, and more\n-   Go beyond your 401(k) with an IRA\n-   Use our projection tools to create a plan\n-   Calculate how to reach your target with our goal forecaster\n\nSEE THE BIGGER PICTURE\n-   Get our all-in-one financial dashboard\n-   Connect outside accounts, see your net worth, and view your investment performance, all in one place",
+      "android_package_name": "com.freevpnintouch",
+      "ios_bundle_id": "betterment",
+      "title": "Betterment",
+      "domain_name": [
+        "https://www.betterment.com",
+        "https://www.betterment.com"
+      ],
+      "website": "https://www.betterment.com",
+      "developer": "Betterment",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qPlsK8K48503fVqwSUTXp5ayWYCiXA10Ei5HMYxnuldFXKYN29FAUn_tSFhvbHc70A",
+      "icon_72": "https://play-lh.googleusercontent.com/qPlsK8K48503fVqwSUTXp5ayWYCiXA10Ei5HMYxnuldFXKYN29FAUn_tSFhvbHc70A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.truebil.app"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Get the money you need today, start building credit, and set yourself up for a bright financial future.\n\nGET STARTED WITH BRIGIT:\n1. Download Brigit\n2. Connect your bank account\n3. Request an Instant Cash advance*\n4. Get money deposited into your bank account\n\nIt’s that easy! See full disclosures below.\n\nGET CASH FAST - $25 to $250*\nWhen you need extra money to make ends meet, Brigit’s got your back.\n• No credit check\n• No interest or tips\n• No late fees\n• Repay it when you get paid or can afford it\n\nFAST PERSONAL LOAN OFFERS\n• Need to borrow $500 or more? Get matched with personal loan offers from Brigit’s partners\n• Compare personal loans and choose one that fits your needs\n\nBUILD CREDIT & SAVE MONEY**\nSave money & build credit without a credit card.\n• No hard pull, no credit, no interest and no security deposit required\n• Build your credit history with as little as $1 per month – the rest is paid from the new account\n• Brigit reports payments to all 3 credit bureaus - Experian, Equifax & TransUnion\n• Tally up the savings. Extra money put in the account is returned to you when paid off!\n\nEARN & SAVE\nWe’re here to help you earn and save money – from side gigs to exclusive offers.\n• Earn extra cash fast taking surveys\n• Discover part-time, full-time, gig & remote jobs\n• Cash back, discounts, insurance savings & more\n\nBUDGET BETTER\nConnect your bank account for free financial insights\n• Monitor your income and expenses\n• Budget smarter with bill forecasts & spending breakdowns\n• Find subscriptions you no longer need\n\nPROTECT YOUR MONEY\nMonitor your credit, spending and identity – all in one cash app.\n• Track your credit score with full credit reports\n• Real-time bank balance alerts\n• Identity theft protection\n• Free financial tools to help you save more and spend less\n\nEASY SIGN UP. NO RED TAPE.\nDownload the Brigit app and sign up for free in minutes.\n• Brigit works with Chime, Bank of America, Wells Fargo, Chase Bank & 15,000+ more\n• Basic Plan: Free account alerts & insights + access to exclusive earn & save offers\n• Paid Plans: $8.99-$14.99/month with cash advances* & tools to help you build credit**, budget better & save. Cancel anytime.\n\nSUPPORT 7 DAYS A WEEK\n• If you ever need us, please email info@hellobrigit.com\n\nDISCLOSURES\nSome features subject to a paid plan.\n\n*Cash Advances:\nNot all users will qualify. Subject to eligibility and Brigit’s approval and policies, advances range from $25 - $250. Not available in all states. Express (instant) transfer fee may apply for debit card disbursals. Advances have no mandatory min or max repayment period. Money advanced has 0% max interest. Example $100 cash advance: Sent via ACH & paid back on the date you set with 0% interest, $0 origination fees, $0 processing fees, $0 transfer fees related to the money advance. Total Cost: $100\n\n**Credit Builder:\nImpact to credit score may vary, and some users’ credit scores may not improve. Results depend on many factors including whether your loan payments are on time, the status of your other, non-Brigit accounts, and financial history. Credit builder loans are issued by Coastal Community Bank, Member FDIC, subject to approved underwriting practices. Credit builder loan example: a $600 loan, paid back over 24 months with $25 dollar monthly payments & no interest (Max 0% APR). $0 for interest, processing, origination, late payment, transfer, or early payment fees. Total Cost: $600\n\nPrivacy Policy: https://www.hellobrigit.com/privacy\n\nBrigit\n36 W 20th St\nNew York, NY 10011",
+      "android_package_name": "com.truebil.app",
+      "ios_bundle_id": "com.hellobrigit.Brigit",
+      "title": "Truebill",
+      "domain_name": [
+        "https://hellobrigit.com",
+        "https://hellobrigit.com"
+      ],
+      "website": "https://hellobrigit.com",
+      "developer": "Bridge It Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hmh6tP7Un8BxO-qZAJEJ4Hy8YF8HFzge8ij0h2HE0hplf2t5VLdMiMl7O4KKlj5Qpg",
+      "icon_72": "https://play-lh.googleusercontent.com/hmh6tP7Un8BxO-qZAJEJ4Hy8YF8HFzge8ij0h2HE0hplf2t5VLdMiMl7O4KKlj5Qpg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.fidelity.wi.activity"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Invest at a firm invested in you. Fidelity’s secure and easy-to-use award-winning app gives you access to a broad choice of investments, expert insights, and investing tools—helping you make smart decisions with your money.\n\n\nSecure: Fidelity is committed to your security with 2-factor authentication, voice biometrics, security text alerts, and money transfer lockdowns.\n\n\nEasy: Get started with no account fees or minimums when you open a retail brokerage account. Plus, get commission-free trades for US stocks, ETFs, and fractional shares for as little as $1.\n\n\n\nAll-in-one app: Deposit checks, pay bills, track spending, trade stocks, and more, all backed by 75 years of Fidelity’s financial expertise.\n\n\n\nHere’s how it works:\n• Create an account\n• Add funds\n• Make your first investment\n\n\n\nWhat’s inside the Fidelity app:\n\n\n\nPowerful trading tools\n• Trade stocks, ETFs, and mutual funds using industry-leading research and market analysis.\n• Trade smarter with advanced charts and on-the-go technical analysis.\n• Monitor markets and trading with real-time quotes.\n\n\n\nCash management\n• Trade, transfer, deposit checks, and pay bills.\n• Schedule transfers and automate investments.\n\n\n\nFinancial learning at its best\n• Build your confidence in investing with podcasts, articles, videos, and more.\n• From small classes and coaching sessions to large multi-session webinars, we have something to help you take your knowledge to the next level.\n\n\n\nAlerts and notifications\n• Receive timely, customizable alerts to help you manage your stock trading.\n• Set price triggers so you never miss an entry or exit on your investments.\n\n\n\n24/7 customer support\n• Get state-of-the-art security in 2-factor authentication and voice biometrics.\n• Tap to chat with a Virtual Assistant 24/7.\n\n\n\nAccessibility\n• Use enhanced voiceover and dynamic type.\n\n\n\nTo learn more, go to https://www.fidelity.com/mobile/overview.\n\nLooking to manage your workplace benefits like a 401(k) or HSA? Download our NetBenefits® app in the “More by Fidelity Investments” section below.\n\n762430.45.0",
+      "android_package_name": "com.fidelity.wi.activity",
+      "ios_bundle_id": "com.fidelity.watchlist",
+      "title": "Fidelity Investments",
+      "domain_name": [
+        "http://www.fidelity.com",
+        "https://www.fidelity.com"
+      ],
+      "website": "http://www.fidelity.com",
+      "developer": "Fidelity Investments",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/vlJEUVaXrORTJ9Ierc0DUjNMQX1_Gg36EYfhMulM88PKX7AdnpLOtUP8DY12OxOvUpY",
+      "icon_72": "https://play-lh.googleusercontent.com/vlJEUVaXrORTJ9Ierc0DUjNMQX1_Gg36EYfhMulM88PKX7AdnpLOtUP8DY12OxOvUpY=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.creditonebank.mobile"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "What’s on the Capital One Mobile app? All of your accounts, and so much more.\n\nWhether you’re out in the world or feeling right at home, you can manage your money with ease:\n- View balances and export statements\n- Pay bills and take care of loans\n- Check in on your credit with CreditWise\n- Activate a credit or debit card when you need it\n- Redeem rewards on the go\n- Send and receive money with friends and family using Zelle®\n \nWith the Capital One Mobile app, you can ...\n- Stay informed when you enable alerts and purchase notifications\n- See everything that happens on your card with detailed transactions\n- Instantly lock your credit or debit card from anywhere\n- Get answers from Eno, your Capital One assistant\n\nDownload the app for better banking with Capital One.\n\n\n\nInternet access is needed to use the mobile app. Check with your Internet service provider for details of specific fees and charges. Service outages may occur. Capital One customers are responsible for regularly checking their account statements. Push, email, and SMS alerts and notifications, including purchase notifications, must be enabled to be received. CreditWise monitoring and alerts may not be available if the information you enter at enrollment does not match the information in your file at one or more consumer reporting agencies or you do not have a file at one or more consumer reporting agencies. Features may not be available to all customers. Actual experiences may differ from those depicted. Additional terms and limitations apply. \n\nZelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license. To read about the Terms of your download, check out the End User License Agreement.",
+      "android_package_name": "com.creditonebank.mobile",
+      "ios_bundle_id": "com.capitalone.enterprisemobilebanking",
+      "title": "Capital One Mobile",
+      "domain_name": [
+        "https://www.capitalone.com/applications",
+        "https://www.capitalone.com"
+      ],
+      "website": "https://www.capitalone.com/applications",
+      "developer": "Capital One Services, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/R_iL1oKdPYOoD3ioW6t6VgOB04_ebMHmSMFyTYH3bE6S6wuRo6Pku58Xu05NGK_JGQ",
+      "icon_72": "https://play-lh.googleusercontent.com/R_iL1oKdPYOoD3ioW6t6VgOB04_ebMHmSMFyTYH3bE6S6wuRo6Pku58Xu05NGK_JGQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.citibank.mobile.vn"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Simpler\nAll Mobile Account*: Open a checking or savings account right from the app without setting foot in a bank branch\nCard Replacement: Request a new card if your original is lost, stolen or damaged\nCiti Mobile® Snapshot: Quickly review key account info – without having to sign in every time\nZelle®: A fast, fee-free  way within the Citi Mobile App to pay and easily split payments with people you trust.**  \nMobile Check Deposit: Quickly and easily deposit checks from anywhere\nATM Finder: Easily locate one of more than 60,000 fee-free ATMs in the U.S.\nAccount Information: View your statements, check balances and recent activity \nMake same-day or scheduled payments easily \nSmarter \nAggregation*: Link virtually all your bank accounts, credit cards and investment accounts for a more holistic financial view to managing your finances\nSpending insights*: Track your spending habits and trends across your accounts \nBill management*: View and manage your bills and recurring payments in one place\nFICO® Score : Citi credit card customers can view their FICO® Score for free \nMake payments, including automatic payments, and transfers.\nDispute credit card transactions if ever needed and track the status\nStay informed with Account Alerts: Choose the alerts you want and even when you want them\nChange your credit card due date: Choose the beginning, middle, or end of a month \nSecure \nCiti® Quick Lock: Lock or unlock your lost or misplaced card \nPIN Reset: Reset your debit card PIN from your mobile device \nEnable Touch ID® or Face ID® for a fast and safe way to access your account\n * Features are available today on a limited basis.\n**Zelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license. \nYour trust and confidence in how we collect, use, and share information about you is a priority. Review our privacy notice at https://online.citi.com/JRS/portal/template.do?ID=Privacy and our notice at collection at https://online.citi.com/JRS/portal/template.do?ID=Privacy#notice-at-collection to learn more about privacy at Citi. Additionally, California residents may submit requests in connection with the California Consumer Privacy Act at https://online.citi.com/dataprivacyhub.",
+      "android_package_name": "com.citibank.mobile.vn",
+      "ios_bundle_id": "com.citigroup.citimobile",
+      "title": "Citi Mobile",
+      "domain_name": [
+        "http://www.citibank.com",
+        "https://www.citibank.com"
+      ],
+      "website": "http://www.citibank.com",
+      "developer": "Citibank, N.A.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/lcSoJgiOpBfIFmUXrYAR3dIubTMGB5AStQ78OeOelpSu0adT5eYWvyHdgDWNH0M1ZgQ",
+      "icon_72": "https://play-lh.googleusercontent.com/lcSoJgiOpBfIFmUXrYAR3dIubTMGB5AStQ78OeOelpSu0adT5eYWvyHdgDWNH0M1ZgQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.americanexpress.android.acctsvcs.in"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "The official American Express App for iPhone allows you to access your Account from anywhere. Track spending & rewards, find offers, review your balance, pay your bill and enjoy features only available in the Amex App. Touch ID and Face ID login (on supported devices), gives you quick, safe and secure access. Make the most of your Membership with the speed, security and convenience of the mobile Amex® App.\n\nSECURE ACCOUNT MANAGEMENT\n• Enhanced activation experience for you to confirm new Cards and setup your Account.\n• Activate your Credit Card for Apple Pay in the Amex App, then simply unlock, tap and pay.\n• Freeze and unfreeze your Credit Card instantly at any time.\n\nSTAY ON TOP OF YOUR SPENDING\n• Check your American Express Account balance, pending transactions and sort charges by amount and date.\n• Go paperless with access to past PDF statements.\n• Turn on AutoPay to pay your Amex bill automatically from your bank account each month.\n• Check your spending power. Enter an amount for an expected purchase and you’ll see if it’ll be approved. Approval based on account status at the time of request\n• Filter transactions to see spending and subtotals for each card on your account. For Basic Card Members Only.\n\nPROTECTION WITH REAL-TIME ALERTS\n• Turn on purchase alerts to be notified when your Credit Card is charged.\n• Receive instant fraud alerts if suspicious activity is detected.\n• Never miss a payment with payment due reminders.\n• Manage all your notifications in the Amex Account tab.\n\nEXPLORE REWARDS AND BENEFITS\n• View your Rewards balance and find ways to use Membership Rewards® points* - from gift cards to credits on your statement.\n• Use points to cover your eligible charges via a credit on your Account. *\n• See personalized recommendations for other ways to use points.\n• Refer a friend and earn rewards when friends and family get an American Express Card through your referral. For eligible Card Members only.\n\nAMEX OFFERS *\n• Discover offers from places you shop, dine, travel and more.\n• Explore a map of nearby offers.\n• Get Amex Offers notifications direct to your device.\n\nAWARD-WINNING SERVICE\n• We’re here to chat 24/7. Start a chat with us in seconds and revisit conversations any time in the app.\n\nWe’d love to hear from you! Stay in touch with us using our social media pages: Twitter: @AmericanExpress\nFacebook: facebook.com/AmericanExpressUS/\nInstagram: @americanexpress\n\nSend & Split® enhances the way you send money and split purchases with other Venmo and PayPal users, all in the American Express app.* Now you can pay friends with more flexibility and without the standard Venmo or PayPal credit card fee§. You can also seamlessly split your Amex purchases with others and get paid back directly to your Card as a statement credit. Best Part? You’ll be the one to earn the rewards for the purchase you split. Enrollment Requirement. Terms Apply. § PayPal may charge a fee when sending to non-US recipients.\n\nThe American Express® App and app features are available only for eligible Card accounts in the United States. American Express® prepaid Cards and Cards issued by non-America Express issuers are not eligible.\n\nTo log in, Card Members must have an American Express user ID and password or create one in the app.\n\nApple, the Apple logo, iPad, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. iOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license. App Store is a service mark of Apple Inc.\n\n*To see the full Terms and Conditions, copy and paste the following link into your browser and scroll to the bottom of the page: https://amex.co/AmexApp-Terms",
+      "android_package_name": "com.americanexpress.android.acctsvcs.in",
+      "ios_bundle_id": "com.americanexpress.amexservice",
+      "title": "American Express",
+      "domain_name": [
+        "http://www.americanexpress.com",
+        "https://www.americanexpress.com"
+      ],
+      "website": "http://www.americanexpress.com",
+      "developer": "American Express",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/c8oisII4zLnZjpba-fpVOmdRUbmZHpPRVzBW-dee049P74S4zpX8cUD2-0p_AHrKog",
+      "icon_72": "https://play-lh.googleusercontent.com/c8oisII4zLnZjpba-fpVOmdRUbmZHpPRVzBW-dee049P74S4zpX8cUD2-0p_AHrKog=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tsheets.android.hammerhead"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Whether you’re a self-employed business of one looking to organize business finances, or a growing small business with accounting needs, QuickBooks has the right sized solution for your business.\n\nWith the QuickBooks mobile app, run your business anytime, anywhere - on either QuickBooks Solopreneur, or QuickBooks Simple Start. Organize your self-employed or small business finances, manage your cash flows and expenses, and access tools to help drive growth - all in one place. Use automatic mileage tracking to maximize tax deductions, invoicing and estimates to help you get paid, and even more features to manage your bookkeeping. \n\nOrganize Business Finances\n•  Automatically separate business from personal transactions\n•  Categorize business transactions on the go for more detailed accounting needs\n•  Connect your bank and credit card accounts in one place to see the bigger financial picture\n\nManage Cash Flows and Expenses\n•. Snap and scan receipts and we'll help match them to expenses\n•  Track miles automatically to maximize your tax deductions\n•  View and manage your cash flow from anywhere to know where your business stands\n•  Get insights into what you make and spend to help you make better business decisions\n\nGrow Your Business\n•  Create and send custom invoices and estimates wherever you do business\n•  Add new customers, products, and services with a few taps\n•  Run business reports to always know how your business is performing\n\nGet even more QuickBooks benefits and features to help you run your self-employed or small business through QuickBooks on the web, included with your QuickBooks mobile app subscription.\n\nNot compatible with QuickBooks Desktop for Windows or Mac.\n\nSome features may not be available in all QuickBooks products.\n\nTerms, conditions, pricing, special features, and service and support options subject to change without notice.\n\nFrom INTUIT\nMakers of: QuickBooks, TurboTax, Credit Karma & Mailchimp\n\nVisit:\n• https://www.intuit.com/privacy/statement/  to learn how Intuit protects your privacy.\n• https://www.intuit.com/legal/terms/en-us/quickbooks/online/ to read the Intuit terms of service.\n\n\nSUBSCRIPTION INFORMATION\n• Your Apple account will be charged when you confirm the purchase.\n• Your subscription will automatically renew unless you turn off auto-renew at least 24 hours before the end of the current period.\n• Your Apple account will be charged for renewal within 24 hours prior to the end of the current period.\n• You can manage your subscription and turn off auto-renewal by going to your Apple account settings after purchase. On your device, go to Settings, tap your Apple ID, then tap Subscriptions, and tap Cancel subscription.\n• You'll give up any unused portion of a free trial period when you purchase a subscription.\n\n\nIntuit, 2700 Coast Ave, Mountain View, CA 94043",
+      "android_package_name": "com.tsheets.android.hammerhead",
+      "ios_bundle_id": "com.intuit.QBOiPad",
+      "title": "Intuit QuickBooks",
+      "domain_name": [
+        "https://quickbooks.intuit.com",
+        "https://quickbooks.intuit.com"
+      ],
+      "website": "https://quickbooks.intuit.com",
+      "developer": "Intuit Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AGLr2UP-Dn6mPz_QLUdWX8tNvzLz19giUVm-15LHORrCh_X2RrRCm8p0RTiND4jDswk",
+      "icon_72": "https://play-lh.googleusercontent.com/AGLr2UP-Dn6mPz_QLUdWX8tNvzLz19giUVm-15LHORrCh_X2RrRCm8p0RTiND4jDswk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "de.number26.android"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Welcome to the bank you'll love. Bank, save, and invest in one beautifully simple app that's trusted by millions. \n\nBANK \n– Open your online N26 bank account in minutes  — right from your smartphone. Get a physical or virtual Mastercard debit card, add it to Apple Pay, and start using it straight away. \n– Pick from our five new virtual card designs and start paying with personality. \n– Send money in seconds using MoneyBeam and instant transfers.\n– Want even more perks and features? Discover our premium accounts and give your banking experience an upgrade. Choose from N26 Smart, N26 You, and N26 Metal. \n– For shared finances, N26 joint accounts come with dedicated IBANs, handy insights, and user-friendly features to make managing your own and your shared expenses easier than ever.  \n– Self-employed? Handle all your business finances with an N26 business account and get 0.1% cashback for every payment you make with your N26 Mastercard. \n– Send money near and far via international money transfers powered by Wise with N26. Just a few taps in your N26 app and your money arrives in 35+ countries with no hidden fees. \n– Want to turn future plans into reality today? Split eligible past purchases with N26 Installments, or get approved for an overdraft up to €10,000 in minutes (available in Germany and Austria). With N26 Credit, you can get a loan instantly with no paperwork (the loan maximum depends on the market; our credit loan is available in Germany and France.) \n– And if you have questions, contact us day and night via the chat in your N26 app — in five languages.\n\nSAVE\n- With N26 Instant Savings, grow your money with full flexibility, no matter what membership you have. Earn interest on all your savings with no deposit limits** and access your funds anytime.\n- Achieve your goals by organizing your money into N26 Spaces sub-accounts, and automate your savings with N26 Round-ups.\n- Get spending insights to help you stay on track. \n\n* The interest rate is based on country and membership. Available to eligible N26 customers in 16 countries across Europe, including Germany, Austria, France, Spain, Ireland, and the Netherlands.\n**The money in your N26 bank accounts — including N26 Instant Savings — is protected up to €100,000 by the German Deposit Guarantee Scheme.\n\nINVEST\n- Choose from thousands of stocks and ETFs. Or select one of our ready-made funds and let the experts do the work.*\n- You can start with €1, and buy and sell anytime.\n- Manage your investments without having to download another app. Get a complete overview of your portfolio, transaction fees, gains, and losses.\n- Get 15 free trades for Stocks and ETFs every month with N26 Metal — and 5 with N26 You.\n- Not much time on your hands? Automate your investments with our free, fully-flexible investment plans.\n\n*None of these statements constitute investment advice. Check our website for availability in your country.\n\nBE SIMPLY SECURE AND FULLY IN CONTROL\n— As a fully-licensed German bank built on the latest technology, we’re always working to make sure your money is in safe hands.\n— Get control over the security of your account with customizable settings in your N26 app. Lock and unlock your card, change your PIN, set spending limits, and hide your sensitive data from prying eyes — instantly and effortlessly. \n— Banking after hours? Turn down the lights and use your N26 app in dark mode. It's yet another layer of personalization to the way you choose to bank.\n\nImprint and Cookie Policy: n26.com/app",
+      "android_package_name": "de.number26.android",
+      "ios_bundle_id": "de.no26.Number26",
+      "title": "N26",
+      "domain_name": [
+        "https://n26.com/en-eu?utm_source=appstore&utm_medium=description",
+        "https://n26.com"
+      ],
+      "website": "https://n26.com/en-eu?utm_source=appstore&utm_medium=description",
+      "developer": "N26 AG",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/85SeCCkigrkJV5b7aHUQc07CozV1xLaIK_UZ7A1_VeeXK9k4CTMIWsXGSfQJrGYHGWs",
+      "icon_72": "https://play-lh.googleusercontent.com/85SeCCkigrkJV5b7aHUQc07CozV1xLaIK_UZ7A1_VeeXK9k4CTMIWsXGSfQJrGYHGWs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "eco.acorn"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Acorns helps you save, invest, and grow for your future. Our automated saving, investing, and spending tools help you grow your money and your financial wellness.\n\nAt Acorns, we believe that financial wellness is for everybody. It has nothing to do with how much you make — it’s about finding balance with what you have. Financial wellness is when you are spending smarter today, saving for tomorrow, and investing for your future all at once.\n\nMore than 13,000,000 Americans have invested over $22,000,000,000 with Acorns. You can get started in under 5 minutes, with as little as your spare change.\n\nSECURE: Acorns is committed to your security with 2-factor authentication, fraud protection, 256-bit data encryption, and all-digital card lock. Acorns Investment accounts are SIPC-protected up to $500,000, and Acorns checking accounts are FDIC-insured up to $250,000.\n\nWHAT’S IN THE APP: \n\nINVEST:\n\n- EASY, AUTOMATED INVESTING\nYour money is automatically invested into one of our diversified, ETF* portfolios, built by experts and recommended for you. You can invest spare change each time you make a purchase with Round-Ups®, or set up automated recurring investments starting as low as $5.\n\n- INVEST IN BITS OF BITCOIN\nRide Bitcoin’s highs and ride out its lows by allocating up to 5% of your already-diversified portfolio towards a Bitcoin-linked ETF.\n\n- PERSONALIZE YOUR PORTFOLIO\nPersonalize your investments with a Custom Portfolio, allowing you to add individual stocks from the largest 100+ public US companies.\n\n- INVEST FOR RETIREMENT\nSave for the future with an Acorns Later retirement account, and get a 3% IRA match on new contributions with a Gold subscription.\n\n- INVEST FOR YOUR KIDS\nStart building your kids’ futures with Acorns Early Invest, a dedicated investment account for your kids. Plus, we’ll match your investments by 1%!\n\nSAVE:\n\n- EMERGENCY FUND\nBuild savings for life’s unexpected hiccups, including a 4.05% APY** to help your money grow.\n\n- CHECKING WITH APY\nEarn 2.57% on your checking account with the Mighty Oak debit card.\n\nAND MORE:\n\n- KIDS & TEEN DEBIT CARD\nTeach your kids financial wellness with an Acorns Early debit card, included in the Gold subscription.\n\n- EARN BONUS INVESTMENTS\nShop 15,000+ brands and receive bonus investments and exclusive deals from your favorite brands. Plus, earn limited-time referral bonuses of up to $1,200.\n\n- GROW YOUR MONEY KNOWLEDGE\nAccess custom articles, videos, courses, and live Q&As to learn about investment and savings strategies.\n\n\nSUBSCRIPTION PLANS\n\nWhether you’re new to investing or planning for your family’s future, we bundle our money tools into subscription plans. No hidden costs or transaction fees — just one, transparent monthly payment to start growing your oak.\n\nBronze ($3/mo)\n—\nInvesting tools to get you started on your financial journey.\n\n- Round-Ups®\n- Expert-built diversified portfolio\n- Retirement account\n- Checking account, and more\n\nSilver ($6/mo)\n—\nLevel up your saving and investing skills.\n\n- Everything in Bronze\n- 1% IRA match on new contributions to your Acorns Later retirement account\n- Emergency fund\n- Courses and videos to help you grow your money knowledge\n- Live Q&As with investing experts\n\nGold ($12/mo)\n—\nFull suite of saving, investing, and learning tools for you and your family.\n\n- Everything in Silver\n- 3% IRA match on new contributions to your Acorns Later retirement account\n- Investment accounts for your kids with a 1% match\n- Acorns Early smart money app and debit card for kids\n- Ability to add individual stocks to your portfolio\n- $10,000 life insurance policy\n- Complimentary Will, and more\n\n—\n\n*ETF (Exchange-Traded Fund) = collection of investments, made up of pieces of various stocks, bonds, or other assets.\n\n**APY (Annual Percentage Yield) = the amount of interest you can earn from the money you have in a bank account in a year.\n\n—\n\nDisclosures are available in the images above and at www.acorns.com/disclosures\n\n5300 California Ave Irvine CA 92617",
+      "android_package_name": "eco.acorn",
+      "ios_bundle_id": "com.acorns.investor",
+      "title": "Acorns: Invest Spare Change",
+      "domain_name": [
+        "http://www.acorns.com",
+        "https://www.acorns.com"
+      ],
+      "website": "http://www.acorns.com",
+      "developer": "Acorns Grow Incorporated",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bDCI8Lyp2CHi35g5T1doA-DywjRJ8qm6cTFD6EmWFDF7NHuOC98PB2OES2ZpMmBZug",
+      "icon_72": "https://play-lh.googleusercontent.com/bDCI8Lyp2CHi35g5T1doA-DywjRJ8qm6cTFD6EmWFDF7NHuOC98PB2OES2ZpMmBZug=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ml.mobile.mymerrill"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Merrill clients can access and manage investment accounts where and when it’s most convenient.\n\n\n\nStay Connected with your Advisor\n•Send messages and documents securely\n•Scan and send a document to your advisor using your camera\n\n\nDeposit Checks, Transfer Money and Pay Bills\n•Take photos of checks to deposit them¹\n•Transfer money between your linked Merrill investment and Bank of America, N.A., banking accounts\n•Make transfers to and from accounts held at other financial institutions\n•Request wire transfers and pay eBills\n\n\nAccess Market Research\n•Read U.S., global market, and security-specific news and research reports\n•Most stock security profiles feature a stock story – from an in-depth company bio to performance analysis\n\n\nManage Your Merrill Investment Accounts\n•View your brokerage accounts or any linked external accounts you hold outside Merrill\n•Quick access to statements & documents\n•Stay on top of your accounts with customizable alerts\n\n\nStay Secure\n•Set up Touch ID® / Face ID® to securely log in to the app instead of using your Password²\n•Visit our Privacy & Security page online to learn more about the features we offer to help protect you and your accounts\n\n\nManage your Bank of America, N.A., Debit and Credit Card Accounts\n•Track income and cash flow in Spending and Budgeting, provided by Bank of America, N.A.\n•View activity on your Bank of America, N.A., credit card and banking accounts\n•Send and receive money using Zelle®³\n\n\nIf you encounter a bug or have a feature request, let us help you one-on-one. Please contact us directly at 800.MERRILL (637.7455).\n\n\n\n¹Deposits are subject to verification and not available for immediate withdrawal. Other \nrestrictions apply.\n²Certain devices are eligible for enrollment in Touch ID® / Face ID®\n³Requires enrollment in the service and must be made from a Bank of America consumer \nchecking or savings account. Recipients have 14 days to register to receive money or the transfer will be canceled. \nDollar and frequency limits apply.\n\n\n\nIMPORTANT NOTICE:\nThe MyMerill app for iPhone is available to clients who have online access to the MyMerill.com \nwebsite. Some of the features and services available on MyMerrill.com are not available within \nthis app. Please access the website to access all functionality. Select Application License \nAgreement and review the amended Terms & Conditions, which apply to the website and all \nmobile devices. By downloading and using this app, you agree to the current Terms & \nConditions.\nYou may be charged access fees from your wireless service provider depending on your mobile \ndevice. Please check with your wireless service provider for details on specific fees and charges. \nFor more information about Merrill privacy and security, please visit ml.com/privacy.\nInvesting involves risks. There is always the potential of losing money when you invest in \nsecurities.\nMerrill Lynch, Pierce, Fenner& Smith Incorporated (also referred to as \"MLPF&S\" or \"Merrill\") \nmakes available certain investment products sponsored, managed, distributed or provided by \ncompanies that are affiliates of Bank of America Corporation (\"BofA Corp.\"). MLPF&S is a \nregistered broker-dealer, a registered investment adviser, Member Securities Investor \nProtection (SIPC) and a wholly owned subsidiary of Bank of America Corporation (\"BofA Corp\"). \nBanking products are provided by Bank of America, N.A., and affiliated banks, Members FDIC \nand wholly owned subsidiaries of Bank of America Corporation.\nInvestment products:\n•Are Not FDIC Insured\n•Are Not Bank Guaranteed\n•May Lose Value\n\n\nZelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are \nherein under license.\nTouch ID and Face ID are registered trademarks of Apple Inc.\n© 2024 Bank of America Corporation. All rights reserved.",
+      "android_package_name": "com.ml.mobile.mymerrill",
+      "ios_bundle_id": "com.ml.mobile.mymerrilliphone",
+      "title": "Merrill Lynch",
+      "domain_name": [
+        "http://www.mymerrill.com",
+        "https://www.mymerrill.com"
+      ],
+      "website": "http://www.mymerrill.com",
+      "developer": "Merrill Lynch",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jA37BoJsau3FoSUXziBYpN1EfcNHj97I9bSXh4GJRCu3QuLiqFJKeJId52-y-UHf4rKy",
+      "icon_72": "https://play-lh.googleusercontent.com/jA37BoJsau3FoSUXziBYpN1EfcNHj97I9bSXh4GJRCu3QuLiqFJKeJId52-y-UHf4rKy=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.portseido.app"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "BE REWARDED BY JOINING WEBULL\n- Get free stocks by making a qualified initial deposit.\n- Claim 1-month free Nasdaq TotalView when signing up.\n\nINVEST, TRADE & SAVE ALL IN ONE PLACE\n- Trade Stocks, ETFs, Options, Futures, Bonds, and more in a single platform.\n- Invest with tech built for you, including Webull Smart Advisor and recurring investments.\n- Earn on your idle cash with a high APY.\n\nPAY LESS FOR YOUR INVESTMENTS\n- Pay no commission on stocks, ETFs, and options trades, and no contract fees on equity options*.\n- Trade micro, mini, and regular futures contracts at only $0.25, $0.70, and $1.25, respectively.\n- Reach your trading potential with a lower margin rate.\n\nAWARD-WINNING PLATFORM WITH EASY-TO-USE TOOLS\n- Award-winning platforms built for all investors, allowing you to trade via mobile, web, and desktop.\n- Explore in-depth analysis and advanced charting. 60+ technical indicators and 17+ charting tools can help you analyze trends and decipher market information.\n- Practice & explore trading methods without spending real money using Paper Trading.\n- Unlock opportunities in overnight trading, from Sunday 8:00 pm ET to Friday 8:00 pm ET.\n\nDISCLOSURES\nSecurities trading is offered to self-directed customers by Webull Financial LLC, a broker dealer registered with the Securities and Exchange Commission (SEC). Webull Financial LLC is a member of the Financial Industry Regulatory Authority (FINRA), Securities Investor Protection Corporation (SIPC). Webull is not a bank. Rates subject to change. More info: www.webull.com/disclosures\n\nFree trading of stocks, ETFs, and options refers to $0 commissions for Webull Financial LLC self-directed individual cash or margin brokerage accounts and IRAs that trade U.S. listed securities via mobile devices, desktop or website products. Relevant regulatory and exchange fees may apply. Please refer to our Fee Schedule for more details.\n\nAdvisory accounts and services are provided by Webull Advisors LLC (also known as \"Webull Advisors\"). Webull Advisors is an Investment Advisor registered with and regulated by the SEC under the Investment Advisors Act of 1940. Registration does not imply a level of skill or training. See additional information on the Disclosures webpage. Trades in your Webull Advisors account are executed by Webull Financial LLC. That means your assets are protected up to $500,000 in value, including $250,000 in any cash awaiting reinvestment.\n\nOptions trading entails significant risk and is not appropriate for all investors. Option investors can rapidly lose the value of their investment in a short period of time and incur permanent loss by expiration date. Losses can potentially exceed the initial required deposit. You need to complete an options trading application and get approval on eligible accounts. Please read the Characteristics and Risks of Standardized Options before trading options. *A $0.55 per contract fee applies for certain index options and a $0.10 per contract fee applies for oversized option orders.\n\nWebull Financial LLC is a CFTC registered Futures Commission Merchant and NFA Member. Please note futures trading involves substantial risk and is not suitable for all investors. Please read the FCM Risk Disclosure statement prior to signing up for Futures Trading. More info: www.webull.com/policy\n\nAddress: 44 Wall Street, Ste 501, New York, NY 10005, United States.\nEmail: customerservices@webull.us\n\nSubscription Descriptions\n1. Privacy Policy\nwww.webull.com/PrivacyPolicy.html\n2. Service Agreement\nwww.webull.com/ServiceAgreement.html",
+      "android_package_name": "com.portseido.app",
+      "ios_bundle_id": "com.webull.trade",
+      "title": "TD Ameritrade",
+      "domain_name": [
+        "https://www.webull.com",
+        "https://www.webull.com"
+      ],
+      "website": "https://www.webull.com",
+      "developer": "Webull Technologies Pte. Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ub9BJn5WrjZlGTcoglr7wqyDaEmE9WnnPUdliuc_1MLX7pwi38m81bhxlEEmKkfS03H1",
+      "icon_72": "https://play-lh.googleusercontent.com/Ub9BJn5WrjZlGTcoglr7wqyDaEmE9WnnPUdliuc_1MLX7pwi38m81bhxlEEmKkfS03H1=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.schwab.mobile"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Invest, research, bank, trade, and more—all in one app.\n\nIn addition to investing and trading stocks, options, exchange-traded funds (ETFs), and mutual funds, Schwab Mobile gives you the power to move your money, track your portfolio, deposit checks, and manage your financial life wherever you go.\n\nWhy choose Schwab Mobile?\n\n· See all your accounts in one place: both Schwab and external accounts.\n\n· Transfer funds easily with mobile check deposit and account linking.\n\n· Trade intuitively with a Trade Ticket that populates relevant data as you build your order.\n\n· $0 online commissions on listed stock, ETF, and options trades (plus $0.65 per contract for options).\n\n· Get real-time quotes, breaking news, and advanced market insights.\n\n· Build watchlists, track trends, and customize your app experience.\n\n· Access expert content, including videos, podcasts, and articles.\n\n· Secure, fast login with fingerprint, Face ID, or passcode.\n\n\nDownload the app or learn more at schwab.com/mobile.\n\n\nInvestment and Insurance Products: Not a Deposit • Not FDIC Insured • Not Insured by any Federal Government Agency • No Bank Guarantee • May Lose Value Apple, the Apple logo, iPad, iPhone, and Apple Podcasts are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.\n\nSchwab Mobile requires a wireless signal or mobile connection. System availability and response times are subject to market conditions and your mobile connection limitations. Functionality may vary by operating system and/or device.\n\nSchwab Mobile Deposit service is subject to certain eligibility requirements, limitations, and other conditions. Enrollment is not guaranteed and standard hold policies apply. Mobile carrier data charges may apply. (http://content.schwab.com/mobile/mobile-deposit.html)\n\nStandard online $0 commission does not apply to over-the-counter (OTC) equities, transaction-fee mutual funds, futures, fixed-income investments, or trades placed directly on a foreign exchange or in the Canadian market. Options trades will be subject to the standard $0.65 per-contract fee. Service charges apply for trades placed through a broker ($25) or by automated phone ($5). Exchange process, ADR, and Stock Borrow fees still apply.\n\nSee the Charles Schwab Pricing Guide for Individual Investors for full fee and commission schedules. (https://www.schwab.com/legal/schwab-pricing-guide-for-individual-investors)\n\nOptions carry a high level of risk and are not suitable for all investors. Certain requirements must be met to trade options through Schwab. Please read the Options Disclosure Document titled \"Characteristics and Risks of Standardized Options\" before considering any option transaction. Supporting documentation for any claims or statistical information is available upon request. (https://www.theocc.com/Company-Information/Documents-and-Archives/Options-Disclosure-Document)\n\n\n© 2024 Charles Schwab & Co., Inc. All rights reserved. Member SIPC.\n\n\n(1224-4UZU)",
+      "android_package_name": "com.schwab.mobile",
+      "ios_bundle_id": "com.schwab.schwabmobile",
+      "title": "Charles Schwab",
+      "domain_name": [
+        "http://www.schwab.com",
+        "https://www.schwab.com"
+      ],
+      "website": "http://www.schwab.com",
+      "developer": "The Charles Schwab Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/p8IZffRR9pvCvuzJenqngxh-VwJuC7Z5aJYXLj7p_5hbVtsnQ27RRdwJydw4GaegBW4X",
+      "icon_72": "https://play-lh.googleusercontent.com/p8IZffRR9pvCvuzJenqngxh-VwJuC7Z5aJYXLj7p_5hbVtsnQ27RRdwJydw4GaegBW4X=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.robinhood.gateway"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Robinhood helps you run your money your way. Identify trends for your investing strategies with technical indicators like moving average (MA), relative strength index (RSI), and more.\n\nTRADING\n-Commission-free trading on stocks, options, and ETFs.\n-Lowest costs on average on Bitcoin (BTC), Ethereum (ETH), Dogecoin (DOGE), and other crypto.\n-Invest as much or little as you want. Other fees may apply*.\n\nROBINHOOD GOLD ($5/month)\n-Earn 4% APY on uninvested cash (no cap).¹\n-Earn a 3% retirement IRA match.²\n-Get Instant Deposits up to $50,000.³\n-First $1K of margin investing (if eligible)⁴\n\nSECURITY + 24/7 LIVE SUPPORT\n- Chat with a Robinhood associate anytime\n- Security tools, like 2-factor authentication, keep your account safe\n\nDisclosures \nInvesting is risky, consider investment objectives & risks carefully before investing.\n\n*View Robinhood Financial's fee schedule at rbnhd.co/fees.\n\n1. In addition to joining Robinhood Gold, customers must enroll in the Brokerage Cash Sweep program for their deposits to earn interest.\n2. The 3% matching on contributions requires a subscription with Robinhood Gold (fees apply), must be subscribed to Gold for 1 year after your contribution to keep the full 3% match. You must have compensation (wage income) in order to contribute to an IRA. The funds that earned the match must be kept in the account for at least 5 years to avoid a potential Early IRA Match Removal Fee.\nYou must have compensation (wage income) in order to contribute to an IRA. Funds being contributed into or distributed from retirement accounts may entail tax consequences. Contributions are limited and withdrawals before age 59 1/2 may be subject to a penalty tax. Robinhood does not provide tax advice; please consult with a tax adviser if you have questions.\nThe Robinhood IRA is available to any U.S. customer with a Robinhood brokerage account in good standing.\n3. Bigger Instant Deposits are only available to customers in good standing and may be limited for trades involving volatile assets or derivatives.\n4. Not all investors will be eligible to trade on Margin. Margin investing involves the risk of greater investment losses. Additional interest charges may apply depending on the amount of margin used.\nCryptocurrency trading is offered through an account with Robinhood Crypto (NMLS ID: 1702840).\nFractional shares are illiquid outside of Robinhood & are not transferable. Not all securities are eligible for fractional share orders. Learn more at robinhood.com\nRobinhood Gold is a subscription-based membership program of premium services offered through Robinhood Gold, LLC.\nSecurities trading offered through Robinhood Financial LLC, member SIPC. See our Customer Relationship Summary at rbnhd.co/crs.\nRobinhood Financial LLC, Robinhood Gold, LLC, and Robinhood Crypto, LLC are wholly-owned subsidiaries of Robinhood Markets, Inc.\nThere are additional, unique risks with trading outside of regular market hours you should be aware of before making an investment decision, including the risk of lower liquidity, increased volatility, greater spreads, and pricing uncertainty. Robinhood 24 Hour Market is from Sunday 8 PM ET - Friday 8 PM ET.\nRobinhood, 85 Willow Road, Menlo Park, CA 94025",
+      "android_package_name": "com.robinhood.gateway",
+      "ios_bundle_id": "com.robinhood.release.Robinhood",
+      "title": "Robinhood: Investing & Trading",
+      "domain_name": [
+        "https://robinhood.com",
+        "https://robinhood.com"
+      ],
+      "website": "https://robinhood.com",
+      "developer": "Robinhood Markets Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/oyCtCqSQ6gFSJbEXKVMGjhmIzGCcrKnNcGkO8PiYa1zvmBCC8LhhdFwmwyz9qj92glqm",
+      "icon_72": "https://play-lh.googleusercontent.com/oyCtCqSQ6gFSJbEXKVMGjhmIzGCcrKnNcGkO8PiYa1zvmBCC8LhhdFwmwyz9qj92glqm=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "de.stocard.stocard"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "MANAGE YOUR PAYMENTS.\nGet a complete overview of your purchases, upcoming payments, and outstanding balance. Stay on track by activating push notification reminders.\n\nSHOP AT YOUR FAVORITE BRANDS.\nAccess Klarna's flexible payment options anywhere, and unlock cashback rewards at top stores—exclusively in the Klarna app. You can Pay now, Pay in 4 interest-free payments, Pay in 30 days, or Pay over time.\n\nUP TO 10% CASHBACK.\nShop in the app and earn up to 10% cashback. No confusing points system—just real cash added to your Klarna balance, ready for your next purchase at any store.\n\nGET THE KLARNA CARD.\nUse Klarna at the coffee shop, mall, or restaurant—wherever Visa is accepted. Pay later or over time, shop abroad without additional foreign exchange fees, and enjoy no monthly or annual fees. \n\nUNLOCK YOUR KLARNA BALANCE.\nEarn money when you shop. Get cashback from Klarna purchases and receive lightning-fast refunds. Open your Klarna balance in minutes for free, add money instantly, and start collecting your cashback.\n\nSHOP NOW. PAY LATER.\nSplit the cost of your purchase from any Klarna app store into 4 smaller, interest-free payments. And it works just as easily in-store with Apple Pay. So get what you love today and pay later.\n\nNEW DEALS EVERY DAY.\nShop and save with exclusive deals and discounts from all over the world, right in the Klarna app. Find a deal you like, claim it with a tap, and check back tomorrow—new offers are added all the time.\n\nTRACK ALL YOUR DELIVERIES.\nGet live updates with delivery times, pickup codes, and even pickup location photos. Track your purchase from store to door in the Klarna app.\n\nHASSLE-FREE RETURNS. \nNeed to send something back? Report a return right in the app. We’ll pause your purchase so you don’t have to pay in the meantime.\n\nINSTANT SHOPPING CONFIRMATION.\nNo one likes to wait. When you buy something in the Klarna app, you'll see your purchase just seconds after you place the order.\n\n24/7 CUSTOMER SERVICE. \nUse our chat in the Klarna app for round-the-clock service. \n\nDIGITISE YOUR LOYALTY CARDS\nKlarna is the official successor to Stocard. Unclutter your wallet by scanning the code on your plastic cards within seconds.\n\n// CA resident loans made or arranged pursuant to a California Financing Law license. //",
+      "android_package_name": "de.stocard.stocard",
+      "ios_bundle_id": "com.klarna.app",
+      "title": "Klarna",
+      "domain_name": [
+        "https://www.klarna.com/us",
+        "https://www.klarna.com"
+      ],
+      "website": "https://www.klarna.com/us",
+      "developer": "Klarna Bank AB",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/q5WWj6ugSmP4_J-ef5tLD5juZ95fg9_mRiQfdV_FMPofdUEv3Eo7-ZcKrxfAjuGDSMM",
+      "icon_72": "https://play-lh.googleusercontent.com/q5WWj6ugSmP4_J-ef5tLD5juZ95fg9_mRiQfdV_FMPofdUEv3Eo7-ZcKrxfAjuGDSMM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.craftgamedev.cleomodmaster"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "AI money coach you can actually talk to. Cleo helps 5+ million users budget, save, build credit, or get a cash advance in those low-balance moments.\n\nAI MEETS MONEY\n\nCleo turns stressful money life into a simple chat, where you can ask questions and learn about your finances (without being bored to death).\n\nWant to know how much you spent on takeout last month? Just ask Cleo… maybe this will be what finally gets you to stop overspending.\n\nGET UP TO A $250 CASH ADVANCE (1)\n\nDump your overpriced overdraft and get a spot from Cleo instead. Cleo’s up to $250 cash advance has:\n\n- No interest (APR)\n- No credit checks\n- No late fees\n- No direct deposit required\n\nSAVE WITH 3.72% APY (2)\n\nGrow your wealth with high-yield savings almost nine times higher than the national average. Think of it as the good kind of interest that accumulates on your savings. \n\nChoose from four mindless Save Hacks: Set & Forget, Roundups, Smart Save, or Swear Jar—where Cleo fines you for spending at your guilty pleasure stores and adds the cash to your savings.\n\nCHALLENGE YOUR SPENDING HABITS\n\nFix your spending relationship with a custom made challenge. Cleo won’t just tell you you need to cut back on eating out. She gets specific. She keeps your challenge on track by showing you money motivation… like you saved an extra $100 by not visiting Starbucks four times a week.  \n\nBUDGET WITHOUT FEELING RESTRICTED\n\nBuild a personalized budget (with room for iced coffee). Cleo uses Plaid to read your transaction history in a read-only mode. She can then show you all your accounts in one place, serve you spending breakdown, and share monthly bill trackers and reminders.\n\nBUILD CREDIT (WITHOUT A CREDIT CARD) (3)\n\nGlide your way to smoother approvals, lower interest rates, and higher credit limits with a credit score your parents can be proud of. Start building your credit with:\n\n- 0% APR\n- Cash advance\n- Credit score coaching\n- $1 minimum deposit\n\nACCESS YOUR PAYCHECK UP TO 2 DAYS EARLY (4)\nDon’t wait until payday. Unlock your earnings early by setting up direct deposits.\n\nLEGAL STUFF\n\n(1) Subject to eligibility. Amounts range from $20-$250, and $20-$100 for first-time users. Amounts subject to change. Same day transfers subject to express fees.\n\n(2) The interest rate on your account is 3.66% with an Annual Percentage Yield (APY) of 3.72%, effective as of 09/19/2024. Rate is variable and is subject to change after account opening. Fees may reduce earnings.\n\n(3) Credit Builder Card is issued by WebBank, Member FDIC pursuant to a license from Visa USA Inc. Access to the Card is subject to approval.\n\n(4) Early access to direct deposit funds not guaranteed, timing may vary.\n\nThe Cleo Grow subscription service offers users savings goals, hacks, challenges, and access to an annual percentage yield (APY) on savings. \n\nThe Cleo Plus subscription offers saving goals, hacks, challenges, APY on savings, credit score insights, and access to cash advances if eligible.\n\nThe Cleo Credit Builder subscription offers saving goals, hacks, challenges, APY on savings, credit score insights, cash advances if eligible, credit history, and priority support.\n\nCleo is not affiliated with Credit Karma, Kikoff Credit Builder Loan, Experian Credit Check, Credit One, Credit Strong, Intuit Credit Karma, Albert, Earnin, Dave Bank, Brigit, Chime, Klover, loan apps, Money Lion, FloatMe Cash Advances, Empower, money apps, Cash Advance, Vola, Grid Money, Venmo, Beem, Line Credit, Rocket Money, Possible Finance, CashNetUSA, Rain Cash Advance, Branch paycheck loans, or Gerald payday credit loans app\n\nLearn more about how we share and protect your data at meetcleo.com/page/privacy-policy",
+      "android_package_name": "com.craftgamedev.cleomodmaster",
+      "ios_bundle_id": "com.meetcleo.cleo",
+      "title": "Cleo",
+      "domain_name": [
+        "https://meetcleo.com",
+        "https://meetcleo.com"
+      ],
+      "website": "https://meetcleo.com",
+      "developer": "Cleo AI Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/HDhKoxNgIgQrtIMFbU4LiClSJOAUX3fskeRO_cAgtmPIH0XKvULO5PFVLIMlpo6uYdo",
+      "icon_72": "https://play-lh.googleusercontent.com/HDhKoxNgIgQrtIMFbU4LiClSJOAUX3fskeRO_cAgtmPIH0XKvULO5PFVLIMlpo6uYdo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.moneyfront.android"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "CASH ACCOUNT: EARN 4.00% Annual Percentage Yield (APY)\nWe work with partner banks so you can earn nearly 10x the national average interest rate with no account fees. The Cash Account includes free instant withdrawals to eligible accounts in the RTP and FedNow networks, and you can access over 19,000 free ATMs, plus get two ATM fee reimbursements (up to $7.50 each) per month. Learn more at wealthfront.com/cash.\n\nAUTOMATED BOND LADDER: LOCK-IN HIGH YIELDS (AND NO STATE TAXES)\nMake the most of current rates with a ladder of US Treasuries. Your interest is exempt from state and local income taxes, so you can earn more — and keep more — than most savings accounts and some CDs.\n\nAUTOMATED INVESTING ACCOUNT: EXPERT-BUILT ETF PORTFOLIOS\nHands-off investing made easy. We’ll recommend a globally-diversified portfolio of automated index funds that’s personalized for you. We handle the trades, reinvest your dividends, and help to lower your taxes with Tax-Loss Harvesting.\n\nINVEST IN STOCKS WITH ZERO COMMISSIONS\nWe make it easier to explore investing themes and opportunities to help you find more companies that aren’t on your radar (yet!). It’s your shortcut to smarter stock investing.\n\nUPGRADE YOUR S&P 500® INVESTING\nInvest directly in the stocks of the S&P 500® and we’ll manage everything for you. We handle all the trades and take advantage of dips in the market to look for opportunities to lower your tax bill.\n\nBUILD YOUR WEALTH IN ONE PLACE\nGet a big-picture view of your finances and make sure you’re on track now and into retirement. Say goodbye to multiple apps and forgotten passwords, and take the guesswork out of building wealth.\n\nThe information contained in this communication is for general informational purposes only should not be construed as tax advice, an offer, recommendation, or solicitation to buy or sell any security. \n\nCash Account offered by Wealthfront Brokerage LLC (“Wealthfront Brokerage”), Member FINRA/SIPC. Neither Wealthfront Brokerage nor any of its affiliates are a bank, and Cash Account is not a checking or savings account. *The Annual Percentage Yield (“APY”) on cash deposits as of December 27, 2024, is representative, subject to change, and requires no minimums. We convey funds to partner banks who accept and maintain deposits, provide the variable APY, and provide FDIC insurance. \n\nInvestment management and advisory services–which are not FDIC insured–provided by Wealthfront Advisers LLC (“Wealthfront Advisers”), an SEC-registered investment adviser, and financial planning tools are provided by Wealthfront Software LLC (“Wealthfront Software”). All investing involves risk, including the possible loss of principal.  Past performance does not guarantee future results. See our Full Disclosure at wealthfront.com/legal/disclosure for important details.\n\nThe S&P 500® index is a product of S&P Dow Jones Indices LLC (“SPDJI”) and has been licensed for use by Wealthfront Advisers LLC. Standard & Poor’s®, S&P®, S&P 500®, US 500 and The 500 are trademarks of Standard & Poor’s Financial Services LLC; Dow Jones® is a registered trademark of Dow Jones Trademark Holdings LLC (“Dow Jones”); and these trademarks have been licensed for use by SPDJI and sublicensed for certain purposes by Wealthfront Advisers LLC. Wealthfront’s S&P 500 Direct Portfolio is not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and none of such parties make any representation regarding the advisability of investing in such product nor do they have any liability for any errors, omissions, or interruptions of the S&P 500® index.\n\nThe yield earned from U.S. Treasuries is exempt from state and local income taxes. However, interest income from Treasuries is subject to federal income tax. Tax treatment may vary based on your individual circumstances. To understand implications for your specific financial situation, consult a tax professional.\n\nCopyright 2025 Wealthfront Corporation. All rights reserved.",
+      "android_package_name": "com.moneyfront.android",
+      "ios_bundle_id": "com.wealthfront.Wealthfront",
+      "title": "Wealthfront",
+      "domain_name": [
+        "https://www.wealthfront.com",
+        "https://www.wealthfront.com"
+      ],
+      "website": "https://www.wealthfront.com",
+      "developer": "Wealthfront, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/I0dmbmoaAuDb6PxX_PmVH3bLjA2ZmQtSS3yUiki2VyufbGpRmRLQOgJV2HYKDDsY5tzF",
+      "icon_72": "https://play-lh.googleusercontent.com/I0dmbmoaAuDb6PxX_PmVH3bLjA2ZmQtSS3yUiki2VyufbGpRmRLQOgJV2HYKDDsY5tzF=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.toshi"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Coinbase is the world’s most trusted cryptocurrency exchange to securely buy, sell, trade, store, and stake crypto. We’re the only publicly traded crypto exchange in the U.S.\n\nHere’s a taste of what Coinbase offers:\n\nPOWERFUL TOOLS FOR CRYPTO PROS\n- Buy and sell crypto using advanced trading tools and earn staking rewards¹\n- Access in-depth technical analysis, advanced real-time order books, and charting powered by TradingView.\n- Advanced tools to research and analyze crypto markets to inform trading decisions.\n\nBUY, SELL & MANAGE CRYPTO\n- Coinbase is the most trusted platform to build, manage, and track your crypto portfolio.\n- Securely and seamlessly send and receive crypto.\n- Stake crypto and earn yield on cryptocurrencies like Ethereum and Cardano¹\n- Earn rewards on stablecoins like USDC.³\n- Easily set up automatic or recurring buys.\n- Seamlessly transfer crypto internationally.\n\nCRYPTO LEARNING\n- Earn rewards by learning about crypto\n- Discover how specific cryptocurrencies work and get a bit of each crypto to try out for yourself\n- Start earning crypto just by learning about how specific cryptocurrencies work²\n\nSECURE & REGULATED EXCHANGE\n- Coinbase is the only publicly traded, US-headquartered crypto exchange (NASDAQ: COIN).\n- All customer assets are held 1:1, and we never trade against our customers or leverage their funds without consent.\n- Our financials are public and audited quarterly by a Big 4 accounting firm.\n- State-of-the-art encryption and security are at the core of our platform, and our security team is constantly working to make sure you and your assets are protected from emerging threats.\n- From auto-enrolled 2 factor-authentication (with security key support), password protection, to multi-approval withdrawals in Coinbase Vault, we provide powerful security features to all our users.\n\nSUPPORTED ASSETS\nBitcoin (BTC), Ethereum (ETH), USD Coin (USDC)¹, Litecoin (LTC), Cardano (ADA), Polygon (MATIC), Polkadot (DOT), Solana (SOL), Tether (USDT), Dai (DAI), Uniswap (UNI), and hundreds of other cryptocurrencies.\n\nCOINBASE ONE\nGet more out of crypto with Coinbase One.\n- Zero trading fees, boosted staking rewards, priority support, and more.⁴\n- Exclusive access to sweepstakes.\n\nCOINBASE WALLET\n- Prefer self-custody? Check out Coinbase Wallet—a secure crypto wallet compatible with the exchange that puts you in control of your crypto, keys and data.\n- Store crypto assets in your cryptocurrency wallet safely and securely.\n\nNEED MORE HELP?\nVisit help.coinbase.com for information and to contact Coinbase Support.\n\nPRIVACY\nView Coinbase’s legal privacy policy at https://www.coinbase.com/legal/privacy\n—\nCoinbase\n248 3rd St #434\nOakland, CA 94607\nUSA\n—\n¹ Available in select territories.\n² Limited while supplies last and amounts offered for each quiz may vary. Must verify ID to be eligible and complete quiz to earn. Users may only earn once per quiz. Coinbase reserves the right to cancel the learning rewards offer at any time.\n³ Upon purchase of USDC, you will be automatically opted in to rewards. You can opt out at any time. The rewards rate is subject to change. Customers will be able to see the latest applicable rates directly within their accounts.\n⁴ A Coinbase One subscription renews automatically and requires recurring payments. Benefits vary by region. Zero trading fees: Coinbase Advanced excluded; a spread applies.\n\nYou earn rewards from the protocol, not Coinbase. Coinbase acts only as a service provider connecting you, the validators, and the protocol. We pass along any rewards earned from staking, minus a transparent Coinbase fee.",
+      "android_package_name": "org.toshi",
+      "ios_bundle_id": "com.vilcsak.bitcoin2",
+      "title": "Coinbase",
+      "domain_name": [
+        "http://www.coinbase.com",
+        "https://www.coinbase.com"
+      ],
+      "website": "http://www.coinbase.com",
+      "developer": "Coinbase, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/wrgUujbq5kbn4Wd4tzyhQnxOXkjiGqq39N4zBvCHmxpIiKcZw_Pb065KTWWlnoejsg",
+      "icon_72": "https://play-lh.googleusercontent.com/wrgUujbq5kbn4Wd4tzyhQnxOXkjiGqq39N4zBvCHmxpIiKcZw_Pb065KTWWlnoejsg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.binance.dev"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Join the 50+ million customers worldwide who use our app to spend, send, and save smarter.\n\nMake your spend, well-spent\nPay any way, with physical cards, virtual cards, single-use virtual cards for extra protection, Google or Apple Pay\nSpend abroad with great exchange rates (fees additional to the rate provided may apply)\nAccess 55+ K in-network ATMs worldwide with no fees\nLink your external bank accounts to stay on top of all your spending\nDesign a physical card you vibe with (fees may apply).\n\nSet your kids up for financial success. Get them a Revolut ＜18 account, with their own card, so they can learn about money in a safe and fun way\n\nSend money near, far, wherever they are\nRequest or send 25+ currencies with a tap to anyone, anywhere\nChat, send, and receive money, in one place. Whatever your plans, transfers are almost instant between your Revolut friends with P2P payments\nSplit and settle bills in one place. You can even share a fun GIF to diffuse any tension\n\nSave the interest-ing way\nGrow your money with up to 4.25%* APY with Savings Vaults, Access your savings whenever you need to, with zero penalties or fees\nBuild your savings effortlessly — set up recurring transfers and round up spare change to stash cash\n\nExplore Stock Trading (capital at risk)\nStart trading stocks from $1 (other fees may apply)\nChoose from 2,000+ stocks to invest in some of the world's most popular companies\nEnjoy no-commission stock trading within your monthly allowance (other fees may apply)\n\nAll investments involve risk, including possible loss of principal. Investment accounts and disclosures may be displayed together. Self-directed brokerage products are provided by Revolut Securities Inc., member FINRA/SIPC. Brokerage Products •  Not FDIC Insured • No Bank Guarantee • May Lose Value. Automated investing is provided by Revolut Wealth Inc, an SEC-registered investment adviser.\n\nEnd the overspend\nGet instant spending notifications to keep track of every payment\nUse smart budgeting and analytics tools to stop wondering where your money went, and start telling it where to go\nWorried about missing upcoming payments or subscription charges? Don't be — we'll notify you beforehand\nUpgrade to one of our paid plans to get exclusive cards, more benefits, and even cooler perks. Pick the plan that's right for you: Premium or Metal (Paid Plan T&Cs and subscription fees apply).\n\nUnlock security features that you control\nFreeze and unfreeze your card in a tap\nUse single-use cards with new details generated each time you use it, for an extra layer of protection\nSet spending limits and get notifications to keep track of your money\n\nHow we protect your money\nOur sophisticated fraud prevention system flags high-risk transactions and pings you an alert, so you can spot scams, and nip 'em in the bud\nExtensive identity verification keeps sign-ups secure, and your account is protected with passcodes and biometrics\nWe're available 24/7 via our in-app customer support\n\nFunds in your Revolut Prepaid Card Account are held at or transferred to Lead Bank, Member FDIC, and are insured by the FDIC up to $250,000 applicable limits by the FDIC in the event Lead Bank fails if specific deposit insurance requirements are met. See FDIC-Prepaid Cards and Deposit Insurance Coverage.\n\nCalifornia Privacy Notice:  https://www.revolut.com/en-US/legal/privacy\n\n*The highest APY is available to users on a Premium or Metal plan. Annual Percentage Yield (APY) is a variable rate and subject to change. These APYs are accurate as of October, 20th, 2023. Monthly fees apply for Premium and Metal plans. Terms and Conditions Apply. No minimum amount required. Savings Vault services provided by Sutton Bank, Member FDIC\n\nRevolut Ltd (No. 08804411) is authorized by the Financial Conduct Authority under the Electronic Money Regulations 2011 (Firm Reference 900562). Registered address: 107 Greenwich Street, 20th Floor, New York, NY 10006",
+      "android_package_name": "com.binance.dev",
+      "ios_bundle_id": "com.revolut.revolut",
+      "title": "Revolut: Buy Bitcoin & Cryptos",
+      "domain_name": [
+        "https://revolut.com",
+        "https://revolut.com"
+      ],
+      "website": "https://revolut.com",
+      "developer": "Revolut Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/T1_WHAGs5WZePQejNSqqrxZah4uhBvYr698nTCFhXMjMZo5oSCoko5yW2wtmeO1ClRU",
+      "icon_72": "https://play-lh.googleusercontent.com/T1_WHAGs5WZePQejNSqqrxZah4uhBvYr698nTCFhXMjMZo5oSCoko5yW2wtmeO1ClRU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.samsung.android.samsungpay.gear"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Features: \n- Cast Photos & Videos from your Camera Roll \n- Cast Media Files from Dropbox & Google Drive \n- Search and play your favorite music tracks \n- Search and cast any media (YouTube,Facebook) from internet using built-in browser\n- Supports queue play \n- Easy media playing controls\n\nPlease make sure your phone and Smart TV are connected to the same Wi-Fi network.\nAll Samsung Smart TVs from the year 2014 and up are supported.\n\nIn-app purchases:\nYou can be a premium user through auto-renewing subscription.\n\nMonthly: $12.99\nWeekly: $9.99\n\n- Payment will be charged to iTunes Account at confirmation of purchase\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n- Account will be charged for renewal within 24-hours prior to the end of the current period,and identify the cost of the renewal\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n- Any unused portion of a free trial period,if offered,will be forfeited when the user purchases a subscription to that publication,where applicable\n\nLegal:\n\nPlease see Smart Cast Terms of Services and Privacy Policy:\n\n• Terms of use: http://www.socem.com/TermsOfUse.html\n• Privacy policy: http://www.socem.com/PrivacyPolicy.html",
+      "android_package_name": "com.samsung.android.samsungpay.gear",
+      "ios_bundle_id": "com.sensustech.smartcast",
+      "title": "Samsung Pay",
+      "domain_name": [],
+      "website": "",
+      "developer": "EXTREME SOLUTIONS APPS SL",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pgo3oIR2g9nS1XbUvBg0Z8zJ5LhJ5ze3QX_nIsmbfPvbZBMh-cuki9dnSFN1Us-tdDJd",
+      "icon_72": "https://play-lh.googleusercontent.com/pgo3oIR2g9nS1XbUvBg0Z8zJ5LhJ5ze3QX_nIsmbfPvbZBMh-cuki9dnSFN1Us-tdDJd=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.nbu.paisa.user"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Lifestyle",
+      "description": "Your opinions are valuable. Now get paid to share them with the Google Opinion Rewards app.\n\nHow it works: You answer quick surveys and get paid up to $1 for each completed survey via your PayPal account. Surveys typically take less than 20 seconds.\n\nEasy to use: You'll receive a notification when a short survey is waiting for you. These surveys include everything from opinion surveys to hotel and product reviews to location-based merchant satisfaction surveys.\n\nYour privacy: When you take a survey using Google Opinion Rewards, your answers are aggregated and shared with the market researcher who wrote the survey questions. Unless otherwise explicitly stated at the beginning of the survey, as is the case with location-based surveys, these answers are completely anonymous and not linked to any of your personally identifiable information. In exchange, we provide you, the user, money that is deposited into your linked PayPal account.\n\n\nFor more information regarding the privacy of your survey responses, see the Google Privacy Policy https://www.google.com/intl/en/policies/privacy/.",
+      "android_package_name": "com.google.android.apps.nbu.paisa.user",
+      "ios_bundle_id": "com.google.paidtasks",
+      "title": "Google Pay",
+      "domain_name": [
+        "http://g.co/OpinionRewards",
+        "https://g.co"
+      ],
+      "website": "http://g.co/OpinionRewards",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0dn-CnZkqyLm5PpjdHBrYR9hvnGDNgoLTe8yfrSaPWUx7ZBVGI4C_18-jL06oNCRRCK3",
+      "icon_72": "https://play-lh.googleusercontent.com/0dn-CnZkqyLm5PpjdHBrYR9hvnGDNgoLTe8yfrSaPWUx7ZBVGI4C_18-jL06oNCRRCK3=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.walletnfcrel"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "The Wallet app lives right on your iPhone. It’s where you securely keep your credit and debit cards, eligible driver’s license or state ID, transit cards, keys, event tickets, and more — all in one place. And it all works with iPhone or Apple Watch, so you can take less with you but always bring more.\n\nApple Pay\nApple Pay is an easy, secure way to pay in stores or online.1 Pay for a ride, a pizza, or even a new sofa — with Touch ID or Face ID.\n\nApple Card\nApple Card is the credit card created by Apple. You earn up to 3% unlimited Daily Cash back on every purchase every day, and it’s designed with all the privacy and security you’d expect from Apple. You can apply in as little as minute with no impact to your credit score.2\n \nApple Cash\nApple Cash is an easy and secure way to send and receive money in Messages or Wallet.3  And because it’s a digital card that lives in Wallet, you can use it to make purchases in stores, online, or in apps with Apple Pay. With Tap to Cash, you can send and receive Apple Cash simply by holding your iPhone near someone else’s iPhone — without having to share phone numbers.\n\nDriver’s License and State ID\nAdd your eligible driver’s license or state ID to Wallet, and with just a tap of your iPhone or Apple Watch you can present your ID without handing over your device.4 The security of Face ID and Touch ID means only you can present your ID.\n\nBoarding Passes\nAfter you add your airline passes to Wallet, just show up at your gate and easily present your pass directly from your lock screen. And receive timely flight information and notifications along the way.5\n\nTransit\nSet your card to Express Mode, then just tap and hop on to ride the next train or bus.5 Breeze through the turnstiles by holding your iPhone or Apple Watch to the reader. \n\nSports & Live Events\nWith Wallet, your tickets are always at the ready. Enter a concert venue, sports stadium or festival with just your iPhone or Apple Watch.5 Tickets in Apple Wallet now bring fans a richer experience including venue maps, recommended Apple Music playlists, and more.\n\nKeys\nStore keys to your car, home, workplace, and hotel room in Wallet.5 Unlock doors with just a tap of your iPhone or Apple Watch, and securely share keys in Wallet through messaging apps, including Messages, Mail, and more.\n\nLoyalty and Rewards\nAdd your favorite coffee shop, drugstore, or retail rewards cards to Wallet, and next time you’re at checkout, just tap and pay to receive and redeem rewards.5\n\n1  Apple Pay is a service provided by Apple Payments Services LLC, a subsidiary of Apple Inc. Neither Apple Inc. nor Apple Payments Services LLC is a bank. Any card used in Apple Pay is offered by the card issuer.\n\n2 Accepting an Apple Card after your application is approved will result in a hard inquiry, which may impact your credit score. \n\nTo access and use all Apple Card features and products available only to Apple Card users, you must add Apple Card to Wallet on an iPhone or iPad that supports and has the latest version of iOS or iPadOS. Apple Card is subject to credit approval, available only for qualifying applicants in the United States, and issued by Goldman Sachs Bank USA, Salt Lake City Branch.\n\n3 Apple Cash services are provided by Green Dot Bank. Member FDIC. Apple Payments Services LLC, a subsidiary of Apple Inc., is a service provider of Green Dot Bank for Apple Cash accounts. Neither Apple Inc. nor Apple Payments Services LLC is a bank. To learn more about the  Terms and Conditions visit https://applecash.greendot.com/termsconditions. Only available in the U.S. on eligible devices.\n\n4 ID cards in Wallet are currently available for use in select states at select TSA checkpoints. ID verifier is available at select merchants. Requires eligible device and OS version. See apple.com/wallet for details.\n\n5 Only available with select partners and locations, and requires eligible device and OS version. See apple.com/wallet for details.",
+      "android_package_name": "com.google.android.apps.walletnfcrel",
+      "ios_bundle_id": "com.apple.Passbook",
+      "title": "Apple Pay",
+      "domain_name": [
+        "https://www.apple.com/wallet",
+        "https://www.apple.com"
+      ],
+      "website": "https://www.apple.com/wallet",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/dBIwyXKErXW06joSa38PfPZUfs4Ww1P0GIsi-_BCM3gfUffhuhT8EZ4XOkIs-ShPZQ",
+      "icon_72": "https://play-lh.googleusercontent.com/dBIwyXKErXW06joSa38PfPZUfs4Ww1P0GIsi-_BCM3gfUffhuhT8EZ4XOkIs-ShPZQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.live.bling.android"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Games",
+      "description": "Being a dentist has never been so fun... and relaxing!\n\nTreat your patients, fill their cavities, remove that plaque.\nPull out decaying teeth and replace them with shiny new ones. \nKill pesky germs and apply braces.\nDon’t forget your special BLING diamond treatment.\n\nWhatever you do, make them smile!\n\nTo opt out of CrazyLabs sales of personal information as a California resident, please visit the settings page within this app. For more information visit our privacy policy: https://crazylabs.com/app",
+      "android_package_name": "com.live.bling.android",
+      "ios_bundle_id": "com.funnyigames.thedentist",
+      "title": "Bling",
+      "domain_name": [
+        "https://www.crazylabs.com",
+        "https://www.crazylabs.com"
+      ],
+      "website": "https://www.crazylabs.com",
+      "developer": "CRAZY LABS BY TABTALE , G.P.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1LW9ZXK7XHIidZUZlbExO8Q4bAw6QXvMFvTFJSURUG5vFjLJMSg4_Yyfi1Pxw2vWrZ4",
+      "icon_72": "https://play-lh.googleusercontent.com/1LW9ZXK7XHIidZUZlbExO8Q4bAw6QXvMFvTFJSURUG5vFjLJMSg4_Yyfi1Pxw2vWrZ4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "social.lemonade.app"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "“@Lemonade_Inc was the simplest and easiest insurance I’ve ever purchased, “old” insurance companies need to step into the current century!!!”\n\nSOME QUICK LEMONADE STATS\n\n• Starts as low as $30/mo for car insurance, $5/mo for renters, $25/mo for homeowners, $12/mo for pet, and $9/mo for term life.\n\n• Financial rating of “A” exceptional\n\n• 90 secs to get a policy through our app\n\n• Super fast and easy to use\n\n• Reinsured by the most trusted names on the planet\n\n\n\n\nWHY LEMONADE FOR INSURANCE\n\n• No Hassle: There’s no need to wait around for snail mail or talk on the phone w/ agents - get a policy with the Lemonade app whenever and wherever you are\n\n• Bundle and save! We’ll automatically apply your bundle discount to any combination of our products\n\n• Socially Driven: As a B-Corp, social good is baked into our business model: we take a flat fee, use the rest to pay claims (super fast!), and give back what’s left to charities you care about with our renters, homeowners, car, and pet products. Lemonade also plants trees based on our drivers’ mileage to help clean up carbon emissions.\n\n• Devoted Team: Our powerful tech and automation free up our dedicated customer experience team and claims specialists to help you when you need it most.\n\n\nHOW LEMONADE IS DIFFERENT\n• Live Policy: Want to personalize your coverage? Add your sig other? Cancel your policy and get a new one at a different address? Do it all with a couple of taps on your phone.\n• Instant Claims: Seamlessly file claims from your phone - anytime, anywhere. Our AI runs 18 anti-fraud algorithms, and if your claim is instantly approved, you’ll get paid in 3 secs.\n• Adjustable coverage: For your home, car, pets, personal property, liability, and more. Get your stuff covered whether it's at your home, or on the go.\n\nLET’S MAKE LEMONADE!\nRenters insurance is currently available in AZ, AK, CA, CO, CT, DC, FL, GA, IL, IN, IA, MD, MA, MI, MO, NV, NJ NM, NY, OH, OK, OR, PA, RI, TN, TX, VA, DC, and WI.\n\nHomeowners insurance is available in AZ, CA, CO, CT, DC, GA, IL, IN, IA, MD, MA, MI, MO, NV, NJ, NY, OH, OK, OR, PA, TN, TX, VA, DC, and WI.\n\nCar insurance is available in IL, OH, TN, and TX with more states coming soon!\n\nPet health insurance is available in AL, AR, AZ, CA, DC, FL, GA, IA, IL, IN, MD, MI, MS, MT, ND, NE, NC, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, TN, TX, UT, VA, WA, and WI.\n\nTerm life insurance is available in AL, AK, AZ, AR, CA, CO, CT, DE, DC, FL, FL, GA, HI, ID, IL, IM, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WI, and WY.\n\n\n\nWANNA BE FRIENDS?\n• facebook.com/lemonade\n• twitter/lemonade_inc\n• instagram.com/lemonade_inc\n• instagram.com/lemonade_pet\n• youtube.com/lemonade_Inc\n\n\n\nYOU'RE INSURED BY LEMONADE:\n• Get questions answered by our team online or over the phone\n• Download and share proof of property and home insurance on your mobile phone\n• Adjust and update your policy for your home insurance coverage whenever and wherever\n• Protect your favorite items, at home and away\n\n\n\nTHE LEGAL STUFF\nTerms of Service: lemonade.com/terms-of-service\nPrivacy Policy: lemonade.com/privacy-policy\nLegal Stuff on Lemonade: lemonade.com/legal-stuff\n\nCheers for reading all 3,402 characters! Give yourself a pat on the back ;) If you want more Lemonade, visit us at lemonade.com/blog",
+      "android_package_name": "social.lemonade.app",
+      "ios_bundle_id": "com.lemonadeInc.Lemonade",
+      "title": "Lemonade",
+      "domain_name": [
+        "https://www.lemonade.com",
+        "https://www.lemonade.com"
+      ],
+      "website": "https://www.lemonade.com",
+      "developer": "Lemonade Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NgMK_gVeqSQ-SSpS0cHRXaJHPo8V0lcxmlUEHh_jxHyUGvyiMMtPy2dqgVqV6hfJNPze",
+      "icon_72": "https://play-lh.googleusercontent.com/NgMK_gVeqSQ-SSpS0cHRXaJHPo8V0lcxmlUEHh_jxHyUGvyiMMtPy2dqgVqV6hfJNPze=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.eigthsecurities.tradeflix"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Get up to $1000 in stock when you open and fund an active invest account. Bank, borrow, budget, and invest- all in one app. \n\nWHY DO 10 MILLION MEMBERS LOVE SOFI?\n\n-----\nHIGH-YIELD MOBILE BANKING\n-----\n• No account fees and no minimum balance requirements \n• 55,000+ free ATMs nationwide\n• Get paid up to 2 days early with direct deposit*\n• FDIC insured to $250,000\n\n-----\nSMART INVESTING\n-----\n• Stock and ETF trading without commission\n• Exclusive access to IPO investments\n• Start investing with just $5 in fractional shares\n• Automated investing options available\n• Get up to $1,000 in stock when you open and fund an active invest account\n\n-----\nPOWERFUL BUDGET TRACKER\n-----\n• Connect all accounts for a complete financial view\n• Set and monitor custom savings goals\n• Categorize and analyze spending habits\n• Receive bill payment reminders\n• Credit score monitoring and updates\n\n-----\nLOW-RATE LOANS & CREDIT\n-----\n• Competitive personal, student, and home loans\n• 2% cash back rewards credit card, 3% on SoFi Travel\n• Build credit while earning rewards\n• Check loan rates without affecting credit score†\n\n-----\nMORE MOBILE BANKING FEATURES\n-----\n• Instant bill pay and peer-to-peer transfers\n• Mobile check deposit\n• Complementary 1-on-1 sessions with financial planners\n• Manage digital wallet and contactless payments\n• Bank-level security with multi-factor authentication\n\nSupport: Call (855) 456-SOFI (7634) or chat with us online at https://www.sofi.com/contact-us/\n \n*Early access to direct deposit funds is based on the timing in which we receive notice of impending payment from the Federal Reserve, which is typically up to two days before the scheduled payment date, but may vary.\n\n†To check the rates and terms you may qualify for, SoFi conducts a soft credit pull that will not affect your credit score. However, if you choose a product and continue your application, we will request your full credit report from one or more consumer reporting agencies, which is considered a hard credit pull and may affect your credit.\n\nOne app for all your financial needs: bank, invest, borrow, and budget. Boost your savings, start investing, and take control of your finances today.\n\nDownload SoFi now to bank, invest, and budget smarter!",
+      "android_package_name": "com.eigthsecurities.tradeflix",
+      "ios_bundle_id": "com.sofi.mobile",
+      "title": "Sofi Invest",
+      "domain_name": [
+        "https://www.sofi.com",
+        "https://www.sofi.com"
+      ],
+      "website": "https://www.sofi.com",
+      "developer": "Social Finance, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/4QJN1Eow33HZsjmVscgQar7u_98nU1LMpQy3hcaYRXayQLSqtr2DBaZ9GKPsHyUjSRs",
+      "icon_72": "https://play-lh.googleusercontent.com/4QJN1Eow33HZsjmVscgQar7u_98nU1LMpQy3hcaYRXayQLSqtr2DBaZ9GKPsHyUjSRs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.droid4you.application.wallet"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Track your budget, finances and credit - all in one place and all for free. Get the insights you need to make the most of your money. View all your financial accounts on one screen for easy, holistic monitoring. Then zoom in on the details of your cash flow, expenses, credit score and net worth. Plus, get Nerd-approved tips to help you manage your finances and work toward your goals. \n\nHere’s how our FREE personal finance tracking app works:\n\nKNOW YOUR CASH FLOW\n\n- Track spending across multiple cards\n- Keep track of your budget with our 50/30/20 breakdown\n- Get detailed spending insights\n- Track your bills, expenses and more\n- Discover ways to cut back or save\n- Compare spending month-to-month\n- See your top spending categories for easier budgeting\n\nKEEP UP WITH YOUR NET WORTH\n\n- See how your income, debts, investments, and home value all add up\n- Follow the history of your net worth\n- Zoom into the details of your net worth and track individual accounts over time\n\nMONITOR & BUILD YOUR CREDIT\n\n- Access your credit score and credit report any time\n- Get score change notifications\n- Understand the factors that affect your score\n- Learn ways to keep building – whether it’s increasing your credit utilization or paying your bills earlier, and more\n\nSMART MOVES FOR YOUR MONEY\n\n- Quickly find and compare more rewarding credit cards, better loan rates, and higher-earning bank accounts\n- Join NerdWallet+ so you can earn rewards worth up to $350 for making smart financial decisions - like paying your credit card on time.",
+      "android_package_name": "com.droid4you.application.wallet",
+      "ios_bundle_id": "org.reactjs.native.example.MobileCreditCards",
+      "title": "NerdWallet",
+      "domain_name": [
+        "https://www.nerdwallet.com",
+        "https://www.nerdwallet.com"
+      ],
+      "website": "https://www.nerdwallet.com",
+      "developer": "Nerdwallet, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/DqAKT8mJJWAQMzPuNTFL1CyhwVJkCEfQlv8CGlh7tNLPe81h92T-SwWG6UQLXydpEBNz",
+      "icon_72": "https://play-lh.googleusercontent.com/DqAKT8mJJWAQMzPuNTFL1CyhwVJkCEfQlv8CGlh7tNLPe81h92T-SwWG6UQLXydpEBNz=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.godigit.digit"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Best savings app in 2024, as rated by Forbes Advisor and Bankrate. \n\nSave it or borrow it—money’s simpler with us. Download our finance app to start saving and managing your money today. Never money alone.\n\nLET’S PUT YOUR SAVINGS ON AUTOPILOT\n\nReach your savings goals big or small. Set & SaveTM is tailored to you—your spending habits, your income, and your schedule. When it makes sense, we’ll automatically move money into your savings to meet goals that you set. Little by little and day by day, it adds up faster than you think. Our members save over $1,800 per year on average*.\n\n> Set your goals\n\nWe’ve helped people save over $10.4 billion toward 15 million goals, from concert tickets to a well-earned vacation and even a first home. Tell us your goals and we’ll move your money into savings toward each one. Or, get started with a rainy day fund for the what-ifs in life.\n\n> Save at your pace\n\nWe’ll learn the right times to save money, and we aim to do it in a way you won’t notice. We look at when your bills are due, when you get paid, and other ins and outs of your bank account. You can also set guardrails on the frequency and maximum amounts of money we can set aside. Let’s make your savings personalized. \n\n> Your money, your rules\n\nYou can pause saves with the push of a button. Move your money back into your bank account whenever you want it. Save a lot or a little. You’ll set limits and give us guidance on how to save for you. It’s your money and you’re the boss.\n\n> How it works\n\n1. Get set up in minutes: Link your bank account to our savings app and set your savings goals\n\n2. We’ll get to know you: We learn your spending and income to find smart times you can afford to save \n\n3. Effortlessly save toward your goals: We’ll automatically move money from your connected bank account and into the savings app \n\n>Take the 30 day challenge \n\nSee how much you can save with a 30 day free trial of our money saving app. After that, enjoy effortless savings for just $5/month. Cancel your subscription anytime. \n\n\n\nLOAN MEMBERS, WE’RE HERE FOR YOU \n\nAre you an Oportun member with a personal loan? Let’s manage it in the app. \n\nCheck your balance, make payments, set up autopay, and check the status of your loan at any time. The Oportun app is free for members to use for the purpose of monitoring and paying their loan. \n\nLooking to apply for a loan? Please visit Oportun.com or call (866) 488-6090 for money borrowing.\n\n\n\nTRUSTED AND SECURE\n\n- Your savings funds are FDIC insured.**\n\n- Oportun is certified by the US Treasury Department as a CDFI \n\n- Oportun has an A+ rating by the Better Business Bureau (BBB)\n\nFormerly known as Digit, our finance app helps you save without thinking about it, budget smarter, and managing your loan simpler.\n\n \n\n- - - - - - -\n\nOportun offers personal loans in certain states through its partner Pathward ®, N.A., and they are subject to credit approval.\n\nStandard data charges may apply when downloading the app.\n\n* Based on average saves of all paying app members in the prior 12 months. Not a guarantee; results will vary based on your income and spending.\n\n** Oportun is not a bank and has no direct FDIC insurance coverage for your deposits. However, Oportun holds your deposits in a FDIC insured account at Wells Fargo Bank and other FDIC insured financial depository institutions. Your cash savings through Oportun are FDIC-insured up to $250,000. FDIC insurance is only available upon the failure of Wells Fargo Bank or other depository institutions. \n\nOportun does not share information between its affiliates or partners without consumer consent or as otherwise allowed by law. See Oportun’s privacy policy at Oportun.com/privacy.",
+      "android_package_name": "com.godigit.digit",
+      "ios_bundle_id": "co.digit.digit",
+      "title": "Digit",
+      "domain_name": [
+        "https://digit.co",
+        "https://digit.co"
+      ],
+      "website": "https://digit.co",
+      "developer": "Oportun, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/E48vP0Wlf9lEPfOGwDR8CTupJw7fHuwVjlZiOke_GZITViUdUHXxn1A1jZI-qjcjMw",
+      "icon_72": "https://play-lh.googleusercontent.com/E48vP0Wlf9lEPfOGwDR8CTupJw7fHuwVjlZiOke_GZITViUdUHXxn1A1jZI-qjcjMw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.snapwork.IDBI"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Free ATM network. Limits apply*. No surprise fees. No worries. Try GoBank’s award-winning mobile app now!\n\n\nGoBank is a checking account made for people who are fed up with big banks and their big fees, and designed to be accessed on a mobile phone. It’s fast (works like your other favorite apps), fair (no surprise fees) and feature-rich (keep reading for a sneak peek).\n\n\nWHY GOBANK?\n\n\nNO SURPRISE FEES\n\n\nSeriously. GoBank has no surprise fees. Check out GoBank.com/NoWorries to see what we mean.\n\n\nGET YOUR PAY UP TO 2 DAYS FASTER WITH ASAP DIRECT DEPOSIT™\n\n\nDirect Deposit early availability depends on timing of payor’s payment instructions and fraud prevention restrictions may apply. As such, the availability or timing of early direct deposit may vary from pay period to pay period. Make sure the name and social security number on file with your employer or benefits provider matches what’s on your GoBank account exactly. We will not be able to deposit your payment if we are unable to match recipients.\n\n\nSIGN UP FOR DIRECT DEPOSIT\n\n\nIf you’re not eligible for the above, you can still sign up for direct deposit to get your pay faster than a paper check!\n\n\nFREE ATMS*.\n\n\n* See app for free ATM locations. 4 free withdrawals per calendar month, $3.00 per withdrawal thereafter. $3 for out-of-network withdrawals and $.50 for balance inquiries, plus any fee the ATM owner may charge. Limits apply.\n\n\nPAY BILLS\n\n\nPay rent, or any bill with the GoBank app or website. Need to send a check to your landlord (or anyone else)? No problem. We’ll mail the check for free.\n\n\nSEND MONEY FAST\n\n\nQuickly send money to friends, family and even the dog groomer who have GoBank accounts. We notify them via email or text message.\n\n\nDEPOSIT CASH\n\n\nJust take your GoBank debit card and cash to any participating retail location. Swipe your card or hand it to the cashier, and the cash will be deposited to your account automatically. Fees may apply.\n\n\nMOBILE DEPOSITS\n\n\nOur nearest bank branch is in your pocket. Use your phone to scan a check and deposit it into your account. You may be asked to upload your ID.\n\n\nFREE ADVICE: FORTUNE TELLER™\n\n\nUse the Fortune Teller to double-check your budget before you spend. Just tell us how much it costs, and we’ll give you a quick yay or nay based on the budget you’ve created.\n\n\nFYI: We'll need to successfully verify your ID before you can use all of GoBank's award-winning features.\n\nQuestions about your GoBank account?\n\n\n\n\nCall us at the number on the back of your card (24/7 support).\n\n\n\nOr log in to gobank.com & email us through the Contact Us page.\n\n\nStay in touch with us!\n\n\nFollow us on Twitter @GoBank and on Instagram @GoBankOfficial. While you’re at it, like us on Facebook.com/GoBank. We’d love to meet you and answer any questions you may have.\n\n\n* See app for free ATM locations. 4 free withdrawals per calendar month, $3.00 per withdrawal thereafter. $3 for out-of-network withdrawals and $.50 for balance inquiries, plus any fee the ATM owner may charge. Limits apply.\n\n\nGoBank is a brand of Green Dot Bank, Member FDIC, which also operates under the brands Green Dot Bank and Bonneville Bank. Deposits under any of these trade names are deposits with a single FDIC-insured bank, Green Dot Bank, and are aggregated for deposit insurance coverage.\n\n\n©2013-2022 Green Dot Bank. All rights reserved.\n\n\nTerms of Use: https://m.gobank.com/static/other/GoBank_Mobile_App_EULA_Android_version.pdf\n\n\nPrivacy Policy: https://m.gobank.com/privacy-policy\n\n\nTechnology Privacy Statement: https://m.gobank.com/banking-agreement",
+      "android_package_name": "com.snapwork.IDBI",
+      "ios_bundle_id": "com.greendotcorp.gobank",
+      "title": "GoBank",
+      "domain_name": [
+        "https://m.gobank.com",
+        "https://m.gobank.com"
+      ],
+      "website": "https://m.gobank.com",
+      "developer": "Green Dot Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/9ag_69TW6wr_g9DOGbUeI4-ntNQTBDYsOqiCqYgZ_D4uUQmVfw9PDFxBw4E1P316HZo",
+      "icon_72": "https://play-lh.googleusercontent.com/9ag_69TW6wr_g9DOGbUeI4-ntNQTBDYsOqiCqYgZ_D4uUQmVfw9PDFxBw4E1P316HZo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.amazon.chime"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Chime is The Most Loved Banking App®. Get Paid When You Say with MyPay™, overdraft fee-free with SpotMe®, and improve your credit with Credit Builder.\n\nChime is a financial technology company, not a bank. Banking services provided by The Bancorp Bank, N.A. or Stride Bank, N.A.; Members FDIC. The Chime® Visa® Debit Card is issued by The Bancorp Bank, N.A. or Stride Bank pursuant to a license from Visa U.S.A. Inc. The secured Chime Credit Builder Visa® Credit Card is issued by The Bancorp Bank, N.A. or Stride Bank pursuant to a license from Visa U.S.A. Inc. May be used everywhere Visa cards are accepted.\n\nSAFE AND SECURE\nStay in control of your money with instant transaction and daily balance alerts. Plus, enable two-factor authentication and block your card in a single tap.\n\nGET PAID WHEN YOU SAY™\nAccess up to $500^ of your pay any day you want with no credit check, no interest~, and no mandatory fees with MyPay. Get it for free within 24 hours, or instantly for only $2 per advance.\n\nOVERDRAFT UP TO $200*\nWhen your balance is running low, the last thing you need is an overdraft fee. Eligible members on Chime can overdraft up to $200* on Chime debit card purchases and in-network ATM withdrawals fee-free.\n\nSAY GOODBYE TO MONTHLY FEES\nYour Money Shouldn’t Cost Money.TM Chime has no monthly fees, minimum balance fees, or foreign transaction fees. Plus, access 50k+ fee-free‡ ATMs at locations like Walgreens, 7-Eleven, CVS, and more.\n\nMEET CREDIT BUILDER, A NEW WAY TO BUILD CREDIT\nUse the  Credit Builder card¹ to increase your FICO® Score by an average of 30 points² with regular on-time payments. No interest**, no annual fees, no credit check to apply.\n\nPAY ANYONE WITH NO TRANSFER FEES\nSend money to friends, family, or roommates as fast as a text – with no transfer fees.\n–––––\n\nMyPay™ line of credit provided by The Bancorp Bank, N.A. or Stride Bank, N.A.\n\n^MyPay is a line of credit. Available limits estimated are based on income and risk-based criteria and range between $20 – $500 per pay period. Chime Checking Account and qualifying direct deposits required to be eligible for MyPay. MyPay is currently only available in certain states. Terms and conditions apply, see www.chime.com/mypay for details.\n\n~Option to get funds instantly for $2 per advance or get funds for free within 24 hours. See Bancorp MyPay Agreement or Stride MyPay Agreement for details to www.chime.com/policies.\n\n+Early access to direct deposit funds depends on the timing of the submission of the payment file from the payer. We generally make these funds available on the day the payment file is received, which may be up to 2 days earlier than the scheduled payment date.\n\n*SpotMe® on Debit eligibility requirements apply. Overdraft with debit card only applies to debit card purchases and cash withdrawals. Limits start at $20 and may be increased up to $200.\n\n‡Out-of-network ATM withdrawal and over the counter advance fees may apply except at MoneyPass ATMs in a 7-Eleven, or any Allpoint or Visa Plus Alliance ATM. \n\n¹Chime Checking Account and $200 qualifying direct deposit required to apply for the secured Chime Credit Builder Visa® Credit Card.\n\n²Avg 30 point FICO® Score 8 increase over time with regular on-time payments. Results may vary, see Chime.com/disclosures for details.\n\n**Out of network ATM withdrawal and OTC advance fees may apply. View the Bancorp agreement or Stride agreement for details; see back of card for issuer\n\nAddress: 101 California Street, Suite 500, San Francisco, CA 94111, United States.\nNo customer support available at HQ. Customer support details available on the website.",
+      "android_package_name": "com.amazon.chime",
+      "ios_bundle_id": "com.1debit.ChimeProdApp",
+      "title": "Chime",
+      "domain_name": [
+        "http://www.chime.com",
+        "https://www.chime.com"
+      ],
+      "website": "http://www.chime.com",
+      "developer": "Chime Financial, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/66d_eWdI2j_6PlnTLWDr4cwD8w8nf_bY1YEvPWRtTSCiWajO24Glv1E24rdLYVYqJrA",
+      "icon_72": "https://play-lh.googleusercontent.com/66d_eWdI2j_6PlnTLWDr4cwD8w8nf_bY1YEvPWRtTSCiWajO24Glv1E24rdLYVYqJrA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tracfone.simplemobile.myaccount"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Take control of your money and bank the way you want to bank – anytime, anywhere. The KeyBank mobile banking app is free, fast, and secure with features that are streamlined for today’s on-the-go world:\n\n• Easily transfer funds between bank accounts\n• Pay bills\n• Send money to friends and family\n• Open a checking or savings account\n• Deposit checks on the app\n• Monitor and manage bank accounts and cards\n• View KeyBank credit card rewards points\n\nSafe and Secure Online Banking\n \nConfidently use the KeyBank mobile banking app without compromising your personal banking information. It’s backed with a multitude of safety and security features, including:\n\n• Same high-level security used for KeyBank Online Banking\n• User ID and password required to access banking app†\n• Secure connection to view banking account and transaction details\n• No banking information is stored on your device to minimize risk if your mobile phone or tablet is lost or stolen\n\nConvenient Banking on the Go\n \nEasily manage your personal finances when and where it’s most convenient for you and your schedule. With the KeyBank mobile banking app, you can:\n\n• View account balances and recent transactions with one swipe using QuickView\n• Deposit checks right from your mobile device without having to visit a KeyBank branch or ATM\n• Transfer funds between your KeyBank checking and savings accounts\n• Open an account right from your mobile device\n• Search and view your banking transaction history for the last 90 days\n• Access your KeyBank account statements and tax forms\n• Review and manage scheduled Online Bill Pay payments and transfers\n• Send money to existing payees and add new payees\n• Search for KeyBank branch and ATM locations\n\n\nPersonalized Mobile Banking Settings\n \nCustomize your in-app experience for your unique needs and preferences with account settings and seamless access to the KeyBank features and products you use:\n\n• Add a profile picture\n• Set up fingerprint or face ID sign in capabilities\n• Manage and edit account alerts\n• Access your credit card Reward Points balance\n\n\nConnect with KeyBank\n \nPlease call 1-800-539-1539 if you have questions about the mobile banking app or need additional help or support.\n \nFollow KeyBank on social media:\n\n• Twitter: twitter.com/keybank\n• Facebook: facebook.com/keybank\n• LinkedIn: linkedin.com/company/keybank/\n• YouTube: youtube.com/user/keybankcommunity/\n• Instagram: instagram.com/keybank/\n\n\nImportant Disclosures\n† Anyone can download, but you must be enrolled in KeyBank Online Banking to use the app.\n\nIPhone® and iPod® touch are registered trademarks of Apple Inc. All rights reserved\n\n©2025 KeyCorp. Member FDIC.",
+      "android_package_name": "com.tracfone.simplemobile.myaccount",
+      "ios_bundle_id": "com.keybank.mobile",
+      "title": "Simple Mobile Banking",
+      "domain_name": [],
+      "website": "",
+      "developer": "KeyBank National Association",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/V7DctlVJTuN9ymQjZ3XdUeR2hxCLR0uw358yu5QQRO_Hcin6FdUBN40WE_ouT5QwVP83",
+      "icon_72": "https://play-lh.googleusercontent.com/V7DctlVJTuN9ymQjZ3XdUeR2hxCLR0uw358yu5QQRO_Hcin6FdUBN40WE_ouT5QwVP83=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "app.swyft.swyft_prod"
+      },
+      "cat_key": "FINANCE",
+      "cat_keys": [
+        "FINANCE",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Welcome to a new dispensation, Swyft is just the app you need. Swyft is committed to providing you with the fastest and most seamless financial transactions experience. It was built to send and receive money within and across Africa at the speed of light. \n\nHOW DOES IT WORK?\nWith Swyft, you can:\n- Send and receive money at the speed of light. Swyft users enjoy fast and uninterrupted transactions, and money gets delivered at the click of the \"SEND\" button.\n\n-Swyft Tag Transfers\nIn order to provide an even \"Swyfter\" experience, we have included the Swyft Tag Transfer feature which allows you to send money to other Swyft users just by their usernames. \n\n-Naira and USD Virtual Wallets\nSwyft enables you to hold local and international currencies in Naira and USD, and it also enables direct, seamless conversions between both currencies.\n\n- No ridiculous charges. \nSwyft allows you to deposit and withdraw money from your virtual accounts at no extra cost.\n\n\n- Swyft provides you with free Virtual USD MasterCard and Visa Cards to process your online subscription and shopping across the world. \n\n\n- Buy airtime for yourself and your loved ones anytime.\n \n\nWITH SWYFT, YOU ARE IN FULL CONTROL OF YOUR MONEY.\nBecause we have also experienced difficulties with financial transactions in the past, we have decided to provide you with the service that you need and deserve.\n\n\nSECURE, FAST, AND FUN- WHAT ARE YOU WAITING FOR?\nSeamlessly sign up and complete KYC requirements to onboard and live the Swyft way, Hassle-free life.\n\n\nJoin other users to enjoy hyper-fast and secured transactions across borders. Experience our super-friendly customer support via email, Instagram, Twitter, Facebook, and Swyft App",
+      "android_package_name": "app.swyft.swyft_prod",
+      "ios_bundle_id": "app.swyft.release",
+      "title": "Swyft Money",
+      "domain_name": [],
+      "website": "",
+      "developer": "SWERV LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/G9UJWqkViB71ZrVOFQUkkrf0eM8aF4pyCHhzx-oP6Z0Uj7WFvmoWxaD4zUKHyregllVK",
+      "icon_72": "https://play-lh.googleusercontent.com/G9UJWqkViB71ZrVOFQUkkrf0eM8aF4pyCHhzx-oP6Z0Uj7WFvmoWxaD4zUKHyregllVK=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

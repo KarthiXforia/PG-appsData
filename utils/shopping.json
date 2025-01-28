@@ -1,0 +1,1443 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "in.amazon.mShop.android.shopping"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Amazon Shopping offers app-only benefits to help make shopping on Amazon faster and easier. Browse, view product details, read reviews, and purchase millions of products. Amazon delivers to 100+ countries in as quickly as 3-5 days. Whether you’re buying gifts, reading reviews, tracking orders, scanning products, or just shopping, the Amazon Shopping app offers more benefits than shopping on Amazon via your desktop.   \n\nNever miss a delivery\nGet real-time tracking and delivery notifications so you know where your package is and when it arrives. \n\nKnow exactly what you’re purchasing\nFull 360° product view lets you see items from every angle. “View in you room” makes sure it fits by using your phone’s camera and VR so you can see it in your space. \n\nWe’ll notify you when items go on sale\nJust tap the heart icon to save items to Your Lists and we’ll alert you of price drops so you don’t miss a deal. \n\nNever forget your password\nSave time by staying securely signed in. If you prefer to sign out, use facial or fingerprint identification to sign back in. \n\nConnect with us when it works best for you\nLive chat support is open 24 hours, 7 days a week. Once you’ve started a chat, it stays that way for 24 hours so you don’t have to start your support session from the beginning. \n\nWe’ll find that item for you\nNot sure of an item’s brand or where to but it? Just tap the scan icon in the search bar, take a picture of the item or its barcode, and we’ll find it for you. \n\nIn order to provide a rich experience and enable features such as voice shopping, notifications, visual search, customer reviews, and authentication this app may request permission to access contacts, camera, microphone, notification, touch id, photos and Bluetooth.\n\nAmazon Shopping is available in English, Spanish, German, and Simplified Chinese. In addition to International Shopping, you can change your settings in this single app to shop Amazon.ca, Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.com, Amazon.it, Amazon.es, Amazon.cn, Amazon.co.jp or Amazon.in.\n\nFor customers located within the European Union, United Kingdom or Brazil: By using this app, you agree to Amazon’s Conditions of Use applicable for your country. Please also see the applicable Privacy Notice, Cookies Notice and Interest-Based Ads Notice for your country. Links to these terms and notices can be found in the footer of your local Amazon homepage.\n\nFor all other customers: By using this app, you agree to the applicable Amazon Conditions of Use (e.g. www.amazon.com/conditionsofuse) and Privacy Notice (e.g. www.amazon.com/privacy) for your country. Links to these terms and notices can be found in the footer of your local Amazon homepage.\n\nIf your device supports TrueDepth technology, the app will use your device camera to detect your facial movements only while using certain features such as virtually try-on products like sunglasses. All information processed using this technology remains on your device and is not otherwise stored, processed or shared by Amazon.",
+      "android_package_name": "in.amazon.mShop.android.shopping",
+      "ios_bundle_id": "com.amazon.Amazon",
+      "title": "Amazon",
+      "domain_name": [
+        "https://www.amazon.com",
+        "https://www.amazon.com"
+      ],
+      "website": "https://www.amazon.com",
+      "developer": "AMZN Mobile LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/urVIq3KHpF9hAm7FJpE2I4YlGfqMFpUdb5GMtQcASC1ODbWe1zuQFrF99ZPTELfE8wA",
+      "icon_72": "https://play-lh.googleusercontent.com/urVIq3KHpF9hAm7FJpE2I4YlGfqMFpUdb5GMtQcASC1ODbWe1zuQFrF99ZPTELfE8wA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ebay.mobile"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Life's easier in the eBay app—buy, sell & browse millions of items on the go. Discover exclusive deals, every single day. Enjoy a truly personalized and smooth way to buy & sell with eBay.\n\nNEVER MISS A DEAL\nWith the eBay app, stay in the know with real-time alerts about the latest deals, your order updates, & much more — sent to your device with personalized notifications.\n\nEBAY LIVE EXCLUSIVES\nIntroducing curated shopping experiences with our favorite influencers, hosts, & sellers. From fashion exclusives to vintage clothes & rare trading cards, simply set reminders to never miss an event, or re-watch & catch up on recent live streams.\n\nSEARCH, FIND, & SAVE FAVES\nExperience game-changing shopping wherever you are:\n◈ Shop by condition: From brand new to pre-loved fashion & refurbished tech, you’ll find something to suit you.\n◈ Heart your faves: From top searches to most-loved sellers, never miss the latest drops & deals. \n◈ Search with pics: See a pic of something you like? Simply upload it with the push of a button, & find matches straight away. \n\nEXPERIENCE SUSTAINABLE SHOPPING\nSave money while discovering something truly unique when you shop vintage and secondhand finds. Plus, extend the life cycle of tons of faves, all while helping the planet. What's not to love?\n\nSPRING SAVINGS\nSpring cleaning? Sell pre-loved pieces and give them a new home. Or invest in statement pieces this season and refresh your living space with bright spring home decor.\n\nSELLING MADE SIMPLE\nMake money by selling former faves. Your shop’s always at your fingertips with the eBay app—list items using the barcode scanner, upload photos & videos, add tracking, keep up with orders, & chat to your customers live! \n\nAUTHENTICITY GUARANTEE\nShop with extra confidence. Our Authenticity Guarantee blue badge means your eligible trading cards, sneakers, watches, & handbags will be inspected & verified by our professional authenticators.\n\nEBAY MONEY BACK GUARANTEE\nEnjoy total peace of mind, thanks to the eBay Money Back Guarantee. With us, you’re covered. Get the item you ordered or your money back—it’s that simple.*\nFor full eligibility criteria & all terms & conditions visit: https://pages.ebay.com/ebay-money-back-guarantee/\n\nEBAY VAULT\nWhen you buy eligible trading cards, you'll have the chance to send them to our eBay vault. It’s an insured, climate-controlled facility with state-of-the-art security for easy trading & secure storage.\nOur industry-leading collecting tools are changing the game. Manage your entire portfolio easily, save money with no sales tax & no storage or selling fees (withdrawal fee applies), & find, price, & list gems at lightning speed.\n\nQUICK & EASY PAYMENTS\nWe make it easy to pay for the products you want in an instant. Simply store your preferred payments safely & securely so you can check out in a flash!\n\nKEEP IN TOUCH\nYour feedback is important to us. Please contact us with any questions by tweeting @AskeBay or joining the discussion at www.ebay.com/iOS .",
+      "android_package_name": "com.ebay.mobile",
+      "ios_bundle_id": "com.ebay.iphone",
+      "title": "eBay",
+      "domain_name": [
+        "http://www.ebay.com",
+        "https://www.ebay.com"
+      ],
+      "website": "http://www.ebay.com",
+      "developer": "eBay Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E",
+      "icon_72": "https://play-lh.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.alibaba.intl.android.apps.poseidon"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Discover the ultimate shopping experience with the AliExpress shopping app! Explore millions of items, from tech gadgets to trendy fashion, all at amazing prices. Whether you’re shopping for low price clothing, unique gifts, or everyday essentials, our diverse selection ensures you'll find exactly what you need. Enjoy a hassle-free shopping journey with our easy checkout process and secure payment options. With global shipping available, your favorite items will arrive right at your doorstep. Don’t forget to take advantage of exclusive AliExpress offers and codes to maximize your savings. Download the AliExpress app today for iPad or iPhone and elevate your online shopping with confidence and convenience. Start your incredible shopping adventure now and enjoy affordable prices on quality items that suit every style and budget! Your go-to destination for online shopping is just a tap away.",
+      "android_package_name": "com.alibaba.intl.android.apps.poseidon",
+      "ios_bundle_id": "com.alibaba.iAliexpress",
+      "title": "AliExpress",
+      "domain_name": [
+        "http://www.aliexpress.com",
+        "https://www.aliexpress.com"
+      ],
+      "website": "http://www.aliexpress.com",
+      "developer": "Alibaba.com Singapore E-Commerce Private Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pgnGg3xiB_-N7HqG6Ulio2A1qeWtTZLQ548OA9_o9Xu52dPpbUPjgzNqoJ1Bn_rUXlg",
+      "icon_72": "https://play-lh.googleusercontent.com/pgnGg3xiB_-N7HqG6Ulio2A1qeWtTZLQ548OA9_o9Xu52dPpbUPjgzNqoJ1Bn_rUXlg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.walmart.wmtevents"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Save money. Live better. \n\nThe Walmart app is the easiest way to shop for everything on your list, including fresh groceries, household essentials, the latest tech and a lot more. Plus, our convenient pickup, delivery and shipping options make it a breeze to get your order exactly when you want it, whether you’re shopping in-store or on the go.\n \nConvenient ways to get your items: \n\nPickup \nSwing by the store to collect your order curbside—we’ll even load your car. \n\nDelivery \nFrom a local store straight to your door. For those need-it-now moments, choose Express delivery to get your order in as little as one hour.* \n*Restrictions and fees apply. \n\nShipping \nFast two-day shipping, dropped off by FedEx or UPS. Eligible orders over $35 ship free! \n\nEven more time-saving features you’ll love: \n\nStore maps \nWhen you’re in-store, open the app to find items fast. \n\nReal-time order tracking \nGet live order updates sent straight to your phone and track order status any time from the homepage. \n\nReorder your essentials \nQuickly and easily fill your cart with frequently purchased items. \n\nShopping lists \nCreate, share and add to lists to prepare for any occasion. \n\nWalmart Pay \nEasily check out using all your payment methods. Just tap \"Pay” and we’ll recommend how to split your total to make the most of your cards and balances. \n\nCurbside check-in \nCheck in with the app when you’re ready to pick up your order and we’ll bring it out to you. \n\nBarcode scanner \nScan items to check prices and build lists. \n \nPharmacy \nRefill, transfer, manage and pick up your family’s prescriptions. Plus, schedule vaccinations, locate testing sites and more. \n\nWalmart+ members—our app is the easiest way to get the most out of your membership. App-exclusive features for Walmart+ include: \nScan & go \nUse your phone to shop in-store and check out contact-free. \n\nMember prices on fuel \nGet up to 10¢ off every gallon at 14,000+ locations nationwide**— including Exxon and Mobil stations! \n**Fuel discount varies by location and station, subject to change",
+      "android_package_name": "com.walmart.wmtevents",
+      "ios_bundle_id": "com.walmart.electronics",
+      "title": "Walmart",
+      "domain_name": [
+        "http://www.walmart.com/cp/Walmart-Mobile-App/1087865#appleiOS",
+        "https://www.walmart.com"
+      ],
+      "website": "http://www.walmart.com/cp/Walmart-Mobile-App/1087865#appleiOS",
+      "developer": "Walmart",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZVUJQ6o1AcxmaU5vnk4J_qe78JodFGjW937Drcczm26tpRP8DLpGxlwoFo9mEoC3gAg",
+      "icon_72": "https://play-lh.googleusercontent.com/ZVUJQ6o1AcxmaU5vnk4J_qe78JodFGjW937Drcczm26tpRP8DLpGxlwoFo9mEoC3gAg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "co.targetboardboardprep"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Enjoy the easiest way to shop and save from anywhere, including on your iPad, when you download the Target app today! Here are a few ways to use the app whether you’re in-store or on-the-go: \n\nLet the deals find you with Target Circle\nOur loyalty program, Target Circle, has you covered with automatic deals, extra savings, exclusive partner perks and so much more. You can even get Same Day Delivery right to your door in as little as one hour with Target Circle 360™.  \n\nWe'll bring it all to your car with Drive Up\nDrive Up, an exclusive offering only in the Target app, lets you stay in the comfort of your car while we bring your order (and your Starbucks coffee!) right to you. Have returns? No problem! You can process your items from the app and we’ll take grab them for you too. \n\nShop with ease on your next Target run\nReady to go to your local Target? Organize and plan your next Target Run with a personal list, favorite the items you can’t get enough of, and find it all with store maps and aisle locations. You can even scan barcodes for more item information, and use the Wallet tab for a fast and easy check out.\n\nThe app is here to make it easier to experience all that Target has to offer you. Download from your app store today!",
+      "android_package_name": "co.targetboardboardprep",
+      "ios_bundle_id": "com.target.Target",
+      "title": "Target",
+      "domain_name": [
+        "https://www.target.com/c/target-app/-/N-4th2r",
+        "https://www.target.com"
+      ],
+      "website": "https://www.target.com/c/target-app/-/N-4th2r",
+      "developer": "Target",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/uQDaJVMMuwcGYvwMtEyzm1Xls1I4sDzzo9VVg7I-MG_XBPlpSpsrjnSEh8alzUQemMM",
+      "icon_72": "https://play-lh.googleusercontent.com/uQDaJVMMuwcGYvwMtEyzm1Xls1I4sDzzo9VVg7I-MG_XBPlpSpsrjnSEh8alzUQemMM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.etsy.android"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "From handmade gifts to vintage treasures, Etsy is the global marketplace for unique and creative goods. The Etsy app helps you easily find just what you’re looking for, and lets you discover the latest deals, trends, and more. \n\nStart off 2025 with a home and style refresh! Shop personalized jewelry, custom clothes, one-of-a-kind accessories, handmade winter sweaters, unique thrift pieces, trending travel gear, and vintage designer clothing* to elevate your closet. Then, update your home decor with bold art prints, cute collectibles, handcrafted furniture, customized pet accessories, DIY craft supplies, earth-conscious home goods, and so much more. Download to start shopping!\n\nEtsy is THE place for meaningful gifts from small shops—any time of year! Find special wedding, baby, graduation, holiday, anniversary, and birthday gifts. Celebrate with the perfect present, lovingly created or curated for your friends, family, co-workers, and everyone in between. Go on, get gifting!\n\nAPP FEATURES\n\nCheck Out the Deals Tab!\n• Never miss a discount again. Staying up to date on deals from the shops you love is easier than ever with the Deals tab in the Etsy app. Not sure what you’re looking for? We have plenty of inspiration to discover and save!\n\nEasy Order Tracking\n• Track the entire progress of your order, from when it ships to the moment it’s out for delivery. \n\nSimple and Secure Checkout\n• Purchase items swiftly and securely using our full suite of payment options, including credit/debit cards, PayPal, Klarna, and Apple Pay at checkout.\n\nGift and Wedding Registry\n• Curate, manage, and share your registry full of truly special gifts from your Etsy wishlist. With Etsy Registry, you can choose personalized gifts that never feel cookie-cutter.\n•  When it comes time to say thank you, you can review the purchaser list so you know exactly who to thank for each thoughtful gift.\n\nStay In the Loop\n• Never miss a new drop or flash sale. Get notified when your favorite shop adds items, or when your favorite items go on sale.\n• Enable notifications on your order updates; view messages from sellers; see special coupons, deals, and promos; and get notified about the latest trends across Etsy.\n\nSearch and Save Your Faves\n• Shop more than 45 million items to find just what you need.\n• Use the Image Search function to upload or snap a picture and find indescribable treasures. If you can dream it—or snap a photo of it—you'll find it on Etsy.\n• Filter your searches by more than just price and color. Shop sellers by country or location; see products by features, such as personalizable, vintage, or on sale; and filter items by occasion.\n• Save your favorite items and searches as you shop, so you can explore more about the items and their shops later. Easily return to your Favorites to save time, view related sales, and get personalized recommendations.\n\nSee It In Your Space\n• Use Augmented Reality (AR) to view items in your space before you buy. Test how that one-of-a-kind painting or breathtaking photograph will look on your wall to make sure it's the perfect pick.\n\nChat With Sellers\n• Chat directly with the makers, curators, and artists behind your favorite custom items. Most Etsy sellers are quick to respond and love creating something just for you!\n\nSHOP GLOBAL, SUPPORT LOCAL\n\nOur mission is to Keep Commerce Human. We are committed to doing good for small businesses, the creators behind them, and the planet around us. When you shop our marketplace, you can find one-of-a-kind items that help create a vibrant community of real people earning income while pursuing their passion.\n\nThere's never been a better time to find something you love on Etsy. Download the app today!\n\n*Etsy does not evaluate vintage items’ condition and authenticity.",
+      "android_package_name": "com.etsy.android",
+      "ios_bundle_id": "com.etsy.etsyforios",
+      "title": "Etsy",
+      "domain_name": [
+        "https://www.etsy.com",
+        "https://www.etsy.com"
+      ],
+      "website": "https://www.etsy.com",
+      "developer": "Etsy, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/giKCCPigafUbKQ1AkXVxSjQ1PggetEI96ORNKxxhQdvGAFhto71kO4zf7gZ9oOdLIQe5",
+      "icon_72": "https://play-lh.googleusercontent.com/giKCCPigafUbKQ1AkXVxSjQ1PggetEI96ORNKxxhQdvGAFhto71kO4zf7gZ9oOdLIQe5=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bestbuyindia.user"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Get the best deals on appliances, electronics and more at Best Buy. We’ve simplified tech shopping, with warp-speed checkout, Curbside Pickup, limited runs, and can't-miss deals. Whether you’re in the market for the latest gadgets, electronics or essential appliances, Best Buy provides everything you need at your fingertips.\n\nFind shopping deals and sales on everything you need. Best Buy is your ultimate deal finder, making sure you get what you need at the best prices. We've got tech surprises in all sizes. View ratings and reviews as you browse our huge selection of today's top tech and toys.\n\nShop from home or enhance your in-store experience. Pick up in store, or have your order delivered to your car through Curbside Pickup. You can use the app to let us know you're on the way, and we'll have it ready. Wondering how it’ll look in your space? AR before you buy, right from the app.\n\nFrom cutting-edge tech to essential home appliances, explore today’s top products:\n•\tSmart TVs, laptops and gaming consoles\n•\tKitchen appliances, blenders and coffee makers\n•\tHome security systems and smart home devices\n•\tHeadphones, speakers and soundbars\n•\tand much more!\n\nDeal finder & sales\n•\tFind sales on electronics, gadgets and appliances\n•\tDeal of the day comes with huge savings on the latest tech\n•\tGet exclusive shopping deals with a My Best Buy membership\n•\tDeal Alerts: Receive real-time notifications about the best sales on appliances, electronics, and must-have gadgets.\n\nShop with the best experience\n•\t24/7 Access: Shop for electronics and appliances anytime, anywhere, right from your device.\n•\tAugmented reality: Visualize how products will fit in your space using our AR feature before you buy.\n•\tCurbside convenience: Enjoy fast curbside pickup by notifying us when you're on your way and we’ll have your order ready.\n•\tOrder tracking: Stay informed with real-time tracking for all your orders and deliveries.\n\nAppliances from top brands\n•\tShop major appliances for the kitchen, washers & dryers, vacuums and more\n•\tAppliance parts and accessories help make updating and maintaining a breeze\n•\tShop from top brands \n\nElectronics for Everything\n•\tWe have the electronics you need at the best price\n•\tFind sales on the latest tech for home, auto, and everything in between\n•\tShop from major brands \n\nGet all the details. Browse products available now at stores near you. Track orders and deliveries. Scan and shop. And find nearby service options and store details — including popular times to shop.\n\nGet it all with the gotta-have app for gotta-have tech.",
+      "android_package_name": "com.bestbuyindia.user",
+      "ios_bundle_id": "com.bestbuy.buyphone",
+      "title": "Best Buy",
+      "domain_name": [
+        "https://www.bestbuy.com/site/misc-app/pcmcat208500050016.c?id=pcmcat208500050016",
+        "https://www.bestbuy.com"
+      ],
+      "website": "https://www.bestbuy.com/site/misc-app/pcmcat208500050016.c?id=pcmcat208500050016",
+      "developer": "Best Buy Co., Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Hbu_UaX-YzlEa2sfje9FpIZCTEDsiHJCS5nZSOJamTG02dwrL8AO-v4PpzHuWADekw",
+      "icon_72": "https://play-lh.googleusercontent.com/Hbu_UaX-YzlEa2sfje9FpIZCTEDsiHJCS5nZSOJamTG02dwrL8AO-v4PpzHuWADekw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.shopify.mobile"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Start your ecommerce business and manage it from anywhere, with no coding or design skills needed. Run your ecommerce business from your mobile device. Process orders, manage products, track sales, run marketing campaigns, and more.\n\nSeamlessly manage your drop shipping inventory, streamline order automation, and optimize your dropshipping operations for increased efficiency and profit - all through the Shopify app.\n\nMANAGE YOUR PRODUCTS IN‑APP\n• Upload product photos\n• Use Shopify Magic to instantly generate compelling product descriptions\n• Set product and pricing details\n• Scan barcodes to adjust inventory and more\n\nPROCESS YOUR ORDERS IN A FEW TAPS\n• Fulfill, refund, or archive orders\n• Buy and print shipping labels\n• See your conversion details\n\nRESPOND TO REAL-TIME INFORMATION\n• See live sales and visitor traffic\n• Get new order notifications\n• Communicate with staff\n\nSELL ON MORE SALES CHANNELS\n• Reach customers online, in-store, and more\n• Sell on Instagram, Facebook, and Messenger\n• Sync inventory and orders across each channel\n• Manage multiple store locations\n\nRUN MARKETING CAMPAIGNS\n• Set up Google Smart Shopping campaigns\n• Create Facebook and Instagram ads on the go\n• Track results and optimize the next campaign\n\nFOLLOW UP WITH CUSTOMERS\n• View and manage your customer segments\n• Add and edit customer details\n• Contact your customers\n• Add timeline comments to customer orders\n\nPOWER YOUR STORE WITH APPS AND THEMES\n• Access your Shopify apps for easy use\n• Browse our catalog of free themes\n• Change your online store’s appearance\n\nMANAGE YOUR FINANCES AND ACCESS FUNDING\n• Streamline your finances with up to 6 Balance accounts\n• Apply for funding through Shopify Credit and Capital\n• Monitor account balances and cash flow\n• Make secure payments and transfers\n\nWhether you want to run a last-minute promotion, launch a new product, or create a special discount, you can do it all on our ecommerce platform. You can edit your shop’s theme, add announcement banners, create blog posts, and more, all from your smartphone. Our platform empowers you to enhance your shop’s appeal, boost sales, and grow your business effortlessly.\n\nReview from eCommerce News HQ\n“Taking the top eCommerce platform and translating it into a mobile experience can be challenging, but it seems as if Shopify has nailed this attempt. The dynamic between the “normal” web-based version of Shopify, and the mobile app, is amazing, with little to no changes (Except the size being scaled down of course.)“\n(Source: https://ecommercenewshq.com/the-complete-shopify-mobile-app-review/)\n\nReview from David B via g2.com\n“Shopify [..] allows me to do important things for my store from anywhere. That is because it gives me advantages in managing the store from a mobile device.”\n(Source: https://www.g2.com/products/shopify/reviews/shopify-review-2822877)\n\nABOUT SHOPIFY\nShopify’s ecommerce app can keep your business moving quickly. In the fast-paced world of ecommerce, that speed can be the difference between a sale for you or for your competitor.\n\nShopify has everything you need to start selling online, for any ecommerce business. Start your business today on the one platform with the ecommerce and point of sale features to start, run, and grow your business. Starting selling today!",
+      "android_package_name": "com.shopify.mobile",
+      "ios_bundle_id": "com.jadedpixel.shopify",
+      "title": "Shopify",
+      "domain_name": [
+        "http://www.shopify.com",
+        "https://www.shopify.com"
+      ],
+      "website": "http://www.shopify.com",
+      "developer": "Shopify Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/PLiiyY4mk3jTy7XxZj9FGvztn12qdefPWJtxDfpBCvPUt4PBdhdjiQPJ5EbgeAZZLw",
+      "icon_72": "https://play-lh.googleusercontent.com/PLiiyY4mk3jTy7XxZj9FGvztn12qdefPWJtxDfpBCvPUt4PBdhdjiQPJ5EbgeAZZLw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wish.wishblue"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Wish is home to deals on millions of items from around the world. The destination for home and life - discover everything from everyday basics, hobbies & DIY, fashion for all, the latest in tech, to the wonderfully unexpected - and everything in-between, at prices likely to make you smile! The Wish app is the internet’s best-kept secret for affordable online shopping.\n\nDESTINATION FOR HOME AND LIFE\nFuel your free time with a little bit of everything from electronics, fashion, automotive gear, wellness, home essentials, unique decor, the intentionally surprising, and much, much more.\n\nDISCOVERY IS EASY\n- Scroll the infinite product feed that features items chosen just for you.\n- Explore by category to find just what you’re looking for.\n- Find authentic products from your favorite brands.\n\nSAVE ON SHIPPING\n- Spend less to ship the deals you’ll discover with flat rate shipping.\n- Get $2.99 flat rate shipping when you spend $10 on eligible items.\n- Save even more by snagging extra shipping promos and discounts.\n- Available only in select countries.\n\nSHOP AND SAVE\n- Shop daily deals and flash sales.\n- Earn a daily login stamp for every day you open the Wish app. 7 visits gets you up to 50% off!\n- Use your rewards points to save even more on your favorite items.\n\nWE’VE GOT YOUR BACK\n- Every order is backed by our Wish Buyer Protection promise.\n- Get notifications about your order status every step of the way.\n- Check out securely with credit/debit card, PayPal, Klarna, and more.\n- Need help with your order? Wish Assistant is at your service 24/7.\n\nSOMETHING FOR EVERYONE\n- We’ve got whatever you’re into: clothing, electronics, gardening tools, sports equipment, anime figurines, bags, decor, makeup, toys, drones, smartwatches, or designer perfume.\n- Find one-of-a-kind gifts for every occasion without going over budget.\n\nSTAY IN TOUCH\nInstagram: @wish\nFacebook: @wish\nCustomer support: www.wish.com/help",
+      "android_package_name": "com.wish.wishblue",
+      "ios_bundle_id": "com.contextlogic.Wish",
+      "title": "Wish",
+      "domain_name": [
+        "https://www.wish.com/m-ios-app",
+        "https://www.wish.com"
+      ],
+      "website": "https://www.wish.com/m-ios-app",
+      "developer": "ContextLogic Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/lleWiGL-jYufMXEnaS0BTBdFp1LSbB6GaGtD4lDFNvF7CrQe6WfQlOJVP91uUs6Igw",
+      "icon_72": "https://play-lh.googleusercontent.com/lleWiGL-jYufMXEnaS0BTBdFp1LSbB6GaGtD4lDFNvF7CrQe6WfQlOJVP91uUs6Igw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.asos.app"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "The ASOS app is home to more than 850 brands, over 85,000 products, free shipping and return options. We empower fashion-loving 20-somethings all over the world to be whoever they want to be.\n\nMore ASOS app perks:\n\n• Apple Pay for easy, speedy checkout\n• Style Match – just take a picture, or upload one, and we’ll find similar products for you\n• My Recommendations, AKA a tailor-made edit personalised for you\n• A seamless experience between devices (synced Saved Items and shopping bag)\n• Sale alerts and promotional nudges, so you’ll always stay up to date\n• Handy catwalk videos and 360-degree views of products\n• Delivery to 242 countries worldwide",
+      "android_package_name": "com.asos.app",
+      "ios_bundle_id": "com.asos.asos",
+      "title": "ASOS",
+      "domain_name": [
+        "https://www.asos.com",
+        "https://www.asos.com"
+      ],
+      "website": "https://www.asos.com",
+      "developer": "Asos.Com Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gGgXTF3bPJmGGtjsHDhlgJaRo3KiMfrN_uCIwLUzQLaM7gACC6qIo1bRqsajTA7eutdk",
+      "icon_72": "https://play-lh.googleusercontent.com/gGgXTF3bPJmGGtjsHDhlgJaRo3KiMfrN_uCIwLUzQLaM7gACC6qIo1bRqsajTA7eutdk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.inditex.zara"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Discover the Zara collection with ideas for Woman, Man, and Kids. You can shop and see all our new collections and fashion campaigns for the upcoming seasons on our app and online store. \n\n\nWoman: \nYou will find the following categories of clothing and accessories available for women at Zara: \n-\tShirts \n-\tT-shirt/Bodysuits\n-\tTops\n-\tSweatshirts\n-\tSkirts\n-\tPants\n-\tJeans\n-\tShorts\n-\tCoats\n-\tShoes\n-\tBags\n-\tSwimwear\n-\tAccessories\n-\tLingerie\n-\tBeauty\n-\tFragrances \n-\tBasics\n-\tComplete Looks\n-\tSuits\n\n\nMan:\nThe Zara collection for men includes: \n-\tBasics\n-\tPants\n-\tCargo/Parachute \n-\tJeans\n-\tJackets/Overshirts\n-\tSweatshirts\n-\tT-shirts\n-\tShirts\n-\tPolos\n-\tShorts\n-\tSweaters/Cardigans\n-\tSuits\n-\tOvercoats\n-\tSportcoats/Blazers\n-\tShoes\n-\tBags/Backpacks\n-\tAccessories\n-\tFragrances \n\n\nKids:\nA selection of clothing, accessories, and shoes for: \n-\tGirl: 6-14 years\n-\tBoy: 6-14 years\n-\tBaby Girl: 9 months-6 years\n-\tBaby Boy: 9 months-6 years\n-\tNewborn: 0-12 months\n\nThe Zara collection for kids also includes an Edited/customizable section, a selection of clothing and accessories to customize that is updated weekly. \n\n\nIn addition to our permanent collections, you can find all of our special releases, our beauty category, and our line of lingerie in the Zara app. \n\nOther features of the Zara app are:  \n-\tFavorites: use your favorites list to save all the clothing and accessories that you like.\n-\tOrder tracking and easy, intuitive, and fast returns. Track your order every step of the way. \n-\tLocate the Zara store nearest you. \n-\tActivate notifications and receive information about new arrivals, releases, special collections... \n\n\nStore mode \n-\tUse the app in “store mode” when you are shopping in one of our stores and utilize all of its features to improve your experience. \n\n\nZara QR:\nUse your QR code in the Zara app to: \n-\tHave all your online and in-store purchases linked. Identify yourself at the register in the store with your Zara QR and ask for the eReceipt.\n-\tMake returns in the store, online as well as in-store purchases.\n-\tPick up all your online orders in the store.",
+      "android_package_name": "com.inditex.zara",
+      "ios_bundle_id": "com.inditex.zara.iphone",
+      "title": "Zara",
+      "domain_name": [
+        "http://www.zara.com",
+        "https://www.zara.com"
+      ],
+      "website": "http://www.zara.com",
+      "developer": "Industria de Diseno Textil, S.A.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Etar8ijdCl_bYMpgCEnHlS505Dkgh-BmUJjmQCSlzyv-8o8Acp7BFxfFiGtju1DTMuqT",
+      "icon_72": "https://play-lh.googleusercontent.com/Etar8ijdCl_bYMpgCEnHlS505Dkgh-BmUJjmQCSlzyv-8o8Acp7BFxfFiGtju1DTMuqT=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.etsy.android"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Here to make your shopping experience seamless, the Macy’s app is better than ever.  Access your Star Rewards account on the go & get alerts for special offers, in-store savings & more. \n\nONLY IN THE APP:\n-Turn on notifications to get access to app only offers & deals.\n-Scan barcodes in store to check prices, read reviews, & see more colors/ sizes.\n-Earn points & unlock rewards.\n-Hey Macy’s cardholders! Quickly pay with the app in select stores when you set up Macy’s Pay.\n\n\nTRACK YOUR REWARDS & OFFERS:\n-See your current Star Rewards points when you open the app.\n-Check your Macy’s Card account balance & make payments.\n-Track your progress toward the next loyalty status.\n\n\nSHOPPING, MADE SIMPLE:\n-Nike, Coach, Michael Kors, Ugg, Ralph Lauren & more. \n-Shop everything from beauty to going out looks, jewelry, furniture & more.\n-Tap the heart icon to save favorites & get price drop alerts.\n-Add items to your registry & track gifts.",
+      "android_package_name": "com.etsy.android",
+      "ios_bundle_id": "macys.ishop",
+      "title": "Macy's",
+      "domain_name": [
+        "http://www.macys.com",
+        "https://www.macys.com"
+      ],
+      "website": "http://www.macys.com",
+      "developer": "Macys Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/giKCCPigafUbKQ1AkXVxSjQ1PggetEI96ORNKxxhQdvGAFhto71kO4zf7gZ9oOdLIQe5",
+      "icon_72": "https://play-lh.googleusercontent.com/giKCCPigafUbKQ1AkXVxSjQ1PggetEI96ORNKxxhQdvGAFhto71kO4zf7gZ9oOdLIQe5=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ms.costco"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "It's easy to save time and money while on the go, with the Costco Mobile App! We've improved our mobile app, to make it easier for members to access the incredible values found only at Costco.\n\nDIGITAL MEMBERSHIP CARD: Access your membership card from the home page of the app. Use your membership card to enter the warehouse and at checkout.\n \nSHOP: Browse Costco.com’s unique and expanded selection, which offers thousands of items not found at your local warehouse. Enjoy having items delivered straight to your door!\n \nSAVINGS: Conveniently receive the latest Warehouse Savings right on your own device.\n\nGAS PRICES: Just tap the locator pin on the map to view current gas prices.\n \nPHOTOS: Order metal prints, acrylic prints or photo mugs directly from the app.  Have them delivered to your door or pick them up at select Costco locations.\n\nSPECIAL EVENTS: View the Special Events happening at your local Costco and set reminders for upcoming events.\n\nPHARMACY: Order prescription refills & check status on prescriptions. Get refill reminders, track your medications, manage family accounts, transfer prescriptions, and find a Costco pharmacy.\n \nTRAVEL: Shop Costco Travel for great deals on vacation packages, hotels, cruises, rental cars, theme parks and more!\n \nBUSINESS CENTER: Stock up on everything from Restaurant Supplies to Office Essentials, and keep your business running smoothly and efficiently.\n \nSHOPPING LIST: Keep track of the items you want to pick up on your next trip to Costco.\n \nWAREHOUSE INFO: See details about your nearest Costco warehouse, including regular and holiday hours, services provided, driving directions and gas prices.\n \nFEEDBACK: Visit our app feedback page and help provide important feedback for Costco, because your opinion matters!",
+      "android_package_name": "com.ms.costco",
+      "ios_bundle_id": "com.costco.costco",
+      "title": "Costco",
+      "domain_name": [
+        "http://www.costco.com",
+        "https://www.costco.com"
+      ],
+      "website": "http://www.costco.com",
+      "developer": "Costco Wholesale Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/O3mzQQAP1kaR24SLCUV8HdmA2WaofaF4s7gFY3BgbkU8hxSo5A5lYLP21cdEUJ7BuwaH",
+      "icon_72": "https://play-lh.googleusercontent.com/O3mzQQAP1kaR24SLCUV8HdmA2WaofaF4s7gFY3BgbkU8hxSo5A5lYLP21cdEUJ7BuwaH=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.abenity.kohls"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Get online shopping deals, discounts and rewards with the Kohl’s app! From fashion to beauty, home furniture, clothing, shoes, electronics and more, you can access amazing shopping deals and manage your Kohl’s account on the go.\n\nDiscounts, coupons and rewards make the Kohl’s app your go-to online shopping tool. It’s packed with features to help you find the best deals, manage payments easily, and browse online and in store.\n\nHere are 5 reasons users love our online shopping app:\n\n1. Kohl’s Wallet - all offers, rewards and coupons in one place!\n2. Shop online or in store - use the app as a price scanner, or browse deals on the go.\n3. Kohl's Pay - We're giving you a simpler checkout with all your offers & Kohl's Cash loaded into one QR code.\n4. Shopping deals on everything - Beauty, home, clothing, shoes, furniture, electronics & more!\n5. Kohl’s Cash reminders - We’ll remind you when your rewards are about to expire, so you never miss a deal again.\n\nAnd there’s more! With FREE SHIPPING, amazing shopping deals and FREE STORE PICKUP, the Kohl’s app helps you shop with ease – and save money!\n\nOur features include:\n\nKOHL’S WALLET\n\nSave some serious money with Kohl’s Wallet. It keeps all your rewards, coupons, discounts, and offers in one place – no more paper and no more forgetting! Plus, we’ll remind you to use them before they expire, so you don’t miss out!\n\nSHOP ONLINE OR IN STORE\n\nShop your local store’s inventory, or use the app in store as a price scanner. Can’t find what you’re looking for in store? Buy it on the app while you’re in store and get FREE shipping.\n\nKOHL'S PAY\n\nKohl's Pay is now quicker and easier. Quickly select all your coupons, discounts, savings offers, rewards and Kohl's Cash to load into a single scan QR code and breeze through checkout.\n\nMY KOHL'S CARD\n\nPayments just got a lot easier. The app keeps you signed in so you can quickly and easily check your Kohl's Card balance and make payments.\n\nSHOP KOHL’S AMAZING RANGE\n\nFrom furniture to beauty, clothing, shoes, home and electronics, you can shop everything and more on the Kohl’s app!\n\nKOHL'S REWARDS\n\nTrack your rewards balance and progress toward your next $5 reward.\n\nDownload the Kohl’s app today and discover our huge range of fantastic products and amazing deals. From beauty to furniture, fashion and toys, you’ll be sure to find something you love at an awesome price!",
+      "android_package_name": "com.abenity.kohls",
+      "ios_bundle_id": "com.kohls.mcommerce.iphone",
+      "title": "Kohl's",
+      "domain_name": [
+        "http://www.kohls.com/app",
+        "https://www.kohls.com"
+      ],
+      "website": "http://www.kohls.com/app",
+      "developer": "Kohl's Department Stores, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/tCFOK9oCTLfIBK6dLern4dP4h_hH910w5WTQ0FjI2ToscuOCa7E5I0t-QLf3b1IVEQyX",
+      "icon_72": "https://play-lh.googleusercontent.com/tCFOK9oCTLfIBK6dLern4dP4h_hH910w5WTQ0FjI2ToscuOCa7E5I0t-QLf3b1IVEQyX=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nike.omega"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "The Nike App is your personal guide to all things Nike. ​​Become a Member ​​​and​​ get​​​ exclusive ​access ​to ​the latest from Nike and Jordan. Shop innovative and trending kicks, sportswear, sports gear, and apparel ​​products – no matter your sport or style.​​ Unlock ​​Member Rewards, personalized ​sport and ​style recommendations, and seamless shopping experiences, all with easy shipping and returns.\n \nSHOPPING AS IT SHOULD BE\nShop footwear, workout clothes, performance gear, accessories, and more. Kid’s, men's, or women's clothing – check out the latest with the Nike App.\n• Member Benefits – Shop online for Free Shipping on Orders $50+, 60-day wear tests, and receiptless returns when you purchase through the app.\n• Member Profile – View Activity, orders, and purchase history for a seamless online shopping experience.\n• Member Promotions – Celebrate important moments with exclusive Member Rewards as you shop.\n• Shop Member Exclusive Products – Jordan or Nike, shopping is better as a Member. Unlock exclusive sportswear and first dibs on new, upcoming, and seasonal releases dropping weekly. Shop today for access to Air Max, Nike Dunk, and our newest innovations.\n• Shop Jordan – Elevate your look with the latest Jordan sneakers and apparel. Explore classic styles, trending colorways, and court-ready kicks.\n• Nike by You – Sneaker silhouettes are yours to design. Shop and customize iconic Nike sneakers with colorways and materials that match your style.\n• Find a Store Near You – experience the best of Nike in person.\n \nSERVICES THAT CONNECT & GUIDE YOU\nMore than just shopping. Get style tips or outfit advice – chat one-on-one with a Nike Expert. Receive training tips with your Nike community from wherever you are.\n• Training & Coaching for all – Expert advice delivered by Nike athletes, coaches, and personal trainers.\n• Nike Experts – Chat in real-time with our team on all things sportswear and Nike.\n• Exclusive Nike Experiences – Find events in your city. Join your Nike community.\n• Athlete Guidance – Get exclusive access to expert advice, personalized recommendations, and Member-only perks.\n \nSTORIES THAT INSPIRE & INFORM YOU\nIn-depth stories spanning across sport and culture, delivered daily. Follow your favorite athletes, sports teams, and products to get the most from the Nike App.\n• Member Home – Explore new, curated Nike stories, refreshed daily.\n• Notifications – Never miss a sneaker release. Find the latest styles, hottest drops, athlete collaborations, events, and more by turning on push notifications.\n• Clothing & Sneaker Trends – Find new ways to wear your favorite Nike clothing, accessories, and footwear.\n• Sportswear Collections – Learn what gear empowers the top Nike athletes.\n\nThe Nike App – where all athletes belong. Discover the hottest sportswear and sneaker releases from Nike and Jordan. Download today.",
+      "android_package_name": "com.nike.omega",
+      "ios_bundle_id": "com.nike.omega",
+      "title": "Nike",
+      "domain_name": [
+        "https://www.nike.com",
+        "https://www.nike.com"
+      ],
+      "website": "https://www.nike.com",
+      "developer": "Nike, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qu6VL5w3pL0rjyaSpbRdWmRkEQXxMHL5f_OxYCS1jgg6HOSEWNnkWr8HKMoA-HrkI3Y",
+      "icon_72": "https://play-lh.googleusercontent.com/qu6VL5w3pL0rjyaSpbRdWmRkEQXxMHL5f_OxYCS1jgg6HOSEWNnkWr8HKMoA-HrkI3Y=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.lazada.android"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Lazada's \"ALWAYS THE BETTER PRICE\" concept will bring more happiness and satisfaction to your life with every purchase. Enjoy awesome offers everyday with free shipping!\n\nStart shopping now and save more with mega deals and discounts!\n\nFeatured updates\n1. Free Shipping\n2. Vouchers for First Orders\n3. Money-saving shopping in CHOICE\n4. LazFlash Deals\n\nWhat are you waiting for? Download the Lazada App and start shopping for the best quality deals at amazing prices! Grab your essential and favorite items with exclusive deals to make the most out of your purchase! \n\nAUTHENTICITY GUARANTEED \nLazMall – Lazada's flagship offering for branded products ensure genuine and authentic brands – sold by brands on Lazada through Brand Stores. 100% Authentic – directly from brands to you. Enjoy 10,000+ Global brands at your fingertips like Nike, Adidas, Maybelline, L'Oréal, and more. \n\nFIRST ORDER BENEFITS\nGet exclusive discount vouchers for your first purchase*. Get coins when you check in daily, and collect vouchers from Lazada and sellers every time you use the Lazada app! *T&Cs Apply\n\nSECURE PAYMENT\nPay securely through multiple payment options: \n1. Cash on Delivery \n2. Lazada Installments \n3. LazWallet \n4. Secure Bank Transactions \n\nAPP HIGHLIGHTS\n1. App-Exclusive Notifications for Daily Offers, Deals, & Discounts \n2. Personalized Recommendations of Products, Categories, & Brands \n3. Full-scale Search Filters by Category, Brand, Price, Rating, Color, and More \n4. Customer Ratings & Reviews \n5. Q&A for Direct Customer – Seller Interaction \n6. Order Tracking \n7. Fast Shipping \n8. Log in via Facebook and Google \n9. Sharing via Facebook, X (Twitter), Whatsapp, and more \n\nPERSONALIZED RECOMMENDATIONS\nShopping is made easy for you. Lazada uses superior products recommendation algorithm to ensure personalized products, deals, and vouchers created just for YOU.\n\nBUYER GUARANTEE\nCheck out the product reviews, see the seller ratings, and CHAT WITH SELLERS directly! Dissatisfied? Simply return for a full refund via the simple returns policies.\n\nLAZFLASH & VOUCHERS\nShop more and save more with exclusive app-only offers, promo codes, bank vouchers, and discounts at the best prices, updated every day. \n\nBEST CATEGORIES\nEnjoy effortless online shopping and home delivery coming from a huge variety of products in electronics, sports, beauty, digital, groceries, toys, cars & motorcycles, shoes, fragrances, health, men's & women's fashion, and much more.\n\n***Most Trusted Online Shopping Destination in Southeast Asia!***\nIndonesia \nMarketeers 2017 – Best WOW Brand for E-Commerce \n \nThailand \n2016-2017 Marketeer No.1 Brand Thailand – Online Shopping \n\nSingapore \nAsia One People's Choice Awards 2015: Top 3 E-Retailers \n\nPhilippines \nReaders Digest Most Trusted Brand Award 2014 – Gold Standard \n\nCountries supported\nIndonesia, Malaysia, Philippines, Singapore, Thailand, and Vietnam \n\n*DISCLAIMER*\nRecently, we've been notified of several cases where our app is promoted fraudulently by some third-party advertisers, usually in the form of site redirection, fake vouchers, and games. These types of ads are being promoted without our consent and we strictly condemn this type of behavior. If you encounter any of these issues, please help us and copy the page URL found and report it to help@lazada.com with subject AAV so that we can put an end to this.",
+      "android_package_name": "com.lazada.android",
+      "ios_bundle_id": "com.LazadaSEA.Lazada",
+      "title": "Lazada",
+      "domain_name": [],
+      "website": "",
+      "developer": "Lazada Group GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/b6XEbbyJABry-zy0aGHg0baR1FbMAQUu0GOIDSix0i4H0j4kgq8VwykJ1SvcV11f9jrQ",
+      "icon_72": "https://play-lh.googleusercontent.com/b6XEbbyJABry-zy0aGHg0baR1FbMAQUu0GOIDSix0i4H0j4kgq8VwykJ1SvcV11f9jrQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.hm.goe"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Explore the latest styles in fashion, home and beauty with the H&M app. Discover inspiring collections and intuitive features that simplify the shopping experience — from instant search to real-time order updates.\n \nFeatures:\nInstant search: Quickly find any item with smarter results.\nVisual discovery: Snap or upload images for style suggestions.\nSave favourites: Build wishlists to shop and curate later.\nH&M Membership: Access points, perks and exclusive rewards.\nTrack orders: Stay updated with real-time delivery information.\nRestock alerts: Find out first when favourites return.\nSeamless scanning: Scan in-store items to check sizes online.\n \nExperience a more streamlined way to shop — download the H&M app today.",
+      "android_package_name": "com.hm.goe",
+      "ios_bundle_id": "com.hm.goe",
+      "title": "H&M",
+      "domain_name": [
+        "http://www.hm.com",
+        "https://www.hm.com"
+      ],
+      "website": "http://www.hm.com",
+      "developer": "H & M Hennes & Mauritz AB",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/fZ7YafYdCZ7U4LK4J7YiZXfIxdW2VqBODOv5moszVcVN721KGnQXQo9xPFy0Ws0tZw",
+      "icon_72": "https://play-lh.googleusercontent.com/fZ7YafYdCZ7U4LK4J7YiZXfIxdW2VqBODOv5moszVcVN721KGnQXQo9xPFy0Ws0tZw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "nordstromfcu.mbanking"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Since 1901, Nordstrom has been a leading fashion retailer known for our commitment to providing customers with the best possible service.\n\nThe Nordstrom app is everything you love about the Nordstrom experience and more. Enjoy convenient shopping wherever you—and your phone—may be. Plus, get access to app-only features!\n\nONLY IN THE APP\n\n• Alerts when your favorite items come back in stock or go on sale in your Wish List or Bag\n• Save your favorite brands for personalized recommendations and alerts about new arrivals\n• Easily filter searches by your brands to find exactly what you want\n• Request contactless Curbside Pickup at selected stores and we’ll bring your online order out to your car \n• Redeem Nordy Club notes faster \n• Pay with your Nordstrom card in store using a QR code \n\nMORE THINGS TO LOVE \n\n• Free Shipping. Free Returns. Exclusions Apply.\n• A personalized experience with item recommendations tailored just to you  \n• Trustworthy ratings and reviews from customers with verified purchases \n• Free personalized advice on fashion, beauty, gifts and more \n• Order tracking and purchase history \n\nABOUT NORDSTROM \n\nNordstrom offers our customers one of the most extensive selections of clothing, shoes and accessories for men, women, kids and the home. For more than 100 years, we've worked to deliver the best possible shopping experience, helping our customers express their style—not just buy fashion or gifts. Fashion changes. Shopping changes. Our commitment to happy customers doesn't.\n\nDownload the Nordstrom app today for easy and convenient shopping.",
+      "android_package_name": "nordstromfcu.mbanking",
+      "ios_bundle_id": "com.nordstrom.shopping",
+      "title": "Nordstrom",
+      "domain_name": [
+        "http://nordstrom.com",
+        "https://nordstrom.com"
+      ],
+      "website": "http://nordstrom.com",
+      "developer": "Nordstrom, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/LFkOgo31hwclBkod_L5YO7BZm8IKgCXgEidoETf6Pm5C4j-fmdIgEfyDxWfUO1zwgA",
+      "icon_72": "https://play-lh.googleusercontent.com/LFkOgo31hwclBkod_L5YO7BZm8IKgCXgEidoETf6Pm5C4j-fmdIgEfyDxWfUO1zwgA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "io.afero.partner.hubspace"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "It’s a good time to be a doer.\nDIY IN THE PALM OF YOUR HAND\nSave time with The Home Depot app. Shop over one million products and find the info you need most.\nSNAP A PICTURE, FIND WHAT YOU NEED\nDon’t know what something’s called? Just snap a picture and let our Image Search feature tell you.\nA GPS FOR YOUR SHOPPING LIST\nUse the Product Locator to find what you’re looking for and check store inventory. We'll take you to the exact aisle and bay.\nMAKE INFORMED BUYING DECISIONS\nGet Ratings & Reviews in a matter of seconds. Use the barcode reader to scan an item and read what other customers have to say.\nDO MORE WITH AN ACCOUNT\nSigning up is quick and free. Get access to real-time order tracking info, view purchase history, enable instant checkout and more.\nSHOP SPECIAL BUYS & VIEW LOCAL AD\nLook for a new Special Buy on the app home screen each day. Plus, check out your local ad for all the latest from your Home Depot.\nPrivacy Policy: https://www.homedepot.com/privacy/privacy-and-security-statement\nDo Not Sell My Personal Information: https://www.homedepot.com/privacy/Exercise_My_Privacy_Rights\nWe want to hear from you – email us at apphelp@homedepot.com and let us know how we are doing.",
+      "android_package_name": "io.afero.partner.hubspace",
+      "ios_bundle_id": "com.thehomedepot.homedepot",
+      "title": "The Home Depot",
+      "domain_name": [
+        "https://www.homedepot.com",
+        "https://www.homedepot.com"
+      ],
+      "website": "https://www.homedepot.com",
+      "developer": "The Home Depot, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6mos47_fkhnIarCtN-nizfmzk4Y6KdvhDDJG5fG3MblyvjkWbMIXS_PTXr-c-pXzkQ",
+      "icon_72": "https://play-lh.googleusercontent.com/6mos47_fkhnIarCtN-nizfmzk4Y6KdvhDDJG5fG3MblyvjkWbMIXS_PTXr-c-pXzkQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.jcp"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Shop the best deals on dresses, shoes, jewelry, and much more with JCPenney. \n\nWhether you’re searching for a cute look for the weekend or some home basics, at JCPenney you’re guaranteed to find products you want, at prices you love! Never miss a chance to save when shopping for him, her, kids, or home. Buy items from brands you know and create a fun shopping experience that’s right for you. Shop new apparel, check prices in-store, see order history and so much more. It’s everything you want in an app!\n\nSUPER SIMPLE SHOPPING\nFind all the items you want at the prices you love thanks to our modern design. With the price check feature, you can scan products for store pricing and details! Try our True Fit tool to get your own personal fit & size recommendation for every style! \n\nBUY IN APP, PICK UP IN-STORE\nQuickly find those products you need, buy them in the app, and pick them up the same day in one of our stores!\nWant it fast, use contactless curbside pickup!  \n\nSAVE COUPONS TO WALLET\nNot only are the weekly coupons and rewards just a swipe or tap away, but now you can also save them to your wallet! Use the coupons when shopping in-app or show the barcodes to any JCPenney associate to apply them to your order!\n\nNEVER MISS A DEAL\nEveryone loves a great deal, and we want to make sure that you never miss out on a deal or coupon again! Opt in to get notified via push notifications or the in-app inbox of the latest promotions and shopping events going on at JCPenney.\n\nSAVE YOUR FAVORITES\nSave your favorite products for later and come back to purchase them at any time!\n\nJCPENNEY CREDIT CARD\nManaging your JCPenney credit card is now easier than ever with our app! Now you can easily view your balance, pay your bill, and see offers just for JCPenney credit cardholders.\n\nWe love feedback! Love the JCPenney App? Please consider leaving us a 5-star rating! Questions or comments? Please use the Rate Us section in the app or email us at apphelp@jcp.com. We’d love to hear about your experience.\n\nDownload the JCPenney app today to get the latest offers on clothes, makeup, home, and more!\n\nContinued use of GPS running in the background can dramatically decrease battery life.",
+      "android_package_name": "com.jcp",
+      "ios_bundle_id": "com.jcpenney.jcpenney",
+      "title": "JCPenney",
+      "domain_name": [
+        "https://www.jcpenney.com",
+        "https://www.jcpenney.com"
+      ],
+      "website": "https://www.jcpenney.com",
+      "developer": "Penney OpCo LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/HYuQOln68so9R6FqAhQDSM8LUExQR_a5c5nxd89A8Fxy17txRTvUyxJ_l8Lu6Vsli3Y",
+      "icon_72": "https://play-lh.googleusercontent.com/HYuQOln68so9R6FqAhQDSM8LUExQR_a5c5nxd89A8Fxy17txRTvUyxJ_l8Lu6Vsli3Y=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.trandaty.trandatyapp"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Everything you love, now at your fingertips!\n\nSHEIN is a fun and ultra-affordable online shopping platform. From fashion apparel to home, beauty, accessories, shoes and pet, plus electronics, tools, office and more,  SHEIN is dedicated to meet all your needs in life. We'll keep you in the loop with push notifications about new drops and more. You can also engage with other SHEIN lovers and in real time. With free shippings and free returns policy, hope you have a pleasant journey in SHEIN!\n\nInspire yourself with SHEIN right now!\n\nSave you more\n- Get an extra 30% off on your first order \n- Free shipping & free returns. *conditions apply\n- Daily Flash Sales: Score up to 80% off for countless items\n\nWide selections\n- Fun, easy shopping with wide selections\n- Browse by New Arrivals, Trends, Category, Best Sellers and more\n\nConsiderate services\n- Get first access to sale alerts and promotional discounts\n- Now accepting PayPal and major Credit Cards \n- Style now, pay later! Choose Afterpay to pay in 4 interest-free payments.\n- 24/7 Customer Service and Live Chat available\n\n\nContact us:\nURL: us.shein.com\nFacebook: www.facebook.com/sheinus/\nInstagram: www.instagram.com/shein_us/\nEmail: dispute@shein.com\n\n\nThe app needs the following access permissions when it is running on your device:\n\n-\tOptional permission(s):\n\no\tNotification: it will allow us to send push notifications to your device.\n\no\tCamera: the camera function is required when you need to capture photos and videos and upload them to the app.\n\no\tPhoto and video: it will enable you to upload photos and videos from your device to the app.\n\no\tLocation: where the relevant service is available, it enables location based services on your device. \n(This is not used in Korea.)\n\no\tCalendar: it enables you to sync the SHEIN LIVE events to your device calendar. \n\no\tMicrophone: when you try to capture videos using Camera function, the app will also need the microphone access permission to capture the voice. \n\n※ Even if you do not grant optional access permissions, you can still use SHEIN service, except for the functions related to those permissions.",
+      "android_package_name": "com.trandaty.trandatyapp",
+      "ios_bundle_id": "zzkko.com.ZZKKO",
+      "title": "SHEIN",
+      "domain_name": [
+        "https://www.shein.com",
+        "https://www.shein.com"
+      ],
+      "website": "https://www.shein.com",
+      "developer": "ROADGET BUSINESS PTE. LTD.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/SPd8lxnKYfNEVDTj7N_vuCaybnd8JqBOnZm2kfzJy0UgPskRv9zN5vjYum8O4O-m1ws",
+      "icon_72": "https://play-lh.googleusercontent.com/SPd8lxnKYfNEVDTj7N_vuCaybnd8JqBOnZm2kfzJy0UgPskRv9zN5vjYum8O4O-m1ws=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.app.urbanoverstock"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "In the  Bed Bath and Beyond app you’ll be able to streamline your shopping experience so you can achieve your dream home faster and easier than ever.\n\nSearch, browse and shop thousands of home good items right from the palm of your hand. Whether you are furnishing your entire home or just searching for a great deal or a gift Bed Bath & Beyond is the place to make shopping simple and affordable.\n\nWith the Bed Bath & Beyond app, you can:\n\n• Shop for furniture and decor with app-exclusive deals and discounts.\n• Bookmark your stylish finds in a wish list and share them with friends.\n• Get instant alerts on price drops for items you're interested in.\n• Store all your coupons in one convenient place.\n• Check out quickly and easily with saved logins and payments.\n• Track your orders from start to finish.\n\nDownload the Bed Bath & Beyond app today to experience more for every room, every home, & every budget.",
+      "android_package_name": "com.app.urbanoverstock",
+      "ios_bundle_id": "com.overstock.app",
+      "title": "Overstock",
+      "domain_name": [
+        "https://www.bedbathandbeyond.com",
+        "https://www.bedbathandbeyond.com"
+      ],
+      "website": "https://www.bedbathandbeyond.com",
+      "developer": "Beyond, Inc. (App)",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qcGlxvp91-K1EA7-Hj1RVT_xxV2jiANzNPFr65h3cXxmWHCmylA91zU6EuIaYyhmwkk",
+      "icon_72": "https://play-lh.googleusercontent.com/qcGlxvp91-K1EA7-Hj1RVT_xxV2jiANzNPFr65h3cXxmWHCmylA91zU6EuIaYyhmwkk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wayfair.partners.scan"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "The Wayfair app is the easiest way to go after your home goals. Discover app-only deals and early access to sales so you’ll always get our best prices. Plus, be the first to know about price drops on your favorite furniture, decor, and more.\n\nThe Wayfair app makes your shopping journey seamless from start to finish. Get inspired with just-for-you recommendations, then see them in your space before you buy with the View-in-Room feature. Once you score something you love, get order updates and real-time delivery tracking in the palm of your hand.\n\nJust exploring? Use Lists to save, organize, and even share your favorite finds with friends and family when you need a second opinion.\n\nAll the things you love about Wayfair’s website are in the app, too! Scroll through tons of home picks for every style, space, and budget – so you can find the ones that are just right for you. And discover items you never knew you needed with seasonal decor hubs, trend spotlights, and more.\n\nWith the Wayfair app and your design ideas, that dream space is totally doable. Download now to get started today.",
+      "android_package_name": "com.wayfair.partners.scan",
+      "ios_bundle_id": "com.wayfair.WayfairApp",
+      "title": "Wayfair",
+      "domain_name": [],
+      "website": "",
+      "developer": "Wayfair LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1l9AA6m8PSbVJs7EVudChvWp7vtS57qRP7EVtQ_xRiK2WjqhXuS4RQrj6wrC9oGb6sdJ",
+      "icon_72": "https://play-lh.googleusercontent.com/1l9AA6m8PSbVJs7EVudChvWp7vtS57qRP7EVtQ_xRiK2WjqhXuS4RQrj6wrC9oGb6sdJ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.jio.sephora"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Discover brand new beauty and skincare routines with Sephora. Explore the best beauty products from top brands like FENTY BEAUTY by Rihanna, The Ordinary, and Sephora Collection. \n\nTry the latest product releases or find brands focusing on inclusivity and diversity. Treat yourself and redeem your points for Beauty Insider Cash or luxurious samples.\n\nEasily shop for your beauty needs, from makeup and skincare to haircare products. Find the perfect foundation, mascara, or concealer for you by comparing product information, how to use instructions, and photos from the Sephora community. If you are looking for good beauty at a better price, try Sephora Collection makeup and skincare!\n\n3 Reasons you’ll love the Sephora app\n1. Get access to offers & deals with Beauty Insider\n2. Shop all your favorite beauty products in just a few steps\n3. Discover the latest trends & releases\n\nInterested in clean products with ingredients you’ll love? Look for the green “Clean at Sephora” seal which means the product is formulated without parabens, sulfates SLS and SLES, phthalates, mineral oils, formaldehyde and more!\n\nSephora Features:\n\nSKINCARE\n• Find the perfect skincare routine for your skin type\n• Treat acne, dark spots, dryness & pores with our top-rated products\n• Shop from leading skincare brands like Kiehl’s, La Mer, Drunk Elephant & many more!\n\nMAKEUP & COSMETICS\n• Best-selling brands like Urban Decay, KVD Vegan Beauty & many more!\n• Browse palettes, mini sizes & value sets to suit your beauty budget\n• Get special access to the latest offers\n\nHYBRID PRODUCTS\n• Makeup and skincare in one effective product\n• Get healthy-looking skin while looking your best\n• Shop makeup hybrid products from Supergoop, Milk, and Ilia\n\nFRAGRANCE\n• Buy all-time favorite fragrances or try a fresh new signature scent\n• Select beautifully packaged gift sets & mini-editions\n• Luxurious scents from Jean Paul Gaultier, Lancome, Yves Saint Laurent and more\n\nHAIR PRODUCTS\n• Explore tools to style and treat your hair for effortlessly luscious locks\n• Try out the very best conditioners & hair masks\n• Shop beautifully packaged sets for the perfect hair care gift\n\nThe Sephora App has your beauty needs covered from head to toe. Never miss a beauty deal with Insider-only offers, products uniquely at Sephora, promotions, and more.\n\nDownload the Sephora App now for the best beauty shopping experience.\n\nSummary information concerning the data collected by the App can be found within the App Privacy section below. Note that the summary only applies to the App, not information collected by Sephora in other contexts, such as on our website. Also note that the summary is controlled by Apple using predefined terms and selections. A full explanation of our privacy practices can be found in our privacy policy at https://www.sephora.com/beauty/privacy-policy. To the extent there may be a discrepancy between an App-specific privacy disclosure, and the Sephora Privacy Policy, you should look to the Sephora Privacy Policy for clarity",
+      "android_package_name": "com.jio.sephora",
+      "ios_bundle_id": "com.sephora.sephoramobile",
+      "title": "Sephora",
+      "domain_name": [
+        "https://www.sephora.com",
+        "https://www.sephora.com"
+      ],
+      "website": "https://www.sephora.com",
+      "developer": "Sephora USA, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/lS5nqpkZzQS_vZju8LgiZSVROxicGAcTpvWo9nQL-OL8E8r9fSXbce1n0h_89fVUmiY",
+      "icon_72": "https://play-lh.googleusercontent.com/lS5nqpkZzQS_vZju8LgiZSVROxicGAcTpvWo9nQL-OL8E8r9fSXbce1n0h_89fVUmiY=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.unify.luluandsky"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Browse and shop for lululemon gear from anywhere! Be ready for all your sweaty pursuits with technical athletic clothing and accessories for running, cross-training, and yoga.  \n\nGet the gear:\n \n• Shop instantly. Our app is built from the ground up to feel as snappy as your personal bests.\n• You’ll find high-quality photos of products taken from every angle and a zoom-in feature that lets you nerd out hard on every technical detail. \n• Inventory-check your local store and find out right from your phone if your size and color are in stock. \n• Favorites: So many products to love, so little time! Add products to your Favorites list so you can easily come back to them later.\n• eGift Cards: Buy electronic gift cards for your family and friends through the app and send them directly to their email. \n• Store Locator: Find store hours and locations right on your phone. \n• Pay with ApplePay\n \nConnect with the community:\n \n• Join our global yoga ambassadors for 20, 45 or 60-minute yoga classes\n• Find local events tailored to your favorite sweaty pursuits.\n• Get inspired by real and authentic stories posted by our own ambassadors and stores.\n• Curious about what goes into our gear? Get an insider look through exclusive behind-the-scenes videos.\n \nManage your account:\n \n• Use Touch ID or Face ID to make sign-in easy; rest assured, your biometric data is protected and safe. \n• My Account: Update your profile and subscribe to product emails in the improved Account settings.\n• Store your preferences and purchase information to make checkout a breeze. And of course, standard shipping is always complimentary. \n \nFounded in Vancouver British Columbia in 1998, the first lululemon athletica store shared space with a yoga studio. We’ve grown quite a bit since then and our technical athletic apparel for men and women is now available online, in stores, and in showrooms all over the world. \n \nHave an idea, problem, or feedback? Get in touch at gec@lululemon.com",
+      "android_package_name": "com.unify.luluandsky",
+      "ios_bundle_id": "com.lululemon.shopapp",
+      "title": "LuluLemon",
+      "domain_name": [
+        "https://shop.lululemon.com/about/apps",
+        "https://shop.lululemon.com"
+      ],
+      "website": "https://shop.lululemon.com/about/apps",
+      "developer": "lululemon athletica canada inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FjouiG_xbnlhQ6du7Y3se3dSkSOirMk0yCxh-dYdOUU-ycDKfrXb1MuEbGwGhdhF6A",
+      "icon_72": "https://play-lh.googleusercontent.com/FjouiG_xbnlhQ6du7Y3se3dSkSOirMk0yCxh-dYdOUU-ycDKfrXb1MuEbGwGhdhF6A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.uniqlo.in.catalogue"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Discover effortless shopping and effortless style — all with the UNIQLO app. Explore the latest men’s, women’s and kids’ clothing collaborations, inspire your style with fresh fashion ideas, and claim exclusive app-only deals. From timeless LifeWear and streetwear favorites to winter HEATTECH thermal layers and breathable AIRism lines for warmer days, be the first to know when the clothing you love most is back in stock. \n\n\nComplete your wardrobe with everyday denim jeans and essential accessories for your home and redefine your fashion shopping experience with the app that brings you the best of UNIQLO. Discover a clothing app for men, women and kids.\n\n\nInspire your clothes shopping\n\n\nBrowse styles shared by customers, influencers, and UNIQLO staff members from all over the world and get inspiration for your next outfit. \n\n\nFind ideas for women’s, men’s and kids’ clothing and shop practical, stylish collections for all ages and seasons. \n\n\nDiscover online-exclusive sizes and clothing styles you won’t find anywhere else.\n\n\nKids’ and baby clothes shopping\n\nDiscover stylish and comfortable clothing for the little ones. \n\n\nFrom playful and durable everyday kids’ clothing like jeans, t-shirts, and shorts, to soft and gentle fabrics perfect for newborns, UNIQLO has just what you need for your kids’ wardrobes. \n\n\nShop seasonal kids’ clothing collections, featuring streetwear-inspired designs and limited-edition collaborations, all exclusive to UNIQLO.\n\n\nSave your favorite clothing styles \n\n\nTag clothes you like as “Favorites” and keep a collection of looks you love.\n\n\nGet notified when items you’ve tagged as favorites are available for pickup, back in stock, or on sale.\n\n\nKeep adding your favorite clothes to your collection for more personalized style and shopping recommendations.\n\n\nClothes-sizing videos \n\n\nSee styles up close with product videos that give you a detailed look at the cut and fabric, giving you a more realistic idea of how clothing fits.\n\n\nMySize ASSIST\n\n\nTake the guesswork out of fashion shopping with MySize Assistant.\n\n\nSimply enter your body measurements and preferred fit, and we’ll recommend a clothing size that’s perfect for you.\n\n\nEasy in-store pickups\n \nSave on shipping costs and skip store queues when you’re clothes shopping and buying other products using the app. \n\n\nChoose \"Ship to Store\" on your checkout screen and collect from any UNIQLO store that suits you within 1 hour, completely free of charge. \n\n\nSee when products are out of stock online but available in-store and swing by for a swift, same-day pick-up. \n\n\nAvoid the disappointment of a wasted trip by checking whether a new product or special offer item is in stock before you visit your favorite store.\n\n\nBack-in-stock notifications\n\n\nGet alerts sent straight to your phone and be the first to know when the clothing style you’ve been eyeing is back in stock.\n\n\nUNIQLO product scanner\n\n\nUse the app to scan product barcodes at home or in store and easily check if nearby stores have your perfect clothing size and fit. \n\n\nApp-exclusive offers  \n\n\nDownload UNIQLO and unlock $10 off your first purchase of $75 or more—new customers only.\nScan your app member ID at checkout to unlock exclusive, member-only discounts. \n\n\nSave time—and the planet—with e-receipts\n\n\nOpt for e-receipts at checkout to easily track your clothes shopping history right from the app.\n\n\nReturn or exchange clothing and other items using electronic receipts, saving you the hassle of keeping track of paper receipts.\n\n\nHave your say\n\n\nShare feedback on items you’ve bought with the UNIQLO team and keep a lookout for product improvements. \n\n\nRead reviews from customers who have bought the same products as you. See the star rating, gender, height, weight and age of the customer who posted the review to help you choose the perfect product.\n\n\nUNIQLO customer care\n\n\nChat with a UNIQLO representative for assistance with all your clothes and shopping needs.",
+      "android_package_name": "com.uniqlo.in.catalogue",
+      "ios_bundle_id": "com.uniqlo.main.us",
+      "title": "Uniqlo",
+      "domain_name": [
+        "https://www.uniqlo.com/us/en",
+        "https://www.uniqlo.com"
+      ],
+      "website": "https://www.uniqlo.com/us/en",
+      "developer": "UNIQLO CO., LTD.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/x7Jtv6dsO1ZCST7rjZvoMx741_TVGoV3CRzHqlpp89wzbyAkx6gY3k7i9cJDo5AcRERu",
+      "icon_72": "https://play-lh.googleusercontent.com/x7Jtv6dsO1ZCST7rjZvoMx741_TVGoV3CRzHqlpp89wzbyAkx6gY3k7i9cJDo5AcRERu=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.alibaba.intl.android.apps.poseidon"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "What is Alibaba.com?\nAlibaba.com is one of the world’s leading B2B ecommerce marketplaces. Our app allows you to source products from global suppliers, all from the convenience of your mobile device.\n\nPurchase with confidence\nOur Trade Assurance service protects your orders and payments on the platform, letting you purchase securely and conveniently with extended support.\n\nCustomizable products\nMeet suppliers with years of customization and order fulfillment experience for sellers on Amazon, eBay, Wish, Etsy, Mercari, Lazada, and more.\n\nEasy sourcing\nDiscover millions of ready-to-ship products in every industry category. Tell suppliers what you need and get quotes quickly with Request for Quotation services.\n\nFast shipping\nAlibaba.com partners with major freight forwarders to provide land, sea, and air shipping solutions with on-time delivery services, end-to-end tracking, and competitive prices.\n\nLivestreams and factory tours\nInteract with manufacturers in real-time via product demos and tours of manufacturing facilities, providing insight and oversight on how your products are made.\n\nPopular categories and trade shows\nSource a wide range of popular items – from trending consumer goods to raw materials – and join our annual trade shows for niche product highlights and discounts.\n\nQuality control\nChoose Alibaba.com Production Monitoring and Inspection Services to reduce production delay and quality risks.\n\nDiscounts and promotions\nUnlock new discounts and promotions from featured manufacturers and suppliers.\n\nStay updated\nUse the Alibaba.com app to stay up to date on new products and promotions from your favorite suppliers.\n\nLanguage and currency support\nAlibaba.com supports 16 languages and 140 local currencies. Use our real-time translator to communicate with sellers in your mother tongue.",
+      "android_package_name": "com.alibaba.intl.android.apps.poseidon",
+      "ios_bundle_id": "com.alibaba.sourcing",
+      "title": "AliBaba",
+      "domain_name": [
+        "http://www.alibaba.com",
+        "https://www.alibaba.com"
+      ],
+      "website": "http://www.alibaba.com",
+      "developer": "Hangzhou AliBaba Advertising Co., Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pgnGg3xiB_-N7HqG6Ulio2A1qeWtTZLQ548OA9_o9Xu52dPpbUPjgzNqoJ1Bn_rUXlg",
+      "icon_72": "https://play-lh.googleusercontent.com/pgnGg3xiB_-N7HqG6Ulio2A1qeWtTZLQ548OA9_o9Xu52dPpbUPjgzNqoJ1Bn_rUXlg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.taobao.coupon"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Want to shop on TB and 1688, but can't read Chinese?\nThe AliPrice shopping browser has a built-in Google Translator, which allows you to perform full-text translation, it's really helpful whether for Taobao agent or individual buyers. In addition to TB, the App also supports 1688,  Pinduoduo, Yiwugo and other websites.\n\nMain features:\n1. Multilingual translator, translate Chinese into your phone system language.\n2. Similar products, you can find many similar products from TB and 1688.\n3. Get coupons from TB.\n4. Support multilingual keyword search, you can input keyword in your native language on TB and 1688, and it will be auto translated to Chinese for quick search.\n\nIf you encounter problems or have any suggestions, please contact us:\nhttps://www.aliprice.com/information/index/page/contact\nIf you need more entensions or apps, please visit our homepage: https://www.aliprice.com/",
+      "android_package_name": "com.taobao.coupon",
+      "ios_bundle_id": "com.aliprice.alibabaSearch.AliPrice-for-1688-Taobao",
+      "title": "Pinduoduo",
+      "domain_name": [
+        "https://www.aliprice.com",
+        "https://www.aliprice.com"
+      ],
+      "website": "https://www.aliprice.com",
+      "developer": "DongGuan AliPrice Co. Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/WH-UEcG3KfgcnIKKdAJln6OdRzXxlWA2hGr6f8d_N_kx-noHCOFqAtEbq5ZZNxpDNg",
+      "icon_72": "https://play-lh.googleusercontent.com/WH-UEcG3KfgcnIKKdAJln6OdRzXxlWA2hGr6f8d_N_kx-noHCOFqAtEbq5ZZNxpDNg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.etsy.android"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Lifestyle",
+      "description": "Welcome to the HomeGoods app! You already love to save on amazing finds at HomeGoods. Now our updated app makes it even easier!\n\nHere’s how it works:\n\nManage your Rewards\n- Explore our enhanced TJX Rewards experience! Now it’s easier than ever to access your earned Rewards Certificates digitally, check your points balance, manage your TJX Rewards credit card account on-the-go, and redeem your rewards in-store.\n\nAccess Gift Cards \nUpload, buy, and scan to redeem in store. Yes, it’s that easy!\n\nFind Your Closest Store \nGet directions, check open hours, and more.",
+      "android_package_name": "com.etsy.android",
+      "ios_bundle_id": "com.homegoods.TheGoods",
+      "title": "HomeGoods",
+      "domain_name": [
+        "https:/.HomeGoods.tjx.com",
+        "https:/.HomeGoods.tjx.com"
+      ],
+      "website": "https:/.HomeGoods.tjx.com",
+      "developer": "HomeGoods, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/giKCCPigafUbKQ1AkXVxSjQ1PggetEI96ORNKxxhQdvGAFhto71kO4zf7gZ9oOdLIQe5",
+      "icon_72": "https://play-lh.googleusercontent.com/giKCCPigafUbKQ1AkXVxSjQ1PggetEI96ORNKxxhQdvGAFhto71kO4zf7gZ9oOdLIQe5=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.forever21.abfrl"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Welcome to the incredible world of Forever 21 – in your pocket and at your fingertips.\n\nFeatures:\n\n- APP EXCLUSIVE OFFERS: Get exclusive access to sales and discounts first!\n\n- SHOP: Explore, browse, and shop on the go!\n\n- RECOMMENDATIONS: we can help you find your next favorite fashion piece!\n\n- STAY UPDATED: You can now get push notifications to find out about new drops, collabs and more!",
+      "android_package_name": "com.forever21.abfrl",
+      "ios_bundle_id": "com.forever21.Forever21",
+      "title": "Forever 21",
+      "domain_name": [
+        "https://www.forever21.com/us/shop",
+        "https://www.forever21.com"
+      ],
+      "website": "https://www.forever21.com/us/shop",
+      "developer": "Forever 21, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bniNvWUb2uL2bq0OHGFS3uRP2CT4vbUDuHO5PqVNKY91K2EiUCCMfF4lPTHrwAw1GW0",
+      "icon_72": "https://play-lh.googleusercontent.com/bniNvWUb2uL2bq0OHGFS3uRP2CT4vbUDuHO5PqVNKY91K2EiUCCMfF4lPTHrwAw1GW0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.oak.boohoo"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Get ready to revamp your closet with the boohoo app - the ultimate destination for affordable fashion shopping. With just a few taps on your phone, you can explore the latest in women's and men's fashion, accessories, shoes, beauty, and homeware, all in one place.\n\nAt boohoo, we understand the importance of convenience when it comes to online shopping. That's why our app offers you an easy-to-use interface, with thousands of products at your fingertips; shop products from boohoo, boohooMAN, Misspap, and Nasty Gal all in one place. You can quickly add your favorite items to your wish list, sign in to your account, and automatically sync your baskets across all devices. With multiple payment options and fast and secure checkout, shopping with boohoo is a breeze.\n\nBut that's not all! Our app comes loaded with exclusive features that you won't find anywhere else. Keep track of your orders with unique tracking numbers and receive notifications about the latest collaborations, sale alerts, and exclusive offers.\n\nFrom date night dress dresses and party outfits to weekday tops and everyday shoes, we've got you covered. Our size-inclusive clothing range includes maternity, plus size, tall, and petite collections, so you can find just what you need, no matter your size.\n\nSo what are you waiting for? Download the boohoo app today and discover exclusive deals, discounts, and offers that are too good to miss. With hundreds of new products landing every week, you'll find the trendiest clothing and accessories that will make you stand out from the crowd. Shop now and thank us later!\n\nThe boohoo clothing app hotlist:\n • Fast and secure checkout – shop your latest obsessions & favorite pieces quickly and easily thanks to our multiple payment methods.\n • Track your order – track it to your door with your unique tracking number.\n • Wishlist – see it and save it to your wishlist to view again or checkout later.\n • Notifications – hear about exclusive offers, and the latest collaborations and get sale alerts via app notifications.\n • Try before you buy – buy now and pay later with the help of our shop now pay later partners.\n • Step Challenges - we're using Apple's Health Kit for our Step Challenges. Happy stepping!",
+      "android_package_name": "com.oak.boohoo",
+      "ios_bundle_id": "com.boohoo.app",
+      "title": "Boohoo",
+      "domain_name": [
+        "http://us.boohoo.com",
+        "https://us.boohoo.com"
+      ],
+      "website": "http://us.boohoo.com",
+      "developer": "Boohoo.com UK Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KdpWP13GG-lRuCTF6mMYYZx6shiNiJIlP2uGa1491Y0FNbzMz8s7ftct7NqlM2WZS8g",
+      "icon_72": "https://play-lh.googleusercontent.com/KdpWP13GG-lRuCTF6mMYYZx6shiNiJIlP2uGa1491Y0FNbzMz8s7ftct7NqlM2WZS8g=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.barnesandnoble.app"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Book",
+      "description": "Get the FREE Barnes & Noble NOOK App to enjoy all your favorite digital content on your Apple devices. Access our vast online library of over 4 million eBooks, graphic novels, comics, manga and magazines. Plus discover over 300,000 audiobooks. Enjoy recommendations just for you curated by our expert booksellers. Customize your experience with multiple font and page styles, customized bookshelves and social sharing tools. And never lose your spot— the Barnes & Noble NOOK App syncs across all your devices. \n\n\nBarnes & Noble at Your Fingertips\n\n-Browse the latest new eBook and audiobook releases, bestsellers, deals, and expert recommendations just for you! \n-Discover books in every genre, about every subject, for every age: contemporary fiction, romance, mystery and thriller, classics, sci-fi and fantasy, manga, kids, young adult, non-fiction and more!\n-Digital content purchased from Barnes & Noble will automatically appear in this app.\n-Explore over 75,000 free eBooks and more than 10,000 free audiobooks.\n-Sync your books, bookmarks, notes and highlights across all your devices for a seamless reading experience. \n-Listen safely while you drive with CarPlay.\n\nRich, Customizable Reading and Listening\n\n-Adjust font styles, line spacing, margins, page animations, narration speed, background color, and screen brightness for more comfortable reading.\n-Add notes, bookmarks, and highlights as you read or listen. Share favorite highlights with friends across social networks. \n-Set the Sleep Timer to coordinate audiobook listening to your schedule. \n-Download, read, or listen to free eBook and audiobook samples, and add favorites to your Wishlist.\n-Organize your Library into custom shelves.\n-Search inside the book and look up words with the in-app dictionary.\n-Store content on your device or in the cloud.\n-Use ArticleView™ to easily read magazine articles using customized font settings.\n-Accessible to blind and low vision users leveraging Apple assistive technology, including screen magnification and VoiceOver.\n\n\nOne App for the Whole Family\n\n-With Profiles, family members can share an account while still enjoying their own customized experience.\n-Share eBooks, audiobooks, magazines, newspapers and comics across Profiles—no need to purchase again! Reading position, bookmarks, highlights and notes are saved to each Profile.\n-Child Profiles allow parents to control what each child sees.",
+      "android_package_name": "com.barnesandnoble.app",
+      "ios_bundle_id": "com.barnesandnoble.B-N-eReader",
+      "title": "Barnes & Noble",
+      "domain_name": [
+        "http://www.nook.com/nookapp",
+        "https://www.nook.com"
+      ],
+      "website": "http://www.nook.com/nookapp",
+      "developer": "Barnes&Noble",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/8kFZnnyerG0IhAB5iUfgaTbyBIFjxR09jJ_Dm15d5C6ioh0c1R3kccGvIol_4sRYTzc",
+      "icon_72": "https://play-lh.googleusercontent.com/8kFZnnyerG0IhAB5iUfgaTbyBIFjxR09jJ_Dm15d5C6ioh0c1R3kccGvIol_4sRYTzc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.newegg.app"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Upgrade your online shopping with Newegg! We are the largest electronics e-retailer in North America and we sell millions of products in 50 countries including USA, Canada, Saudi Arabia, Australia, United Kingdom and other countries. Browse through our large collection of product categories including Laptops, Desktop PCs, Graphics Card, Computer Components, Computer Systems, Monitors, Hard Drives, Memory, Accessories and many more. We provide great shopping experience from purchase to shipping delivery including excellent customer service.\n\nCool stuff you can do at your fingertips: \n    1. Track Order and Account status anywhere you go\n    2. PC Builder with compatibility filter. Build your PC has never been easier\n    3. Get notification whenever the shuffle is live and tap in to win\n    4. Never miss a deal or discount with push notifications enabled\n    5. Side-by-Side product comparison by price & feature\n    6. Live-stream and short videos for featured products  \n    7. Live Chat support \n    8. Maintain Wish list & more\n\nDiscounts & Deals\nAt Newegg, we are proud to offer our customers the highest quality merchandise at a great price. You can be sure that all of our products will be competitively priced, and you may find yourself constantly watching for our killer sales. Activate notifications on your phone so you can be the first to know about Newegg’s promotions or get pricing alerts about your favorite products. With Newegg's app you can follow our Daily Deals, Shell Shocker, or Newegg Flash sales\n\nIt’s time to download our app and start saving from today!!!",
+      "android_package_name": "com.newegg.app",
+      "ios_bundle_id": "com.newegg.iphone",
+      "title": "Newegg",
+      "domain_name": [
+        "https://www.newegg.com",
+        "https://www.newegg.com"
+      ],
+      "website": "https://www.newegg.com",
+      "developer": "Newegg Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/9o9By3LgW-2uNCk8lAeGCHFFBrJIFOGW13ULPgDqf7lHX9aLYgG4oAwUeaLwdSokGgEC",
+      "icon_72": "https://play-lh.googleusercontent.com/9o9By3LgW-2uNCk8lAeGCHFFBrJIFOGW13ULPgDqf7lHX9aLYgG4oAwUeaLwdSokGgEC=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.myntra.android"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Swipe, select & shop! It’s a fashion store on the go with the Myntra Mobile App. Shop for clothing, footwear, accessories and home furnishing for men, women and kids. Get all your favourite fashion brands and collections at the click of a button.\n\n\nGuaranteed 100% original products, hassle-free returns or exchanges, secure payments, EMI options. Also get great sign-up benefits and free shipping on your first order.\n\nBrowse through 5 Lakh + products from 2500 brands instantly on the Myntra shopping app. Explore the latest trends in lifestyle and shop from the biggest clothing store for Kurtis, Sarees, Shoes, T-shirts, Jackets, Jeans, Bags, Skirts, Dresses, Jewellery, Watches, Wallets, Footwear, Home Furnishing and much more.\n\nThe online collection of products includes\n\n•Men's shopping -  Watches, suits, shoes, T-shirts, shirts, trousers, gym wear, backpacks, wallets, sunglasses, casual shoes, sneakers, smartwatches, headphones, sports shoes from brands like Puma, Adidas, Nike, Reebok, Casio, Levis, Pepe, Fastrack, Hugo Boss, Raymonds, Wills Lifestyle, John Players, WROGN, HRX, Roadster, Flying Machine, Fossil, Red Tape & more\n\n• Women's shopping - Sarees, anarkalis, dresses, lingerie, party wear, watches, shrugs, jumpsuit, kurtis, tops, heels, sandals, sneakers, handbags,  accessories, jewellery, lipsticks, make-up, personal care & more. Shop from top brands like Forever 21, All About You, MANGO, Only, AND, W, Biba, Next, Vero Moda, Roadster, Esprit, Dressberry, Libas, AKS, Catwalk, Inc 5, Lavie, Hidesign, Michael Kors, Daniel Klein & more\n\n• Kid's shopping – Girl’s tops,  girl’s sandals, girl’s leggings, girl’s dresses, girl’s footwear, girl’s accessories, boy’s T-shirts, boy’s shorts, boy’s trousers, boy’s shirts, boy’s footwear, kid’s bags, kid’s winterwear. Shop from top brands like Gini & Jony, United Colors of Benetton, U.S. Polo Assn. Kids, Mothercare, Mini Club, adidas, Allen Solly Junior, Lilliput, Next, Puma, The Children’s Place\n\n\n• Home Furnishing - Bedsheets, cushion covers, blankets, towels, curtains, pillow covers, bath rugs & home décor. Shop from brands like Swayam, Spaces, Raymonds, & Portico New York.\n\nAPP FEATURES\n\n•Find products you love: Choose from a vast collection of over 5 Lakhs styles for men, women, teens & kids on our online clothing store\n\n•Refine your search based on popularity, discount, prices, colours, sizes & more using sort & filter features\n\n•Avail massive discounts: Get products at their best prices with integrated Myntra coupon codes in your account.  Get notifications on best deals & offers\n\n•Fast & secure checkout: Pay by cash-on-delivery, net banking or choose credit/ debit card options\n\n•View detailed product information with rich images & style notes from our fashion editors\n\n•Log-in seamlessly using Facebook & Google\n\n•Promise of timely delivery backed by an extensive delivery network\n\n•Wishlist collections: Save styles for later by adding to your wishlist straight from the app\n\n•Sharing made easy: Get style suggestions from your friends by sharing on WhatsApp, Facebook, Twitter, & email\n\n•Refer your friends & get huge benefits\n\n•Keep Active with Myntra Move: Get rewarded for tracking your steps on Myntra Move. The steps are tracked using your phone's Apple Health app.",
+      "android_package_name": "com.myntra.android",
+      "ios_bundle_id": "com.myntra.Myntra",
+      "title": "Myntra",
+      "domain_name": [
+        "http://www.myntra.com",
+        "https://www.myntra.com"
+      ],
+      "website": "http://www.myntra.com",
+      "developer": "Myntra Designs Private Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY",
+      "icon_72": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.adidas.app"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Sports",
+      "description": "YOUR ADIDAS - MORE THAN A SHOPPING EXPERIENCE. adidas puts you closer to the action with instant access to fashion releases, sneaker drops, and products that fit your personal style. Gear up this holiday season with exclusive online deals on clothes, shoes, and gear to keep you covered during the winter. Shop online, get athlete inspiration, stories, and app exclusives – all available on adidas.\n\nRunning, training, basketball, baseball, soccer or golf? The adidas app has what you need and more. Whether you’re putting time in time on the court, the gym, the golf course, or the track, adidas brings you the shoes and apparel to make the impossible, possible. adidas brings you exclusive savings and deal with our annual holiday sales, with savings on your favorite fitness fashion.\n\nFind motivation from collaborations with Patrick Mahomes, James Harden, Stella McCartney, and more. adidas combines sports and fashion like never before.\n\nStreetwear more your thing? The adidas app allows you to easily build your own 3-Stripes style. Discover Originals clothes and shoes that draw from adidas archives to shape the looks of today. With fitness fashion lines for men, women’s clothing, and kids’ apparel, adidas keeps it fresh season after season.\n\nUnlock the best of adidas and more of what you love with adiClub. Become a member and earn points you can use towards the next sneaker release, sports clothes, or fashion fit. Level up and unlock even more exclusive rewards by completing your profile, shopping, and leaving reviews. With free shipping and returns, adidas is always bringing you the best of adiClub benefits, all the time.\n\nBe the first to discover exclusive sneakers, sportswear collections, and the best in Originals streetwear. Download today and discover online shopping that’s all in or nothing.\n\nADIDAS FEATURES\n\nEXCLUSIVE SHOES & SNEAKERS\n- Dive into collections of online shoes perfect for any sport or style\n- Shop shoes and sneakers from exclusive collaborations, only at adidas\n- Discover classic sneaker styles from adidas Originals like the iconic Samba\n\nSPORTSWEAR FOR EVERY ATHLETE\n- Discover clothes and gear perfect for your next workout or training session\n- Basketball, soccer, baseball, and more. adidas has the clothing you need to perform in style\n- Predator to Ultraboost, there’s something for every athlete and activity\n\nADIDAS ORIGINALS & EXCLUSIVES\n- Shop legendary clothing from adidas with timeless pieces and styles\n- Discover clothes and shoes ranging from comfy lifestyle to fashionable streetwear\n- Enhance your 3-Stripe style with new releases and upcoming launches\n- Samba, Gazelle, Stan Smith, and more icons find the best of yesterday and tomorrow on adidas\n\nALL IN, ALL THE BENEFITS\n- Shop for online shoes and apparel with exclusive adiClub member benefits\n- Gain exclusive access to shop and vote on members-only sneakers, clothing and products\n- Unlock discounts, limited edition drops, and invitations to special events\n- Access free premium training apps, exclusive offers, and more great rewards\n- Be the first to access our holiday deals on clothes and shoes\n\nCONVENIENT ONLINE SHOPPING\n- Get alerts when your favorite adidas sneakers and clothes go on sale\n- Order and buy in just a few taps\n- Get free standard shipping with adiClub\n- Track your orders and purchase history for easy returns\n- Gain access to special offers, rewards, gifts, and gear\n\nJoin adidas today and discover the latest in sportswear, streetwear, and fashion all in one.\n\nWith adidas, “You Got This.” Download today.",
+      "android_package_name": "com.adidas.app",
+      "ios_bundle_id": "com.adidas.app",
+      "title": "Adidas",
+      "domain_name": [
+        "https://www.adidas.com/us/adidasapp",
+        "https://www.adidas.com"
+      ],
+      "website": "https://www.adidas.com/us/adidasapp",
+      "developer": "runtastic GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/iPzanFznFsaq0QPJ320jnt5MkFcs6katVZXW5JWTM7Mrdt9oOETeLVJBEf6Lpy52MIys",
+      "icon_72": "https://play-lh.googleusercontent.com/iPzanFznFsaq0QPJ320jnt5MkFcs6katVZXW5JWTM7Mrdt9oOETeLVJBEf6Lpy52MIys=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.flipkart.shopsy"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "What is Alibaba.com?\nAlibaba.com is one of the world’s leading B2B ecommerce marketplaces. Our app allows you to source products from global suppliers, all from the convenience of your mobile device.\n\nPurchase with confidence\nOur Trade Assurance service protects your orders and payments on the platform, letting you purchase securely and conveniently with extended support.\n\nCustomizable products\nMeet suppliers with years of customization and order fulfillment experience for sellers on Amazon, eBay, Wish, Etsy, Mercari, Lazada, and more.\n\nEasy sourcing\nDiscover millions of ready-to-ship products in every industry category. Tell suppliers what you need and get quotes quickly with Request for Quotation services.\n\nFast shipping\nAlibaba.com partners with major freight forwarders to provide land, sea, and air shipping solutions with on-time delivery services, end-to-end tracking, and competitive prices.\n\nLivestreams and factory tours\nInteract with manufacturers in real-time via product demos and tours of manufacturing facilities, providing insight and oversight on how your products are made.\n\nPopular categories and trade shows\nSource a wide range of popular items – from trending consumer goods to raw materials – and join our annual trade shows for niche product highlights and discounts.\n\nQuality control\nChoose Alibaba.com Production Monitoring and Inspection Services to reduce production delay and quality risks.\n\nDiscounts and promotions\nUnlock new discounts and promotions from featured manufacturers and suppliers.\n\nStay updated\nUse the Alibaba.com app to stay up to date on new products and promotions from your favorite suppliers.\n\nLanguage and currency support\nAlibaba.com supports 16 languages and 140 local currencies. Use our real-time translator to communicate with sellers in your mother tongue.",
+      "android_package_name": "com.flipkart.shopsy",
+      "ios_bundle_id": "com.alibaba.sourcing",
+      "title": "Shopee",
+      "domain_name": [
+        "http://www.alibaba.com",
+        "https://www.alibaba.com"
+      ],
+      "website": "http://www.alibaba.com",
+      "developer": "Hangzhou AliBaba Advertising Co., Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ornb14bIU5LtffQy9wwf1bjPP27s7sLG9VyXE5mJyf4Hy585RZcOTERMd93Apjunjzw",
+      "icon_72": "https://play-lh.googleusercontent.com/Ornb14bIU5LtffQy9wwf1bjPP27s7sLG9VyXE5mJyf4Hy585RZcOTERMd93Apjunjzw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "us.zoom.videomeetings"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Thousands of things to choose from, to suit any taste — all this, plus free shipping, available now on Joom!\n\nJoom is an app for online shopping, used by over 250 million customers from across the world. Our web stores have all sorts of products from the United States, China, South Korea, Japan and other countries, all at the best possible prices.\n\nJoom’s worldwide delivery is always free! \n\nWe know how important it is to get your orders on time, and we’re constantly working on the reliability and speed of our delivery service. You can easily and conveniently track your shipment’s progress, without leaving the app!\n\nOn Joom, you can buy just about anything - clothes, shoes, cosmetics, health products, household goods, games and hobbies.\n\nAs well as gadgets, appliances  and even tools and spare parts.\n\nAnd that’s not all! Our online marketplace has such a wide assortment of goods, you’ll always be able to find what you’re looking for!\n\nOrder products from known and trusted brands - online.\nCheck Joom every day for new sales, product lineups, and promos!\nBuy items with unbelievable discounts.\nPlay games and get coupons! \nCheck out reviews by bloggers, and read honest feedback from real buyers.\nPay with your bank card, or whatever payment system is convenient for you. \nContact our customer support any time! We speak your language! \nMoney back guaranteed if your parcel doesn’t arrive on time or is damaged in shipping.\nIf you move to a different city, or even halfway across the planet – we’ll be right there with you!\n\nGive us a try today! \n\nIf you’d like to share something with us, you can reach us at — support@joom.com \n\nJoom is an international online marketplace, registered in Latvia as SIA JOOM — our site’s web version is available at www.joom.com.\n\nPaldies— that’s how they say «thank you» in Latvia.",
+      "android_package_name": "us.zoom.videomeetings",
+      "ios_bundle_id": "com.joom.joom",
+      "title": "Joom",
+      "domain_name": [
+        "https://www.joom.com",
+        "https://www.joom.com"
+      ],
+      "website": "https://www.joom.com",
+      "developer": "Joom",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA",
+      "icon_72": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.aswat.carrefouruae"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "The MAF Carrefour app is your first choice when it comes to shopping for groceries, electronics, household items, appliances, personal care, beauty, and more. Choose from a very large variety of fresh foods from all around the world that are ready to be delivered to your doorstep.\n\nInstant Shopping\nEnjoy instant shopping with just a couple of taps on your smartphone with the MAF Carrefour app. You find it, you love it, and you buy it.\n\nFresh Groceries & Organic Food\nIf you don’t have the time to go running around for the item you need, you can get it on the app. Whether you are looking for fresh food, vegetables, fruits, meat, chicken or anything else, it is available for purchase. And you can also buy them in bulk.\n\nIf you want to buy electronics, you can read all the specifications and features on the MAF Carrefour app and pick the one that suits your budget and needs.\n\nNutritional Information for All Foods\nShopping for food online is as easy as buying it from the store. All our food products have nutritional values displayed under them on the app, so just like you read through these before you buy groceries in the supermarket, you can do the same with online shopping on our app.\n\nA Wide Range of Products\nWe offer a wide spectrum of products from A to Z, starting from fruits and vegetables picked up fresh for you, food cupboard items and organic products, beauty products from well-known brands, fashion that keeps you warm in winter and light in summer, as well as health, personal care, fitness & wellness items. We also offer the best value for baby care products like wipes, diapers, baby formula, and even kid strollers and necessities to raise your angels. Enjoy online promotions and exclusive shopping deals on electronics, along with a wide range of laptops, smartphones, and large and small appliances for your home.\n\nGo Paperless\nOrder your groceries online now and pay zero cash by using your Carrefour wallet to make payments. You can easily top up Carrefour Pay using your credit or debit card.\n\nEarn Loyalty Points\nWith SHARE & MyCLUB memberships you can enjoy countless offers as well as earn and redeem point on every purchase.\nBenefits we deliver to you:\n- Mobile shopping has never been easier with our app designed for your ease of use\n- Create your shopping list with the MAF Carrefour app instead of writing it down\n- Get your grocery delivered in 60 min using Carrefour NOW on eligible items\n- Locate all Carrefour hypermarkets and supermarkets near you with our store locator\n- Available in both English and Arabic languages\n- Get exclusive offers MyCLUB or SHARE membership and earn loyalty points\n\nBuying your groceries has never been easier! Download the MAF Carrefour app today and enjoy the best online shopping experience you will ever have.\n* The features mentioned above are not available in all countries and regions.",
+      "android_package_name": "com.aswat.carrefouruae",
+      "ios_bundle_id": "com.carrefouruae.Carrefour-UAE",
+      "title": "Carrefour",
+      "domain_name": [
+        "https://www.carrefouruae.com",
+        "https://www.carrefouruae.com"
+      ],
+      "website": "https://www.carrefouruae.com",
+      "developer": "MAF HYPERMARKETS L.L.C (AL SHANDAGHA BR)",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/MWadEoaHru4kzqyGIxnkftmdvwa-Np4LKRb3zf2PEiyo7ByXAGoGJG0Sa2EdFPlnnVLf",
+      "icon_72": "https://play-lh.googleusercontent.com/MWadEoaHru4kzqyGIxnkftmdvwa-Np4LKRb3zf2PEiyo7ByXAGoGJG0Sa2EdFPlnnVLf=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.app.pepperfry"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "In the  Bed Bath and Beyond app you’ll be able to streamline your shopping experience so you can achieve your dream home faster and easier than ever.\n\nSearch, browse and shop thousands of home good items right from the palm of your hand. Whether you are furnishing your entire home or just searching for a great deal or a gift Bed Bath & Beyond is the place to make shopping simple and affordable.\n\nWith the Bed Bath & Beyond app, you can:\n\n• Shop for furniture and decor with app-exclusive deals and discounts.\n• Bookmark your stylish finds in a wish list and share them with friends.\n• Get instant alerts on price drops for items you're interested in.\n• Store all your coupons in one convenient place.\n• Check out quickly and easily with saved logins and payments.\n• Track your orders from start to finish.\n\nDownload the Bed Bath & Beyond app today to experience more for every room, every home, & every budget.",
+      "android_package_name": "com.app.pepperfry",
+      "ios_bundle_id": "com.overstock.app",
+      "title": "Bed Bath & Beyond",
+      "domain_name": [
+        "https://www.bedbathandbeyond.com",
+        "https://www.bedbathandbeyond.com"
+      ],
+      "website": "https://www.bedbathandbeyond.com",
+      "developer": "Beyond, Inc. (App)",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Tyg59j7jidTX3Vc2CXR_iz7EWeJLA1nUNbU9TRydh_TYiDLiKdePYAom6StN3l6Ymw",
+      "icon_72": "https://play-lh.googleusercontent.com/Tyg59j7jidTX3Vc2CXR_iz7EWeJLA1nUNbU9TRydh_TYiDLiKdePYAom6StN3l6Ymw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.urbanoutfitters.android"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Urban Outfitters is a lifestyle retailer dedicated to inspiring customers through a unique combination of product, creativity and cultural understanding.\n\nThe UO app brings the best of Urban Outfitters to your mobile device:\n\n\n\n- UO Rewards — Get special offers and discounts, earn exclusive rewards and enter to win prizes as a UO Rewards member.\n\n- Wish Lists — Create, customize and share up to 5 UO Wish Lists.\n\n- Shop — Find the newest arrivals, exclusive collections and more. Explore our expanded product selection with enhanced search and express checkout. Easily shop by look or favorite brand from any product page and watch videos of select products.\n\n- Discover — Explore our curated feed for the latest trends and looks, plus get real-time inspiration from our @urbanoutfitters community.\n\n- Account — Keep track of your orders, get delivery details, access previous purchases and more. Locate and bookmark nearby UO stores using our Find a Store feature.",
+      "android_package_name": "com.urbanoutfitters.android",
+      "ios_bundle_id": "com.uo.StoreLocator",
+      "title": "Urban Outfitters",
+      "domain_name": [
+        "https://www.urbanoutfitters.com",
+        "https://www.urbanoutfitters.com"
+      ],
+      "website": "https://www.urbanoutfitters.com",
+      "developer": "Urban Outfitters",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/lPKEePDzkwfh30tzp6WKRAqxzzFZ-Mw-rOZVDRWXuFxiPT6tG_3uZjPoANVqjqCmlao",
+      "icon_72": "https://play-lh.googleusercontent.com/lPKEePDzkwfh30tzp6WKRAqxzzFZ-Mw-rOZVDRWXuFxiPT6tG_3uZjPoANVqjqCmlao=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.atg.bloomingdales"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Tap into your personal style with the Bloomingdale’s app, packed with features that make it easier than ever to shop on-the-go: \n•\tGet exclusive app-only offers and products \n•\tTrack your most-coveted items—and get instant alerts if they go on sale \n•\tFilter your finds to see what’s available today at your local store \n•\tAccess in-store guides and convenient shopping tools \n•\tStay in the know with personalized updates on sales, trends and events \n•\tDiscover new arrivals from top and emerging labels \n•\tEarn Loyallist points and rewards while you shop \n•\tManage your registry, Wish Lists, credit card account& more!\n\nNote: Continued use of GPS running in the background can dramatically decrease battery life.",
+      "android_package_name": "com.atg.bloomingdales",
+      "ios_bundle_id": "com.bloomingdales.mobile",
+      "title": "Bloomingdale's",
+      "domain_name": [
+        "http://www.bloomingdales.com",
+        "https://www.bloomingdales.com"
+      ],
+      "website": "http://www.bloomingdales.com",
+      "developer": "Bloomingdale's Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/urQgeYO3b-G4fW7Hsv7EShvOC0T8B4BNk2mDshulABs1IDmrouJB50zt2Upj5aC9OwiG",
+      "icon_72": "https://play-lh.googleusercontent.com/urQgeYO3b-G4fW7Hsv7EShvOC0T8B4BNk2mDshulABs1IDmrouJB50zt2Upj5aC9OwiG=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "co.targetboardboardprep"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Enjoy the easiest way to shop and save from anywhere, including on your iPad, when you download the Target app today! Here are a few ways to use the app whether you’re in-store or on-the-go: \n\nLet the deals find you with Target Circle\nOur loyalty program, Target Circle, has you covered with automatic deals, extra savings, exclusive partner perks and so much more. You can even get Same Day Delivery right to your door in as little as one hour with Target Circle 360™.  \n\nWe'll bring it all to your car with Drive Up\nDrive Up, an exclusive offering only in the Target app, lets you stay in the comfort of your car while we bring your order (and your Starbucks coffee!) right to you. Have returns? No problem! You can process your items from the app and we’ll take grab them for you too. \n\nShop with ease on your next Target run\nReady to go to your local Target? Organize and plan your next Target Run with a personal list, favorite the items you can’t get enough of, and find it all with store maps and aisle locations. You can even scan barcodes for more item information, and use the Wallet tab for a fast and easy check out.\n\nThe app is here to make it easier to experience all that Target has to offer you. Download from your app store today!",
+      "android_package_name": "co.targetboardboardprep",
+      "ios_bundle_id": "com.target.Target",
+      "title": "Target",
+      "domain_name": [
+        "https://www.target.com/c/target-app/-/N-4th2r",
+        "https://www.target.com"
+      ],
+      "website": "https://www.target.com/c/target-app/-/N-4th2r",
+      "developer": "Target",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/uQDaJVMMuwcGYvwMtEyzm1Xls1I4sDzzo9VVg7I-MG_XBPlpSpsrjnSEh8alzUQemMM",
+      "icon_72": "https://play-lh.googleusercontent.com/uQDaJVMMuwcGYvwMtEyzm1Xls1I4sDzzo9VVg7I-MG_XBPlpSpsrjnSEh8alzUQemMM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ebates"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Stack Cash Back on top of coupons when you use the Rakuten app to get the best deal!\n\nBecome one of the 20 million users who use Rakuten to get Cash Back\n\nShop 3,500+ stores all in one app\n\nHere's how it works:\n1. Choose a store to start shopping.\n2. Earn Cash Back after you make a purchase.\n3. Get paid via PayPal or check.\n...and repeat!\n\nStack Cash Back with sales, coupons, free shipping, loyalty programs, and more! There's unlimited Cash Back every time you shop in the app.\n\nWe've paid our members over $3 billion to date. What are you waiting for?\n\n*Based on TrustPilot reviews as of 2/12/24\n\nStay in the loop for the latest ways to earn & save with Rakuten:\n\nWebsite: www.rakuten.com\nFacebook: www.facebook.com/rakuten\nInstagram: www.instagram.com/rakuten\nTwitter: www.twitter.com/rakutenus\nPinterest: www.pinterest.com/rakuten",
+      "android_package_name": "com.ebates",
+      "ios_bundle_id": "com.ebates.EbatesMobile",
+      "title": "Rakuten",
+      "domain_name": [
+        "https://www.rakuten.com",
+        "https://www.rakuten.com"
+      ],
+      "website": "https://www.rakuten.com",
+      "developer": "Ebates Shopping.com, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/uGVNriuBxLDBQ05TCUvrm5n4phNFS_iGXeULlwfM0gPnf63yhTbBdRnQJlVrRcD1Rx4",
+      "icon_72": "https://play-lh.googleusercontent.com/uGVNriuBxLDBQ05TCUvrm5n4phNFS_iGXeULlwfM0gPnf63yhTbBdRnQJlVrRcD1Rx4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.walmartmexico.wallet"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Sam’s Club. Discover all the perks of being a member with the app. Download today!\n\nSave time and shop easier every day with the Sam’s Club app. Make the most of your membership with easy online shopping for everything from everyday essentials to premium products. With a Sam’s Club Membership you can conveniently shop for fresh groceries, savory snacks, pharmacy prescriptions and more.\n\nHate waiting in line? Thanks to Sam’s Club you can skip the checkout line in the club with convenient Scan & Go™ shopping. Simply shop, scan and pay all in the app. Or schedule your order for Curbside Pickup at a time that works for you. Just drive up and get on with your day! While you’re there, save time at the pump. Pay directly in the app for your fuel, at member’s-only prices. Join and see how Sam’s Club makes it easy for you to do more with your day.\n\nSam’s Club also has you covered with prescription management, transfers and refill requests all available in the app. Plus, schedule immunization appointments and more health services. Conveniently get what you need most without having to leave the app.\n\nYour Sam’s Club membership is filled with perks that help you spend less time shopping and more time doing the things you love.\n\nDownload today and get started!\n\n\nSo many benefits!\n\nPremium quality at members-only prices.\n\n· Exclusive Member’s Mark™ brand brings amazing value to help you live your best life.\n\n· Everything you need from home essentials and groceries to snacks and medications.\n\n· Party prep? Cookout celebration? Sam’s Club has you covered.\n\n\nFast & easy ways to shop.\n\n· Skip the checkout line when you shop the club with the Scan & Go™ app feature.\n\n· Get fresh Delivery from Club right to your doorstep. You choose same-day, next-day or fastest Express service. And free for Plus members on eligible $50 purchases.*\n\n· Drive up and let us load your order with Curbside Pickup. Free for Club members on eligible $50 orders and always free with Plus.*\n\n· Shop in the app 24/7 and ship products directly to your home.*\n\n\nIn-app Pharmacy.\n\n· Easily transfer prescriptions directly in the app.\n\n· Purchase and refill prescriptions.\n\n· Track prescriptions for the whole family, including your pets.\n\n· Schedule immunizations at your club Pharmacy. Walk-ins also welcome!\n\n\nDownload the app and get the most from your membership today.\n\n*Terms and fees may apply. See SamsClub.com/TermsAndConditions for details.",
+      "android_package_name": "com.walmartmexico.wallet",
+      "ios_bundle_id": "com.samsclub.samsapp",
+      "title": "Sam's Club",
+      "domain_name": [
+        "http://www3.samsclub.com",
+        "https://www3.samsclub.com"
+      ],
+      "website": "http://www3.samsclub.com",
+      "developer": "Walmart Stores Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bzCzIDIMjdyKz974niDyOfJkep0DPhfjTV3enay-y_BtiBlWvXjFDBRiGBWVcJqyVAA",
+      "icon_72": "https://play-lh.googleusercontent.com/bzCzIDIMjdyKz974niDyOfJkep0DPhfjTV3enay-y_BtiBlWvXjFDBRiGBWVcJqyVAA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.kroger.wellnessfestivals"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Looking for a faster, easier, more rewarding shopping experience? Save time and money with the Kroger app. It puts convenience, savings and rewards at your fingertips. Simply download the app, create an account and link your Plus Card to access all these great benefits:\n\n · Create and track Pickup, Delivery and Ship orders right from the app\n · Shop an extended aisle of 1,000s of products from our trusted third-party sellers\n · Use Kroger Pay at in-store checkout – one scan applies your Plus Card and payment\n · Easily build your online shopping list, and use it to shop in-store or to place your online order\n · View your weekly ads and quickly add sale items or specials to your shopping list\n · Clip digital coupons and use them to save in-store and online\n · Get Cash Back deals to earn money on items you already buy\n · Discover even more savings with exclusive promotions, personalized offers and bonus rewards\n · Refill and track the status of your Kroger Pharmacy prescriptions directly from your phone or tablet\n · Check your fuel points\n · Use our locator to find the closest store or Fuel Center\n · View your purchase history and use it to easily reorder your favorite products\n · Add your Plus Card to Wallet for iPhone.\n\nTo use the Kroger app, you'll need a Kroger digital account. You can create one and link your Plus Card through the app. Don't have a Plus Card? You can add a new one when you create your digital account.",
+      "android_package_name": "com.kroger.wellnessfestivals",
+      "ios_bundle_id": "com.kroger.krogermobile",
+      "title": "Kroger",
+      "domain_name": [
+        "https://www.kroger.com/topic/sign-on-and-save-more",
+        "https://www.kroger.com"
+      ],
+      "website": "https://www.kroger.com/topic/sign-on-and-save-more",
+      "developer": "The Kroger Co.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2wraEhCqx0F1dkjSHS1sbzRBNttd5__-koKE-N5tDxtkuY7pVIPAqnyDqH2pG2jc-rs",
+      "icon_72": "https://play-lh.googleusercontent.com/2wraEhCqx0F1dkjSHS1sbzRBNttd5__-koKE-N5tDxtkuY7pVIPAqnyDqH2pG2jc-rs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nextbillion.groww"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "With Grover, you can rent over 2,000 tech products monthly—for a fraction of the purchase price. Forget loans and experience the freedom of renting.\n\nWhether it’s iPhones, MacBooks, or game consoles—rent the tech hits of the most popular brands for 1, 3, 6, or 12 months and send them back for free when the new model comes out. With Grover you always stay up to date with the latest technology and only pay for a device if you actually use it. Outdated technology no longer has to acidify in your drawer and electronic waste is minimized.\n\nHere’s how it works:\n1) Choose your desired product and minimum rental period\n2) Jump for joy when your Grover package is delivered\n3) Prolong flexibly, send back for free, or buy\n\nYour advantages:\n2000+ TECH PRODUCTS FROM 10 CATEGORIES\nFrom smartwatches to cameras to tablets—at Grover you’ll find the largest selection of tech devices that you can rent monthly.\n\nNO DEPOSIT, NO HIDDEN COSTS\nSimply pay the first month's rent and we’ll ship your device. Of course, the rental doesn’t start until you receive it.\n\nGROVER CARE DAMAGE COVERAGE\nDid your device take a tumble? Grover Care covers up to 90% of damages. Normal signs of use are completely covered.\n\nFLEXIBLE RENTAL PERIOD\nChoose a minimum rental period of 1, 3, 6, or 12 months—the longer, the cheaper the monthly price. You can switch to a cheaper term at any time or continue to rent at the same price and cancel monthly.\n\nFREE RETURNS\nAfter your minimum rental period has expired, you can cancel your rental at any time. To do this, simply send your product back free of charge one day before the next payment date.\n\nLESS TECH WASTE\nInstead of hoarding your purchased technology unused at home as before, simply send your rental products back. We professionally refurbish them for the next renter’s use.\n\nOur tip-top tech promise:\nEvery device you rent from Grover is either new or like new—and always technically perfect. That’s the Grover Great Condition Promise.\n\nQuestions, feedback, or suggestions?\nYou can reach us anytime at help@grover.com",
+      "android_package_name": "com.nextbillion.groww",
+      "ios_bundle_id": "com.groverapp.ios",
+      "title": "Grover",
+      "domain_name": [
+        "https://www.grover.com",
+        "https://www.grover.com"
+      ],
+      "website": "https://www.grover.com",
+      "developer": "Grover Group GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/LHjOai6kf1IsstKNWO9jbMxD-ix_FVYaJSLodKCqYQdoFVzQBuV9z5txxzcTagQcyX8",
+      "icon_72": "https://play-lh.googleusercontent.com/LHjOai6kf1IsstKNWO9jbMxD-ix_FVYaJSLodKCqYQdoFVzQBuV9z5txxzcTagQcyX8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.istore.app"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "The Apple Store app is the most personalized and seamless way to browse, learn about, and shop the latest Apple products, no matter where you are.\n\n\nDISCOVER WHAT’S NEW IN THE PRODUCTS TAB\n\nExplore product recommendations that are tailored to you, and even shop for accessories that are compatible with products you already own.\n\nBrowse the latest iPhone, iPad, Mac, Apple Watch, and more. Discover the latest seasonal offerings, and exclusive ways to save — available only at Apple.\n\nGet shopping support from a Specialist via phone, over text, or locate your nearest store and visit us in-person.\n\n\nFIND YOUR MOST RELEVANT INFORMATION IN THE FOR YOU TAB\n\nSave and organize your favorites, and easily continue shopping where you left off with Recent Activity.\n\nConveniently track your order status every step of the way, and be ready when it arrives.\n\nGet personalized notifications and be the first to know about new announcements and offers.\n\n\nMAKE THE MOST OF THE DEVICES YOU ALREADY OWN IN THE GO FURTHER TAB\n\nGet creative tips from our team with videos, sessions, and more.\n\nSign up and reserve your spot in a Today at Apple session at your local Apple Store.\n\nEasily connect with us to find the right support options for any technical or account issues.\n\n\nA BETTER WAY TO SHOP\n\nManage your account information including stored payments, shipping address, AppleCare status, as well as your Account Balance.\n\nAdd a personal touch with free custom engraving. And even use your Memoji — an Apple Store app exclusive feature. \n\nGet answers to common questions with Specialist-led videos that can help walk you through your options during your purchase.\n\nUtilize AR to see how our products will look in your space.\n\nWhen you visit an Apple Store, quickly scan and pay for accessories with Self-Checkout, or hop into in an upcoming Today at Apple session.\n\n\n- \n\nThe app may ask permission to use the TrueDepth camera to help with Apple Vision Pro fit.\n\nNote that the Apple Store app and certain features are available only in select countries.\n\nHow your data is used:\nTo create a personalized shopping experience, we’ll collect and use data about your device, Apple account, Apple Store shopping activity, and Apple subscriptions. To change or modify any of these settings, go to Account > Settings",
+      "android_package_name": "com.istore.app",
+      "ios_bundle_id": "com.apple.store.Jolly",
+      "title": "Apple Store",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/blL5s0UBFeBneesadth9Me1Da-AOxJhXL3jIHIqxA4UaxKldoSDRUtkVs8IqW1XYaAA",
+      "icon_72": "https://play-lh.googleusercontent.com/blL5s0UBFeBneesadth9Me1Da-AOxJhXL3jIHIqxA4UaxKldoSDRUtkVs8IqW1XYaAA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.snapdeal.main"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Snapdeal- Trusted by 10 Crore+ Indian Shoppers\n\nAmong India’s top online marketplaces, the Snapdeal shopping app offers wide range of products in Men’s fashion, Women’s fashion, ethnic wear, home decor, beauty products, kitchenware for all your needs. Shop online on Snapdeal and get a 10% discount on your first app order. \n\n*Perks of choosing Snapdeal*\n\n• Lowest Prices Ever! Clothes and fashion products starting from Rs. 69 only!\n• Free Delivery- Get free delivery on all orders\n• 99 Store - Get your haul starting ₹99! Wear your style under a budget\n• Daily Offers - Don’t wait for price drops, Sale prices everyday\n• Cash on Delivery - Buy now, pay after the delivery from the comfort of your home\n• Easy Returns - Return your products from within 7 days of delivery\n• 100% Secure Payments - We assure that the payments are 100% secure\n• Track Order - Easily track your order on the Snapdeal app, anytime, anywhere!\n• Mode of Payment - Pay using Credit/Debit, EMI, Net Banking, UPI and COD\n• All Trendy Essentials - Shop the latest fashionable clothes for men, women and kids!\n\nTo get low price fashion products, you don’t have to compromise on the quality. Get good-quality products from brands of your choice on our shopping app. Snapdeal lets you shop online at low prices and get the best deals every day. \n\nWhat can you find on Snapdeal?\n\nWomen’s Fashion - Women’s clothing starting at ₹149 only! Buy kurtis online, dresses for women, designer ethnic wear, party wear, winter fashion, and much more. \n\nMen’s Fashion - Men's clothing starting at just ₹159. Buy suits online, ethnic wear, sportswear, winter jackets, denim, sweatshirts, footwear, boots, and much more from your preferred brands.\n\nWinter Essentials - Buy all the winter essentials to cozy up these winters. Get hoodies, sweatshirts, full sleeve tops, winter accessories for him & her under ₹499.\n \nBeauty products - Shop all kinds of beauty, skincare, hair care, and personal hygiene products online. Buy makeup starting at ₹69 only.\n\nHealth and Daily Well-Being - Order online all health essentials like nutrition supplements, general health products, and well-being products from all-in-one online shop.\n\nHome Decor - Start your home decor journey with products starting from ₹79 only. Order home furniture, tools, hardware & more from this online marketplace.\n\nToys & Kids’ Fashion - Online shopping for kids made easy with Snapdeal. Buy kids' toys, footwear, bicycles for children, baby care, and baby essential clothing, along with stationary items for kids. \n\nKitchen appliances - Get the best shopping deals on kitchenware like mixers, grinders, induction tops, air fryer, dining and serving cutlery etc. \n\nElectronics - Order Bluetooth headphones, wireless speakers, and audio-video accessories online on Snapdeal.\n\nWhat are you waiting for? End your shopping hassles today and get pocket-friendly deals on every purchase you make. Whether you are looking for women clothing, dresses for women, men's clothing, or designer ethnic wear, Snapdeal got you. \n\n\nWhy download multiple shopping apps to shop online? Download Snapdeal—your one-stop shop app for all the essentials today. \n\nFor any queries and support, reach out to our team at apphelp@snapdeal.com",
+      "android_package_name": "com.snapdeal.main",
+      "ios_bundle_id": "com.snapdeal.SnapDeal2",
+      "title": "Snapdeal",
+      "domain_name": [
+        "https://www.snapdeal.com",
+        "https://www.snapdeal.com"
+      ],
+      "website": "https://www.snapdeal.com",
+      "developer": "Jasper Infotech Private Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/lz65piZBbp2cd3HHOh43Td9HeDB6CKDJCkLo8hXEyjptUwCeBHki08g58FUa1AbfZvE",
+      "icon_72": "https://play-lh.googleusercontent.com/lz65piZBbp2cd3HHOh43Td9HeDB6CKDJCkLo8hXEyjptUwCeBHki08g58FUa1AbfZvE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.woolworths.mobile"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "The Everyday Mobile from Woolworths app is the simplest way to manage your Everyday Mobile plan. Check your usage, recharge your Prepaid service, download and view your Bills, buy an Add-on for your service, set up Auto-recharge or chat to us if you have a question – it’s all at your fingertips and in one place!\n\nLatest features: \n- eSIM - change from a physical SIM card to an eSIM for compatible devices\n- Digital Change of ownership - securely transfer the ownership of a single service account to another person\n- New Search bar - just start typing and we’ll show you where to find what you’re looking for\n- Data Gifting - for eligible plans, gift up to 50% of your data per month\n- Smart Card will show you things you need to know \n- Payment Centre lets you manage your card and payments\n\nHave any questions? Get support directly from the app at any time! We are here to help.\n\nTo use the app you will need your username and password that you selected when activating your service online at www.everyday.com.au/mobile\n\nThe Everyday Mobile from Woolworths app is free to use, but charges may apply to download the app.\nStandard data charges will apply when using the app from your Everyday Mobile from Woolworths service.\n\nView the Woolworths privacy policy here https://www.woolworths.com.au/Shop/Discover/about-us/privacy-policy",
+      "android_package_name": "com.woolworths.mobile",
+      "ios_bundle_id": "com.woolworthslimited.connect",
+      "title": "Woolworths",
+      "domain_name": [
+        "https://www.woolworths.com.au",
+        "https://www.woolworths.com.au"
+      ],
+      "website": "https://www.woolworths.com.au",
+      "developer": "Woolworths Group Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Gj_SLrIjzl4MERxDUQri8KfhhYBjaHBpLPQuhU6EHORIvwkbxW9f4EF2NSwvo14Mkeg",
+      "icon_72": "https://play-lh.googleusercontent.com/Gj_SLrIjzl4MERxDUQri8KfhhYBjaHBpLPQuhU6EHORIvwkbxW9f4EF2NSwvo14Mkeg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bigbasket.mobileapp"
+      },
+      "cat_key": "SHOPPING",
+      "cat_keys": [
+        "SHOPPING",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "bigbasket: A TATA Enterprise\n\nIntroducing bigbasket now: Get your groceries delivered in 10 minutes. Choose from 20000+ grocery essentials. Available only in select cities.\n\nbigbasket is India’s leading online grocery shopping app, trusted by 10 million+ happy customers and counting!\n\nInstall the bigbasket app now and get your groceries delivered in 300+ cities and towns across India.\n\nShop from a vast range of 20,000+ products including farm-fresh fruits and vegetables, groceries, fish, chicken, meat, home & household essentials, pet care needs, organic products, beauty and hygiene, imported and gourmet & more at the best prices. Enjoy hassle-free online grocery shopping and home delivery at just a click of a button.\n\nFEATURES AND SERVICES\n\nWhat to expect from us?\n\n* Wide range of products, including fresh fruits and vegetables: Choose from a vast collection of 20,000+ products across 1000+ national and international brands including Aashirvaad, Amul, Bisleri, Cadbury, Complan, Fresho, Haldiram, Himalaya, Horlicks, Kellogg’s, Lays, Lizol, Nandini, Nescafe, Nivea, Nutella, Patanjali, Saffola, Sunpure, Surf Excel, Vim, Zespri to name a few. And yes, we have a full range of fresh fruits and vegetables, procured directly from farmers!\n\n* Enjoy low prices and great offers: Buy at low prices with great offers including discounts, bundle pack offerings, promotions.\n\n* Fast and Secure Checkout: Pay by UPI, net-banking, credit and debit cards options and e-wallets.\n\n* Assured quality: We source most of our fruits, vegetables and private label staples (bb Royal, bb Popular) directly from farmers.\n\n* Search in 7 languages: Our app supports searching for items in seven regional languages. Search for “vendakkai” or “bhindi” or “ladies finger”, we’ll get it right automatically.\n\n* Easy search options: Easily shop from your past purchases with the help of SmartBasket, else use our various search options: scan the bar code search, give voice commands, use filters on categories or brands.\n\nFEEDBACK / APP SUGGESTIONS:\nAt bigbasket your shopping experience is our priority and we would love to know how we can improve our app as well as services. If you have any suggestions to improve our app, please mail us at productteam@bigbasket.com. For any inputs on our service we are at customerservice@bigbasket.com, https://www.facebook.com/Bigbasketcom or 18601231000.",
+      "android_package_name": "com.bigbasket.mobileapp",
+      "ios_bundle_id": "com.bigbasket.mobileapp",
+      "title": "BigBasket",
+      "domain_name": [
+        "http://bigbasket.com",
+        "https://bigbasket.com"
+      ],
+      "website": "http://bigbasket.com",
+      "developer": "SUPERMARKET GROCERY SUPPLIES PRIVATE LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EuiZnkT8aEKjXDLX74DTp1VRIwWaeRa8Dvo-LOGAxy1FPQ8GzABTIRenksiM-A7Oz48g",
+      "icon_72": "https://play-lh.googleusercontent.com/EuiZnkT8aEKjXDLX74DTp1VRIwWaeRa8Dvo-LOGAxy1FPQ8GzABTIRenksiM-A7Oz48g=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

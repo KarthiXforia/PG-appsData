@@ -80,7 +80,7 @@ const PORT = 7003;
 // Route to process data
 app.get("/process", async (req, res) => {
   try {
-    const basePath = "/Users/xforiauser/Desktop/playstore-apps/utils";
+    const basePath = "/Users/Xforia-User/Documents/PG-appsData/utils";
 
     // Read input files
     console.log("Reading App Store data...");

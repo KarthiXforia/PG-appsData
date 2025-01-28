@@ -1,0 +1,1370 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.spotify.music"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free. Stream music and podcasts, discover albums, playlists or even single songs for free on your mobile or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are.\n\nWHY SPOTIFY FOR MUSIC AND PODCASTS?\n• Discover new music, albums, playlists and original podcasts.\n• Search for your favorite song or artist by typing a lyric\n• Enjoy amazing sound quality on music and podcasts across all devices.\n• Create and share your own music playlists to suit your mood or discover other playlists you might like.\n• Listen to daily music mixes made just for you.\n• Explore top songs from different genres, countries or decades.\n• Subscribe to your favourite podcasts so that you never miss an episode, then curate your very own podcast library.\n• Bookmark individual podcasts into Playlists\n• Listen to music and podcasts on your mobile, tablet, desktop, PlayStation, Chromecast, TV or wearable device.\n\nListen to popular and exclusive podcasts like;\n• The Joe Rogan Experience\n• Modern Wisdom\n• 2 Bears, 1 Cave with Tom Segura and Bert Kreischer\n• Call Her Daddy and Crime Junkie\n\nSearch, discover and play music and podcasts from all over the world for free, anywhere, anytime or create your own music playlists with the latest songs to suit your mood.\n\nListen and discover the latest music from artists like;\n• Bad Bunny\n• Billie Eilish\n• Renzo Pianciola\n• The Temper Trap\n• Harry Styles\n\nListen to your favorite music artists all day every day via the Popular Radio playlist feature. Here are just some of the artists we’ve already curated;\n• Taylor Swift\n• Drake\n• Eminem\n• Coldplay\n• Paolo Nutini\n• Fleetwood Mac\n\nListen to over 40 category genres - New Releases, Charts, Live Events, Made for You, At Home, Only You, Summer, Pop, Workout, Hip-Hop, Mood, Party, Pride, Dance/Electronic, Alternative, Indie, Equal, Wellness, Rock, Frequency, R&B, Disney,, Throwback, Radar, Chill, Sleep, In the car, Kids & Family, Caribbean, Classical, Romance, Jazz, Instrumental, Afro, Christian and Gospel and Country.\n\nWHY GO PREMIUM?\n• Listen to albums and playlists without ad breaks.\n• Download and listen to music and podcasts offline, wherever you are.\n• Jump back in and listen to your top songs with on-demand playback.\n• Choose from 4 subscription options – Individual, Duo, Family, Student. There’s no commitment and you can cancel any time\n\nAudiobooks in Premium currently available in Australia, the UK & the US. Discover 250,000+ titles, 15 hours/month of available listening for Premium Individual subscribers and Duo & Family plan managers.\n\nLOVE SPOTIFY?\nLike us on Facebook: http://www.facebook.com/spotify\nFollow us on Twitter: http://twitter.com/spotify\n\nPlease note: This app features Nielsen’s audience measurement software which will allow you to contribute to market research, such as Nielsen’s Audio Measurement. If you don't want to participate, you can opt-out within the app settings. To learn more about our digital audience measurement products and your choices in regard to them, please visit http://www.nielsen.com/digitalprivacy for more information.",
+      "android_package_name": "com.spotify.music",
+      "ios_bundle_id": "com.spotify.client",
+      "title": "Spotify",
+      "domain_name": [
+        "https://www.spotify.com",
+        "https://www.spotify.com"
+      ],
+      "website": "https://www.spotify.com",
+      "developer": "Spotify",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN",
+      "icon_72": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.apple.android.music"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Get unlimited access to 100 million songs, thousands of curated playlists, and original content from the artists you know and love – all ad-free. Hear sound all around you with Spatial Audio featuring Dolby Atmos.\n\n• Follow and sing along with your favorite music with precise, beat-by-beat lyrics and adjustable vocals, and share the lines that move you in Messages.\n• Listen with friends in real time using SharePlay, and control the music together in the car.\n• Make and share playlists with friends, and collaborate on playlists together.\n• Download your favorite music and listen offline.\n• Find your Discovery Station, personalized picks, mixes, and more in Home.\n• Keep the music going with Autoplay.\n• Enjoy a continuous listening experience with crossfade.\n• Ask Siri to play any song by artist, mood, or genre.\n• Get personalized new releases and find out about big moments in music, handpicked by our editors.\n• Search for songs by lyrics, or just ask Siri.\n• Go deep with interviews, live performances, and more that can only be found on Apple Music.\n• Explore dozens of exclusive radio shows, created by the most iconic names in music, live or on demand. \n• Find something new with hundreds of daily charts for cities and countries worldwide.\n• Follow friends and discover what others are listening to.\n• Download and stream music straight to your Apple Watch.\n• Take it all with you using CarPlay, and use your car controls to search for music.\n\nApple Watch Features:\n• Search for music using scribble and dictation.\n• Use Home to quickly get back to your recently played, suggested stations, top picks and more. \n• Sort your favorite playlist, albums, and songs by your preference, right from your wrist.\n\nAvailability and features vary by country and region, plan, or device. Subscriptions automatically renew unless they are canceled at least 24 hours prior to the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions in Settings after purchase. Apple Media Services Terms and Conditions can be found at https://www.apple.com/legal/internet-services/itunes/.",
+      "android_package_name": "com.apple.android.music",
+      "ios_bundle_id": "com.apple.Music",
+      "title": "Apple Music",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE",
+      "icon_72": "https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.youtube.music"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Connecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs, playlists you created, and artists you subscribed to\n\nStay on top of the trend and discover new music:\n● Check out new releases\n● Discover music based genres (Hip Hop, Pop, Country, Dance & Electronic, Blues, Indie & Alternative, Jazz, Kpop, Latin, Rock, and more)\n● Discover music based mood (Chill, Feel Good, Energy Booster, Sleep, Focus, Romance, Workout, Commute, Party)\n● Explore top charts from all over the world\n\nEnhanced your listening experience with unique features:\n● Song lyrics so you can sing along to your favorites\n● Upload songs from your devices so you can enjoy them in one place with YouTube Music\n● Listen on your phone, desktop, smart speaker, smart TV, car, smart watch and within your favorite apps.\n● Compatible with Google Maps, Waze, Google Assistant, and more.\n\nUpgrade to Music Premium (available in select countries) to enjoy:\n● Listen to music ad-free\n● Play music in the background\n● Switch seamlessly between song audio and music videos, only with YouTube Music\n\n------------\nIf you subscribe via iTunes:\n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Accounts will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nYouTube paid service terms: https://www.youtube.com/t/terms_paidservice\nPrivacy policy: https://www.google.com/policies/privacy",
+      "android_package_name": "com.google.android.apps.youtube.music",
+      "ios_bundle_id": "com.google.ios.youtubemusic",
+      "title": "YouTube Music",
+      "domain_name": [
+        "https://support.google.com/youtubemusic",
+        "https://support.google.com"
+      ],
+      "website": "https://support.google.com/youtubemusic",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zD8UA5CRdiPzbvTwGKtzR4KjQpxqEK6X0tGDpzEaOo0xPEvG6HUiC_0qkpTfzpuMTqU",
+      "icon_72": "https://play-lh.googleusercontent.com/zD8UA5CRdiPzbvTwGKtzR4KjQpxqEK6X0tGDpzEaOo0xPEvG6HUiC_0qkpTfzpuMTqU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.amazon.mp3"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "We're changing the way you discover and play the music you love. Listen free to music and podcasts with ads—no credit card required. Prime members can enjoy all the music + top podcasts ad-free. Want more benefits? Get 100 million songs on-demand, ad-free top podcasts, and audiobooks from Audible with Amazon Music Unlimited.\n\n\nIncluded with your Prime membership at no additional cost:\n• All the music ad-free \n• The largest catalog of ad-free top podcasts\n• Discover new music and podcasts based on your likes \n• Shuffle play any artist, album, or playlist \n\nAmazon Music Unlimited: \n• Unlimited access to 100 million songs \n• Pick and play any song, ad-free \n• The most ad-free top podcasts\n• The largest catalog of audiobooks from Audible\n• Listen to one audiobook each month\n• Listen offline \n• Unlimited skips\n• Experience our fast-growing collection of spatial audio\n\nOr listen to free streaming music, no credit card required:\n• Thousands of stations and top playlists\n• Millions of podcast episodes \n• Discover new music and podcasts based on your likes \n• No credit card required\n\n\nImport your playlists:\n• Move existing playlists from other music platforms to Amazon Music in a few quick steps\n\nMy Music:\n• Listen to music you’ve purchased from Amazon – MP3s or AutoRip CDs/Vinyl. Your Amazon purchases are stored for free in the Amazon cloud\n\nApple Watch Features:\n• Access your favorite music and podcasts right from your wrist\n• Use your Apple Watch to stream Amazon Music directly or control playback on a compatible iOS device\n• Play from your library, top recommendations, or search for your favorite Artists and Albums\n• Download your Playlists and Albums onto your Apple Watch and listen to them in Offline Mode when you're on the go\n\n\nIf you subscribe to Amazon Music Unlimited via iTunes where available, payment will be charged to your iTunes Account at confirmation of purchase and your membership will automatically renew monthly unless auto-renewal is turned off at least 24-hours before the end of the then current membership period. Your account will be charged for renewal within 24-hours before the end of each membership period at the rate of your selected plan. You can manage your subscription and turn off auto-renewal anytime by going to My Account or through iTunes.\n\nTerms of Use: \n• https://www.amazon.com/gp/help/customer/display.html?nodeId=201380010",
+      "android_package_name": "com.amazon.mp3",
+      "ios_bundle_id": "com.amazon.mp3.AmazonCloudPlayer",
+      "title": "Amazon Music",
+      "domain_name": [],
+      "website": "",
+      "developer": "AMZN Mobile LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NKNTBKRSFyWI25H50UEY_7w7NoBFvqcicq_bdPOWBvV-Kx1qtYB15d0kFhvMEEA4ZQ",
+      "icon_72": "https://play-lh.googleusercontent.com/NKNTBKRSFyWI25H50UEY_7w7NoBFvqcicq_bdPOWBvV-Kx1qtYB15d0kFhvMEEA4ZQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.soundcloud.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "What’s next in music is first on SoundCloud. \n \nBe the first to discover, play and share your favorite tracks from emerging artists\n \nAccess the world’s largest music discovery platform\n- That’s 300M+ tracks from 30M+ artists in 193 countries\n \nDiscover new music, picked just for you\n- Play curated mixes and playlists based on the music you love\n \nListen to exclusive music on SoundCloud\n- Hear tracks you can’t find anywhere else\n \nFind and connect with your music community \n- Share tracks, reach a global audience, and connect with your favorite artists and fans directly on SoundCloud\n \nUpload your own tracks \n- Tap into a global fanbase of millions by sharing your music \n \nHelp your favorite independent artists get paid\n- Your fan-powered streams put money in the pockets of the artists you want to support \n \nListen to SoundCloud for free, or subscribe to SoundCloud Go or SoundCloud Go+ for premium features. \n \nSOUNDCLOUD FREE:\n- Play your favorite tracks from independent and established artists, with ads \n \nSOUNDCLOUD Go:\n- Listen without ads\n- Save tracks to listen offline — anywhere, anytime \n\nSOUNDCLOUD Go+:\n- Unlock premium Go+ tracks\n- Upgrade your DJ sets with exclusive app integrations\n- Listen without ads\n- Save tracks to listen offline — anywhere, anytime\n- Support your favorite independent artists through Fan-Powered Royalties\n \n \n\nNeed help? Get in touch:\n\nhttps://soundcloudcommunity.com\nhttps://help.soundcloud.com\nhttps://twitter.com/SCsupport\n\nSoundCloud is available in English, Brazilian Portuguese, Dutch, French, German, Italian, Spanish and Arabic.\n \n\nPrivacy Policy: https://soundcloud.com/pages/privacy\nTerms of Use: https://soundcloud.com/terms-of-use",
+      "android_package_name": "com.soundcloud.android",
+      "ios_bundle_id": "com.soundcloud.TouchApp",
+      "title": "SoundCloud",
+      "domain_name": [
+        "http://soundcloud.com",
+        "https://soundcloud.com"
+      ],
+      "website": "http://soundcloud.com",
+      "developer": "SoundCloud Global Limited & Co KG",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/JSSeB3XQtb9sHD5FWTqVM4AksY_Kg2q20eExenxGqPJZdn2uVQxi8eoHkP5MA-IR4w",
+      "icon_72": "https://play-lh.googleusercontent.com/JSSeB3XQtb9sHD5FWTqVM4AksY_Kg2q20eExenxGqPJZdn2uVQxi8eoHkP5MA-IR4w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bogo.apppandora"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Create stations from your favorite songs, artists or genres, search or browse to find recommended stations for your mood or activity, and discover podcasts that speak to you. Download today and get instant access to your favorite artists and podcasts, while staying up to date on the most recent singles and releases. From rap and pop to rock and country, play your favorite artists and stay up to date on today’s top hits and releases. Start streaming all of the current global hits and enjoy your own personalized music experience. \n \nTake Pandora with you wherever you go with CarPlay for your daily commute or your next road trip. Enjoy your own personalized music or podcast experience from anywhere on the world’s most powerful music discovery platform. The new voice mode lets you search, play, pause, skip, adjust volume & thumb up music with a simple voice command. Start streaming your favorite artist, song, genre, or podcast instantly today for free in your car.\n \nWith Podcasts on Pandora, find your favorites and listen to personalized recommendations that actually make sense. Just search on your mobile phone or tablet and play to start listening, then tap + to add to your collection. Find something new by simply browse and tap recommended podcasts to find over 1,400 podcasts, including SiriusXM shows, on-demand whether you're on Pandora Premium, Plus or Radio.\n \nLooking for more?\n \nMeet Pandora Modes - The new way to customize your station experience. Choose from six different modes to switch up the kind of music you're hearing:\nMy Station: The station experience you know and love.\nCrowd Faves: Hear the most thumbed-up songs by other listeners.\nDeep Cuts: Hear less familiar songs from station artists.\nDiscovery: Hear more artists who don't usually play on this station.\nNewly Released: Hear the newest releases from station artists.\nArtist Only: Hear songs from the station artist.\n \nPandora Premium™\nSubscribe to enjoy personalized on-demand music and podcasts\n \nSearch and play your favorite songs, podcasts, albums and playlists on-demand\nCreate playlists, not worklists – on your own or powered by Pandora\nDownload the music you want for offline listening\nUnlimited skips and replays\nHigher quality audio\nListen with ad-free music\n \nPandora Plus™\nSubscribe to enjoy personalized radio with ad-free music\n \nUnlimited personalized stations and podcasts\nUp to four stations for offline listening\nUnlimited skips and replays\nHigher quality audio\nListen with ad-free music\n \nPandora Plus subscriptions are $5.99 per month. Pandora Premium subscriptions are $12.99 per month. You’ll be charged as a recurring transaction through your App Store account. Pending trial eligibility, charges for Plus ($5.99/month) or Premium ($12.99/month) begin at the end of a free trial unless you cancel 24 hours prior to the end of the current subscription month. Any unused portion of a free Pandora Plus trial period will be forfeited if you upgrade to Pandora Premium. You can manage your subscription, cancel or turn off auto-renewal through account settings in your App Store account. Pandora is available to US customers only.\n \nSome advertising exclusions apply. Skips, replays and offline features may be limited by certain licensing restrictions. Pandora may use large amounts of data, and carrier data charges may apply. For best results, we recommend you connect your device to trusted Wi-Fi networks when available.\n \nTerms and conditions:\nwww.pandora.com/legal\nwww.pandora.com/legal/subscription\nwww.pandora.com/privacy",
+      "android_package_name": "com.bogo.apppandora",
+      "ios_bundle_id": "com.pandora",
+      "title": "Pandora",
+      "domain_name": [
+        "http://www.pandora.com",
+        "https://www.pandora.com"
+      ],
+      "website": "http://www.pandora.com",
+      "developer": "Pandora Media, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/UnGgDgx9Ev3VqLZSludVq1_N3hxuaXf1CQU9RoRdrc_BMdMyAq_s15zvr2wglz7Caw",
+      "icon_72": "https://play-lh.googleusercontent.com/UnGgDgx9Ev3VqLZSludVq1_N3hxuaXf1CQU9RoRdrc_BMdMyAq_s15zvr2wglz7Caw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.shazam.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "What’s the name of that song? Shazam will identify music playing around you or in apps like TikTok, Instagram & YouTube. Discover live shows, song lyrics, videos & more. Over 2 billion installs and counting!\n\n“Shazam is an app that feels like magic” - techradar.com\n“Shazam is a gift... a game changer” - Pharrell Williams, GQ\n“I don’t know how we ever survived before Shazam” - Marshmello\n\nWHY YOU’LL LOVE IT\nFind the name of any song. Even when you’re offline, using headphones or multi-tasking.\nIdentify music in an instant! Add Music Recognition to your Control Center and enable the Lock Screen or Home Screen widget.\nDiscover live music events based on artist popularity, recommendations or search.\n\nWHAT ELSE?\nListen and add to Apple Music playlists.\nFollow along with time-synced lyrics.\nWatch music videos in Apple Music or YouTube.\nFind out what is popular in your country or city with Shazam charts.\nOpen any song directly in Apple Music, Spotify & Deezer.\n\nTHOUSANDS OF 5-STAR REVIEWS\n“OMG... this app will blow your mind...you press the Shazam button and boom, you got the name of the song.”\n“So helpful in finding good and new music you truly love.”\n“I literally find my song in 1 second…”\n“I love Shazam...It is helping me build a great playlist of songs I don't recognize right off hand.”\n“This app is literally part of my daily routine…”\n“This is the bestest app ever PEOPLE! If you want to know the name of a song or artist, this is the app you want.”\n“Love the smooth integration to my Apple Music...”\n“Love the lyrics section!!! The lyrics match the words of the song…“\n\nAvailability and features may vary by country.\nFor more information on Shazam’s privacy practices, please read the Privacy Policy, available at: https://www.apple.com/legal/privacy/.\n\nFind out more and get support from AppleCare at:\nhttps://support.apple.com/en-us/HT210331",
+      "android_package_name": "com.shazam.android",
+      "ios_bundle_id": "com.shazam.Shazam",
+      "title": "Shazam",
+      "domain_name": [
+        "https://www.shazam.com",
+        "https://www.shazam.com"
+      ],
+      "website": "https://www.shazam.com",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ",
+      "icon_72": "https://play-lh.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.deezer.analytics"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Deezer is more than a music streaming platform. Elevate your listening experience and Live the Music. \n\nEnjoy a massive music catalog that has everything and more with in-built algorithms that learn what you like and recommend more of it.\n\nDiscover and create playlists in your favorite genres: hip hop, rap, rock, lofi.\n\nNo WiFi needed — download songs and enjoy offline music — perfect for when at home or on the go.\n\nA personalized listening experience like no other, Deezer is where you can embrace your tastes, raise your voice, BE and BELONG.\n\nWith Deezer Free*, you'll get all you need in one app:\n\n• Explore tab, to stay on trend with hot music of the moment, editor picks, concerts, podcasts, audiobooks, music quizzes and more\n• Shaker, to create the perfect mix for any mood or group and check compatibility levels, even if your friends aren't Team Deezer\n• SongCatcher, for identifying any song playing around you (try singing or humming for magic results)\n• Flow, our feature for infinite, personalized mixes (on-point recommendations every time)\n• The freedom to play music based on moods, niche genres and scenes\n• Personal and collaborative playlists, favorites, radio* and more\n• Dive deeper into the music with the Lyrics feature and translated lyrics\n• Sleep timer function (for those beauty Zzzzzz)\n• Sharing function for spreading the love on socials\n\nLooking for a level up? Switch to Deezer Premium**, Deezer Family** or Deezer Student** and you'll benefit from these added perks:\n\n• No ads, ever!\n• Offline listening (just cause the signal cuts doesn't mean the music has to)\n• Unlimited skips, unlimited listening\n• HiFi sound (High Fidelity, lossless quality at 1,411 kbps)\n• FLAC-standard quality on millions of tracks\n• High-end sound system compatibility\n\nCompatible devices:\nGet Deezer on all your connected devices — Google Nest, HomePod Mini, Amazon Alexa, Sonos and more.\n\nDeezer Family:\nGet up to 6 Deezer Premium accounts with High Fidelity sound* on the family plan.\nGive your loved ones the gift of unlimited listening or join forces and split the price.\nSet up kid's profiles for family-friendly content only.\n \nDeezer Student:\nAll the benefits of Deezer Premium like ad free, downloads and offline music, plus High Fidelity sound*, for half the price.\nPS: try our lofi playlist when cramming to keep the work flowing and the stress to a minimum.\n\nWant more from Deezer?\nFollow us on: \nInstagram: instagram.com/deezer\nFacebook: facebook.com/Deezer\nOr Twitter: twitter.com/Deezer\n\nPrivacy policy: http://www.deezer.com/legal/personal-datas.php\nTerms of use: http://www.deezer.com/legal/cgu.php\n\n*Only available in certain countries.\n**Plan may differ depending on your country of origin.",
+      "android_package_name": "com.deezer.analytics",
+      "ios_bundle_id": "com.deezer.Deezer",
+      "title": "Deezer",
+      "domain_name": [
+        "http://www.deezer.com/offers/premiumplus",
+        "https://www.deezer.com"
+      ],
+      "website": "http://www.deezer.com/offers/premiumplus",
+      "developer": "DEEZER SA",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/sG7TfVwoZDtKuf37oyFUn5jvf_7sAyrKrhTmmKrK-AwBHmMe2YD7dNLsD97nmTfwpQ",
+      "icon_72": "https://play-lh.googleusercontent.com/sG7TfVwoZDtKuf37oyFUn5jvf_7sAyrKrhTmmKrK-AwBHmMe2YD7dNLsD97nmTfwpQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tidalwaveuser"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Get unlimited access to over 110 million songs in best-in-class sound quality with TIDAL. \n\nEnjoy the music you love and discover new tracks through our library of millions of songs, mixes based on your listening habits, and playlists curated both by TIDAL editors and other fans.\n\nTry TIDAL free for 30 days, and choose from a range of plans suited to fit your needs.\n\nAll plans include:\n- Millions of songs in HiRes lossless sound quality up to up to 24-bit, 192 kHz and Dolby Atmos\n- Ad-free listening, unlimited skips\n- Personalized mixes based on your preferences\n- Editorially curated playlists \n- Offline mode\n- Track and share your streaming activity\n- TIDAL Connect, to listen in lossless quality on supported devices\n\nDownload the TIDAL app today to sign up for a subscription.\nSubscription automatically renews on a monthly basis. Cancel anytime.\n\nTerms and Conditions of Use: http://tidal.com/terms\nPrivacy Policy: https://tidal.com/privacy",
+      "android_package_name": "com.tidalwaveuser",
+      "ios_bundle_id": "com.aspiro.TIDAL",
+      "title": "Tidal",
+      "domain_name": [
+        "http://tidal.com",
+        "https://tidal.com"
+      ],
+      "website": "http://tidal.com",
+      "developer": "TIDAL Music AS",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/_z67GVk9FTWHsOqu5JuUhZXIGAwQoqu3X-cSYL5I7J1XmVbOR9WFUYI-qjU_n9CxVA",
+      "icon_72": "https://play-lh.googleusercontent.com/_z67GVk9FTWHsOqu5JuUhZXIGAwQoqu3X-cSYL5I7J1XmVbOR9WFUYI-qjU_n9CxVA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "tunein.player"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Listen to All the Audio You Love, All in One Place\n\nAccess over 100,000 live AM/FM radio stations from around the world, plus exclusive content from news, sports, music, podcasts, and audiobooks—all across your devices. Enjoy a broader range of audio than Pandora or iHeartRadio, all in one place.\n\nYour Personalized Soundtrack\n\nTune in to your favorite live stations or explore 100,000+ AM/FM stations from 197+ countries. Whether you’re in the mood for Today’s Hits, Classic Rock, Smooth Jazz, or something else, TuneIn has you covered—offering more variety and control than platforms like Pandora or iHeartRadio. Discover legendary stations like 106.7 Lite FM, Power 105.1, 102.7 KIIS-FM, and more.\n\nStay Informed with Trusted News\n\nGet the latest headlines and live updates from top news sources like CNN, FOX News Radio, MSNBC, Bloomberg Radio, CNBC, NPR, and BBC. Access 24/7 news, including local, national, and global coverage. Stream news stations such as WNYC-FM, KQED-FM, and WTOP Washington DC, or stay informed with top podcasts like The Daily and Up First.\n\nAll Your Favorite Sports\n\nFrom MLB and NFL to NHL and college sports, catch every game and never miss a play. With TuneIn, follow your team all season long with curated content and game-time notifications. Stream sports talk stations like ESPN Radio, talkSPORT, Fox Sports Radio, and local shows. Plus, enjoy on-demand sports podcasts like Undisputed, First Take, and The Bill Simmons Podcast.\n\nPodcasts for Every Passion\n\nExplore the world’s most popular podcasts, including Stuff You Should Know, Hidden Brain, Wow in the World, and more. Whether commuting, working out, or unwinding, TuneIn offers top global podcasts that you can stream on-demand.\n\nStream Everywhere, Anytime\n\nTake TuneIn with you wherever you go. Listen on iOS, tablets, or connected devices. Control your audio experience with Amazon Alexa, Google Home, or in your car with CarPlay and compatible vehicles like Tesla, Mercedes, and Volvo.\n\nUnlock Even More with TuneIn Premium\n\nUpgrade to TuneIn Premium for ad-free content, exclusive features, and more:\n\nLive Sports: Commercial-free coverage of NHL games, college sports, racing, and more—without blackouts.\nAd-Free News: Enjoy uninterrupted news coverage from CNBC, CNN, FOX News Radio, and more.\nUnlimited Audiobooks: Access over 100,000 audiobooks with no extra cost or limitations.\nCommercial-Free Music: Stream your favorite music stations non-stop with no ads.\nFewer Ads Across All Stations: Enjoy listening to 100,000+ stations with fewer interruptions than Pandora or iHeartRadio.\n\nSubscribe to TuneIn Premium through the free app. If you choose to subscribe, you will be charged a monthly or annual subscription fee according to your country. The subscription fee will be shown in the app before you complete the payment. Your subscription will automatically renew every month or year at the then-current subscription fee unless auto-renew is turned off at least 24 hours before the end of the then-current subscription period. Your iTunes account will automatically be charged within 24 hours prior to the end of the then-current period. The subscription fee will be charged monthly or annually according to your subscription. You can turn off auto-renew at any time from your iTunes account settings.\n\nPrivacy policy: http://tunein.com/policies/privacy/\nTerms of use: http://tunein.com/policies\n\nTuneIn uses Nielsen measurement software which allows you to contribute to market research, like Nielsen’s TV Ratings. To learn more about Nielsen’s products and your privacy, please visit http://www.nielsen.com/digitalprivacy for more information.",
+      "android_package_name": "tunein.player",
+      "ios_bundle_id": "com.tunein.TuneInRadio",
+      "title": "TuneIn Radio",
+      "domain_name": [
+        "http://tunein.com/get-tunein",
+        "https://tunein.com"
+      ],
+      "website": "http://tunein.com/get-tunein",
+      "developer": "TuneIn",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KLI43egHmMQhCvDTH-EDWDdtxxPODJk6YO56Fa5cmmiYRd5LfBAXrVZmHcRCQ5j9_rZD",
+      "icon_72": "https://play-lh.googleusercontent.com/KLI43egHmMQhCvDTH-EDWDdtxxPODJk6YO56Fa5cmmiYRd5LfBAXrVZmHcRCQ5j9_rZD=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "au.com.radioapp"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Listen to thousands of live radio stations, tune in to podcasts and stream unlimited music playlists for any mood or activity, all in one app. Enjoy music, sports, and news favorites for free on any device, including Apple Watch.\n\nBrowse through our local AM and FM radio stations and discover new channels easily. Stay up to date on live sport discussions on the NFL, NHL, MLB or NBA and stream stations like ESPN Radio, Fox Sports Radio and much more!\n\nRanked #1 for podcasts, iHeartRadio has what you need to join in on hot topics or just sit back and have a laugh. Looking for celebrity favorites? Listen to trending podcasts like Dateline, Stuff You Should Know, The Herd with Colin Cowherd, and the Bobby Bones Show\n\nBuild playlists to your liking and create personalized music stations from millions of songs covering Country, Pop, Hip Hop, R&B, Rock and so much more. Take advantage of a weekly mixtape that’s tailored to you and discover new sounds with ease — all available on the free iHeartRadio app.\n\nDive into the sounds, podcasts, and stations that shape you. Download iHeartRadio today!\n\niHEARTRADIO FEATURES\n\nTHE BEST LIVE & LOCAL RADIO STATIONS\n• Thousands of live AM and FM radio stations – discover local and global favorites\n• Radio stations covering all topics – news, sports, music, talk, and comedy\n• Save your top stations and enjoy free radio broadcasts\n• Talk to your favorite radio and podcast hosts and discuss topics that excite you\n\nLIVE SPORTS STATIONS\n• Stream sports radio stations like ESPN Radio, Fox Sports Radio, FNTSY Sports Radio, etc.\n• Hear top sports personalities discuss the latest news live\n• Follow updates around the NFL, NHL, MLB, NCAA, NBA, Soccer, Golf, and Tennis\n\nPODCASTS & TRENDING SHOWS\n• Discover, follow, download, and adjust the playback speed of your favorite podcasts\n• Tune in on Mondays for a refreshed Top 100 Chart to help pick your next listen\n• Explore popular podcasts from ESPN, NPR, Gimlet, How Stuff Works, Black Effect, TED, Wondery, and Big Money Players Network\n• Our podcast library also includes On Purpose with Jay Shetty, Crime Junkie, The Dan Bongino Show, Morbid & More\n\nFREE MUSIC & PLAYLISTS\n• Thousands of hand-curated playlists – organized by mood, activity, decade & genre\n• Discover new music easily with ‘Your Weekly Mixtape’ – refreshed every Monday\n• Create personalized music stations based on your favorite artists\n• Find your perfect soundtrack in genres like Alternative, Folk, Gospel, Christian, Dance, Classical, Indie & more\n\nPREMIUM FEATURES\nListen ads-free and take control of your listening experience with iHeartRadio Plus™ and iHeartRadio All Access™.\n• Songs on demand – search and play any song, album and playlist\n• Save and replay any song with our music app from the radio\n• Enjoy unlimited skips and create unlimited playlists\n• Download music to your iPhone, iPad or Apple Watch to listen offline\n\nBuild your life’s playlist and discover new audio favorites with iHeartRadio today!\n\n—\n\nJoin our community!\n• Facebook: http://on.fb.me/1F1TcFX\n• Instagram: http://bit.ly/1e1AOUS\n• Twitter: http://bit.ly/1HZk5KQ\n• Blog: http://bit.ly/1GiT59D\n\nFor Feedback and Help\nTell us how we can improve by sharing your thoughts at help.iheart.com\n\nPayments will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\niheart.com/terms\niheart.com/privacy",
+      "android_package_name": "au.com.radioapp",
+      "ios_bundle_id": "com.clearchannel.iheartradio",
+      "title": "iHeartRadio",
+      "domain_name": [
+        "https://www.iheart.com",
+        "https://www.iheart.com"
+      ],
+      "website": "https://www.iheart.com",
+      "developer": "iHeartMedia Management Services, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/nRziJQ4ZKZeZZitEHGTLE8ywF_FWtE5Ni7Q8CoXlpj9qjCtdRAyzaNhOEcAd5wQ8Jlo",
+      "icon_72": "https://play-lh.googleusercontent.com/nRziJQ4ZKZeZZitEHGTLE8ywF_FWtE5Ni7Q8CoXlpj9qjCtdRAyzaNhOEcAd5wQ8Jlo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "musicplayer.musicapps.music.mp3player"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Book",
+      "description": "All the books you love. On the page or out loud. Anywhere you are.\n\nMeet Google Play Books for iOS: the one app to enjoy ebooks and audiobooks from Google Play.\n\nDive into a great book today with millions of titles from Google Play on your iPhone, iPod Touch, or iPad. Download your book to read or listen on the go. When you’re finished, find your next favorite from recommendations personalized just for you.\n\nLISTEN TO A GREAT AUDIOBOOK ANYWHERE, ANYTIME\n●       No monthly subscription required\n●       Navigate chapters with real chapter titles - not track lists\n●       Pick up where you left off on all your devices, including in the car with CarPlay\n●       Siri Shortcuts: Just say, Hey Siri, play my audiobook\n\nMILLIONS OF EBOOKS AT YOUR FINGERTIPS\n●       Preview samples from our catalog of millions of books\n●       Read your books, comics, and textbooks even when you’re offline\n●       Tap the page and watch your favorite comic book or manga come to life with Bubble Zoom\n●       Take notes that sync with your Google Drive and share them with a group for easy collaboration.",
+      "android_package_name": "musicplayer.musicapps.music.mp3player",
+      "ios_bundle_id": "com.google.GoogleBooks",
+      "title": "Google Play Music",
+      "domain_name": [
+        "https://play.google.com",
+        "https://play.google.com"
+      ],
+      "website": "https://play.google.com",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zq8ihIMZKOs9H6tfhKISdMLJxIgCaajxI5nVBqS24zhdJT7FbWBRUvqIiJY5tns2jnk",
+      "icon_72": "https://play-lh.googleusercontent.com/zq8ihIMZKOs9H6tfhKISdMLJxIgCaajxI5nVBqS24zhdJT7FbWBRUvqIiJY5tns2jnk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.audible.application"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Book",
+      "description": "Discover storytelling that speaks to you with Audible. Audiobooks, podcasts and Audible Originals await in an all-in-one audio entertainment app.\n\nStorytelling and entertainment for all genres awaits. Keep one audiobook or podcast every month as a Premium Plus member or purchase your favorite titles with cash. Prioritize your health and wellness with meditation audiobooks or fitness podcasts. Start listening to Audible Originals such as The Justice, Million Dollar Habits, and The Space Within.\n\nCarPlay on the road for your morning commute or listen to bestsellers at your leisure — embrace Audible as part of your daily listening routine, anytime, anywhere. Stream and download audio books, whether you’re offline or switching devices. Enjoy deep relaxation with soothing nature sounds or fall asleep listening to sleep stories.\n\nEmbark on a mental wellness journey and enjoy a moment of self-care with stories that inspire you. Listen before you watch global Film & TV favorites in fantasy, thrillers and more. Catch up on the latest true crime stories and never lose your place with our Sleep Timer.\n\nFind intriguing stories that speak to you and build your library with audiobooks to keep forever. Tap into the best of audio entertainment, today with Audible.\n\nAUDIBLE FEATURES\n\nTHE PLUS CATALOG: AUDIO ORIGINALS\nListen to thousands of originals, audiobooks, and podcasts including exclusive shows and series.\n• Stream or download anything in the Plus Catalog anytime you want, no credits necessary\n• Browse thousands of binge-worthy titles and top genres\n• Listen to your favorites, enjoy bestsellers or discover exclusive originals\n\nSTORYTELLING: ANYTIME, ANYWHERE\nQueue up downloads, adjust your listening speed and experience seamless listening with Audible.\n• Offline listening - stream or download directly to enjoy Audible with or without WiFi\n• Read on your Kindle or listen on Audible - switch seamlessly with WhisperSync\n• Listen on the go with your Apple Watch or connect to your car with CarPlay\n• Sleep Timer - pause your book automatically before falling asleep\n\nENTERTAINMENT OASIS: FEAST YOUR EARS\nListen to storytelling that enriches you with immersive audio experiences for every moment.\n• Stream audiobooks and podcasts fit for every mood - get lost in a captivating story\n• Find what you need to unwind with true crime, classic literature & more\n• Health and wellness, fitness and nutrition, or sleep stories - begin a journey of self-care\n\nKIDS PROFILE\nCreate a Kids Profile for your child and share family-friendly listens from our extensive catalog of children’s audiobooks, podcasts and Originals, right from the app.\n\nAUDIBLE MEMBERSHIP\nGet the most from your subscription with discounts on our monthly and annual plans. Try cash purchases for titles you love and benefit from discounted prices as an Audible member.\n\nAUDIBLE PREMIUM PLUS\nWith Premium Plus, you can access the Plus catalog and much more:\n• The entire Plus Catalog - thousands of titles, podcasts, and Originals\n• Get 1 monthly credit to choose a title you want to keep forever\n• Listen to an extended selection of bestsellers, Originals and new releases\n• A permanent library! Titles purchased with credits are yours to keep, even if you cancel\n\nPurchase individual credits through the app and expand your audio library anytime with Audible.\n\n-\n\nIf you subscribe to Audible via iTunes where available, payment will be charged to your iTunes Account at confirmation of purchase and your membership will automatically renew monthly unless auto-renewal is turned off at least 24-hours before the end of the then current membership period. Your account will be charged for renewal within 24-hours before the end of each membership period at the rate of your selected plan. You can manage your subscription and turn off auto-renewal anytime by going to My Account or through iTunes.\nConditions of Use: https://www.audible.com/legal/conditions-of-use\nPrivacy Notice: https://www.amazon.com/privacy",
+      "android_package_name": "com.audible.application",
+      "ios_bundle_id": "com.audible.iphone",
+      "title": "Audible",
+      "domain_name": [
+        "http://www.audible.com",
+        "https://www.audible.com"
+      ],
+      "website": "http://www.audible.com",
+      "developer": "Audible, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pwzZK-7oQexraeU0mOrQgFIck-QSS89rH0eWjehctp8XskRSpixPNVlA0YYlRXHbA2Iz",
+      "icon_72": "https://play-lh.googleusercontent.com/pwzZK-7oQexraeU0mOrQgFIck-QSS89rH0eWjehctp8XskRSpixPNVlA0YYlRXHbA2Iz=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.videolan.vlc"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Embark on a journey of enhanced home entertainment control with our cutting-edge remote application. Your smartphone becomes a dynamic remote, effortlessly guiding you through the vast landscape of television channels and menus with a mere touch. Revel in the ease of managing your TV experience from the plush embrace of your sofa, simplifying the once tedious tasks of channel surfing and menu navigation.\n\nYet, our application offers more than just conventional control – it opens the gateway to an elevated viewing experience by seamlessly projecting your phone screen onto the TV.\n\nStep into the forefront of home entertainment evolution with our user-friendly application. Bid farewell to the complexities of traditional remote controls, as we usher in a new era of seamless control and connectivity. Download now and revolutionize the way you interact with your TV, opening doors to a realm of possibilities in the realm of home entertainment.\n\nPayment will be charged to your Apple ID account at the time of purchase confirmation. Subscription renews automatically unless it is cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours before the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase.\n\nContact & Support:\ngarvadaf4@gmail.com\n\nPrivacy Policy:\nhttps://docs.google.com/document/d/1sI_-b4xgAkr3azKidOkgZxxzZ16MnUED3_wlLYeT5aM/edit?usp=sharing\n\nTerms of Use:\nhttps://docs.google.com/document/d/1j7wMGlNsd-BPu1CJnQGhTmXTTNfgfqcF_1XZxrBJGEI/edit?usp=sharing",
+      "android_package_name": "org.videolan.vlc",
+      "ios_bundle_id": "com.remote.roku.app",
+      "title": "VLC for Android",
+      "domain_name": [],
+      "website": "",
+      "developer": "Katherin Tapper",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
+      "icon_72": "https://play-lh.googleusercontent.com/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bandcamp.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Bandcamp is an online record store and music community where passionate fans connect with and directly support the artists they love.\n\nThe Bandcamp app lets fans explore a vast catalog of music by artists from every corner of the globe, allows them to directly support artists by buying their merch (and wishlisting albums & tracks for purchase at a later time), and lets them instantly listen to the music they've purchased, online or offline.",
+      "android_package_name": "com.bandcamp.android",
+      "ios_bundle_id": "com.bandcamp.iosapp",
+      "title": "Bandcamp",
+      "domain_name": [
+        "http://bandcamp.com/artists",
+        "https://bandcamp.com"
+      ],
+      "website": "http://bandcamp.com/artists",
+      "developer": "Bandcamp Ventures, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bShqpc5_RKyKRzOx1c4rWBhrhDXAM-TgmAz1eZNSme6bIbdrmPjSoxzdBLejeXsawMQ",
+      "icon_72": "https://play-lh.googleusercontent.com/bShqpc5_RKyKRzOx1c4rWBhrhDXAM-TgmAz1eZNSme6bIbdrmPjSoxzdBLejeXsawMQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.soundcloud.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Re-Introducing Napster Streaming Music: Rewriting Music History!\n\n\nUNLEASH THE MUSIC REVOLUTION\nIn 1999, Napster shook the music industry to its core by launching the world's first peer-to-peer music sharing service. It changed the game forever, giving fans a digital jukebox of unlimited songs at their fingertips. Discover the world of music like never before with Napster, your ultimate streaming companion. Access a vast library of 110+ million songs, enjoy hundreds of thousands of official music videos, and savor top-notch lossless audio for unparalleled sound quality. \n\n\nDISCOVER NEW AND ORIGINAL MUSIC\nExplore a world of endless musical possibilities. Find new music, albums, playlists, and captivating original podcasts that cater to your unique tastes.\n\n\nPREMIUM SOUND QUALITY\nImmerse yourself in crystal-clear lossless sound quality when enjoying your favorite tunes across all your devices.\n\n\nCREATE AND SHARE PLAYLISTS\nCraft your musical journey by creating and sharing your own playlists to match your mood. Or, uncover playlists curated just for you.\n\n\nDAILY MUSIC MIXES\nExperience the joy of daily music mixes tailored to your preferences, ensuring a fresh musical experience every day.\n\n\nEXPLORE DIVERSE MUSIC\nDive into the world of music by exploring top songs from different genres, countries, and decades. Listen to over 40 category genres - New Releases, Charts, Live Events, Made for You, At Home, Only You, Summer, Pop, Workout, Hip-Hop, Mood, Party, Pride, Dance/Electronic, Alternative, Indie, Equal, Wellness, Rock, Frequency, R&B, Disney, Throwback, Radar, Chill, Sleep, In the car, Kids & Family, Caribbean, Classical, Romance, Jazz, Instrumental, Afro, Christian and Gospel and Country.\n\n\nMULTI-DEVICE COMPATIBILITY\n• Enjoy the world of music  on your mobile, tablet, desktop, Xbox, Chromecast, TV, or wearable device.\n• Try Napster for free for 30 days —no commitments, cancel any time.\n• Napster offers individual plans and family plans that allow up to 6 different users. Pricing varies based on country and market.\n• Napster is your all-in-one solution for seamless music streaming, both online and offline, that work on Mobile and Desktop, TV and Game Consoles (Steam Deck, FireTV, Xbox Series X/S, Smart TVs (Samsung, LG) and Chromecast), Smart Speakers (Sonos, Amazon Alexa) and Smart Watches\n\n\nUNLOCK YOUR REWARDS\nGet rewarded for being part of the Napster Community. Unlock special offers, merchandise, and other surprises just by using the Napster app.\n\n\nLEADING THE WEB3 MOVEMENT\nWith visionary leadership and partnerships with Web3 pioneers, Napster is reclaiming its spot as the ultimate music platform. Be a part of the revolution that's reshaping the industry once again.\nRediscover the magic of Napster – where music, community, and creativity collide. Join us in shaping the future of music. \n \n\n\nTERMS OF USE: http://napster.com/terms \n\n\nPLEASE NOTE: Catalog availability may vary by country or region\n \nConnect with Napster:\n• https://www.instagram.com/napster \n• https://twitter.com/napster   \n• https://www.facebook.com/napster/",
+      "android_package_name": "com.soundcloud.android",
+      "ios_bundle_id": "com.rhapsody.iphone.Rhapsody3",
+      "title": "Napster",
+      "domain_name": [
+        "http://www.napster.com",
+        "https://www.napster.com"
+      ],
+      "website": "http://www.napster.com",
+      "developer": "Rhapsody International Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/JSSeB3XQtb9sHD5FWTqVM4AksY_Kg2q20eExenxGqPJZdn2uVQxi8eoHkP5MA-IR4w",
+      "icon_72": "https://play-lh.googleusercontent.com/JSSeB3XQtb9sHD5FWTqVM4AksY_Kg2q20eExenxGqPJZdn2uVQxi8eoHkP5MA-IR4w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.jrtstudio.AnotherMusicPlayer"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Games",
+      "description": "Online PvP against drivers from all over the world in up to crazy 8 Player matches! Challenge your friends, queue up and battle it out in 2v2, 3v3 or even 4v4 quick fire duels in our real-time multiplayer mayhem mode, \"Friendzone\" ! \nOrganise your own tournament with private multiplayer rooms and invite your friends no matter where they may be, the fun never stops.\n\n\nWatch your head in gladiator car fights! This game really is the best of head-to-head battlers - knock your friend in the head with a stunt driving car to score. We guarantee crazy multiplayer motorsport fun with friends.\n\n\n\nCollect over 300 stylized racing cars to master increasingly dangerous battle arenas. We got off-road vehicles, garbage trucks, tanks, stunt cars and more. Some of the rides are quite out of this world, like the ghost pirate ship, electric reindeer or Mini-T-Rex with an actual gun… You build your car battle team any way you like. Team up with friends in crews. Level-up and power-up to face other teams and horrific Bosses. \n\nTime to grab the wheel and become a Master Car Gladiator! This may be a casual game, but it has tons of content to unlock and game modes to master.\n\n- The Battle Arena is the place where racing champions are made! Clash with friends in quick-fire 2-player fights\n\n\n- Team up with guild mates in crews. Crush other teams on the leaderboards and lead your crew to victory in co-op racing challenges.\n- Take a roadtrip to face adventure and crash into adversaries. Perfect your skills controlling these cartoony cars. \n- Share your high scores and most hilarious moments with our active video community. Get your clip featured in our community hub and become a trending driver. \n- Check out daily stunts, there’s new quests to complete every day\n- There’s a new universe out there in Rift Riders Boss fights that are updated weekly\n- How long can you reign in King of the Hill against an endless flow of opponents before you go kaboom?\n- Explore exotic stylized Mission Stadiums for amazing rewards, while avoiding hazards like robots, aliens and penguins. Seriously, the penguins are the most dangerous.\n\n\n\nHundreds of pixel cars, helmets, levels, missions, and game modes bring endless hours of helmet-crashing two-player racing action with freak accidents! \nJust be careful not to wreck yourself!\n\n\nYou can email us at driveahead [at] dodreams [dot] com. Here is our Terms Of Service and Privacy Policy: https://www.dodreams.com/termsofserviceprivacypolicy\n\n\nAre you enjoying Drive Ahead? Help us make more fun games like this by rating and reviewing it!",
+      "android_package_name": "com.jrtstudio.AnotherMusicPlayer",
+      "ios_bundle_id": "com.dodreams.crashonwheels",
+      "title": "Rocket Music Player",
+      "domain_name": [
+        "http://dodreams.com",
+        "https://dodreams.com"
+      ],
+      "website": "http://dodreams.com",
+      "developer": "Dodreams Fairytale Company Oy",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7au2zfBS_0_3_dgaqFmG3w8x8Ip7C_hL06Syf-HipNjFY_uEgS3kYmihaXXtFT54CQ",
+      "icon_72": "https://play-lh.googleusercontent.com/7au2zfBS_0_3_dgaqFmG3w8x8Ip7C_hL06Syf-HipNjFY_uEgS3kYmihaXXtFT54CQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.maxmpz.audioplayer"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Bass Booster will amplify your bass at a maximum and provide you with a better sound quality wherever you are! Play your music from your iTunes library and adjust the sound to your headset or speakers just the way you want it! Click on the “speakers” icon to adjust the bass level. You immediately get a clearer and stronger bass sound.\n\nYou can customise your music listening experience even more thanks to two additional sound effects (in option):\n• a flanger to add colouring filters to your sound.\n• a pitch effect to play with your music and distort it.\n\nClick on the icon, control and enjoy! In order to have an optimized music listening experience, use headphones or external speakers.\n\nTester reviews:\n- “I was skeptical at first, but when I hit on the speakers, I really heard the difference. This bass amplifier rocks!\"\n- \"Wow, love it! I can finally amplify bass for real!\"\n- \"It's a must have for music lovers\"\n\nFEATURES\n- Play music directly from your library or from your Apple Music account (needs subscription)\n- a Bass Booster: click on the speakers icon to boost your bass volume at a maximum and enhance the quality of your sound\n- the Wave Flanger: Play with your music frequencies! Adjust the intensity of the filters as you like and enjoy a customized music listening experience\n- the Dooper Pitch: Add little fun to your music experience with Dooper! This effect will transform your sound completely speeding it up or slowing it down while modifying the tone of your track!\n- A very simple and intuitive interface for powerful sensations.\n- Media volume control\n- Can run in background\n\nThe Pro subscription allows you to access all audio effects, to exclusive tracks from our licensed catalog and to enjoy unlimited bass-booster effects.\n\nMUSIC SOURCES INFORMATION\nSome tracks cannot be played for copyright reasons. It is the case for DRM-Protected tracks from the Apple Music application or some older tracks purchased on the iTunes Store with DRM protection.\n\nPrivacy Policy & Terms of Service: http://bassboost.djitapps.com/static/cgu/bassbooster.html\n\nBass Booster - More Bass, More Sensations\n\nWARNING\nWe are not responsible for anything that might happen to your phone, your audio device or yourself! Do not listen at full sound volume or with bass boost for too long. This app can damage your devices or hearing. Use it wisely!\nThis software is provided by the copyright holders and contributors \"\"as is\"\" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall the copyright owner or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising in any way out of the use of this software, even if advised of the possibility of such damage.\nWhen downloading this app, you agree that we decline any responsibility as regards as the consequences arising of the use of this software.",
+      "android_package_name": "com.maxmpz.audioplayer",
+      "ios_bundle_id": "com.djit.bassboost",
+      "title": "Poweramp Music Player",
+      "domain_name": [
+        "https://www.approver-studio.com/bassbooster-tos",
+        "https://www.approver-studio.com"
+      ],
+      "website": "https://www.approver-studio.com/bassbooster-tos",
+      "developer": "AppRover",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/heuNK1GfamfVDX4ct0jwLzTZSp2LkJoKrVpDW3iwJrdcfoAP1vwuxsjBidyjLXa-7APU",
+      "icon_72": "https://play-lh.googleusercontent.com/heuNK1GfamfVDX4ct0jwLzTZSp2LkJoKrVpDW3iwJrdcfoAP1vwuxsjBidyjLXa-7APU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.aimp.player"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Alliance of Independent Meeting Professionals is an association built to be a lobbying effort for our membership. Our members include Independent Meeting Professionals, Hospitality Industry Suppliers, and Convention and Visitor Bureaus. Formed in 2018 by David Bruce, Managing Director, the AIMP mission is centered around the needs of our third-party clients and will always put them first in considering how the organization views the issues of the day.",
+      "android_package_name": "com.aimp.player",
+      "ios_bundle_id": "org.aimp.mobileup",
+      "title": "AIMP",
+      "domain_name": [],
+      "website": "",
+      "developer": "BOS LOGISTICS INC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/-JkPRxESEsV-NNwIRtK9Rz9scr0dbSG1ZbjqYlD-Fnuc_XlU4gJXK6O3T2GakXChKLw",
+      "icon_72": "https://play-lh.googleusercontent.com/-JkPRxESEsV-NNwIRtK9Rz9scr0dbSG1ZbjqYlD-Fnuc_XlU4gJXK6O3T2GakXChKLw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bambuna.podcastaddict"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Get millions of podcasts at your fingertips and any curiosity on-demand, only on Podcast App: the #1 most downloaded podcast app in The App Store. Sharpen up in your downtime with free and easy access to millions of shows. Start feeding all of your interests from news and comedy to true crime, sports and infinitely more.\n\nFind something new to listen to in less than 10 seconds. With endless personalized recommendations,  interest categories, and our powerful search and filters, it’s easy to discover the perfect show or episode for your mood. Once you’re listening, pick up where you left off, speed it up or rewind 10 seconds and track your listening history. We provide the tools to take your time back and make the world of podcasts your own. Time to stop scrolling and just listen. \n\nFeatures\n\n* Search any person, topic, sport, mood, and more to discover millions of the most popular and up-and-coming shows waiting for you. \n\n\n* Infinite personalized recommendations and \"Best of\" lists to help you find exactly what you want to listen to. \n\n\n* Favorite what you find, or save for later. Start building your podcast collection and settle in. \n\n* We won't forget about you—easily keep up with your favorite shows, pick up where you left off, and track your history and streaks in your personal profile.\n\n\n— — — — — — — — — Subscription pricing and terms — — — — — — — — — — —\n\nOur free app is ad-supported, but includes visual ads only. \n\nIf you purchase our Premium subscription you can…\n\n* Remove all visual ads completely\n* Access our entire library of curated Deep Dive Playlists\n* Unlock your full listening history\n* Add your own private podcasts by URL\n\nThe payment will be charged to your iTunes account at confirmation of purchase. Your account will be charged for renewal 24 hours prior to the end of the current period and will identify the cost of the renewal. Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription to that publication, where applicable. Prices may vary from country to country.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ \n\nPrivacy Policy & Terms of Use: https://evolve.xyz/privacy/",
+      "android_package_name": "com.bambuna.podcastaddict",
+      "ios_bundle_id": "com.evolve.podcast",
+      "title": "Podcast Addict",
+      "domain_name": [
+        "https://podcast.app",
+        "https://podcast.app"
+      ],
+      "website": "https://podcast.app",
+      "developer": "Evolve Global, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/m6FeLOkUfP8qTZNXKFSSI8_exI-SlGJRcIArl3gRm3-VninL7l1RdYlPkkf2CfbBnA",
+      "icon_72": "https://play-lh.googleusercontent.com/m6FeLOkUfP8qTZNXKFSSI8_exI-SlGJRcIArl3gRm3-VninL7l1RdYlPkkf2CfbBnA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "fm.castbox.audiobook.radio.podcast"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Panorama is a Camera app alternative for photo stitching that avoids curvature of horizontal edges in photos. (See first screenshot for an illustration.) An additional feature not available in the Camera app:\n\nPanorama enables the creation of rectangular panoramas: \n\nThe 'Build View' provides a stitcher for an arbitrary set of photos that have overlapping regions for horizontal or vertical stitching (For vertical select 'Build Vertical' to rotate input by 90º left and then result by 90º right, since the stitcher only stitches left to right). \n\nA rectangular panorama is vertical & horizontal stitching combined. (See the third video preview titled 'Rectangular Panorama' for an example.) \n\nIn this way you can build two vertically registered panoramas, and then use those to build a horizontally registered panorama (or vice verse): as long as you are careful the photos are aligned for registration.\n\nThe camera view provides an overlay view of the previous photo taken so that the next photo can be properly aligned with the previous photo. This is important for proper registration when stitching the photos together.\n\nYou can create vertical panoramas also: to do this you need first TURN ON the option to 'lock orientation' in the Settings view.\n\nThen the camera guide works as expected for taking your photos for a vertical panorama: In other words you need to prevent the camera view from taking photos in landscape mode. Then the registration guide will appear at the BOTTOM of the view, as opposed to the left side. \n\n• Use the integrated image editor, in the options menu for all panoramas in the gallery. Enhance, add text, crop and more. \n\nImage editing options: Enhance (Hi-Def, Illuminate, Color Fix), crop, rotate, brightness, contrast, saturation, sharpness, draw, text, redeye, whiten, blemish and meme. \n\n• Build custom panoramas or creatively blend images into photo montages from the camera roll of Photos using the Build pane. \n\n• Use the Build pane to merge two or more vertical overlapping panoramas to easily create 2x2 or 3x3 rectangular panoramas.\n\n• Shoot a scene and save the photos into the gallery for merging later if you prefer. This allows you to save time and battery during a shoot.\n\n• Undo and redo a panorama in the gallery to try different settings or options, such as exposure matching or merge quality.\n\n• High resolution of the 2 and 3 image stitchers essentially doubles and triples your camera's field of view. \n\n• As you shoot pictures they are collected into a sliding pocket drawer, so you can review what you shot at any time, and delete to retake photos. \n\n• Use the \"film roll\" button in the camera pane to save all the photos currently in the drawer to the gallery, without merging them.\n\n• If you cancel the current merge, you can always resume it anytime from the gallery.\n\n• Panoramas are saved to the gallery automatically when completed, and optionally also to the Photos library. \n\n• In the gallery any saved panorama can be resumed. \n\n• You can undo panoramas, separating them into a film roll of the original photos. Originals can always be saved to the Photos library.\n\n• Export and manually preprocess the photos in your photo shoot in any other image editor, then reload from the Photos library and stitch them together in the Build pane.\n\n• Adds location data to your panoramas so you remember exactly where you shot them. View the location where the panorama was made on a map in the gallery. \n\n• In the gallery you can always undo and then redo a stitch, say for experimenting with different options or image editing.\n\n• Time consuming stitching can be deferred by saving your photo shoots in the gallery. \n\n• Run in the background as you use your device with other apps or put the screen to sleep with the hold button. You'll be notified when the stitch is done. \n\n• The photo alignment guide ensures you properly align your photos for the best stitching results, and facilitates acquiring photos for the Mac version of Panorama.",
+      "android_package_name": "fm.castbox.audiobook.radio.podcast",
+      "ios_bundle_id": "com.limit-point.Panorama",
+      "title": "Stitcher",
+      "domain_name": [
+        "http://www.limitpointstore.com/products/panorama/iOS.html",
+        "https://www.limitpointstore.com"
+      ],
+      "website": "http://www.limitpointstore.com/products/panorama/iOS.html",
+      "developer": "Limit Point Software",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/s3A7EYvFV9Hr69f9zdYw4cF0An5RVm8efsrDHaNz3ow5YbSNOiUkWHq18kqlch98v3s",
+      "icon_72": "https://play-lh.googleusercontent.com/s3A7EYvFV9Hr69f9zdYw4cF0An5RVm8efsrDHaNz3ow5YbSNOiUkWHq18kqlch98v3s=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "io.amuse.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "A PLAN FOR EVERY STAGE OF YOUR INDEPENDENCE\n\nDownload the UnitedMasters app to release music to major streaming services like Spotify and Apple Music, access Exclusive brand & sync deals, track your performance with advanced analytics, and more while keeping 100% of your masters.\n\nDEBUT+ - Annual Subscription\n- Keep 100% of your royalties\n- Distribute to 50+ platforms like Spotify, Apple Music, TikTok, and Instagram\n- Release unlimited music\n- Cash out anytime\n- Advanced streaming analytics\n- ArtistPages website to build your brand\n- Sharable MasterLinks to drive streams\n- Priority customer support\n- Educational content through Blueprint\n\nSELECT - Annual Subscription\n- Keep 100% of your royalties\n- Access to Exclusive brand & sync deals\n- Release unlimited music\n- Distribute to 50+ platforms like Spotify, Apple Music, TikTok, and Instagram\n- Advanced streaming analytics\n- ArtistPages website to build your brand\n- Sharable MasterLinks to drive streams\n- Priority customer support\n- Premium educational content through Blueprint\n\nPARTNER - By Invitation Only\n- Financial backing\n- Personalized marketing & rollout strategy\n- Editorial playlist pitching\n- Release unlimited music\n- White glove music distribution services\n- Advanced streaming analytics\n- YouTube Content ID Monetization\n- Shareable MasterLinks to drive streams\n- Brand & sync pitching\n- Dedicated artist relations support\n- Mentorship from our in-house team\n\nDEBUT - Free To Join\n- Keep 90% of your royalties\n- Release music once per month\n- Distribute to a limited number of streaming platforms\n- ArtistPages website to build your brand\n\nBecome a UnitedMasters Artist today to turn your art into a career.",
+      "android_package_name": "io.amuse.android",
+      "ios_bundle_id": "com.translationunited.unitedmasters",
+      "title": "TuneCore",
+      "domain_name": [
+        "https://unitedmasters.com",
+        "https://unitedmasters.com"
+      ],
+      "website": "https://unitedmasters.com",
+      "developer": "Translation United LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/vEsaCX9lM02KIEm15FCbLH1g377O7Ysu9zoNc0bt4yswlaDM1RzHidMw4pXgFgESRQSH",
+      "icon_72": "https://play-lh.googleusercontent.com/vEsaCX9lM02KIEm15FCbLH1g377O7Ysu9zoNc0bt4yswlaDM1RzHidMw4pXgFgESRQSH=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.musixmatch.android.lyrify"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Musixmatch is the world’s largest lyrics catalog, giving you synchronized song lyrics with multilingual translations for all your music.\nSelected for the Editor’s Choice on the App Store.\n\n\nKEY FEATURES:\n\nMusixmatch lets you:\n\n• Enjoy synchronized lyrics for every song in your music library\n\n• Connect your Spotify or Apple Music account to get synced lyrics when you stream your favorite tracks and saved playlists seamlessly within the Musixmatch app.\n\n• Easily learn new languages from the line by line lyrics translated in time to the music\n\n• Identify and get the lyrics to any song that’s playing around you with one tap\n\n• Search for your favourite song by title, artist and even just using a single line of the lyrics.\n\n• Sing along to any song with word by word syncing with the Party mode feature\n\n• Get lyrics for Apple Music or Spotify straight in your Lockscreen\n\nADDITIONAL FEATURES\n\nWith Musixmatch you can also:\n\n• Use the smart seek to find your favourite lyrics by easily skipping through a song using the the progress bar.\n• Share your favourite song lyrics on amazing backgrounds with the LyricsCard feature\n• Get notified instantly when new lyrics from your favourite artists are available\n• Quickly and easily find all your favorite songs on your profile\n• Collect your identified songs in a Spotify playlist.\n• Join our Community so you can submit all your favourite lyrics, put them in time with music and even have fun translating them.\n\n\nMUSIXMATCH FOR YOUR WATCH \n\nGet lyrics on the go without having to pull out your iPhone from your pocket.\nWith a simple tap on your Apple Watch, you can instantly identify any song.\n\n\nMUSIXMATCH PREMIUM FEATURES\n\nParty Mode - sing along to any song with word by word syncing and animated backgrounds\nOffline lyrics - enjoy all the lyrics you have viewed without a connection.\nNo ads - get all the lyrics with no ads.\nNo commitment - cancel any time you like.\n\nMusixmatch Premium is available in the US for $2.99/month or $35.99/year. Prices are in U.S. dollars, may vary in countries other than the U.S. and are subject to change without notice.\n\nSubscription terms:\n• Payment will be charged to iTunes Account at confirmation of purchase\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n\nDATA & PRIVACY\n\nLearn more about our terms & privacy policy at http://about.musixmatch.com/eula\n\n\nCOMMUNITY\n\nLove Musixmatch? Don’t miss our updates:\n\nMusixmatch Blog: https://blog.musixmatch.com/\nFacebook: https://www.facebook.com/musixmatch\nTwitter: https://twitter.com/Musixmatch\nInstagram: https://www.instagram.com/musixmatch\n\nPROBLEMS? FEEDBACK?\n\nWe love receiving your feedback, they help us to improve Musixmatch. \nReach us on Twitter: @musixmatch or via email: support@musixmatch.com\nVisit our Support: https://support.musixmatch.com",
+      "android_package_name": "com.musixmatch.android.lyrify",
+      "ios_bundle_id": "com.musixmatch.lyrics",
+      "title": "Musixmatch",
+      "domain_name": [
+        "https://musixmatch.com",
+        "https://musixmatch.com"
+      ],
+      "website": "https://musixmatch.com",
+      "developer": "musiXmatch srl",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Gw0PKgbVNm5nbtJ7wIKJPRdO_C75yBp1MXyCZg641EZ5IYMv05lcBKXN-rzgVo3-OUQ",
+      "icon_72": "https://play-lh.googleusercontent.com/Gw0PKgbVNm5nbtJ7wIKJPRdO_C75yBp1MXyCZg641EZ5IYMv05lcBKXN-rzgVo3-OUQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "au.com.shiftyjelly.pocketcasts"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "A powerful, simple, award-winning podcast player. Featured by the App Store as Editor's Choice and critically acclaimed by The Verge, TechCrunch, 9to5Mac, AppAdvice, and more.\n\nNo big company or VC funding here — Overcast is the only major podcast app written by a single person.\n\nThe Verge: “The best podcast app for the iPhone”\n9to5Mac: \"Overcast is the best podcast app that I’ve ever used”\nAppAdvice: \"Our favorite podcast client\"\nSix Colors: \"My podcast player of choice\"\nThe Sweet Setup: “Overcast is our favorite”\nCult of Mac: “It’s the best podcast app out there”\nTIME: “Overcast lives up to its lofty claims”\niMore: \"My personal favorite\"\nTechCrunch: “There is no reason why you should still be using the Podcasts app over Overcast”\n\nOvercast is a modern, fully featured audio podcast app with many useful features in a simple, intuitive interface:\n\n- Smart Speed saves time without distorting the audio or sounding unnatural.\n- Voice Boost makes every podcast the same volume with a broadcast-quality remastering engine.\n- Download podcasts for playing anytime, even offline.\n- Search and browse for new podcasts, plus get personalized recommendations.\n- Create custom Playlists with smart filters and per-podcast priorities, and rearrange the list whenever you want.\n- Receive optional notifications when new episodes arrive.\n- Subscribe to a podcast, or just add an episode: try new shows without committing.\n- Sleep timer automatically stops playback after any time interval you set.\n- Apple Watch app with standalone playback and cellular streaming.\n- CarPlay support.\n\nAnd Overcast has world-class privacy, with no third-party analytics, ad services, or tracking code.\n\nOvercast is funded by ads that promote other podcasts. If you choose to purchase Overcast Premium to hide these ads, payment will be charged to your iTunes account, and your account will be charged for renewal 24 hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase.\n\nPrivacy policy: https://overcast.fm/privacy\nTerms of use: https://overcast.fm/terms\n\nProudly made in New York.",
+      "android_package_name": "au.com.shiftyjelly.pocketcasts",
+      "ios_bundle_id": "fm.overcast.overcast",
+      "title": "Overcast",
+      "domain_name": [
+        "https://overcast.fm",
+        "https://overcast.fm"
+      ],
+      "website": "https://overcast.fm",
+      "developer": "Overcast Radio, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Hz1gtRR_LM7e24MBOP_WyOkcNz6e0P7I446NTIJOX2jR7MdP2PvGhDwQVQU__bqharc",
+      "icon_72": "https://play-lh.googleusercontent.com/Hz1gtRR_LM7e24MBOP_WyOkcNz6e0P7I446NTIJOX2jR7MdP2PvGhDwQVQU__bqharc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.podcast.podcasts"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Entertainment",
+      "description": "Discover podcasts that entertain, inform, and inspire. Get recommendations curated by Apple Podcasts editors, tailored to your interests. Seamlessly sync your shows across Apple devices.\n\nFeatures:\n\n• Explore new shows with personalized recommendations. \n• Find trending shows and episodes by category with Top Charts. \n• Browse hundreds of curated collections from Apple editors. \n• Follow and save your favorite shows to your library. \n• Use playback controls to build and manage your queue, control playback speed, and set sleep timers. \n• Add your favorite categories to find shows that map to your unique taste.\n• Access subscriber-only content — from the biggest names to the top independents.\n• Connect subscriptions to access shows from Apple Music, Apple News, and other top apps. \n• Read along as the episode plays with transcripts.\n• Get new episode notifications from shows you follow.\n• Download episodes and listen offline.\n• Pick up where you left off with seamless syncing across your Apple devices.\n• Listen on-the-go with CarPlay and Apple Watch.\n\nAvailability and features vary by country and region, plan, or device. https://support.apple.com/HT204411",
+      "android_package_name": "com.podcast.podcasts",
+      "ios_bundle_id": "com.apple.podcasts",
+      "title": "Apple Podcasts",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QCru9sGm118P4hNQ1Ts2PttgqykIoBS1JRadg74hV-OajVmIDDOe2COmumZmeg1Kx7I",
+      "icon_72": "https://play-lh.googleusercontent.com/QCru9sGm118P4hNQ1Ts2PttgqykIoBS1JRadg74hV-OajVmIDDOe2COmumZmeg1Kx7I=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.audible.application"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Book",
+      "description": "Discover storytelling that speaks to you with Audible. Audiobooks, podcasts and Audible Originals await in an all-in-one audio entertainment app.\n\nStorytelling and entertainment for all genres awaits. Keep one audiobook or podcast every month as a Premium Plus member or purchase your favorite titles with cash. Prioritize your health and wellness with meditation audiobooks or fitness podcasts. Start listening to Audible Originals such as The Justice, Million Dollar Habits, and The Space Within.\n\nCarPlay on the road for your morning commute or listen to bestsellers at your leisure — embrace Audible as part of your daily listening routine, anytime, anywhere. Stream and download audio books, whether you’re offline or switching devices. Enjoy deep relaxation with soothing nature sounds or fall asleep listening to sleep stories.\n\nEmbark on a mental wellness journey and enjoy a moment of self-care with stories that inspire you. Listen before you watch global Film & TV favorites in fantasy, thrillers and more. Catch up on the latest true crime stories and never lose your place with our Sleep Timer.\n\nFind intriguing stories that speak to you and build your library with audiobooks to keep forever. Tap into the best of audio entertainment, today with Audible.\n\nAUDIBLE FEATURES\n\nTHE PLUS CATALOG: AUDIO ORIGINALS\nListen to thousands of originals, audiobooks, and podcasts including exclusive shows and series.\n• Stream or download anything in the Plus Catalog anytime you want, no credits necessary\n• Browse thousands of binge-worthy titles and top genres\n• Listen to your favorites, enjoy bestsellers or discover exclusive originals\n\nSTORYTELLING: ANYTIME, ANYWHERE\nQueue up downloads, adjust your listening speed and experience seamless listening with Audible.\n• Offline listening - stream or download directly to enjoy Audible with or without WiFi\n• Read on your Kindle or listen on Audible - switch seamlessly with WhisperSync\n• Listen on the go with your Apple Watch or connect to your car with CarPlay\n• Sleep Timer - pause your book automatically before falling asleep\n\nENTERTAINMENT OASIS: FEAST YOUR EARS\nListen to storytelling that enriches you with immersive audio experiences for every moment.\n• Stream audiobooks and podcasts fit for every mood - get lost in a captivating story\n• Find what you need to unwind with true crime, classic literature & more\n• Health and wellness, fitness and nutrition, or sleep stories - begin a journey of self-care\n\nKIDS PROFILE\nCreate a Kids Profile for your child and share family-friendly listens from our extensive catalog of children’s audiobooks, podcasts and Originals, right from the app.\n\nAUDIBLE MEMBERSHIP\nGet the most from your subscription with discounts on our monthly and annual plans. Try cash purchases for titles you love and benefit from discounted prices as an Audible member.\n\nAUDIBLE PREMIUM PLUS\nWith Premium Plus, you can access the Plus catalog and much more:\n• The entire Plus Catalog - thousands of titles, podcasts, and Originals\n• Get 1 monthly credit to choose a title you want to keep forever\n• Listen to an extended selection of bestsellers, Originals and new releases\n• A permanent library! Titles purchased with credits are yours to keep, even if you cancel\n\nPurchase individual credits through the app and expand your audio library anytime with Audible.\n\n-\n\nIf you subscribe to Audible via iTunes where available, payment will be charged to your iTunes Account at confirmation of purchase and your membership will automatically renew monthly unless auto-renewal is turned off at least 24-hours before the end of the then current membership period. Your account will be charged for renewal within 24-hours before the end of each membership period at the rate of your selected plan. You can manage your subscription and turn off auto-renewal anytime by going to My Account or through iTunes.\nConditions of Use: https://www.audible.com/legal/conditions-of-use\nPrivacy Notice: https://www.amazon.com/privacy",
+      "android_package_name": "com.audible.application",
+      "ios_bundle_id": "com.audible.iphone",
+      "title": "Audible Audiobooks",
+      "domain_name": [
+        "http://www.audible.com",
+        "https://www.audible.com"
+      ],
+      "website": "http://www.audible.com",
+      "developer": "Audible, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pwzZK-7oQexraeU0mOrQgFIck-QSS89rH0eWjehctp8XskRSpixPNVlA0YYlRXHbA2Iz",
+      "icon_72": "https://play-lh.googleusercontent.com/pwzZK-7oQexraeU0mOrQgFIck-QSS89rH0eWjehctp8XskRSpixPNVlA0YYlRXHbA2Iz=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.github.anrimian.musicplayer"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "The simplest and most reliable way to listen to your favorite AM, FM and online radio stations with an iPhone, iPad or Apple Watch. Join millions using our radio tuner today!\n\nListen to Simple Radio app for free:\n\n• Play 75,000+ worldwide radio stations on your iPhone, iPad and Apple Watch\n• Enjoy our extremely reliable radio tuner. Eliminating drops is our top priority\n• Save your favorite stations and listen to them in one tap\n\nSimple Radio’s free radio tuner is ideal for:\n\n• Listening to your favorite radio stations\n• Discovering new music\n• Staying connected to home while living abroad\n• Making your commute more interesting\n• Practicing a foreign language\n\nFind specific content based on your interests:\n\n• Trending music\n• Specific music genres (Rock, Pop, Jazz, Country, Folk & more)\n• Live sports like NFL, NBA, Football, NHL, MLB, Soccer and Nascar\n• Breaking news\n• Talk radio\n\nTune in to your favorite Radio Stations like NPR, ESPN, KEXP, WBLS, WNYC, WJR, La Mega, W Radio, WTMJ, Moody Radio, Radio 24, WSB, WBLS, Radio Love, KQED, Radio Caraibes, WBUR, WCBS, Radio Javan and many more.\n\nWhy are our Premium Features the best purchase you will make this year?\n\n• You'll be able to set the Sleep Timer to fall asleep to your favorite station, and doze off like a baby.\n• You’ll never see a display ad within our app again!\n*Remember that in-app purchases cannot be shared with family members.\n\n\n——— Download Simple Radio Today For Free ———\n\n\nWhat others are saying about Simple Radio:\n\n• \"A pleasant journey back to childhood every time I tune in. An array of stations at the tap of a finger. Doesn't get much better.” Dan K., London\n• “It gives access to my hometown radio station over 1200 miles away!” - Roxanne L., New York\n\nLove Simple Radio by Streema?\n\n• Follow us on Twitter: https://twitter.com/streema\n• Like us on Facebook: https://www.facebook.com/pages/Streema/566615950033225\n\nQuestions or feedback?\n\n• We love hearing from you and we read every single email you send us!\n• Want us to add a specific radio station? Have suggestions? Please, feel free to reach us at simple@streema.com.\n\n\nThis software uses code of FFmpeg (ffmpeg.org) licensed under the LGPLv2.1 (www.gnu.org/licenses/old-licenses/lgpl-2.1.html).\n\nPrivacy policy: https://streema.com/about/privacy/\nTerms of use: https://streema.com/about/terms/\n\nProduct names, logos, brands, and other trademarks featured or referred to within this profile and the Simple Radio app are the property of their respective trademark holders. These trademark holders are not affiliated with Streema or our services.",
+      "android_package_name": "com.github.anrimian.musicplayer",
+      "ios_bundle_id": "com.simpleradio.SimpleRadioFree",
+      "title": "Simple Music Player",
+      "domain_name": [
+        "https://streema.com",
+        "https://streema.com"
+      ],
+      "website": "https://streema.com",
+      "developer": "Streema, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jKKYxSMn4kmUdo5iqJU74GY9aIVZ05mai9QvnGmFyPcToPbfavliMIdfEd22LcB1zoLJ",
+      "icon_72": "https://play-lh.googleusercontent.com/jKKYxSMn4kmUdo5iqJU74GY9aIVZ05mai9QvnGmFyPcToPbfavliMIdfEd22LcB1zoLJ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.jangomobile.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "The best 100% free internet radio.  No Commercials!\n\nJango Radio is a free, personalized radio service that plays\nthe best music by artists you love. Just start with the name of one of\nyour favorite artists and Jango Radio will create a custom station that\nplays similar music. Or you can tune in to hundreds of expertly programmed genre stations like Today's Top 100, Country Classics, Hits from the 80's & much more… It's unlimited free listening with No Audio Ads!\n\nAlready a Jango listener? Great. Just log in to access your existing\nstations and create new ones right from your iPhone, iPod Touch or\niPad.  If you aren't, connect to Facebook or create an account with your e-mail address in seconds.\n\n“I’m in love with Jango” - USA Today\n“Refreshingly simple online radio” - CNet\n\"Straightforward and easy to navigate\" - Wall Street Journal\n“Makes it fun to discover new music” - PC World\n\nJango Radio Features:\n• Free, unlimited listening on desktop and mobile\n• No ad interruptions on mobile devices\n• Create custom radio stations with the artists you love\n• Tune in to 100’s of expertly curated stations\n• Explore new music by tuning in to similar stations\n• Fine-tune your stations by adding the artists you want to hear or\nchanging the variety setting\n• Share stations with your friends on Facebook and Twitter\n• Variable quality settings.\n• Save stations to listen again on your device or at www.jango.com\n• Available for iPhone, iPad and iPod Touch",
+      "android_package_name": "com.jangomobile.android",
+      "ios_bundle_id": "com.jango.jango",
+      "title": "Jango Radio",
+      "domain_name": [
+        "http://www.jango.com",
+        "https://www.jango.com"
+      ],
+      "website": "http://www.jango.com",
+      "developer": "DKCM Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/-atlWsSkVuSzuqHt0XA9bNS2wxTd59GjqsMzMAw7QEY11FzPr-Um8LRgbarywQW2o8c",
+      "icon_72": "https://play-lh.googleusercontent.com/-atlWsSkVuSzuqHt0XA9bNS2wxTd59GjqsMzMAw7QEY11FzPr-Um8LRgbarywQW2o8c=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.sonos.acr2"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "The Sonos app brings all your content and settings together in one place for effortless control of your Sonos products and listening experience.\n \nONE TAP TO ALL YOUR FAVORITE SOUNDS\nThe Home screen puts all your content and controls right at your fingertips. Quickly jump back into your recent favorites, discover new music, and fill your home with Sonos sound.\n\nSTREAMING STREAMLINED\nBrowse, search, and play content from all your services with a single app, including Spotify, Apple Music, Amazon Music, Pandora, TIDAL, Audible, Deezer, iHeartRadio, and SiriusXM. \n\nWHOLE-HOME CONTROL\nPlay something different in every part of your home or the same thing everywhere. The Sonos app gives you complete control of your Sonos products and listening experience from any room. \n\nPERSONALIZED LISTENING\nCreate your ultimate music library by saving go-to artists, albums, playlists, and stations to Sonos Favorites. Fine-tune products for your space with Trueplay™. And adjust settings for your needs and preferences. \n\nEASY SETUP \nThe app automatically detects your Sonos products, then it’s only a few taps to incredible sound. Easily set up a stereo pair, create a cinematic surround sound system, and add speakers to more rooms. \n\nGET THE MOST OUT OF YOUR SONOS EXPERIENCE\nEnable Sonos Voice Control to play music and control your system with hands-free ease and unheard-of privacy.* Explore helpful tips and recommendations in your Message Center. \n\n\n*Requires a voice-enabled Sonos product. Sonos Voice Control not available in all languages and countries.",
+      "android_package_name": "com.sonos.acr2",
+      "ios_bundle_id": "com.sonos.SonosController2",
+      "title": "Sonos",
+      "domain_name": [
+        "https://www.sonos.com",
+        "https://www.sonos.com"
+      ],
+      "website": "https://www.sonos.com",
+      "developer": "Sonos, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/HT9ZbyfnAMqE1khHCj8kRUQfw7iCNU0jAyLIrh9QdbWHU63QyzxWQ0jDmCL34jDg_g",
+      "icon_72": "https://play-lh.googleusercontent.com/HT9ZbyfnAMqE1khHCj8kRUQfw7iCNU0jAyLIrh9QdbWHU63QyzxWQ0jDmCL34jDg_g=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "fm.last.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Your stats. On the Go. Listening counts with the Last.fm App.\n\nTrack the music you stream and access personalized listening reports, stats, and charts, all on the go.*\n\nFree on the Last.fm app:\n\n- Access to your Last.week & Last.year listening reports.\n- View your personal artist, album and track charts from all-time to the last 7 days\n- Explore your listening history\n- Scan & submit scrobbles manually (works with Apple Music**)\n- View tag, artist, similar artist, and track information\n\n\nJoin millions of users. All for free. \n\nLast.fm. Music Counts\n\n\n*To track your music, connect your streaming service accounts to your Last.fm profile, or, via our web client, app or a browser plugin for other services.\n**Only songs added to your library can be scrobbled\n\n\nLove Last.fm? Follow us on:\n\nwww.youtube.com/user/lastfm\nwww.facebook.com/lastfm\nwww.twitter.com/lastfm\nwww.instagram/last_fm\n\n\nPrivacy Policy: https://www.last.fm/legal/privacy\n\nDo Not Sell My Personal Information: https://privacy.paramount.com/donotsell",
+      "android_package_name": "fm.last.android",
+      "ios_bundle_id": "fm.last.batch-scrobbler",
+      "title": "Last.fm",
+      "domain_name": [
+        "https://www.last.fm/about/trackmymusic#ios",
+        "https://www.last.fm"
+      ],
+      "website": "https://www.last.fm/about/trackmymusic#ios",
+      "developer": "Last.fm",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VFmAfWqcuV3aReZG8MMQdHRSdKWx85IW22f4RQ5xhR5U-o1_u03P7TVwsnTYa26Q1No",
+      "icon_72": "https://play-lh.googleusercontent.com/VFmAfWqcuV3aReZG8MMQdHRSdKWx85IW22f4RQ5xhR5U-o1_u03P7TVwsnTYa26Q1No=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.jetappfactory.jetaudio"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "jetAudio is a music player with 10/20 bands graphic equalizer, visualization, network/cloud streaming and various sound effects.\n\n-- Sound Effects & Visualization plugins --\n* Crystalizer\n* AM3D Audio Enhancer (http://www.am3d.com)\n* Bongiovi DPS (http://www.bongioviacoustics.com)\n* Visualizations\n(Sound effect & Visualization plugins will be sold separately through in-app purchase.)\n\njetAudio is the highest rated and most downloaded media player on CNET.COM and now you can listen to same high-quality sound on your iOS devices using jetAudio.\n\nIt plays almost any type of digital music files* you have (wav, mp3, ogg, flac, m4a, mpc, tta, wv, ape and more) and it provides a very high quality sound with various effects and enhancements such as Wide, Reverb, X-Bass.\n\nIt comes with 16 equalizer presets that will provide a wide array of listening experience. \nFor those who would like to customize their own sound experience, it also allows 10/20 bands graphic equalizer and other advanced playback functions including playback speed control, crossfading, AGC and much more.\n\nIt can stream music from shared folders on local home network or WebDAV servers. It works with shared folders from Windows, USB drive attached to router, Network drives (NAS) or WebDAV servers.\n\nIt also can stream music files in the cloud such as Google Drive, Dropbox, Box, OneDrive.\n\nFree version provides same features with Plus version except advertisements and some features.\nTo enjoy full features of jetAudio, please purchase Plus Unlocker through In-App purchases. \n\n\n-- Features for Plus version only --\n* 20-Bands Graphic Equalizer\n* Light Gray/White/Black Theme for Browser/Player\n* Album Art Size for Browser\n* Album Art Background for Player\n* Accent Color\n* No Ads\n\n\n-- Features for Basic/Plus version --\n* Play music via Wi-Fi from shared folders on local home network (SMB)\n* Browse Artists/Albums/Songs/Folder/Playlists/Album Artists/Genres/Compilation category\n* 10-Bands Graphic Equalizer\n* X-Wide, Reverb, X-Bass Sound Effects\n* AGC (automatic gain control) to avoid volume fluctuations between tracks\n* Speed Control from 50% to 200% (pitch adjusted)\n* Pitch Shifter\n* Crossfading, Gap-less playback\n* Display Lyrics\n* Fade-in/Fade-out \n* Repeat A-B\n* Balance\n* Sleep Timer up to 24 hours\n* Flick up to show Now Playing\n* Flick left/right to play next/previous\n* Web Server to Transfer Files using any Web Browser (for Folder Browser)\n\n(*) FLAC, OGG, MPC, TTA, WV, APE, OPUS formats are supported in Folder Browser mode only.\nUse iTunes File Sharing to transfer files to jetAudio folder.\n\n(If you want to localize jetAudio for your language, please contact jetaudio@jetappfactory.com for more information)",
+      "android_package_name": "com.jetappfactory.jetaudio",
+      "ios_bundle_id": "com.jetappfactory.jetaudio",
+      "title": "JetAudio",
+      "domain_name": [],
+      "website": "",
+      "developer": "Jae Ook Jeong",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/vAFE5O6gYFztyv6izX6iQL7gSr4KFPiCoMbkdE8zhMBrgaVquafNhlEz8ZqFbCgqBRI",
+      "icon_72": "https://play-lh.googleusercontent.com/vAFE5O6gYFztyv6izX6iQL7gSr4KFPiCoMbkdE8zhMBrgaVquafNhlEz8ZqFbCgqBRI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.jonathanpuckey.radiogarden"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Create stations from your favorite songs, artists or genres, search or browse to find recommended stations for your mood or activity, and discover podcasts that speak to you. Download today and get instant access to your favorite artists and podcasts, while staying up to date on the most recent singles and releases. From rap and pop to rock and country, play your favorite artists and stay up to date on today’s top hits and releases. Start streaming all of the current global hits and enjoy your own personalized music experience. \n \nTake Pandora with you wherever you go with CarPlay for your daily commute or your next road trip. Enjoy your own personalized music or podcast experience from anywhere on the world’s most powerful music discovery platform. The new voice mode lets you search, play, pause, skip, adjust volume & thumb up music with a simple voice command. Start streaming your favorite artist, song, genre, or podcast instantly today for free in your car.\n \nWith Podcasts on Pandora, find your favorites and listen to personalized recommendations that actually make sense. Just search on your mobile phone or tablet and play to start listening, then tap + to add to your collection. Find something new by simply browse and tap recommended podcasts to find over 1,400 podcasts, including SiriusXM shows, on-demand whether you're on Pandora Premium, Plus or Radio.\n \nLooking for more?\n \nMeet Pandora Modes - The new way to customize your station experience. Choose from six different modes to switch up the kind of music you're hearing:\nMy Station: The station experience you know and love.\nCrowd Faves: Hear the most thumbed-up songs by other listeners.\nDeep Cuts: Hear less familiar songs from station artists.\nDiscovery: Hear more artists who don't usually play on this station.\nNewly Released: Hear the newest releases from station artists.\nArtist Only: Hear songs from the station artist.\n \nPandora Premium™\nSubscribe to enjoy personalized on-demand music and podcasts\n \nSearch and play your favorite songs, podcasts, albums and playlists on-demand\nCreate playlists, not worklists – on your own or powered by Pandora\nDownload the music you want for offline listening\nUnlimited skips and replays\nHigher quality audio\nListen with ad-free music\n \nPandora Plus™\nSubscribe to enjoy personalized radio with ad-free music\n \nUnlimited personalized stations and podcasts\nUp to four stations for offline listening\nUnlimited skips and replays\nHigher quality audio\nListen with ad-free music\n \nPandora Plus subscriptions are $5.99 per month. Pandora Premium subscriptions are $12.99 per month. You’ll be charged as a recurring transaction through your App Store account. Pending trial eligibility, charges for Plus ($5.99/month) or Premium ($12.99/month) begin at the end of a free trial unless you cancel 24 hours prior to the end of the current subscription month. Any unused portion of a free Pandora Plus trial period will be forfeited if you upgrade to Pandora Premium. You can manage your subscription, cancel or turn off auto-renewal through account settings in your App Store account. Pandora is available to US customers only.\n \nSome advertising exclusions apply. Skips, replays and offline features may be limited by certain licensing restrictions. Pandora may use large amounts of data, and carrier data charges may apply. For best results, we recommend you connect your device to trusted Wi-Fi networks when available.\n \nTerms and conditions:\nwww.pandora.com/legal\nwww.pandora.com/legal/subscription\nwww.pandora.com/privacy",
+      "android_package_name": "com.jonathanpuckey.radiogarden",
+      "ios_bundle_id": "com.pandora",
+      "title": "Radio.com",
+      "domain_name": [
+        "http://www.pandora.com",
+        "https://www.pandora.com"
+      ],
+      "website": "http://www.pandora.com",
+      "developer": "Pandora Media, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/07lewhVI4GklVBi_ehhOXxmB_bPaWWTiyqHAlQP6VsYD7h9R4d8hskNAy4SCOx0leNx-",
+      "icon_72": "https://play-lh.googleusercontent.com/07lewhVI4GklVBi_ehhOXxmB_bPaWWTiyqHAlQP6VsYD7h9R4d8hskNAy4SCOx0leNx-=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.soundcloud.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "“8TRACKS IS THE FUTURE OF RADIO” –Pete Tong | BBC Radio 1\n\nImagine if every time you wanted to listen to a good playlist, someone gave you the perfect handmade mixtape. Welcome to 8tracks – the best place to discover & share playlists made by people.\n\nExplore more than 2 million free playlists, all handcrafted by real people who love music as much as you. Need music for a study, workout, or chill session? Want happy, dance, or dating songs to fit your mood? A DJ on 8tracks has a mix for whatever you’re feeling. Each playlist on 8tracks tells a story, and the person who crafted it represents a soul and personality behind the music.\n\n“PANDORA’S YOUNGER, COOLER SISTER” –David Porter | 8tracks\n\n8tracks is the best music app to discover independent rock, hip-hop, electronic, fanmixes and more. Download today and listen to playlists with every artist, genre, activity & mood imaginable.\n\n“IT’S THE MOST INDIE INTERNET RADIO YOU CAN EVER ASK FOR”  –Pierce Manlangit\n\nListen completely free with ads & limits, or upgrade to 8tracks Plus for unlimited, ad-free listening.\n\nPerks for free listeners:\n• Discover mixes for every imaginable artist, genre, mood or activity under the sun\n• Explore and save creative playlists with a “soul” behind the music\n• Fun music community, discovering and sharing new songs together\n• Crazy-good personalized playlist recommendations \n• Less repetition than other apps\n• Sleep timer\n\nPremium features:\n• Unlimited listening\n• Banish all the audio-ads\n• No interruptions between playlists\n• Use animated gifs on your playlists\n• Get a flashy badge to show off to your friends and admirers\n• Support independent radio and the artists you love\n\n“8TRACKS IS MORE THAN JUST A MUSIC SERVICE – IT’S A REAL COMMUNITY BUILT ON A SHARED LOVE OF MUSIC” –Steve Aoki | Dim Mak Records \n\nJoin millions of listeners & DJs at 8tracks and discover your next favorite playlist today.\n\n\nPrivacy policy: https://8tracks.com/privacy \nTerms of use: https://8tracks.com/terms \n\nLove 8tracks?\nSay hi on Twitter: https://twitter.com/8tracks\nFollow us on Instagram: https://www.instagram.com/8tracks/ \nLike us on Facebook: https://www.facebook.com/8tracks \nFollow us on Tumblr: https://8tracks.tumblr.com\nExplore our website: https://8tracks.com",
+      "android_package_name": "com.soundcloud.android",
+      "ios_bundle_id": "com.8tracks.etracksapp",
+      "title": "8tracks",
+      "domain_name": [
+        "https://8tracks.com",
+        "https://8tracks.com"
+      ],
+      "website": "https://8tracks.com",
+      "developer": "BackBeat Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/JSSeB3XQtb9sHD5FWTqVM4AksY_Kg2q20eExenxGqPJZdn2uVQxi8eoHkP5MA-IR4w",
+      "icon_72": "https://play-lh.googleusercontent.com/JSSeB3XQtb9sHD5FWTqVM4AksY_Kg2q20eExenxGqPJZdn2uVQxi8eoHkP5MA-IR4w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.melodis.midomiMusicIdentifier.freemium"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Hey, what song is that? SoundHound makes it simple to identify music playing around you. Whether you’re in the car or out and about — open the app, hit the big orange SoundHound button, let your phone listen for a few seconds, and we’ll tell you exactly what’s playing! It's been called pure magic — and with 300M+ downloads and billions of songs discovered — we tend to agree.\n\nSoundHound comes equipped with “Hey SoundHound…”, an incredibly powerful way to interact with the app using your voice. “Hey SoundHound…” can help you navigate the app, activate the orange button, and playback songs hands-free. Simply say ‘Hey SoundHound...’ from any screen and say a command!\n\nDiscovering new music is only half the fun of SoundHound. We’re music lovers too, so we’ve created an incredible experience for you to relive your discoveries with our music player. Connect your Apple Music or Spotify account to listen, build playlists, explore music across genres, and find new favorites - all with real-time, karaoke-style lyrics using LiveLyrics®. Don’t have an Apple Music or Spotify subscription? No sweat, we have you covered with our free, built-in YouTube player. This is your music journey.\n\nCurious to know more? Here’s everything you need to know!\n\nDISCOVER\n• Tap the SoundHound button in the app, in the notification center widget, or via 3D touch on the app icon to discover music playing around you! We’ll let you know everything about the song including title, artist, album, and lyrics!\n• Have a song stuck in your head? Press the SoundHound button, sing or hum the tune, and we’ll do the rest!\n• Keep track of all your discoveries in your own personal history\n• Use the Apple Watch app to quickly identify music and sing-along with LiveLyrics. Users with a cellular-enabled Apple Watch can use the app without being connected to an iPhone\n\nPLAY\n• Listen to songs and view lyrics in our free, built-in YouTube player\n• Simply say ‘Hey SoundHound....’ from any screen or tap the microphone on the play page. Once you see the listening panel, you can follow up with commands including:\n\nApp Navigation: ‘Hey SoundHound… Show me my discoveries’\nHelp/Questions: ‘Hey SoundHound… Show me what I can say’\nMusic Discovery: ‘Hey SoundHound… What’s that song?’\nSong Playback: ‘Hey SoundHound... Play Hello by Adele’\nLyrics Search: ‘Hey SoundHound... Show me lyrics to Castle on the Hill’\nTop Charts: ‘Hey SoundHound...Play today’s top songs’\nPlaylists (Spotify account & registration required): ‘Hey SoundHound… Play my Discover weekly playlist on Spotify’\nAdd to Spotify Playlist (Spotify account & registration required): ‘Hey SoundHound… Add this song to my playlist’\n\nCONNECT AND SHARE\n• Build personalized playlists through Apple Music or Spotify (SoundHound account and music subscription required)\n• Access Spotify playlists for a richer playback experience through SoundHound\n• View and interact with real-time, moving lyrics for your songs with LiveLyrics\n• Keep all of your discoveries synced across multiple devices\n• Share your music discoveries to Facebook, Twitter, messaging services, and email!\n\nUpgrade to SoundHound∞ for an ad-free experience: https://04ii.app.link/RXaRXypntA\n\nSoundHound is powered by Houndify, an independent voice-enabled AI platform that enables natural, conversational intelligence on any product.",
+      "android_package_name": "com.melodis.midomiMusicIdentifier.freemium",
+      "ios_bundle_id": "com.melodis.soundhound.free",
+      "title": "SoundHound",
+      "domain_name": [
+        "http://www.soundhound.com",
+        "https://www.soundhound.com"
+      ],
+      "website": "http://www.soundhound.com",
+      "developer": "SoundHound, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/vP16KvobcKnN0Akhub1TOojnevKKAJyU4eAmYO_Ut8m4jywPi-2tQhRRgJukVXxqbcQd",
+      "icon_72": "https://play-lh.googleusercontent.com/vP16KvobcKnN0Akhub1TOojnevKKAJyU4eAmYO_Ut8m4jywPi-2tQhRRgJukVXxqbcQd=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "ak.alizandro.smartaudiobookplayer"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Book",
+      "description": "Discover storytelling that speaks to you with Audible. Audiobooks, podcasts and Audible Originals await in an all-in-one audio entertainment app.\n\nStorytelling and entertainment for all genres awaits. Keep one audiobook or podcast every month as a Premium Plus member or purchase your favorite titles with cash. Prioritize your health and wellness with meditation audiobooks or fitness podcasts. Start listening to Audible Originals such as The Justice, Million Dollar Habits, and The Space Within.\n\nCarPlay on the road for your morning commute or listen to bestsellers at your leisure — embrace Audible as part of your daily listening routine, anytime, anywhere. Stream and download audio books, whether you’re offline or switching devices. Enjoy deep relaxation with soothing nature sounds or fall asleep listening to sleep stories.\n\nEmbark on a mental wellness journey and enjoy a moment of self-care with stories that inspire you. Listen before you watch global Film & TV favorites in fantasy, thrillers and more. Catch up on the latest true crime stories and never lose your place with our Sleep Timer.\n\nFind intriguing stories that speak to you and build your library with audiobooks to keep forever. Tap into the best of audio entertainment, today with Audible.\n\nAUDIBLE FEATURES\n\nTHE PLUS CATALOG: AUDIO ORIGINALS\nListen to thousands of originals, audiobooks, and podcasts including exclusive shows and series.\n• Stream or download anything in the Plus Catalog anytime you want, no credits necessary\n• Browse thousands of binge-worthy titles and top genres\n• Listen to your favorites, enjoy bestsellers or discover exclusive originals\n\nSTORYTELLING: ANYTIME, ANYWHERE\nQueue up downloads, adjust your listening speed and experience seamless listening with Audible.\n• Offline listening - stream or download directly to enjoy Audible with or without WiFi\n• Read on your Kindle or listen on Audible - switch seamlessly with WhisperSync\n• Listen on the go with your Apple Watch or connect to your car with CarPlay\n• Sleep Timer - pause your book automatically before falling asleep\n\nENTERTAINMENT OASIS: FEAST YOUR EARS\nListen to storytelling that enriches you with immersive audio experiences for every moment.\n• Stream audiobooks and podcasts fit for every mood - get lost in a captivating story\n• Find what you need to unwind with true crime, classic literature & more\n• Health and wellness, fitness and nutrition, or sleep stories - begin a journey of self-care\n\nKIDS PROFILE\nCreate a Kids Profile for your child and share family-friendly listens from our extensive catalog of children’s audiobooks, podcasts and Originals, right from the app.\n\nAUDIBLE MEMBERSHIP\nGet the most from your subscription with discounts on our monthly and annual plans. Try cash purchases for titles you love and benefit from discounted prices as an Audible member.\n\nAUDIBLE PREMIUM PLUS\nWith Premium Plus, you can access the Plus catalog and much more:\n• The entire Plus Catalog - thousands of titles, podcasts, and Originals\n• Get 1 monthly credit to choose a title you want to keep forever\n• Listen to an extended selection of bestsellers, Originals and new releases\n• A permanent library! Titles purchased with credits are yours to keep, even if you cancel\n\nPurchase individual credits through the app and expand your audio library anytime with Audible.\n\n-\n\nIf you subscribe to Audible via iTunes where available, payment will be charged to your iTunes Account at confirmation of purchase and your membership will automatically renew monthly unless auto-renewal is turned off at least 24-hours before the end of the then current membership period. Your account will be charged for renewal within 24-hours before the end of each membership period at the rate of your selected plan. You can manage your subscription and turn off auto-renewal anytime by going to My Account or through iTunes.\nConditions of Use: https://www.audible.com/legal/conditions-of-use\nPrivacy Notice: https://www.amazon.com/privacy",
+      "android_package_name": "ak.alizandro.smartaudiobookplayer",
+      "ios_bundle_id": "com.audible.iphone",
+      "title": "AudioBook Player",
+      "domain_name": [
+        "http://www.audible.com",
+        "https://www.audible.com"
+      ],
+      "website": "http://www.audible.com",
+      "developer": "Audible, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/f8F4SED7NaQ-guzds8GZB80iTdBdof_5gbm9sds-FIv1ps_81R96-IUlzb2RByJIIsVR",
+      "icon_72": "https://play-lh.googleusercontent.com/f8F4SED7NaQ-guzds8GZB80iTdBdof_5gbm9sds-FIv1ps_81R96-IUlzb2RByJIIsVR=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.sec.android.app.voicenote"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Voice Memos turns your iPhone, iPad, or Apple Watch into a portable audio recorder, making it easy to capture and share personal notes, song ideas, family moments, classroom lectures, and more. Editing tools like trim, replace, and the new “Save As” feature let you fine-tune your recordings without altering the original. The transcription feature converts speech into text, simplifying the process of finding and referencing specific content. And the new feature to record a vocal layer on top of an existing instrumental recording* without the need for headphones making it easy to capture song ideas on the go. Users can then separate and edit the vocal and instrumental layers independently to continue expanding on those ideas. And with iCloud support, you can capture audio on the go with your iOS device, then use your Mac to do even more with your recordings.\n\nFeatures\n\nRecord\n• Record using the built-in microphone, a Bluetooth headset, or a compatible external microphone.\n• Choose uncompressed audio for maximum sound fidelity, ensuring the highest quality recordings.\n• Opt for compressed audio to save storage space and record longer sessions.\n• Automatically name recordings based on your location.\n• Record a vocal layer* over an instrumental track without headphones.\n• Stereo recording adds greater depth and dimension to your audio**.\n• iCloud support keeps your recordings and edits in sync across all your devices, including iPhone, iPad, Apple Watch, Mac, and Vision Pro.\n\nEdit\n• Pinch-to-zoom for more precision when editing.\n• Trim your recordings to save just the portion you want.\n• Replace and resume to fine-tune your recordings.\n• Save As lets you make edits and save them as a new recording without altering the original file.\n• Separate and independently edit the vocal and instrumental takes for layered recordings*.\n• Transcripts automatically convert speech into text for easy reference***.\n• Enhance Recording reduces background noise and room reverberation with a single tap.\n\nOrganize\n• Quickly find recordings with the search feature.\n• Folders make it easy to organize your recordings.\n• Mark recordings as Favorites so you can quickly access them later.\n\nListen and share\n• Speed up or slow down playback of your recordings, or jump 15 seconds forward or back.\n• Skip Silence analyzes your recordings and automatically skips over gaps in your audio.\n• Share multiple recordings at once via AirDrop, Mail, Messages, and more.\n• Import vocal layer* recordings into Logic Pro as a two-track project for advanced editing and production.\n\n* Adding a vocal layer on top of a Voice Memos recording is available only on the iPhone 16 Pro models.\n** Stereo recording requires Apple devices equipped with stereo microphones and iOS 18 or later.\n*** Audio transcription is available on iPhone 12 and later in English (Australia), English (Canada), English (Ireland), English (New Zealand), English (South Africa), English (UK), and English (US).",
+      "android_package_name": "com.sec.android.app.voicenote",
+      "ios_bundle_id": "com.apple.VoiceMemos",
+      "title": "Audio Recorder",
+      "domain_name": [
+        "http://www.apple.com/ios/ios-12",
+        "https://www.apple.com"
+      ],
+      "website": "http://www.apple.com/ios/ios-12",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EaHQ7KJNn6ZAICf0kEVwKunD4hZd-59oggNErDPDKTaK20sXXfVUN0AYJP70-x8UjQ",
+      "icon_72": "https://play-lh.googleusercontent.com/EaHQ7KJNn6ZAICf0kEVwKunD4hZd-59oggNErDPDKTaK20sXXfVUN0AYJP70-x8UjQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "myradio.radio.fmradio.liveradio.radiostation"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "*** LIVE RADIO BROADCAST ***\nMore than 50,000 radio stations of 200 countries and territories available in this app. From sports to news and music. With more than 200 countries and territories available, there are many kinds of stations for you to choose from.\n\nmyTuner Radio is the best way to listen to the radio on your iPod Touch, iPhone and iPad.\n\nMore than 1 million Podcasts to listen for free with rankings per country.\n\n40 Million users trust us to provide the best radio streaming experience on their devices!\n\nRANKINGS\n- Number 1 in  51 Countries.\n- Top 5  in  65  Countries.\n- Top 100 in  126 Countries.\n- Four stars(****) Rating Average \n\n\nNow you can listen the best radio stations of your country or of your homeland when you are abroad.  \n\n***** AWARDS ************\nBest10apps Awards\n\"A Great New Twist in iOS Radio Apps - Best10Apps.com\"\n***** AWARDS ***********\n\nFeatures: \n- Listen to the best radio stations;\n- Radios from more than 200 countries and territories; \n- Listen to over 50,000 radio stations;\n- More than 1 million Podcasts with rankings per country;\n- Create Playlists / Play Songs (requires Apple Music subscription & iOS 11); \n- Recently played songs on the radio;\n- Share using Facebook, Twitter, SMS, Email; \n- Add more radios to your favorites list; \n- Search  by country, by genre, by state or by city;\n- Listen in the background;  \n- Listen radio with Air-Play; \n- Support for Apple Watch, Apple TV and Apple CarPlay;\n\n\n******* REVIEWS *************** \nExcellent *****\nby Marty b 2410\nBrilliant being able to listen to other radio stations from other parts of the country. Love ministry of sound radio.\n--------------------------------------\nRadio *****\nby Goa\nBrilliant app, use the radio all the time\n--------------------------------------\nEasy to use interface FM Radio *****\nby Ceyemep\nGreat programme plenty of easy hours of music\n--------------------------------------\nRating *****\nby Medo elgamal\nI think it's perfect app for radio\n******* REVIEWS *************** \n\n\nThere may be some stations that do not work because their stream is offline.This application is optimized for 3G/4G networks and Wi-Fi.\n\nmyTuner Radio gives you the best experience in listening to worldwide radio stations.\n\n\nAbout subscriptions: \n\nWe offer our users the option to subscribe myTuner Radio with a great advantage! The subscription periods that we offer are for 1 week, 1 month, 3 months or 6 months, using Apple ID account. The subscription price is shown in the process of subscription. Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase.\n\n- 1 Week subscription: $0.99 US / 0.99 £ / 0,99 € \n- 1 Month subscription: $2.99 US / 2.99 £ / 3,49 € \n- 3 Months Subscription: $5.99 US / 5.99 £ / 6,49 € \n- 6 Months Subscription: $7.99 US / 7.99 £ / 8,99 € \n\nPlease visit our privacy policy and terms of use if you have any doubts:\nhttps://mytuner-radio.com/privacy-policy/\nhttps://mytuner-radio.com/terms/",
+      "android_package_name": "myradio.radio.fmradio.liveradio.radiostation",
+      "ios_bundle_id": "mobi.digitalminds.itunerfree",
+      "title": "My Radio",
+      "domain_name": [
+        "https://mytuner-radio.com",
+        "https://mytuner-radio.com"
+      ],
+      "website": "https://mytuner-radio.com",
+      "developer": "Appgeneration, Software Technologies, Lda",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0sFd0hLt59-FENB6y7yq71rSVV7B-Rjw2GyQJCYsgn_PbO4jPfs7_ux23bJNv-P36UI",
+      "icon_72": "https://play-lh.googleusercontent.com/0sFd0hLt59-FENB6y7yq71rSVV7B-Rjw2GyQJCYsgn_PbO4jPfs7_ux23bJNv-P36UI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.audiomack"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Games",
+      "description": "Million Downloads; Excellent game on global top charts! World-famous slot game!\nFrequent updates with amazing content make global players excited. Rank on global top charts boosted and became a popular game among countries. This is the best slot game you don’t want to miss!\n\n【Features】\n- High quality vision and sounds built by excellent development team\n- Tens of slot game with various themes\n- Unique bonus games\n- 24HR global tournament games; spin for your country\n- Innovative Jackpot lottery; you are the next winner\n- Social network feature; chat or send gifts\n- Gem center mini games; bet small to win big\n\nVisit facebook page to share with us and get more free coins!\nhttps://www.facebook.com/SlotsParadise\n\n*This game applies to adults.\n*This game will not provide “Gambling with real money”, players will not be able to win real money or real prizes.\n*All results players may get in this game are only applied to virtual world. And it will not be the same as  “Gambling with real money”.",
+      "android_package_name": "com.audiomack",
+      "ios_bundle_id": "com.igs.slotsparadise",
+      "title": "Music Paradise Pro",
+      "domain_name": [
+        "https://www.facebook.com/SlotsParadise",
+        "https://www.facebook.com"
+      ],
+      "website": "https://www.facebook.com/SlotsParadise",
+      "developer": "ARC PLAY LTD CO.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/4zXhkPkaVyWr-1jyOSw63KXVJSoeJRUOasy9x9Lsr2FBFc1RXHI9hZ-Dioud0hmSlYIv",
+      "icon_72": "https://play-lh.googleusercontent.com/4zXhkPkaVyWr-1jyOSw63KXVJSoeJRUOasy9x9Lsr2FBFc1RXHI9hZ-Dioud0hmSlYIv=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.audials"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Entertainment",
+      "description": "The music you love, blended with the voices you care about.\n\nPick your favorite station and start listening. Find some interesting people to follow and you'll hear their voices between your songs. Want to listen to Today's Hits, but hear the voices of your best friends pop in after a few songs? You can do that. Want to listen to classical music but hear ABC News headlines and podcast comedy clips pop in after a few songs? You can do that. Want to hear mostly music or mostly talk? Yeah, you can do that too. YOU control the mix of songs and voices.\n\nBroadcast your own voice to your followers, and they'll hear your unique personality right alongside their favorite songs. Record up to 30 seconds of audio in Slacker Studio (we call that a \"Break\"), add custom images and comments, and then publish straight to your friends' streams. Want to share some music? Record an intro, attach it to a song, and broadcast it to fellow Slacker Studio users.\n\nOur Facebook and Google login options are for verification only. We won’t share or collect your data or post to your social apps unless you tell us it’s OK, and we promise we’ll ask your permission first.",
+      "android_package_name": "com.audials",
+      "ios_bundle_id": "com.blender.radio",
+      "title": "Slacker Radio",
+      "domain_name": [
+        "https://studio.slacker.com",
+        "https://studio.slacker.com"
+      ],
+      "website": "https://studio.slacker.com",
+      "developer": "Slacker, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/BNhd-pzmtHggl2fb089IIxIj2opwOSny99zhUkGM1tefNs20PO6-za4sYmTih11IAQ",
+      "icon_72": "https://play-lh.googleusercontent.com/BNhd-pzmtHggl2fb089IIxIj2opwOSny99zhUkGM1tefNs20PO6-za4sYmTih11IAQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "at.hearthis.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "The official iOS Client for hearthis.at!\n\n-------------------------------\n\nBrowse your feed, discover and follow new artists, create sets, listen to your likes and download your favorite tracks for offline listening!\n\nBut it doesn't stop there, with hearthis.at Plus, you can add awesome features like:\n\nOffline Listening: Save songs on your phone and enjoy your music anywhere.\n\nUp Next: Take control of the queue! hearthis.at features a queue that enables you to mix and match Stream, Likes and Sets alike and reorder songs on the fly!\n\nResume: With hearthis.at's resume feature, you can continue listening to awesome DJ Sets right from where you left off! No more searching for the part that you last listened to!\n\nMiniplayer: Control your music from anywhere within the app. hearthis.at Plus adds swipe gestures to the mix!\n\n-------------------------------\n\nYou'll need a hearthis.at account to use it, get one for free at https://hearthis.at/",
+      "android_package_name": "at.hearthis.android",
+      "ios_bundle_id": "com.watchlaterapp.soundflakeforhearthis",
+      "title": "HearThis",
+      "domain_name": [],
+      "website": "",
+      "developer": "Benedikt Gross",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mmcaumUER9dMv76blZmMk7ThiVpLP8rDgBzrX9g-fF4nDUrDQY7rijBQ1i1F2DzHFLke",
+      "icon_72": "https://play-lh.googleusercontent.com/mmcaumUER9dMv76blZmMk7ThiVpLP8rDgBzrX9g-fF4nDUrDQY7rijBQ1i1F2DzHFLke=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.livexlive.android"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Entertainment",
+      "description": "Get 100+ TV channels, live local events and breaking news, movies, TV shows, and more. All for free. \n\nSTIRR is available for free on your Apple device. Watch over 100+ channels featuring the latest in entertainment, live music performances from today's top artists, live local events, breaking news,  election coverage, national and local sports, movies, documentaries,  classic series, cult favorites, and network programming you know and love.  \n\nSTIRR has you covered with:\n\n•\tMonster mayhem and sci-fi cult classics\n•\tHigh-impact action movies \n•\tThought-provoking documentaries and investigative news specials \n•\tMusic concerts featuring today's hottest stars from LiveXLive and more\n•\tStand-up specials, romcom and comedy flicks\n\nSTIRR gives you access to live local entertainment. Watch the ball drop in Times Square. Sit in on a presidential town hall. Cheer on your local high school football team. Don't just watch TV. Experience it. LIVE with STIRR. It’s is the new free TV. \n\nWith new channels and a growing on-demand library, you won’t want to miss out. Download STIRR and watch free TV today.",
+      "android_package_name": "com.livexlive.android",
+      "ios_bundle_id": "com.sbgtv.stirr",
+      "title": "LiveXLive",
+      "domain_name": [
+        "https://stirr.com",
+        "https://stirr.com"
+      ],
+      "website": "https://stirr.com",
+      "developer": "Thinking Media, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ire1O3H7cX6CptWb8f9bFKfvTMboAnElsn3RNdpx-2-BJOcVuo93u9T9CPfGfcwPkG8",
+      "icon_72": "https://play-lh.googleusercontent.com/Ire1O3H7cX6CptWb8f9bFKfvTMboAnElsn3RNdpx-2-BJOcVuo93u9T9CPfGfcwPkG8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.jio.media.jiobeats"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "JioSaavn is India’s no. 1 FREE music app housing a vast and exclusive music library of 8 crore songs. You will not find these songs on any other song app for free. The best part? You can also set songs from JioSaavn as your JioTune (callertune) on your Jio number. JioSaavn also has India’s top podcasts hosted by star podcasters!\n\nJioSaavn is one app, but it serves many purposes. Here are some things you can use JioSaavn for:\n\nBollywood music, Hindi Music, English music, Punjabi music, Tamil music, Telugu music, Gujarati music, Bengali Music, Marathi Music, Bhojpuri music, Kannada music, Malayalam music, Odia music - Whatever your music language, play it on JioSaavn. \n\nJustin Bieber songs, Sid Sriram songs, Shreya Ghoshal songs, Jubin Nautiyal songs, Diljit Dosanjh songs, Ilaiyaraaja songs, Kumar Sanu songs, Michael Jackson songs, Alka Yagnik songs - Get access to music by your current favourite stars or your all-time favourite legends. \n\nPop songs, Trending songs, Classic songs, EDM songs, Romantic songs, Bollywood retro songs, Rock songs, Folk songs, Rap songs, Devotional songs, Remix songs, Indie songs - Find songs in all your favourite music genres on JioSaavn.\n\nSing aloud with lyrics of superhit songs like Kesariya, As It Was, Peaches, Le Le Aayi Coca Cola, Summer High, Mayakama Kalakama, Bimbilikki Pilapi, The Warriorr, Macherla Niyojakavargam, Megharajana Raaga, Singara Siriye, Thallumaala, Dagdi Chawl 2, Obosheshe, Bas Kar Pagli, The Villagers, Kabootar.\n\nComedy shows, film & TV shows, sports shows, thriller shows, crime shows, health & wellness shows, English podcasts, Hindi podcasts, Tamil shows - Listen to India’s most popular podcasts and audio shows across genres and languages. Top-rated shows on JioSaavn include On Purpose with Jay Shetty, Pyaar Actually, Woice with Warikoo Podcast, Get Sleepy: Sleep meditation and stories, and ZARA KHAUFF SE SUNO. \n\nNow Trending Hindi, Best Of Romance Hindi, Fresh Tunes, Now Playing Pop, Gedi Shedi, Lub Ju, Pudhu Tunes, Top Kuthu, Kotha Tunes, Now Trending Telugu, Hosa Tunes, Premaloka, Puthuputhan Tunes, Now Trending Malayalam, Navin Tunes, Now Trending Marathi, Bhalobashar Gallery, Nrityer Taale, Now Trending Bhojpuri, Pyar Ke Jadu, Nava Tunes, Haryanvi Dance Hits - Tune in to addictive playlists in your language.\n\nTop Hindi JioTunes, Top English JioTunes, Punjabi Hip-Hop JioTunes, Tamil Romantic JioTunes, Top JioTunes 2022 - Set JioTunes (Jio caller tunes) from your favourite films, be it Bollywood, Tollywood, or Kollywood. Entertain your callers with a peppy song before you pick up the phone! \n\nJioSaavn Pro is JioSaavn’s premium music subscription and ranked as India’s best music listening experience. Its features include:\n\nNon-stop, ad-free music. \nUnlimited song downloads.\nUnlimited JioTunes.\nHigh-quality sound. \nDownload Ringtones\nOffline play (play music without internet or WiFi).\nExclusive music and podcasts.\n\nEnjoy all of this with JioSaavn Pro daily, weekly, or yearly plans at your convenience. And, Jio users - you get a one-month free trial of JioSaavn Pro! Jio users can also listen music & set JioTunes from JioSaavn on the My Jio app.\n\nKnow that you have come to the right place if you are looking for any of these - Jiosaavn, Jio Saavn, Jio Saavan, Jiosaavan, Jio saavan, Jio tunes, Jio caller tune.\n\nLike us on Facebook: facebook.com/jiosaavn \nFollow us on Twitter: @jiosaavn \nEmail us anytime at feedback@jiosaavn.com \nPrivacy & Terms: http://www.jiosaavn.com/corporate/privacy http://www.jiosaavn.com/corporate/terms \n\n¹ English content is currently available in India, Pakistan, Afghanistan, Bangladesh, Bhutan, Maldives, Nepal, Sri Lanka, UAE, Saudi Arabia, Kuwait, Oman, Qatar, Bahrain, Yemen, Iraq, Lebanon and Egypt.",
+      "android_package_name": "com.jio.media.jiobeats",
+      "ios_bundle_id": "com.Saavn.Saavn",
+      "title": "JioSaavn",
+      "domain_name": [
+        "http://www.jiosaavn.com/pro",
+        "https://www.jiosaavn.com"
+      ],
+      "website": "http://www.jiosaavn.com/pro",
+      "developer": "Saavn Media Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gUR8xEKvCngapSZGkZUgoNETAYuhhkCr0Npza-lPSjbRCM55zdS0SK_KxBj1tg2RoQ",
+      "icon_72": "https://play-lh.googleusercontent.com/gUR8xEKvCngapSZGkZUgoNETAYuhhkCr0Npza-lPSjbRCM55zdS0SK_KxBj1tg2RoQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bsbportal.music"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Wynk é um app que transforma os seus gastos em vantagens incríveis\n\nWynk é a facilidade na palma da mão. Confira: \n\n• Participar de campanhas promocionais nos principais shoppings da cidade;\n• Ganhar até 20% de cashback nas lojas parceiras do DF;\n• Acompanhar as promoções e divulgações de sua marca preferida;\n• Pagar estacionamentos sem precisar entrar em filas;\n\n• Enviar Gift Card Digital para alegrar o dia de um amigo;\n• Ganhar cupons com descontros incriveis de suas marcas preferidas;\n\n\nNão perca tempo e baixe agora mesmo. É grátis!",
+      "android_package_name": "com.bsbportal.music",
+      "ios_bundle_id": "br.com.veriz.wynk",
+      "title": "Wynk Music",
+      "domain_name": [
+        "http://wynk.com.br",
+        "https://wynk.com.br"
+      ],
+      "website": "http://wynk.com.br",
+      "developer": "Wynk Solucoes Digitais Ltda Me",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/JzeVs_5UBmqGCz-_jNYgA1IAPgSLIoBbc7C1vQ98jqZFGGDI6aqWSQ8E1jAfUL8GLQlB",
+      "icon_72": "https://play-lh.googleusercontent.com/JzeVs_5UBmqGCz-_jNYgA1IAPgSLIoBbc7C1vQ98jqZFGGDI6aqWSQ8E1jAfUL8GLQlB=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.gaana"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Experience the magic of Gaana Music App! - Mp3, Music & Offline Songs\n\nAre you ready to elevate your music journey? Look no further than Gaana, the classic destination for all your music swings! Whether you are seeking heart-pounding beats, soul-soothing melodies, captivating podcasts or radio, Gaana's offline music player is your answer to a musical world like no other.\n\nWith an expansive library, over 20 million songs , Gaana is much more than a song app; it's your key to a world of musical delight. Explore a wide variety of Music Playlist featuring DJ tracks, love songs, devotional, Bollywood Classics songs, Upbeat Bhangra hits, Regional songs including Tamil songs, Hindi songs, Punjabi songs, Kannada songs, Telugu songs, Bhojpuri songs or bhojpuri gana and more.\n\nCheck out the latest trending songs like Tauba Tauba (From \"Bad Newz\"), Angaaron, Tainu Khabar Nahi (From \"Munjya\"), Khudaya (From \"Sarfira\"), Kalki   movie songs and more new songs. Gaana curated playlists like Top Hindi Songs, Top English Songs, Best 90s & Party Music on the Gaana music app or download mp3 songs for seamless listening.\n\nThat’s not all! Gaana 2.0 app latest features significantly enhance the music streaming experience.\n\nGaana 2.0 - New Music Experience\n\nIntroducing Gaana 2.0, latest app integrated with Song Catcher, New Search & Explore & Shuffle & Play features. These features provide a more intuitive and customised listening journey for music lovers.\n\nSong Catcher: Instantly identify songs from short audio clips.\nVoice Search: Effortlessly find tracks using voice commands.\nNew Recommendation: Personalised music suggestions tailored to your preferences.\nNew Search & Explore: Easily discover new music and artists.\nShuffle & Play: Enjoy a dynamic and unpredictable playlist.\nParty Mode:  Enjoy Music Flashlight & Volume Booster.\n\nGaana premium music app also allows you to download mp3 songs of an extensive array of artists spanning genres like Bollywood Music, Punjabi Songs, Sufi Songs, Regional Songs, International Music, Pop Music, Old Songs, EDM Music, Rock Songs, Folk Music, Rap Songs, Jazz Music, Hip Hop, K-pop Music, Workout Songs, Nursery Rhymes, Kids Songs, Romance Songs, Sad Songs & Bhangra Indulge in the melodies of renowned artists such as Lata Mangeshkar Songs, Kishore Kumar, Alka Yagnik, Prateek, Sonu Nigam songs, Shreya Ghoshal's Song, Arijit Singh's Songs, Nusrat Fateh Ali Khan Songs, Jubin Nautiyal's Songs, Guru Randhawa Songs, A R Rahman songs, Anirudh Ravichander, Devi Sri Prasad, Sid Sriram's Songs and more.\n\nLooking to explore international music? Listen to Taylor Swift, Ed Sheeran, BLACKPINK, BTS, Madonna, Selena Gomez and other international pop acts on Gaana.\n\nNot just that, delve into a rich collection of Devotional songs, Spiritual chants, Krishna bhajans, Ayyappan songs, Ganpati aarti, Sai Baba bhajans, Bhakti songs, Ganesh aarti, Hanuman chalisa, Ram aayenge, Maa Ka Bulawa Aaya Hai and more.\n\nWhy Gaana Plus?\nVast Music Library: Explore a treasure trove of melodies spanning diverse genres and languages.\nAward-Winning Podcasts: Explore podcasts and shows like Andhaghaaram, Sunday Suspense and a lot more on Gaana app.\nSeamless Playback: Immerse yourself in uninterrupted musical bliss, anytime, anywhere.\nOffline Listening: Take your favourite tunes offline and enjoy them on the go, sans the internet.\nPersonalised Experience: Tailor your listening journey with personalised recommendations and playlists.\nUnlimited Downloads: To play offline music, Unlimited In-app MP3 Song Download.\nDolby Atmos: Enjoy your favourite songs with Dolby experience\n\nSubscribe to Gaana Plus App for ₹99 per month or ₹599 yearly. Automatically renewed each month via any payment mode. Permission is needed to read OTP sent via SMS. Legitimate & duty-licensed content.\n\nReach Us!\ninstagram.com/gaana\nfacebook.com/gaana.com\ntwitter.com/gaana\nbit.ly/gaana-youtube\ngaana.com\n\n*English songs are currently available in India only",
+      "android_package_name": "com.gaana",
+      "ios_bundle_id": "com.til.gaana",
+      "title": "Gaana",
+      "domain_name": [
+        "http://www.gaana.com",
+        "https://www.gaana.com"
+      ],
+      "website": "http://www.gaana.com",
+      "developer": "Gamma Gaana Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/vHw1Qv2MNAzoXiuJb8lNkybyHBzCsiWblKCefKnsukJlV9z4G0hGL_4uXzLUwxyT7a_q",
+      "icon_72": "https://play-lh.googleusercontent.com/vHw1Qv2MNAzoXiuJb8lNkybyHBzCsiWblKCefKnsukJlV9z4G0hGL_4uXzLUwxyT7a_q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.podcast.podcasts"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free. Stream music and podcasts, discover albums, playlists or even single songs for free on your mobile or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are.\n\nWHY SPOTIFY FOR MUSIC AND PODCASTS?\n• Discover new music, albums, playlists and original podcasts.\n• Search for your favorite song or artist by typing a lyric\n• Enjoy amazing sound quality on music and podcasts across all devices.\n• Create and share your own music playlists to suit your mood or discover other playlists you might like.\n• Listen to daily music mixes made just for you.\n• Explore top songs from different genres, countries or decades.\n• Subscribe to your favourite podcasts so that you never miss an episode, then curate your very own podcast library.\n• Bookmark individual podcasts into Playlists\n• Listen to music and podcasts on your mobile, tablet, desktop, PlayStation, Chromecast, TV or wearable device.\n\nListen to popular and exclusive podcasts like;\n• The Joe Rogan Experience\n• Modern Wisdom\n• 2 Bears, 1 Cave with Tom Segura and Bert Kreischer\n• Call Her Daddy and Crime Junkie\n\nSearch, discover and play music and podcasts from all over the world for free, anywhere, anytime or create your own music playlists with the latest songs to suit your mood.\n\nListen and discover the latest music from artists like;\n• Bad Bunny\n• Billie Eilish\n• Renzo Pianciola\n• The Temper Trap\n• Harry Styles\n\nListen to your favorite music artists all day every day via the Popular Radio playlist feature. Here are just some of the artists we’ve already curated;\n• Taylor Swift\n• Drake\n• Eminem\n• Coldplay\n• Paolo Nutini\n• Fleetwood Mac\n\nListen to over 40 category genres - New Releases, Charts, Live Events, Made for You, At Home, Only You, Summer, Pop, Workout, Hip-Hop, Mood, Party, Pride, Dance/Electronic, Alternative, Indie, Equal, Wellness, Rock, Frequency, R&B, Disney,, Throwback, Radar, Chill, Sleep, In the car, Kids & Family, Caribbean, Classical, Romance, Jazz, Instrumental, Afro, Christian and Gospel and Country.\n\nWHY GO PREMIUM?\n• Listen to albums and playlists without ad breaks.\n• Download and listen to music and podcasts offline, wherever you are.\n• Jump back in and listen to your top songs with on-demand playback.\n• Choose from 4 subscription options – Individual, Duo, Family, Student. There’s no commitment and you can cancel any time\n\nAudiobooks in Premium currently available in Australia, the UK & the US. Discover 250,000+ titles, 15 hours/month of available listening for Premium Individual subscribers and Duo & Family plan managers.\n\nLOVE SPOTIFY?\nLike us on Facebook: http://www.facebook.com/spotify\nFollow us on Twitter: http://twitter.com/spotify\n\nPlease note: This app features Nielsen’s audience measurement software which will allow you to contribute to market research, such as Nielsen’s Audio Measurement. If you don't want to participate, you can opt-out within the app settings. To learn more about our digital audience measurement products and your choices in regard to them, please visit http://www.nielsen.com/digitalprivacy for more information.",
+      "android_package_name": "com.podcast.podcasts",
+      "ios_bundle_id": "com.spotify.client",
+      "title": "Google Podcasts",
+      "domain_name": [
+        "https://www.spotify.com",
+        "https://www.spotify.com"
+      ],
+      "website": "https://www.spotify.com",
+      "developer": "Spotify",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QCru9sGm118P4hNQ1Ts2PttgqykIoBS1JRadg74hV-OajVmIDDOe2COmumZmeg1Kx7I",
+      "icon_72": "https://play-lh.googleusercontent.com/QCru9sGm118P4hNQ1Ts2PttgqykIoBS1JRadg74hV-OajVmIDDOe2COmumZmeg1Kx7I=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "au.com.shiftyjelly.pocketcasts"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Pocket Casts is the world's most powerful podcast platform, an app by listeners, for listeners. Our podcast player provides next-level listening, search and discovery tools. Find your next obsession with our hand curated podcast recommendations for easy discovery, and seamlessly enjoy your favorite shows without the hassle of subscribing.\n\nHere's what the press has to say:\nWired: \"Pocket Casts Is the Podcast App Every iPhone User Needs\"\niMore: \"Pocket Casts is the best podcast app for iPhone\"\n\nWith a unique set of simple yet powerful features and a limitless podcast database, you're sure to find something you love.\n\nWE SWEAT THE DETAILS\nDesign: Easily listen to, manage and find new podcasts.\nThemes: Whether you're a dark or light theme person we've got you covered. We even have you OLED lovers covered with our Extra Dark theme.\nUniversal: Custom but familiar iPad interface, supporting Slide Over, Split View and Picture in Picture.\nEverywhere: CarPlay, AirPlay, Chromecast and Sonos. Listen to your podcasts in more places than ever before.\n\nPOWERFUL PLAYBACK\nUp next: Automatically build a playback queue from your favorite shows. Sign in and have that Up Next queue sync to all your devices.\nTrim silence: Cut silences from episodes so you finish them faster, saving hours.\nVariable speed: Change the play speed from anywhere between 0.5 to 3x.\nVolume boost: Increase the volume of voices, while decreasing background noise.\nStream: Play episodes on the fly.\nChapters: Jump between chapters easily, and enjoy embedded artwork that the author has added (we support MP3 and M4A chapter formats).\nAudio & video: Play all of your favorite episodes, toggle video to audio.\nSkip playback: Skip episode intros, jump through episodes with custom skip intervals.\nApple Watch: Control playback from our Apple Watch app, adjust the volume or change playback effects, all without ever touching your phone.\nSleep timer: We'll pause your episode so you can rest your weary head.\nAirplay & Chromecast: Send episodes straight to your TV or speakers with a single tap.\nSonos: Browse and play your podcast collection directly from the Sonos app.\nCarPlay: When you're in the car, so are we.\n\nSMART TOOLS\nSync: Subscriptions, Up Next, listening history, playback and filters are all securely stored in the cloud. You can pick up where you left off on another device and even the web.\nRefresh: Let our servers check for new episodes, so you can get on with your day.\nNotifications: We'll let you know when new episodes arrive, if you like.\nAuto download: Automatically download episodes for offline playback.\nFilters: Custom filters will organize your episodes.\nStorage: All the tools you need to keep your podcasts tamed.\n\nALL YOUR FAVORITES\nDiscover: Subscribe to any podcast in iTunes and more. Browse by charts, networks and categories.\nShare: Spread the word with podcast and episode sharing.\nOPML: Jump on board without any hassle with OPML import. Export your collection at any time.\n\nThere are many more powerful, straight-forward features that make Pocket Casts the perfect podcasting app for you. So what are you waiting for?\n\nVisit pocketcasts.com for more info about the web and other platforms supported by Pocket Casts.",
+      "android_package_name": "au.com.shiftyjelly.pocketcasts",
+      "ios_bundle_id": "au.com.shiftyjelly.podcasts",
+      "title": "Pocket Casts",
+      "domain_name": [
+        "https://www.pocketcasts.com",
+        "https://www.pocketcasts.com"
+      ],
+      "website": "https://www.pocketcasts.com",
+      "developer": "Automattic, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Hz1gtRR_LM7e24MBOP_WyOkcNz6e0P7I446NTIJOX2jR7MdP2PvGhDwQVQU__bqharc",
+      "icon_72": "https://play-lh.googleusercontent.com/Hz1gtRR_LM7e24MBOP_WyOkcNz6e0P7I446NTIJOX2jR7MdP2PvGhDwQVQU__bqharc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.afmobi.boomplayer"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Boomplay music app is a music player with over 100M songs across different genres like Pop music, Rock, Afrobeats, Afropop and Reggae from top artists. Stream and download music including the best new songs, albums and curated playlists on Boomplay for free and play music offline data-free!\n\nWHY YOU'LL LOVE BOOMPLAY?\n- Discover New Music And Trending Songs\nBoomplay music player boasts more than 100M songs which include the new music and podcasts. Come and search for your favourite songs, artist, or podcasts. \n\n- Download Songs And Listen Offline\nBoomplay music downloader allows you to play your favourite songs offline. You can also use Boomplay as a media player to play all your local music offline like MP3s, AAC, M4A, WAV, and other files from the local files from your SD card or phone.\n\n- Personalized Playlists Made Just For You \nBoomplay knows your music taste better than anyone. You will be surprised by what new music and songs our recommendations will help you discover.\n\n- Support The Artists You Love!\nBoomplay streams now count towards Billboard Music Charts including Billboard Hot 100, Artist 100 as well as all other Billboard U.S. and global charts. Every click of Play, Listen, Download on Boomplay, maximizes the exposure of the artists to help creating more new music for their fans.\n\n- Equalizer\nBuild your Equalizer and enjoy your favourite trending songs. \n\n- Lyrics\nSee the lyrics to the trending music.\n\n- More Than A Music App\nJoin the 'Live' section on Boomplay to chat with artists and like-minded people. There are featured topics, opportunities to showcase talent in the online live house, and have fun with friends and strangers through party games.\n\nWith Boomplay, you could access to a world of new music, playlists, artists, and podcasts you love. Here’s Boomplay, worthy of being your default Music Downloader!\n\nBOOMPLAY SUBSCRIPTION FEATURES\n- Unlimited Music Downloads\nThe Subscriber could enjoy music downloader with unlimited free downloads, so you can even listen to music offline, without using your data! \n\n- No Ads\nThe Boomplay music player allows you to listen to an album, playlist, songs or podcast without ad breaks. \n\n- Premium Music Content\nEnjoy the premium playlists that are created exclusively for subscribers. Discover the best music and add the playlists to your favourites.\n\n-Best Quality Music\nEnjoy higher quality new music in full 320kbps.\n\nFacebook：https://www.facebook.com/BoomplayMusic \nInstagram： https://instagram.com/boomplaymusic\nTwitter： https://twitter.com/BoomplayMusic\nYouTube： https://www.youtube.com/c/BoomplayMusic\n\nPROBLEMS? FEEDBACKS?\nEmail: usersupport@boomplay.com\n\n【Monthly Subscription】\n-- Subscription Period: One month.\n-- Subscription Price: First-time users who subscribe through the App Store will not be charged for the first month, from the second month users will be charged a monthly fee of 2.99USD / 900NGN / 6900TZS etc.\n-- Payment: The payment will be deducted from users iTunes account once the purchase is confirmed.\n-- Renewal: Subscription renews automatically unless user disables the auto-renew function at least 24 hours before the expiry date.\n-- Subscription Management: If you need to cancel your subscription, please manually open the 'Settings' of iOS —> enter 'iTunes Store and App Store' —> Click 'Apple ID' , enter the ' Account Settings —> Page, click 'Subscription' , select Boomplay Monthly Subscription and cancel your subscription.\n-- Privacy Policy: https://www.boomplay.com/conditions\n-- Terms of Auto-renew: https://www.boomplay.com/conditions#auto-renew",
+      "android_package_name": "com.afmobi.boomplayer",
+      "ios_bundle_id": "com.TranssnetMusic.Boomplay",
+      "title": "Boomplay",
+      "domain_name": [
+        "https://www.boomplay.com",
+        "https://www.boomplay.com"
+      ],
+      "website": "https://www.boomplay.com",
+      "developer": "TRANSSNET MUSIC LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FvqcR0fydxjdJMyadlfCw8PBWPqtv2qMIUpqXkF5QMrYoSO2ZeJOPvYd-HvXpyHizPo",
+      "icon_72": "https://play-lh.googleusercontent.com/FvqcR0fydxjdJMyadlfCw8PBWPqtv2qMIUpqXkF5QMrYoSO2ZeJOPvYd-HvXpyHizPo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "in.krosbits.musicolet"
+      },
+      "cat_key": "MUSIC",
+      "cat_keys": [
+        "MUSIC",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "The main idea of the player is to help you find new music.\n\nMain functions:\n- Play Spotify playlists\n- Copy playlists to library\n- Copy songs to library playlists\n- Add playlists to library\n- Filter by years and genres\n- Own recommendation system - three types of playlists and recommendations for artists.\n- Track new releases of your favorite artists\n- Automatic skipping of Dislike songs and artists\n- Simple ability to put Love \\ Dislike on a song or artist\n- Auto-add Love songs to the library\n- Automatic collection of Love songs into a separate playlist\n- Change the country to view the \"Top\" selections of other countries\n- Filter to skip previously listened to songs\n- Ability to run all Apple Music recommendations as one playlist\n- Ability to run a separate group of recommendations, as one playlist\n- A single list of playlists (more than 8k playlists) with the ability to filter and randomly select a playlist.\n- Saving the current playlist between the starts of the app.\n- Reading the library of the listened and favorite songs at the start of the application",
+      "android_package_name": "in.krosbits.musicolet",
+      "ios_bundle_id": "app.meows.meows",
+      "title": "Musicolet",
+      "domain_name": [],
+      "website": "",
+      "developer": "Igor Kravchenko",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6KZjHJfNBoNdOFSWmrreiZq8lWgqg1YDtnH9FjdFoBnifWfZGA8Y7GQgUXFAdaUswU-v",
+      "icon_72": "https://play-lh.googleusercontent.com/6KZjHJfNBoNdOFSWmrreiZq8lWgqg1YDtnH9FjdFoBnifWfZGA8Y7GQgUXFAdaUswU-v=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

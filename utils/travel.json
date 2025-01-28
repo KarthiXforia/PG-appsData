@@ -1,0 +1,1421 @@
+[
+
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ubercab"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Join the millions of riders who trust Uber for their everyday travel needs. Whether you’re running an errand across town or exploring a city far from home, getting there should be easy.\n\nFIND THE RIDE YOU WANT\nFind the perfect ride right at your fingertips! Uber is here to make your journey stress-free and enjoyable.\n\nPick from a wide range of products that the Uber app has to offer including: \n- UberX: Affordable rides, all to yourself\n- Uber Green: Eco-Friendly\n- UberXL: Affordable rides for groups up to 6\n- Comfort: Newer cars with extra legroom\n- Comfort Electric: Premium zero-emission cars\n- Uber Pet: Affordable rides for you and your pet\n- Black: Luxury rides with professional drivers\n- Taxi: You now have the option to request a cab or a taxi on demand using Uber in select cities\n- 2-wheels: Find a scooter to start riding roday \n\nUPFRONT PRICING\nWith Uber, you no longer need to worry about hidden costs or unexpected surprises. As you enter your destination in the app, you get upfront pricing and the estimated time of arrival.\n\nSAFETY TOGETHER\nSafety is a top priority at Uber. We have established comprehensive safety features to help ensure every rider and driver feels secure and comfortable.\n\nAFFORDABLE PRICING\nWe’re doing all we can to make our pricing as transparent as possible.\n\n- UberX Share: UberX Share connects you to other riders headed in the same direction. \n- Group Rides: Share the journey with friends.\n- Split Fare: Don’t worry about doing the math later—split the cost evenly while you’re still on the ride. \n\nJOIN UBER ONE FOR EXCLUSIVE PERKS\nBenefit from $0 Delivery Fee and up to 10% off eligible delivery and pickup orders, 6% Uber Cash back on eligible rides and a $5 credit if our Latest Arrival Estimate on your order is off. Other fees & terms apply. For more details see uber.com/uberone.\n\nRESERVE RIDES IN ADVANCE\nNeed a ride at a specific time? No problem! Uber allows you to reserve rides in advance, so you can plan your day with confidence. \n\nGO GREEN\nUber is committed to building a sustainable future for our cities. With a growing fleet of electric and hybrid vehicles, you can choose eco-friendly rides to reduce your carbon footprint.\n\nRENT CARS AND HAVE THEM DELIVERED TO YOU\nWhether you need a car today or later, the online booking experience will help you find the right vehicle for a family vacation, a weekend getaway, airport travel, and more. You can have a rental car delivered to your door at the time and location of your choice with Valet, currently available in select cities.\n\nMORE FEATURES\nDelivery: Order food from your favorite restaurants through Uber Eats. Stock up on groceries, shop pharmacy, convenience and pet supplies and get them all delivered. \n\nUber Connect: an easy, same-day, no-contact delivery solution that allows people to send items whether it’s a care package for a loved one or an item you sold online.\n\nTransit: Say goodbye to complicated time schedules, hectic transfers, and unexpected waits while reducing your trip’s emissions.\n\nUber Charter: Book high-capacity group rides in vehicles seating 14-55 passengers, such as limo buses, luxury vans, and coach buses.\n\n2-Wheels: Did you know you can also bike or ride a scooter with the Uber app?\n\nUber for Business: Manage and track business travel, meal programs, and more on one dashboard.\n\nUber Hourly: Keep a car and driver with you for hours. \n\nUber Car Seat: Uber Car Seat provides one forward-facing car seat for a child who is at least 2 years old, 22 pounds, and 31 inches tall.\n\nGet Started Now! Download the Uber app and create an account today. Uber is available in the following cities: Boston, DC, LA, New York, San Francisco, Vegas, Orlando, Chicago and more. Check if Uber is available in your city at https://www.uber.com/cities. Stay updated on the latest news, promotions, and offers by following us on Twitter at https://twitter.com/uber and liking us on Facebook at https://www.facebook.com/uber.",
+      "android_package_name": "com.ubercab",
+      "ios_bundle_id": "com.ubercab.UberClient",
+      "title": "Uber",
+      "domain_name": [
+        "https://www.uber.com",
+        "https://www.uber.com"
+      ],
+      "website": "https://www.uber.com",
+      "developer": "Uber Technologies, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/arkKgCKdxknwWuPfRm71rfZNS-Jj5GPhEyPDzowExEhZrIl6QOhBHyQro2-I4UKeVvM",
+      "icon_72": "https://play-lh.googleusercontent.com/arkKgCKdxknwWuPfRm71rfZNS-Jj5GPhEyPDzowExEhZrIl6QOhBHyQro2-I4UKeVvM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.airbnb.android"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "THE FASTEST, EASIEST WAY TO AIRBNB\nFind inspiration, plan a trip with your group, book it, and go. You’ll always have access to important trip information. And you’ll never miss a beat with instant notifications about your travel plans and messages from your host.\n\nFIND AN AIRBNB FOR EVERY KIND OF TRIP\nExplore more than 7 million vacation homes in 220+ countries and regions. Use 100+ filtering options to select the amenities you want most. Whether you’re looking for a pool, a kitchen, or accessibility features like step-free entry, you can review every home’s details at a glance—and see what other guests who’ve stayed there think about it, too.\n\nPLANNING A GROUP TRIP IS EASIER THAN EVER  \nYou can now share your wishlists with others, inviting them to add homes, write notes, and vote on places to stay. Once you book a getaway, you can send your crew beautifully illustrated digital trip invitations. Everyone joining the trip will get all the reservation details including the address, wifi password, and check-in instructions. \n\nAll YOUR TRIP INFO IN ONE PLACE\nIt’s easy to keep track of your trip details when they’re all on the app. Quickly find or share your travel info with others, whenever you want to. You can also chat with your host and receive up-to-the-minute booking updates—making it easier to get there, get inside, and get connected to wifi. \n\nCHECKING IN IS A BREEZE\nCheck-in times, special instructions, entry codes—it’s all at hand, even when you’re offline. Have questions or just want some expert recommendations on local things to do or places to go? Everyone on the trip can message with the host in one chat thread. \n\nBECOME A HOST YOURSELF \nTraveling a lot? Have extra space? You have an Airbnb. List your space in a few steps and get matched with an experienced Superhost in your area who can answer your questions and help you get started with hosting.",
+      "android_package_name": "com.airbnb.android",
+      "ios_bundle_id": "com.airbnb.app",
+      "title": "Airbnb",
+      "domain_name": [
+        "https://airbnb.com",
+        "https://airbnb.com"
+      ],
+      "website": "https://airbnb.com",
+      "developer": "Airbnb, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1zfN_BL13q20v0wvBzMWiZ_sL_t4KcCJBeAMRpOZeT3p34quM-4-pO-VcLj8PJNXPA0",
+      "icon_72": "https://play-lh.googleusercontent.com/1zfN_BL13q20v0wvBzMWiZ_sL_t4KcCJBeAMRpOZeT3p34quM-4-pO-VcLj8PJNXPA0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.booking"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Save on your next trip with the Booking.com app! Find great hotel or apartment deals and book in just a few minutes. You can also book flights, rental cars, and more through the app.\n\n- Book your whole trip in one app (accommodations, flights, car rentals, taxis and attractions)\n- Stay flexible with free cancellation (available at most properties)\n- 24/7 customer service in more than 40 languages\n- No booking or credit card fees\n- Chat directly with your property in the app\n- Enjoy mobile-only discounts by booking in the app\n- Use filters to easily find the perfect place out of millions of available accommodations \n- Get paperless confirmation of your reservation \n- Manage your bookings on the go, making changes whenever and wherever you want\n- Discover local attractions and make the most of your trip\n- Share your experience and get local advice on our Travel Communities forums\n\nAccess millions of accommodations\nFrom cozy country homes to funky city apartments, find the perfect place out of millions of available accommodations. Our app offers hotels, apartments, bed and breakfasts and more.\n\nQuickly find the perfect place to stay\nFilter hotels by price, review score, WiFi quality, and other things important to you. Search cheap hotels by city, attraction, landmark, or hotel name. Special requests? Pet-friendly hotels? We have filters for everything. You can also compare your favorite accommodation options side by side to ensure you get the best price and quality.\n\nDeals for any budget\nDiscover daily accommodation deals and save on your next hotel, apartment, or villa booking.\nGet exclusive mobile-only discounts of 10% or more on select properties when you book in the app. Find your ideal accommodation at an ideal price.\n\nStay flexible with free cancellation\nChange of plans? Not a problem. You can cancel for free at most hotels, apartments and other properties on Booking.com. And the app makes things even easier — it only takes a few taps to cancel, and you’re free to find a place that better suits your needs.\n\nLast-minute travel\nHeading somewhere in a hurry? With the app, you can quickly book hotels at the last minute (as well as far in advance). Finding a place in short order has never been easier. Our app allows you to search for properties nearby, fill in a few details, and secure your reservation. You can also change, cancel, or make additional reservations on the go.\n\nJet off with the perfect flight\nBook domestic or international flights on the go with ease. The app allows you to search thousands of airfare deals per day. Plane tickets available for all major airlines and destinations.\n\nHit the road with car rentals\nCar hire has recently been added to the app. Whether you just need a ride to explore your destination, or you’re going on an epic road trip, the Booking.com app can help. Rent a car from all the major companies and hit the road!\n\nReserve taxis with ease\nBook in advance for a seamless connection from the airport to your destination. You can also book taxis to and from other pick-up points, such as hotels and local attractions.\n\nFind and book a great experience\nWhether you’re looking for attraction or museum tickets, boat tours and walking tours, you can book experiences online in minutes, with free cancellation on many options. \n\nGet and share tips with other travelers\nConnect with fellow travelers, share your experiences, and get local advice on the best accommodations, attractions, and more. Discover new experiences and plan your trip with our app.",
+      "android_package_name": "com.booking",
+      "ios_bundle_id": "com.booking.BookingApp",
+      "title": "Booking.com",
+      "domain_name": [
+        "http://www.booking.com/apps.html?source=appstore",
+        "https://www.booking.com"
+      ],
+      "website": "http://www.booking.com/apps.html?source=appstore",
+      "developer": "Booking.com B.V.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/WNZm5iMYXiQuye5I_T1il_Z4eXSgb4Mb8dOGUsFWQI8wlrwAAKAokVd6BvHHtyUCfHA",
+      "icon_72": "https://play-lh.googleusercontent.com/WNZm5iMYXiQuye5I_T1il_Z4eXSgb4Mb8dOGUsFWQI8wlrwAAKAokVd6BvHHtyUCfHA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.expedia.bookings"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "TRAVEL PLANNING MADE EASY IN ONE APP\nPlan, collaborate, book and manage your whole trip, from flights, vacation packages, hotels, car rentals, activities, and more. Find inspiration for your next destination, expert tips and personalized recommendations. Book your flight, hotel and more together to save.*\n\nREWARDS ON ANY WAY YOU TRAVEL\nOne Key™ members can use and earn rewards** on eligible bookings, including select hotels, vacation rentals, car rentals, activities, and flights. Plus, earn airline miles AND One Key rewards on flights. Move up the tiers quickly to enjoy free room upgrades at select VIP Access properties and more. Signing up for One Key is free and easy! Just download the Expedia app and log in.\n\nMEMBERS SAVE INSTANTLY\nOne Key members get instant travel discounts on select flights, hotels, car rentals, activities and more. Save 10% or more on over 100,000 hotels worldwide with Member Prices and up to 30% when adding a select hotel to your flight.\n\nBOOK FLIGHTS WITH CONFIDENCE\nNot sure if you’re getting our best travel deal? Get an automatic refund when flight prices drop after you’ve booked.*** Members can also track flights and get alerts when prices rise or drop for free.\n\nAI-POWERED TRIP PLANNING\nGet personalized trip recommendations and expert insights using our travel planning tool powered by ChatGPT. Need to find a family-friendly beach resort in Florida or must-go “hidden gem” food spots in Japan? Ask ChatGPT in the Expedia app.\n\nCOLLABORATE AND PLAN WITH FRIENDS AND FAMILY\nFrom keeping your travel details organized to easily deciding on the best options with your group, planning a trip is easy on the Expedia app. Save and compare stays, activities and more, invite others to collaborate by voting and commenting on their favorites and when your itinerary is settled, view and manage your bookings – all in one place.\n\nDISCOVER TRIPS THAT FIT YOUR NEEDS\n\n- Search flights, hotels, vacation packages, rental cars, attractions, and more\n- Book your flight and hotel together for savings\n- Choose from over 1,000,000 hotels worldwide, including boutique and luxury hotels, airport hotels, cheap hotels, hostels, BnB, vacation rentals, and resorts\n- Read verified reviews you can trust\n- Learn more about top destinations with expert-curated tips like best times to go, neighborhoods to stay in and things to do\n- Filter for hotels with pools, hot tubs, free airport shuttles, free WiFi, onsite parking, ocean views, kitchens, air conditioning, gyms, and more\n- Find family- and pet- friendly vacations\n- Sort your search by price, free cancellation or no change fees, departure and arrival time, and more\n \nMANAGE YOUR WHOLE TRIP, ALL IN ONE PLACE\n- Free cancellation on most hotels****\n- All your reservations in one place: view upcoming trip details, hotel information, and maps for directions\n- Trip alerts: for flight delays, gate changes, hotel check-out times, and more\n- Share travel itineraries with family and friends via email or text message\n \nDownload the Expedia com app now and join for free to enjoy One Key member benefits.\n\n*Savings based on package bookings as compared to the price of the same components booked separately. Savings will vary and not available on all packages.\n\n**One Key rewards not redeemable for cash and can only be used on Expedia, Hotels.com and Vrbo. For vacation rentals, US properties only. Excludes taxes and fees.\n\n*** Available for a fee on select flights. Refund will be the difference if the price of your flight on Expedia drops. Gold or Platinum members get Price Drop Protection at no extra cost on select flights. Terms apply.\n\n**** Some hotels require you to cancel more than 24 hours before check-in.\nSee site for details.\nThe Expedia app uses information for analytics, personalization, and advertising. By using our app, you agree to our privacy and cookies policies.",
+      "android_package_name": "com.expedia.bookings",
+      "ios_bundle_id": "com.expedia.booking",
+      "title": "Expedia",
+      "domain_name": [
+        "https://www.expedia.com/app",
+        "https://www.expedia.com"
+      ],
+      "website": "https://www.expedia.com/app",
+      "developer": "Expedia, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2-LjM-R-c9ZvFbVH0EUEkn6KvFiUFTO2s8fLhMEbD8o3jDWK1GEDEugvMcirE-OTysM",
+      "icon_72": "https://play-lh.googleusercontent.com/2-LjM-R-c9ZvFbVH0EUEkn6KvFiUFTO2s8fLhMEbD8o3jDWK1GEDEugvMcirE-OTysM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tripadvisor.tripadvisor"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Take your travel planning on the go with the Tripadvisor app. Discover tons of things to do, places to stay, and spots to eat, whether you’re mapping out your trip from your hotel room or looking for a quick rec in between tours. We’re here to guide you every step of the way. Whatever trip you’re planning, we’ve been there. \n\nPlan your travel in one place\n - Create an itinerary with Trips\n - Save your favorite hotels, restaurants, and experiences\n - Get custom recs based on your saves with our AI trip builder \n - See all your saves on your map\n - Share and collaborate with your travel crew\n\nGet traveler guidance\n - Vet your picks with over one billion traveler reviews and opinions\n - Check the reviews before you go or while you’re on the go\n - Save time with AI summaries, which gives you a quick overview of what travelers are saying\n\nFind nearby recs\n - Get personalized picks just for you\n - Check the map to discover top-rated spots near you\n\nWrite reviews wherever\n - Share your guidance and photos on the go\n - Help guide travelers with recent reviews of your experience\n\nBook with confidence\n - Find traveler-favorite hotels around the world\n - Score tickets for popular tours and experiences\n - Get access to app-only deals",
+      "android_package_name": "com.tripadvisor.tripadvisor",
+      "ios_bundle_id": "com.tripadvisor.LocalPicks",
+      "title": "TripAdvisor",
+      "domain_name": [
+        "https://www.tripadvisor.com",
+        "https://www.tripadvisor.com"
+      ],
+      "website": "https://www.tripadvisor.com",
+      "developer": "Tripadvisor",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jCZdEodOVc6iLH8OOedEhiESFQeILGz1zySd10vpdsYhLE1pFUkfGpL2zmBgtWZ7Ffs",
+      "icon_72": "https://play-lh.googleusercontent.com/jCZdEodOVc6iLH8OOedEhiESFQeILGz1zySd10vpdsYhLE1pFUkfGpL2zmBgtWZ7Ffs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "net.skyscanner.android.main"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Skyscanner makes planning your next trip easy.\nNo matter where you are – search for flights, hotels and car rental deals to anywhere in the world, on the move. Save time and money by comparing and booking from your favorite travel brands like Spirit Airlines, United Airlines, and American Airlines all in one place, too. There are no booking fees or hidden charges – just the best prices. Here’s how to use our app: \n\nFind inspiration\nCan’t decide where? Perfect. Start by exploring everywhere first. Tap “Everywhere” in our search bar to find cheap flights literally anywhere around the world and get ideas for your next vacation.\n\nFilter your search\nKnow what you’re looking for? Use our smart filters to search by flight duration, airline, number of stops, travel class, departure and arrival times.\n\nThe best time to fly\nYou’ve chosen where it will be, now to find the best dates to book your vacation. Our calendar view breaks down the cheapest dates in a chosen month so you can find the right flight deal. Not ready to book yet? Set up a Price Alert and we’ll let you know when the flight price changes so you’re always booking at the right time.\n\nThe right hotel at the right place\nThought we were just about cheap flights? Nope, we’ve got your stay covered too. Compare and book cheap deals from thousands of hotels, resorts, apartments, motels and hostels all over the world. Or find rooms near your current location and grab a last-minute deal for your next vacation. \n\nRent a car\nChoose where and when to pick up your car rental, and we’ll show you cheap prices and deals. You can filter your search by vehicle type, fuel type and features. And our Fair Fuel Policy flag will make sure you’re not paying too much on fuel – we’ve got your back.\n\nBook with who you trust\nCompare all your top travel brands in one place – Spirit Airlines, United Airlines, American Airlines, JetBlue, Frontier Airlines, Delta, Ctrip, Expedia, Kiwi.com, Trip.com, Agoda and more. Plus, get recent reviews on our travel partners from our community of travelers. \n\nNo added fees ever\nDid we mention we don’t charge any booking fees? Never. None at all.\n\nSave your flights\nWant to look but not ready to book? No problem. We have a “saved” feature where you can “heart” flights or hotels you like. Then it’ll show up on your trips, so you can pick up where you left off and get booking. \n\nWhy Skyscanner?\n●\tThe Telegraph; “The only 20 travel apps you’ll ever need”\n●\tThe New York Times; “Apps for Travelers Dreaming of Their Next Trip”\n●\tElite Daily; “7 holiday travel apps that’ll let you jingle around the world’\n●\tPocket-lint; “4 apps to get you ready for summer”\n\nLet’s get social\n●\tFacebook: https://www.facebook.com/skyscanner \n●\tInstagram: @skyscanner \n●\tTwitter: @skyscanner\n●\tLinkedIn: https://www.linkedin.com/company/skyscanner/\n●\tWebsite: www.skyscanner.net",
+      "android_package_name": "net.skyscanner.android.main",
+      "ios_bundle_id": "net.skyscanner.iphone",
+      "title": "Skyscanner",
+      "domain_name": [
+        "https://www.skyscanner.com",
+        "https://www.skyscanner.com"
+      ],
+      "website": "https://www.skyscanner.com",
+      "developer": "Skyscanner Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pwbvaHWLNzOuqF71hu2P36HV1Yi2lkwwRCNT0QChysbrSucDulfBNxLBMZKQgsZUfyU",
+      "icon_72": "https://play-lh.googleusercontent.com/pwbvaHWLNzOuqF71hu2P36HV1Yi2lkwwRCNT0QChysbrSucDulfBNxLBMZKQgsZUfyU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.kayak.android"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "KAYAK searches hundreds of travel sites to show you your options and let you pick what works best for your trip. Track prices, set a budget, build your itinerary and more.\n\nWHAT’S IN OUR APP.\n• Double check prices, no matter where you found it: KAYAK PriceCheck lets you upload a screenshot of a flight deal from any site, and we’ll search hundreds of sites to see if we can find a better deal.\n• Get the flight you want: Compare flight options from hundreds of sites then zero in on the best one for you by using our filters.\n• Hotel rates only on the app: Find mobile-only prices from select hotels.\n• Car sharing: Search car sharing alongside traditional agencies for more options (and maybe better prices).\n• Know when prices change: Track search results for your trip and get a notification when prices change.\n• Search on your budget: Only have $300 to spend? KAYAK Explore will show you your flight options, on any budget.\n\nONLY ON THE KAYAK APP.\n• Flight tracker: Get alerts when something about your flight changes or track flights so you can see if you’ll make your connection.\n• Trips offline: All your ticket confirmations and reservations loaded into Trips are accessible regardless of whether or not you have Wifi.\n• Measure your bag: Direct your camera at your bag or carry on and we’ll let you know if it’s the right size for your flight without incurring a fee.\n\nWE LOVE FEEDBACK.\nGot a question and in need of support? Send us a message at https://www.kayak.com/help and we’ll help you out.\n\nMORE ON WHAT KAYAK OFFERS.\nFind flights, hotels, vacation rentals, rental cars and more - then filter by what matters to you most. Like a pet-friendly boutique hotel with a pool. Or a 4-door sedan with airport pick-up to get you on your way. We bring together great deals from your favorite travel sites in one place.\n\nSEARCH HUNDREDS OF FLIGHT SITES AT ONCE.\nWith filtering and flexibility options, you can quickly search and book what works best for your trip.\n\nMORE OPTIONS, MORE SAVING.\nFind mobile-only rates and exclusive deals on the app. Set Price Alerts to know when prices drop on the flights, cars and hotels you’re interested in.\n\nCREATE ITINERARIES AS YOU PLAN.\nOur Trips tool puts all your plans in one place. Get alerted to flight and gate changes, access boarding passes both on- and offline, and share your itinerary with friends – all in one spot. You can sync your inbox or manually add any part of your trip - from tour and restaurant confirmations to notes on things to see.\n\nCAR RENTAL DEALS.\nSearch from over 70,000 locations to find the perfect rental car. Book risk-free by filtering for free cancellation policies.\n\nGET A HOTEL… OR A HOME.\nSee your accommodation options from major hotel chains and resorts to local boutiques to apartments, cabins, beach homes and more. Filter for free cancellation if you’re worried plans will change.\n\nPlan your next trip with KAYAK. Download now to start planning a great trip.",
+      "android_package_name": "com.kayak.android",
+      "ios_bundle_id": "com.kayak.travel",
+      "title": "Kayak",
+      "domain_name": [
+        "https://www.kayak.com",
+        "https://www.kayak.com"
+      ],
+      "website": "https://www.kayak.com",
+      "developer": "Kayak Software Corp",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/os2nMGSSawnCl1UOcgmggZ_Vbbv4-xzw--kaYW6iFs6gj8AEAdsgIrZS8do4ibTQVpY",
+      "icon_72": "https://play-lh.googleusercontent.com/os2nMGSSawnCl1UOcgmggZ_Vbbv4-xzw--kaYW6iFs6gj8AEAdsgIrZS8do4ibTQVpY=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.hopper.mountainview.play"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "The Hopper app has helped over 100 million travelers find and secure the best price on flights, hotels, homes and car rentals - each and every time they book their trips.\n\nBook Flights, Hotels, Homes & Rental Cars \nFind millions of flights, hotels, homes, rental cars (and cute bunnies) – all in one app. Book your trip safely and securely, in just a couple taps and a swipe. \n\nAlways Get the Best Price \nYou can watch a trip right in the app and we’ll send you a notification when it’s the best time to buy — recommending you to book now, or maybe wait just a little longer.\n\nEasily Find The Cheapest Travel Dates \nSimply search your preferred destination and use Hopper’s color-coded deals calendar to easily find the cheapest travel dates for your trip.\n\nNot Ready to Book Right Away?\nHopper lets you freeze the price, so that you never miss a travel deal. For a small fee, take the time you need to finalize your plans, or wait for your next paycheck to come in. If the price goes up, you only pay the price you froze it at. But if the price goes down, you just pay the lower price. \n\nTravel with Confidence\nAvoid fees and frustration! Make any trip flexible with Hopper’s Cancel and Change for Any Reason plans. Get instantly rebooked without extra costs if your flight is delayed or you miss a connection with Hopper’s Flight Disruption Guarantee. Travel stress free with 24/7 access to Hopper’s Customer Support. \n\nHelp the Planet, One Booking at a Time. \nWith every booking that occurs on Hopper, we pledge to plant 2 trees to offset the carbon footprint. To date, we’ve planted over 31 million trees. \n\nHopper has no ads, no spam, and no stress — just accurate predictions and travel deals.\n\nSo what are you waiting for? Start saving money with the bunny today. Download Hopper for free now, and let’s start planning your next trip!\n\nHopper Love\n• “The 10 Best Free Apps for Air Travel Junkies” - TIME\n• “The Most Downloaded OTA in the U.S. in 2021” - Apptopia \n• “The app helps travelers find the cheapest flights, hotels and rental cars.” - The Points Guy\n• “Compared to exact searches on Expedia, Kayak and Orbitz, we regularly found that the deal quoted on Hopper was the best” - Travel and Leisure\n• “Hopper can be a better option than direct booking for those who need more flexibility.” - The Wall Street Journal\n• “Find me a hotel on Hopper!” - The Late Late Show with James Corden\n• “Travel Unicorn Hopper First Came for Expedia. Airbnb Is Next” - TechCrunch\n• “Hopper is committed to offsetting the carbon emissions of every flight and hotel stay it sells.” - Forbes, The Top 100 Most Customer-Centric Companies of 2022\n\nSay Hello to the Bunnies\nFacebook: https://www.facebook.com/hoppertravel\nInstagram: @hopper\nTwitter: @hopper\nWebsite: http://www.hopper.com\n\nNeed support? Head over to https://help.hopper.com to find answers to frequently asked questions. You can also reach us toll-free at +1-833-933-4671 if calling from US or Canada, or at +1 (347)-695-4555 if calling from outside the US or Canada.",
+      "android_package_name": "com.hopper.mountainview.play",
+      "ios_bundle_id": "com.hopper.flights",
+      "title": "Hopper",
+      "domain_name": [
+        "https://www.hopper.com",
+        "https://www.hopper.com"
+      ],
+      "website": "https://www.hopper.com",
+      "developer": "Hopper Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bEg5tiyRr8yVxPuIm56UpMvl1bIEbXmlw98Y5HsZUYhUcIFpKGIFooz8OD0VVn6TJfE",
+      "icon_72": "https://play-lh.googleusercontent.com/bEg5tiyRr8yVxPuIm56UpMvl1bIEbXmlw98Y5HsZUYhUcIFpKGIFooz8OD0VVn6TJfE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.trivago"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "The trivago app is the easy way to search and compare hotel prices from your favorite booking sites so you can find a hotel or accommodation in the location you want, with the amenities you need, and for a deal you’ll feel amazing about.\n\n- Compare accommodation prices from major booking sites with one search\n- Get exclusive mobile rates on your phone or tablet\n- Get price drop alerts for your favorite hotels\n- Save favorite accommodations and compare them side-by-side\n- Read aggregated guest reviews from multiple booking sites\n- Search over 5 million properties in more than 190 countries and find amazing hotel deals\n\nNo matter what type of traveler you are, or what type of budget you have, the trivago app makes your hotel search simpler than ever.\n\nCompare prices from hundreds of booking sites\nWith trivago, you don’t just search for hotel offers in your dream vacation destinations, you also get to compare prices from the major booking sites like Expedia, Hotels.com, Accor, ZenHotels, Booking.com, Trip.com, Priceline, TravelUp, Orbitz, HotelTonight, and more. With over 5 million hotels and other accommodations to choose from worldwide, finding the right stay at the right price doesn’t get much easier than this.\n\nMobile rates for deal-hunters on the go\nThe trivago app features deals on hotels that you can only access on your mobile device — something all you deal-hunters out there won’t want to miss out on. Just search for your hotel like you normally would, and keep an eye out for the “mobile rate” badge to know when you’ve found a special deal.\n\nGet a heads-up when prices drop\nHave a trip coming up and want to try and book your stay for cheap? Now you can sign up for price drop alerts on the trivago app to stay on top of price changes for your favorite hotels. Instead of constant searching, you’ll get notified as soon as prices drop so you can act fast and get an awesome deal.\n\nSave favorites and compare them side-by-side\nWhether your dream hotel is pet-friendly, has late-checkout, offers free cancellation, or includes a breakfast buffet, the trivago app makes it easy to save your favorite stays. When you feel like booking your trip, you can compare hotels from your favorites list side-by-side to see how they match up before making your decision, so can always be confident you got the right stay at the right price.\n\nReal talk from real guests\nAlong with always-updating price information, the trivago app aggregates guest ratings from major booking sites to give you the best understanding of real-world experiences at each hotel. The trivago rating index creates a combined score of available ratings so that you can see what other guests have to say, and always be ready to book your room with confidence.\n\n5 million hotel beds and counting\nWith over over 5 million properties in more than 190 countries, you can find the perfect stay for every trip on the trivago app. Find rooms at boutique hotels, luxury hotels, airport hotels, hostels, bed and breakfasts, lodges, vacation rentals, resorts, and everything in between with one simple search.\n\nDownload trivago’s free app today and start searching, comparing, and saving on your next adventure.\n\nVisit trivago.com for more info.",
+      "android_package_name": "com.trivago",
+      "ios_bundle_id": "com.trivago.iphone",
+      "title": "Trivago",
+      "domain_name": [
+        "http://www.trivago.com",
+        "https://www.trivago.com"
+      ],
+      "website": "http://www.trivago.com",
+      "developer": "trivago N.V.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/S-uKFKA_z8CAE066aYFtgovhyDFTknOPzH8dcUHfUtCl8yYmizSewRf-nGWX-BIGqJkn",
+      "icon_72": "https://play-lh.googleusercontent.com/S-uKFKA_z8CAE066aYFtgovhyDFTknOPzH8dcUHfUtCl8yYmizSewRf-nGWX-BIGqJkn=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.agoda.mobile.consumer"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Experience the world with Agoda, the ultimate app for booking your travel plans. Find cheap flights and affordable hotels in just a few taps! \n\nBooking international or domestic flights on Agoda is seamless. Discover countless airfare deals across 200 airlines worldwide. Our unique search engine compares flights and prices in near real-time  so you can book the best deal as soon as it drops.\n\nBooking hotels, resorts, villas, homes, BnBs, and more is even easier now with over 3.9 million  accommodations available to book in 39 languages and currencies. Make the most of your hotel search with filters, hi-res photos, map views, local information, and over 28 million  verified reviews. On Agoda, you can even discover hotel rooms tailored to your travel needs and preferred budget. \n\nWant to earn? With Agoda Homes, you can become a host and start earning from your own property. \n\nTravel with confidence! See the world for less, with up to 80% off from Member Offers , Last-Minute Deals, and much more. Book a flight. Book a hotel. Book an unforgettable vacation with massive savings on Agoda. \n\nAGODA FEATURES\nCHEAP FLIGHTS WITH JUST A TAP\n- Search for affordable flights from over 200 airlines, flying to almost any destination\n- Book flights knowing you’re getting a highly competitive price \n- Save your info and adjust your flight booking directly in the app\n\nBOOK A ROOM EASILY \n- Choose from over 3.9 million  properties across the globe\n- Reserve your next stay whether it’s a hotel, resort, villa, home, BnB, vacation rental, or anything in between\n- Travel confidently! Read user reviews, view pictures, and browse local information\n\nDEALS MADE FOR AFFORDABLE TRAVEL\n- Save on trips with extraordinary deals on cheap flights and budget-friendly accommodations\n- Plan your trip, travel, and fulfill your wanderlust without breaking the bank\n- Enjoy a variety of special offers , with secret deals, discounts, and more\n\nTRAVEL WORRY-FREE\n-  Save your vouchers, details, and maps directly in the app for easy check-in and print-free travel\n- Manage or edit your booking anytime, anywhere\n- Need help? Agoda's Customer Support is available 24/7 in various languages to ensure your journey is both smooth and cost-efficient\n- *Agoda speaks 39 languages!* You can get  the best Hotel deals: فنادق أجودا,安可达酒店订房,Agoda酒店,Agoda訂房,อโกด้า,תי מלון אגודה, حجوزات,اجودا,агода. \n\nTo learn more about device information used in our app, including interest-based advertising and cross-device tracking, and to exercise certain opt-out choices you may have, please see our cookie policy.",
+      "android_package_name": "com.agoda.mobile.consumer",
+      "ios_bundle_id": "com.agoda.consumer",
+      "title": "Agoda",
+      "domain_name": [
+        "http://www.agoda.com",
+        "https://www.agoda.com"
+      ],
+      "website": "http://www.agoda.com",
+      "developer": "Agoda Company Pte. Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QFl5RnJnCaApuwSY5GkyPk1YqFRdeq-64EHaeNeYId3HwY9Uqjf5JkRVeATZxuuKez5o",
+      "icon_72": "https://play-lh.googleusercontent.com/QFl5RnJnCaApuwSY5GkyPk1YqFRdeq-64EHaeNeYId3HwY9Uqjf5JkRVeATZxuuKez5o=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.waze"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Know what's ahead on the road with the help from other drivers. Waze is a live map that harnesses the local knowledge of tens of millions of drivers around the world. Drivers safely and confidently reach their everyday destinations thanks to Waze map’s GPS navigation, live traffic updates, real-time safety alerts (including construction, accidents, crashes, police, potholes, and more), and accurate ETAs.\n\n\nMake your next drive more predictable and stress-free:\n• Get there faster with real-time directions, accurate ETAs, and automatic rerouting based on live traffic, incidents, and road closures\n• Even if you know the way, avoid surprises on the road ahead with safety alerts for accidents, crashes, construction, objects on the road, potholes, speed bumps, sharp curves, bad weather, emergency vehicles, railroad crossings, and more\n• Steer clear of tickets by knowing where police and red light & speed cameras are located\n• Share what’s happening on the road with other drivers by reporting live incidents and hazards\n• Stay informed of upcoming speed limit changes, and keep your speedometer in check\n• Know which lane to be in with multi-lane guidance\n• See toll pricing and choose to avoid tolls along your routes\n• Add road passes and vignettes for HOV lanes and restricted traffic zones\n• Find gas / fuel stations & prices and EV charging stations along your route\n• Locate and compare parking lots and their prices near your destination\n• Use voice-guided turn-by-turn navigation from a variety of languages, local accents, and your favorite celebrities\n• Plan your next drive by checking ETAs by future departure or arrival times\n• Use your favorite audio apps (for podcasts, music, news, audiobooks) directly within Waze\n• Sync Waze to your car’s built-in display through Apple CarPlay\n\n\n* Some features are not available in all countries\n\n\n* Waze navigation is not intended for emergency or oversized vehicles\n\n\nYou can manage your in-app Waze Privacy Settings at any time. Learn more about the Waze privacy policy here, www.waze.com/legal/privacy.",
+      "android_package_name": "com.waze",
+      "ios_bundle_id": "com.waze.iphone",
+      "title": "Waze",
+      "domain_name": [
+        "http://www.waze.com",
+        "https://www.waze.com"
+      ],
+      "website": "http://www.waze.com",
+      "developer": "waze",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/r7XL36PVNtnidqy6ikRiW1AHEIsjhePrZ8W5M4cNTQy5ViF3-lIDY47hpvxc84kJ7lw",
+      "icon_72": "https://play-lh.googleusercontent.com/r7XL36PVNtnidqy6ikRiW1AHEIsjhePrZ8W5M4cNTQy5ViF3-lIDY47hpvxc84kJ7lw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.hcom.android"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Find and book your perfect somewhere with the Hotels.com app.  \n \nGET REWARDED THROUGH OUR APP  \n- Access Member Prices* of 10% or more on over 100,000 hotels worldwide. \n- Join One Key™, our travel program that unlocks a world of instant benefits and perks. \n- Earn OneKeyCash™** and use this whenever you want and instantly save on your next trip on Hotels.com, Expedia and Vrbo when you book eligible hotel stays, flights, vacation rentals, car rentals, and more. \n- One Key Silver, Gold and Platinum members can enjoy extra perks at select VIP Access properties. \n \nFIND THE ONE THAT’S JUST RIGHT FOR YOU \n- Choose from over 500,000 properties worldwide.  \n- Whether you’re planning a short hotel stay, last minute weekend getaway, long vacation, business trip, or anything in between, we have a property for every kind of travel. \n- Enjoy the flexibility of free cancellation on most hotels***. \n- Compare hotel prices, ratings and amenities side-by-side using our comparison tool. \n- Use Trip Planner to organize your travel plans in one place. Save your favorite hotels, vacation rentals, resorts and more, and share these with friends and family.    \n- See the hotel or vacation rental location on a map and read verified guest reviews. \n\nFAST, EASY, & SECURE BOOKING ON OUR APP  \n- It only takes a few taps to book your hotel. \n- Pay now or later on most hotels. \n- Save your payment details to book future trips even faster. \n- Last minute hotel booking. \n \nOUR APP IS YOUR PERFECT TRAVEL COMPANION  \n- Save your confirmation and access your hotel or vacation rental booking details anytime – even offline. \n- Easily manage your hotel or vacation rental booking on the go. \n- Contact us or the hotel or vacation rental owner directly from the app. \n- Opt-in for push notifications and we’ll send you updates about your hotel stay. \n \n*Member Prices are available on select hotels to logged in members and app users. The discount will be applied to the price of selected hotels (excluding applicable taxes and other fees). Subject to terms and conditions, see site for details.  \n**OneKeyCash™ is not redeemable for cash and can only be used on Expedia, Hotels.com and Vrbo.  \n***Free cancellation on most hotels. Some hotels require you to cancel at least 24-48 hours before check-in. See property pages on our app for details.  \n\nThis app uses tracking technology. As disclosed in our Privacy Statement, we and our partners may collect personal information and other data. By using our app, you accept our Privacy Statement and Terms of Service.\n \nThe Hotels.com app uses information for analytics, personalization, and advertising. By downloading our hotel app, you agree to our privacy and cookies policies https://hotels.com/customer_care/privacy.html.",
+      "android_package_name": "com.hcom.android",
+      "ios_bundle_id": "com.hotels.HotelsNearMe",
+      "title": "Hotels.com",
+      "domain_name": [],
+      "website": "",
+      "developer": "Hotels.com, L.P.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mEqHls6vwYtH6jU2ek_FqxuDPC1lqB6qpp-7WUBXj1y1WY9tJmmBgMTHZy6qmza4tH5Y",
+      "icon_72": "https://play-lh.googleusercontent.com/mEqHls6vwYtH6jU2ek_FqxuDPC1lqB6qpp-7WUBXj1y1WY9tJmmBgMTHZy6qmza4tH5Y=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.expedia.bookings"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "TRAVEL PLANNING MADE EASY IN ONE APP\nPlan, collaborate, book and manage your whole trip, from flights, vacation packages, hotels, car rentals, activities, and more. Find inspiration for your next destination, expert tips and personalized recommendations. Book your flight, hotel and more together to save.*\n\nREWARDS ON ANY WAY YOU TRAVEL\nOne Key™ members can use and earn rewards** on eligible bookings, including select hotels, vacation rentals, car rentals, activities, and flights. Plus, earn airline miles AND One Key rewards on flights. Move up the tiers quickly to enjoy free room upgrades at select VIP Access properties and more. Signing up for One Key is free and easy! Just download the Expedia app and log in.\n\nMEMBERS SAVE INSTANTLY\nOne Key members get instant travel discounts on select flights, hotels, car rentals, activities and more. Save 10% or more on over 100,000 hotels worldwide with Member Prices and up to 30% when adding a select hotel to your flight.\n\nBOOK FLIGHTS WITH CONFIDENCE\nNot sure if you’re getting our best travel deal? Get an automatic refund when flight prices drop after you’ve booked.*** Members can also track flights and get alerts when prices rise or drop for free.\n\nAI-POWERED TRIP PLANNING\nGet personalized trip recommendations and expert insights using our travel planning tool powered by ChatGPT. Need to find a family-friendly beach resort in Florida or must-go “hidden gem” food spots in Japan? Ask ChatGPT in the Expedia app.\n\nCOLLABORATE AND PLAN WITH FRIENDS AND FAMILY\nFrom keeping your travel details organized to easily deciding on the best options with your group, planning a trip is easy on the Expedia app. Save and compare stays, activities and more, invite others to collaborate by voting and commenting on their favorites and when your itinerary is settled, view and manage your bookings – all in one place.\n\nDISCOVER TRIPS THAT FIT YOUR NEEDS\n\n- Search flights, hotels, vacation packages, rental cars, attractions, and more\n- Book your flight and hotel together for savings\n- Choose from over 1,000,000 hotels worldwide, including boutique and luxury hotels, airport hotels, cheap hotels, hostels, BnB, vacation rentals, and resorts\n- Read verified reviews you can trust\n- Learn more about top destinations with expert-curated tips like best times to go, neighborhoods to stay in and things to do\n- Filter for hotels with pools, hot tubs, free airport shuttles, free WiFi, onsite parking, ocean views, kitchens, air conditioning, gyms, and more\n- Find family- and pet- friendly vacations\n- Sort your search by price, free cancellation or no change fees, departure and arrival time, and more\n \nMANAGE YOUR WHOLE TRIP, ALL IN ONE PLACE\n- Free cancellation on most hotels****\n- All your reservations in one place: view upcoming trip details, hotel information, and maps for directions\n- Trip alerts: for flight delays, gate changes, hotel check-out times, and more\n- Share travel itineraries with family and friends via email or text message\n \nDownload the Expedia com app now and join for free to enjoy One Key member benefits.\n\n*Savings based on package bookings as compared to the price of the same components booked separately. Savings will vary and not available on all packages.\n\n**One Key rewards not redeemable for cash and can only be used on Expedia, Hotels.com and Vrbo. For vacation rentals, US properties only. Excludes taxes and fees.\n\n*** Available for a fee on select flights. Refund will be the difference if the price of your flight on Expedia drops. Gold or Platinum members get Price Drop Protection at no extra cost on select flights. Terms apply.\n\n**** Some hotels require you to cancel more than 24 hours before check-in.\nSee site for details.\nThe Expedia app uses information for analytics, personalization, and advertising. By using our app, you agree to our privacy and cookies policies.",
+      "android_package_name": "com.expedia.bookings",
+      "ios_bundle_id": "com.expedia.booking",
+      "title": "Expedia Hotels",
+      "domain_name": [
+        "https://www.expedia.com/app",
+        "https://www.expedia.com"
+      ],
+      "website": "https://www.expedia.com/app",
+      "developer": "Expedia, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2-LjM-R-c9ZvFbVH0EUEkn6KvFiUFTO2s8fLhMEbD8o3jDWK1GEDEugvMcirE-OTysM",
+      "icon_72": "https://play-lh.googleusercontent.com/2-LjM-R-c9ZvFbVH0EUEkn6KvFiUFTO2s8fLhMEbD8o3jDWK1GEDEugvMcirE-OTysM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.momondo.flightsearch"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "momondo searches hundreds of travel sites to show you your options and let you pick what works best for your trip. Track prices, set a budget, build your itinerary and more.\n\nWHAT’S IN OUR APP.\nGet the flight you want: Compare flight options from hundreds of sites then zero in on the best one for you by using our filters.\nHotel rates only on the app: Find mobile-only prices from select hotels.\nCar sharing: Search car sharing alongside traditional agencies for more options (and maybe better prices).\nKnow when prices change: Track search results for your trip and get a notification when prices change.\nSearch on your budget: Only have $300 to spend? momondo Explore will show you your flight options, on any budget.\n\nONLY ON THE MOMONDO APP.\nFlight tracker: Get alerts when something about your flight changes or track flights so you can see if you’ll make your connection.\nTrips offline: All your ticket confirmations and reservations loaded into Trips are accessible regardless of whether or not you have Wifi.\nMeasure your bag: Direct your camera at your bag or carry on and we’ll let you know if it’s the right size for your flight without incurring a fee.\n\nWE LOVE FEEDBACK.\nGot a question and in need of support? Send us a message at https://www.momondo.com/help and we’ll help you out\n\nMORE ON WHAT MOMONDO OFFERS.\nFind flights, hotels, vacation rentals, rental cars and more - then filter by what matters to you most. Like a pet-friendly boutique hotel with a pool. Or a 4-door sedan with airport pick-up to get you on your way. We bring together great deals from your favorite travel sites in one place.\n\nSEARCH HUNDREDS OF FLIGHT SITES AT ONCE.\nWith filtering and flexibility options, you can quickly search and book what works best for your trip.\n\nMORE OPTIONS, MORE SAVING.\nFind mobile-only rates and exclusive deals on the app. Set Price Alerts to know when prices drop on the flights, cars and hotels you’re interested in.\n\nCREATE ITINERARIES AS YOU PLAN.\nOur Trips tool puts all your plans in one place. Get alerted to flight and gate changes, access boarding passes both on- and offline, and share your itinerary with friends – all in one spot. You can sync your inbox or manually add any part of your trip - from tour and restaurant confirmations to notes on things to see.\n\nCAR RENTAL DEALS.\nSearch from over 70,000 locations to find the perfect rental car. Book risk-free by filtering for free cancellation policies.\n\nGET A HOTEL… OR A HOME.\nSee your accommodation options from major hotel chains and resorts to local boutiques to apartments, cabins, beach homes and more. Filter for free cancellation if you’re worried plans will change.\n\nPlan your next trip with momondo. Download now to start planning a great trip.",
+      "android_package_name": "com.momondo.flightsearch",
+      "ios_bundle_id": "com.momondo.search",
+      "title": "Momondo",
+      "domain_name": [
+        "https://www.momondo.com",
+        "https://www.momondo.com"
+      ],
+      "website": "https://www.momondo.com",
+      "developer": "Momondo ApS",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Qu9lCCiLCn7dE-bKzdwbX9Onbz0KXdv636AMyPlahRIrVy5jveGrfMjsLwWk9fLLcJlR",
+      "icon_72": "https://play-lh.googleusercontent.com/Qu9lCCiLCn7dE-bKzdwbX9Onbz0KXdv636AMyPlahRIrVy5jveGrfMjsLwWk9fLLcJlR=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.rome2rio.www.rome2rio"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Used by millions of travel planners every day, Rome2Rio is a super handy trip planning tool that makes finding your way around simple and stress-free.\n\nUse Rome2Rio to quickly research, compare, and coordinate your transport options for train, ferry, bus, plane, and car travel in over 240 countries and territories around the world. With so many possibilities, you’re sure to find the right trip that suits your needs.\n\nSimply enter any two addresses, towns, landmarks, attractions, or cities anywhere in the world, and Rome2Rio will instantly show you the possible ways to travel between them. With detailed maps, price estimates, travel times, and distances, it’s easy to compare different ways to reach your destination. Plus, Rome2Rio also suggests nearby hotels and accommodations that can be booked via trusted partners. \n\nDownload the Rome2Rio app now to see how easy travel planning can be!\n\nPLAN TRIPS ACROSS COUNTRIES, OCEANS & CONTINENTS\nWith schedules and route connections from local train, bus, and ferry companies across 240+ countries and territories, including big names like Amtrak, VIA Rail, UK Rail, Eurostar, Renfe, Trenitalia, Italo, SBB, Indian Railways, FlixBus, National Express, Greyhound Australia, P&O Ferries, Jadrolinija, Stena Line, and most major airlines, Rome2Rio has got you covered.\n\nSAVE TIME AND MONEY\nRome2Rio can show you many different ways to get to your destination. Choose the route that best suits your budget and schedule.\n\nCONSIDER DIFFERENT TRANSPORT OPTIONS\nUnlike other travel planning apps, Rome2Rio offers a wide range of transport. Compare trains, buses, ferries, flights, driving routes and combinations together in one app. Try less typical types of travel; like water taxis, gondolas, hovercrafts, or helicopters, where available.\n\nSEE YOUR ENTIRE JOURNEY ON DETAILED MAPS\nDetailed maps show you exactly where each route will take you. Great for those wanting to add stops or sightsee along the way!\n\nEASILY COMPARE TRAVEL TIMES, DISTANCES & COST ESTIMATES\nRome2Rio shows total trip durations, distances and estimated prices – making trip planning and budgeting quicker and easier than ever.\n\nTOP FEATURES\n- Unlimited FREE route searches\n- See your whole trip from start to finish with expandable, detailed maps \n- Easily book transport and accommodation through trusted partners\n- Multi-language support (English, German, Spanish, Italian, French, Portuguese with more coming soon)\n- 24/7 customer assistance \n\nJoin the millions already on board, it’s time to plan your next great adventure!\nDownload the Rome2Rio app today to travel YOUR way. \n\n\nWebsite: www.rome2rio.com\nGot feedback? We’d love to hear it.\nContact us: feedback@rome2rio.com \n\n\nMORE ABOUT ROME2RIO\n\nThrifty Traveler: ‘Rome2rio Will Help You Choose: Plane, Train, or Automobile?’\n“Rome2Rio makes the process of figuring out how to get from point A to point B much easier. We love this search tool and know you will, too!”\n\n\nUK PC Mag: ‘Tired of airplanes and cars? Download these apps for bus and train travel’\n“Rome2Rio is best when you need to compare not only the prices but also the total time for getting from point A to B via different modes of travel. Enter your starting point and destination, and Rome2Rio lists the estimated travel time and cost for going by air, bus, train, car, or sometimes a combination.”\n\n\nWired: ‘10 Apps That Make Traveling Solo Easier—and Fun’ \n“Rome2Rio was an asset… I arrived unfrazzled thanks to this user-friendly trip planner. It provides options, routes, and fares for flights, trains, subways, buses, ferries, rideshares and more worldwide. Unlike some other travel apps, Rome2Rio is great at connecting multiple transit options into a single itinerary you can look at and stay on top of.”",
+      "android_package_name": "com.rome2rio.www.rome2rio",
+      "ios_bundle_id": "com.rome2rio.Rome2Rio",
+      "title": "Rome2Rio",
+      "domain_name": [
+        "https://www.rome2rio.com",
+        "https://www.rome2rio.com"
+      ],
+      "website": "https://www.rome2rio.com",
+      "developer": "Rome2rio Pty Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/a024hUcWexzK5buEeu7tXevB3vEWxzDzfZ7TLpXzBPXFdFB3mwGHFUdz0IOhVXO-1Q",
+      "icon_72": "https://play-lh.googleusercontent.com/a024hUcWexzK5buEeu7tXevB3vEWxzDzfZ7TLpXzBPXFdFB3mwGHFUdz0IOhVXO-1Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.flightaware.android.liveFlightTracker"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Where’s that plane headed? Whether you’re an aviation enthusiast, a frequent traveler, a pilot, or part of a flight crew, FlightAware is a must-have app. Track planes in real-time above your head, or all over the world. Easily track the status of your flight, check for any delays on the inbound aircraft, see weather radar, and set up alerts to be notified of any changes – all for free!\n\nFree features:\n\n▶ Track any plane around the world in real-time\n▶ Get free flight status alerts: Departure, Arrival, Cancellations, Gate changes, Delays, Diversions\n▶ See weather radar\n▶ Save your favorite aircraft and airports\n▶ Check for flight delays (with “Where is my plane?”)\n\nFlightAware is the leader in providing advanced, accurate, actionable intelligence and insights that inform every aviation decision. We believe that flying opens up the world around you. It makes distances shorter, the world more accessible and satisfies one of the core aspirations of mankind.\n \nUpgrade options:\n▶ Ad Remove - Removes all advertisements from the app\n▶ FlightAware Aviator - Register and enable advanced features for your piston-engine GA aircraft\n\nTerms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "android_package_name": "com.flightaware.android.liveFlightTracker",
+      "ios_bundle_id": "com.flightaware.iphone.live-flight-tracker",
+      "title": "FlightAware",
+      "domain_name": [
+        "http://flightaware.com/iphone",
+        "https://flightaware.com"
+      ],
+      "website": "http://flightaware.com/iphone",
+      "developer": "FlightAware",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/CHXdOsam3CcVyyjpWOSYl1_KAZNNmjhNfI4iaSbFah1bPDeGAspYbBdPmJEoNZwGfX8",
+      "icon_72": "https://play-lh.googleusercontent.com/CHXdOsam3CcVyyjpWOSYl1_KAZNNmjhNfI4iaSbFah1bPDeGAspYbBdPmJEoNZwGfX8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.translate"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Reference",
+      "description": "Translate between up to 249 languages. Feature support varies by language:\n• Text: Translate between languages by typing\n• Offline: Translate with no internet connection\n• Instant camera translation: Translate text in images instantly by just pointing your camera\n• Photos: Translate text in taken or imported photos\n• Dictation: Translate spoken words and phrases\n• Conversations: Translate bilingual conversations on the fly\n• Transcribe: Continuously translate someone speaking a different language in near real-time\n• Handwriting: Draw text characters instead of typing\n• Phrasebook: Star and save translated words and phrases for future reference\n\nPermissions notice:\n• Microphone for speech translation\n• Camera for translating text via the camera\n• Photos for importing photos from your library\n\nTranslations between the following languages are supported:\nAbkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar, Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Irish, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepalbhasa (Newari), Nepali, NKo, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali, Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",
+      "android_package_name": "com.google.android.apps.translate",
+      "ios_bundle_id": "com.google.Translate",
+      "title": "Google Translate",
+      "domain_name": [
+        "https://translate.google.com/about?hl=en",
+        "https://translate.google.com"
+      ],
+      "website": "https://translate.google.com/about?hl=en",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA",
+      "icon_72": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.rentalcars.handset"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "KAYAK searches hundreds of travel sites to show you your options and let you pick what works best for your trip. Track prices, set a budget, build your itinerary and more.\n\nWHAT’S IN OUR APP.\n• Double check prices, no matter where you found it: KAYAK PriceCheck lets you upload a screenshot of a flight deal from any site, and we’ll search hundreds of sites to see if we can find a better deal.\n• Get the flight you want: Compare flight options from hundreds of sites then zero in on the best one for you by using our filters.\n• Hotel rates only on the app: Find mobile-only prices from select hotels.\n• Car sharing: Search car sharing alongside traditional agencies for more options (and maybe better prices).\n• Know when prices change: Track search results for your trip and get a notification when prices change.\n• Search on your budget: Only have $300 to spend? KAYAK Explore will show you your flight options, on any budget.\n\nONLY ON THE KAYAK APP.\n• Flight tracker: Get alerts when something about your flight changes or track flights so you can see if you’ll make your connection.\n• Trips offline: All your ticket confirmations and reservations loaded into Trips are accessible regardless of whether or not you have Wifi.\n• Measure your bag: Direct your camera at your bag or carry on and we’ll let you know if it’s the right size for your flight without incurring a fee.\n\nWE LOVE FEEDBACK.\nGot a question and in need of support? Send us a message at https://www.kayak.com/help and we’ll help you out.\n\nMORE ON WHAT KAYAK OFFERS.\nFind flights, hotels, vacation rentals, rental cars and more - then filter by what matters to you most. Like a pet-friendly boutique hotel with a pool. Or a 4-door sedan with airport pick-up to get you on your way. We bring together great deals from your favorite travel sites in one place.\n\nSEARCH HUNDREDS OF FLIGHT SITES AT ONCE.\nWith filtering and flexibility options, you can quickly search and book what works best for your trip.\n\nMORE OPTIONS, MORE SAVING.\nFind mobile-only rates and exclusive deals on the app. Set Price Alerts to know when prices drop on the flights, cars and hotels you’re interested in.\n\nCREATE ITINERARIES AS YOU PLAN.\nOur Trips tool puts all your plans in one place. Get alerted to flight and gate changes, access boarding passes both on- and offline, and share your itinerary with friends – all in one spot. You can sync your inbox or manually add any part of your trip - from tour and restaurant confirmations to notes on things to see.\n\nCAR RENTAL DEALS.\nSearch from over 70,000 locations to find the perfect rental car. Book risk-free by filtering for free cancellation policies.\n\nGET A HOTEL… OR A HOME.\nSee your accommodation options from major hotel chains and resorts to local boutiques to apartments, cabins, beach homes and more. Filter for free cancellation if you’re worried plans will change.\n\nPlan your next trip with KAYAK. Download now to start planning a great trip.",
+      "android_package_name": "com.rentalcars.handset",
+      "ios_bundle_id": "com.kayak.travel",
+      "title": "Rentalcars.com",
+      "domain_name": [
+        "https://www.kayak.com",
+        "https://www.kayak.com"
+      ],
+      "website": "https://www.kayak.com",
+      "developer": "Kayak Software Corp",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/V4QyP_r5T0gEx1qlYtKSfrvNaTNCHujnGmVdVTjekzCkeicyUpvNkW9UzzhCAw9_uH0",
+      "icon_72": "https://play-lh.googleusercontent.com/V4QyP_r5T0gEx1qlYtKSfrvNaTNCHujnGmVdVTjekzCkeicyUpvNkW9UzzhCAw9_uH0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.solidict.loungeme"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "And the award goes to…IHG One Rewards! See why guests voted our app “Best in Travel” and “Best User Experience” at The Webby Awards, the leading international awards organization honoring excellence on the internet.\n\nGuest how you guest when you book one of our 6,000+ hotels — and earn rewards.  \n\nIHG Hotels & Resorts: 6,000+ destinations. 19 hotel brands. 1 app.\nEarn rewards when you book with any of our hotel brands from our IHG One Rewards app. From family-friendly stays at Holiday Inn hotels, to business-ready accommodations at Crowne Plaza hotels, to luxury getaways at Iberostar Beachfront Resorts, we have a brand designed for however you like to stay.\n\nWe make booking simple\nWhen you download the IHG One Rewards app, travel becomes a breeze! The app makes everything simple at every point of your journey — from booking to check-in and checkout. Quickly book and re-book a hotel in seconds, then add hotels to your Wishlists for future visits. Whenever you’re ready to find your next destination, you can easily filter hotels by rates, distance, and amenities.\n\nThere’s more! With Wi-Fi Auto Connect, you can automatically connect to free Wi-Fi upon arrival at our hotels. Speaking of arrival, our app allows you to digitally check in (or out) at your hotel, saving you some time in your travels. Want to get a better view of the area around your hotel? Our app can be your guide, where you can see what restaurants, streets, and shops are nearby.\n\nAccess everything you need\nWith the IHG One Rewards app, you can access all your trip details, get trip reminders, modify or cancel your reservations, and view expenses from your current stay. Need directions, parking info, or a list of hotel amenities? The app has you covered.\n\nGet rewarded \nAccess exclusive member rates and offers, earn points to use for free nights, and rack up Milestone Rewards like Food & Beverage Rewards and Confirmable Suite Upgrades. With our free and secure app, you can easily keep track of your points and benefits, pay now or later with Points & Cash, and discover more ways to earn and redeem. Not a member yet? Sign up for free in the app to access more perks and exclusive offers.\n\nTravel with ease\nEnjoy flexible booking options with free cancellation on most rates. Rest easy with world-class cleaning processes and get notified on the latest travel news. Need help? Chat with us in the app or speak directly with one of our customer care representatives. Whenever, wherever, and however you travel, we’re here for you.\n\nConnect with us \nWebsite: https://www.ihg.com \nInstagram: https://www.instagram.com/ihghotels/ and https://www.instagram.com/ihgonerewards/?hl=en \nFacebook: https://www.facebook.com/IHGOneRewards/ \nTikTok: https://www.tiktok.com/@ihghotels\n\nOur brands \n\nHoliday Inn®\nHoliday Inn Express®\nHoliday Inn Club Vacations®\nHoliday Inn Resort®\nInterContinental® Hotels & Resorts\nSix Senses® Hotels, Resorts & Spas\nRegent® Hotels & Resorts\nKimpton® Hotels & Restaurants\nvoco® Hotels\nHotel Indigo®\nEVEN® Hotels\nHUALUXE® Hotels & Resorts\nCrowne Plaza® Hotels & Resorts\nIberostar Beachfront Resorts\nGarner ™\nAvid® Hotels\nStaybridge Suites®\nAtwell Suites™\nVignetteTM Collection\nCandlewood Suites®",
+      "android_package_name": "com.solidict.loungeme",
+      "ios_bundle_id": "com.ihg.priorityclubrewards",
+      "title": "LoungeBuddy",
+      "domain_name": [
+        "https://www.ihg.com/hotels/us/en/reservation?scmisc=applestore",
+        "https://www.ihg.com"
+      ],
+      "website": "https://www.ihg.com/hotels/us/en/reservation?scmisc=applestore",
+      "developer": "Six Continents Hotels, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/8m8P6j0lHCHh9VY3usHaU3ptHNhSKJhl9EGGntuXtyiKi1ny9_0Q4YMmJv4Qp6reBwUI",
+      "icon_72": "https://play-lh.googleusercontent.com/8m8P6j0lHCHh9VY3usHaU3ptHNhSKJhl9EGGntuXtyiKi1ny9_0Q4YMmJv4Qp6reBwUI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.citymapper.app.release"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Instantly compare your travel options in real-time across all transport modes globally! \n\nEasily navigate your city with turn-by-turn directions for all your public transportation, walking, cycling and scooter trips.\n\nTHOUSANDS OF 5 STAR REVIEWS\n\n* \"This is my favorite transit app. Full-featured and a breeze to use. I really appreciate the Uber integration.\"\n\n* \"Only way to get around NYC and Chicago. Easy and accurate. Download this one NOW\"\n\n* \"I love it. It’s the best thing since zippers, peanut and jelly and 1 TB thumb drives\"\n\n* \"Support for the SF Bay Area is particularly impressive because it aggregates all transit systems imaginable (BART, Caltrain, MUNI, VTA, etc.) into one seamless app\"\n\nFIND THE BEST ROUTE ► Simple trip planning combining all transport modes: bus, subway, train, ferry, cabs, ride share, car share, bike share, e-scooters and walking. Discover routes you never knew existed\n\nHIT THE GO BUTTON FOR STEP-BY-STEP DIRECTIONS ► Turn-by-turn navigation for all your transit, walking, personal cycling, bike shares and scooter trips. Choose between 3 different map views, see the charge levels of e-scooters and e-bikes around you, we even help you avoid no-parking zones. We take care of the logistical thinking so you are free to enjoy the ride\n\nEXPERIENCE ONE-STOP-SHOP MOBILITY ► Compare cab fares, hail a ride, hop on a shared bike or find the nearest e-scooter all from within the app. Our partners include: Uber, Lyft, JUMP, Lime, Bird, Spin, Skip, Scoot, Citi Bike, JerseryBike, Bluebikes, Indego, CaBi, Divvy, Metro Bike, Breeze, Bay Wheels, Healthy Ride, Relay, BCycle, SA Bike Share, GREENbike, Grid, RTC Bike, BIKETOWN, Biki \n\nBEAT THE RUSH HOUR CROWD ► Live wait times and ETA so you'll never miss a bus, train or ferry again. Follow your bus / train as it's approaching on a real-time map, see the best train car to board, get alerted when it's time to get off, and get in and out from the best exit at any subway / train station \n\nPERSONALIZE YOUR CITY ► Save Home, Work and your go-to stops or stations for lightning fast trip planning. Subscribe to your favorite subway, train, bus or ferry line for automatic disruption, delay, and status alerts\n\nGET SOCIAL ► Share your live trip: let friends follow your live trip to know when you'll arrive. Share any location or address: one tap for others to get directions\n\nTRAVEL OFFLINE ► Access offline the official NYC subway map, Manhattan bus map, Brooklyn bus map, Queens bus map, DC metro map, Muni Metro map, and more\n\nCITY COVERAGE ► New York City | Chicago | Los Angeles | San Francisco | Washington DC | Boston | Philadelphia | Seattle | Miami | Atlanta | Portland | Denver | Baltimore | San Diego | Minneapolis | Houston | Phoenix | Dallas | Las Vegas | Pittsburgh | Honolulu | Salt Lake City | San Antonio | St. Louis |  Cleveland | Austin   \n\n+ Many more worldwide! See the full list and vote for the next one in the app or at https://citymapper.com/cities\n\nTRANSIT AGENCIES ► We use open data from transit agencies in the cities we cover, including: MTA | CTA | LA Metro | MBTA | WMATA | SEPTA | NJ Transit | Muni | BART | King Bus | MARTA | LIRR | RTD | TriMet | Metro-North Railroad | PATH | Houston METRO | San Diego MTS | Miami-Dade Transit | Metro Transit | METRA | RTC Bus | TheBus | Port Authority | DART | AC Transit | Sound Transit | UTA | OCTA | VIA | PTD | Metro Transit | RTA | Capital Metro | Broward County Transit Division | NY Waterway Ferries | Washington State Ferries | LBT | Nassau Inter County Express (NICE)| Valley Metro | Metrolink | Santa Monica Big Blue Bus (BBB)\n\nKEEP IN TOUCH ► If you have questions or feedback or something we may have missed in your city email us at support@citymapper.com\n\n\nFollow us on Twitter: http://twitter.com/Citymapper\n\nPrivacy Policy: https://citymapper.com/privacy\nTerms of Service: https://citymapper.com/terms",
+      "android_package_name": "com.citymapper.app.release",
+      "ios_bundle_id": "azdev.citymapper",
+      "title": "Citymapper",
+      "domain_name": [
+        "https://citymapper.com",
+        "https://citymapper.com"
+      ],
+      "website": "https://citymapper.com",
+      "developer": "Citymapper Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/vi-NYlyPamuq8frdW7sQR9YPxOKaUyPPe3y3OeJk6tuCZfQQGa-g_dShVXBn4YnzPr69",
+      "icon_72": "https://play-lh.googleusercontent.com/vi-NYlyPamuq8frdW7sQR9YPxOKaUyPPe3y3OeJk6tuCZfQQGa-g_dShVXBn4YnzPr69=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.relayrides.android.relayrides"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Turo is the world’s largest car rental marketplace, where you can rent the perfect car for wherever you’re going from a vibrant international community of trusted hosts across the US, UK, Canada, Australia, and France.\n\nWhether you’re flying in from afar or looking for a car down the street, you can skip the rental car counter, choose from an extraordinary selection of vehicles shared by local hosts, and rent the best car for your trip, then you can pick it up at a convenient location near you or your destination.\n\nEntrepreneurs can take the wheel of their futures by becoming hosts and building car sharing businesses on Turo, leveraging an established platform to scale their businesses and meet their goals.\n\nWith Turo, everyone has the power to get in the driver’s seat.\n\nNeed a car for a trip? Rent it on Turo.\n• Enjoy a convenient car rental experience — Rent the perfect car  right from your phone.\n• View deals on all kinds of car rentals, from everyday to extraordinary — Find SUVs, vans, budget cars, supercars, EVs, vintage cars, and more types of vehicles.\n• Pick a car up at thousands of locations across multiple countries, or get a car delivered — Many hosts deliver cars to airports and popular destinations in thousands of cities.*\n• Rent reliable cars from reliable hosts — Every host who lists a car is trained by Turo, and their cars are subject to safety inspections. Plus, reviews from previous guests are public, so you can view past reviews and pick your preferred host with a car that’s right for you.\n• Cancel for free up to 24 hours before your trip — Get a refund and rent another car at a time that’s good for you.\n• 24/7 roadside assistance and customer service — Turo Customer Support can help you make car reservations, provide pricing details, and navigate any roadblocks that may arise.\n• Save when you book long trips — Lots of hosts offer discounts when you make a reservation for 3+, 7+, or 30+ days.\n• Get an early bird discount — Many hosts offer discounts when you reserve a car 7 or more days in advance.\n\nReady to start a business? Share cars on Turo.\n• Any car owner can start exercising their entrepreneurial muscles and start a car rental business on Turo.\n• Choose how many rental cars to share and easily scale your business up or down.\n• Earn at home or on the go, on your schedule, and divest whenever you want.\n• Rest easy with liability insurance from Travelers Excess and Surplus Lines Company backing each trip, helping protect you in the event of an accident.\n\nTuro — Find your drive\n\n*Not all car rentals on Turo are eligible for delivery, and Turo hosts can’t deliver cars to certain airports.",
+      "android_package_name": "com.relayrides.android.relayrides",
+      "ios_bundle_id": "com.relayrides.ios.RelayRides",
+      "title": "Turo",
+      "domain_name": [
+        "https://turo.com",
+        "https://turo.com"
+      ],
+      "website": "https://turo.com",
+      "developer": "Turo Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bg1O4i_B6JvGl8bRAs0XIjiKkP1vShLrrXfWjg0aKqQk1uFvn_4iQS5V9_V05i3VEoA",
+      "icon_72": "https://play-lh.googleusercontent.com/bg1O4i_B6JvGl8bRAs0XIjiKkP1vShLrrXfWjg0aKqQk1uFvn_4iQS5V9_V05i3VEoA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.goeuro.rosie"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Compare & Book Your Next Train, Bus, Flight, or Ferry Ticket Across Europe, the US and Beyond! \n\nOmio makes planning your next trip easy. Compare and book train, ferry, flight, and bus tickets — all in one place! \nWhether you're planning to travel by train with Amtrak, booking a bus trip with FlixBus, flying with American Airlines, or taking a ferry with P&O Ferries, Omio makes travel easy. With access to over 37 countries and more than 1,000 trusted transport providers, booking tickets for your next trip has never been simpler! ​​\n\nWhy Choose Omio?\n- All-in-One Travel: Book tickets for trains, buses, flights, or ferries and compare prices across top providers in Europe, the US and the UK's largest names like Greyhound, Deutsche Bahn, ÖBB, SNCF, and SWR.\n- Easy to Use: Discover the best routes and book tickets effortlessly. Pay securely using Apple Pay, PayPal, SOFORT, Alipay, or credit card in  USD, GBP or Euros, and receive mobile tickets directly on your phone. \n- Omio Flex: Change or cancel your plans easily with our flexible ticket options.\n- Exclusive Discounts on Tickets: Students, frequent travellers, and more can enjoy discounts on tickets through special offers, referral programs, and loyalty cards.\n- Live Updates: Get real-time updates for train times, bus times, and more. Track your train status for US travels, Trenitalia, Renfe, SNCF, Deutsche Bahn, Italo Treno, NEX & more.\n- Mobile Tickets: Save time by adding your train, bus, flight and ferry tickets directly to the app. Skip the lines and get your ticket ready whenever you need it.\n- Support at the Palm of Your Hand: Omio provides 24/7 international customer service, ensuring you’re always covered, no matter where you are.\n\nTravel with the best train providers:\nBook train tickets with trusted providers across Europe and North America, including National Rail, Eurostar, SBB, SNCF, Trenitalia, Deutsche Bahn (DB), Renfe, Renfe Avlo, Italo NTV, and Iryo.\nTravel in the UK by train with Greater Anglia, GWR (Great Western Railway), LNER, ScotRail, Northern Rail, Thameslink, SWR (South Western Railway), East Midlands Trains, Southern Railway, West Midlands Railway, Arriva Trains Wales, and CrossCountry, alongside Caledonian Sleeper, Heathrow Express and Gatwick Express. \nTravel across borders with NS International, SNCB, and ÖBB, or choose high-speed trains with OUIGO, VR Finland, SJ Sweden and Comboios de Portugal. \nPlan your trips in North America by train with Amtrak or Via Rail.\n\nBook bus tickets effortlessly:\nTravel with major bus operators — National Express and FlixBus, as well as Eurolines, ALSA, Blablacar bus (formerly Ouibus), RegioJet, Vy Buss, Sociobus, PKS Polonus, Avanza Bus, Movelia, Rede Expressos, Infobus, MarinoBus, Itabus, IberoCoach, and Daibus.\nEmbark on North American bus trips with OurBus, Go Buses, and RedCoach. \n\nFlight tickets in a few taps:\nDiscover flights with leading airlines such as Ryanair, EasyJet, British Airways, Wizz Air, Aer Lingus, Vueling, Eurowings, SmartWings, Lufthansa, American Airlines, United, Flybe and Loganair.\n\nSail smoothly on ferries:\nBook ferry tickets with reliable operators like Balearia, Blue Star Ferries, Fast Ferries, GNV, Golden Star Ferries, Mobylines, NLG, Positano Jet, Seajets, Snav, Stena Line, and Travelmar, providing connections across Europe, and the UK.\n\nWith an impressive 4.7/5 rating on Trustpilot from over 1,500 reviews, Omio is the go-to platform for travellers looking for a reliable travel experience to plan your trip and book tickets. \nIf Omio has made your travels smoother, take a moment to leave a review!\nContact - If you have any questions or need assistance, feel free to reach out to us at help.omio.com/hc/en-us\nStay Connected\nFollow Omio for the latest travel updates, tips, and exclusive offers:\nFacebook: https://www.facebook.com/Omio\nInstagram: https://instagram.com/Omio/\nTikTok: https://www.tiktok.com/@omioglobal",
+      "android_package_name": "com.goeuro.rosie",
+      "ios_bundle_id": "com.goeuro.ios.ronald",
+      "title": "Omio",
+      "domain_name": [
+        "https://www.omio.com/apps",
+        "https://www.omio.com"
+      ],
+      "website": "https://www.omio.com/apps",
+      "developer": "GoEuro Corp.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5Zkj-vrKHBauMF4srwktsFPPYQqTHA2Tlc8fZLPDyvgAEk2hhGfkNsKSnJZLNvIRHQ",
+      "icon_72": "https://play-lh.googleusercontent.com/5Zkj-vrKHBauMF4srwktsFPPYQqTHA2Tlc8fZLPDyvgAEk2hhGfkNsKSnJZLNvIRHQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.seatgeek.android"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Entertainment",
+      "description": "SeatGeek is the smartest way for fans to buy, sell and transfer tickets you can trust, no matter what you’re a fan of. Whether you’re searching for sporting events or sold out concerts, summer festivals or Broadway shows, we provide the tips and tools, like Deal Score and a Buyer Guarantee, to make your live event as memorable as possible. Find the right seats, at the right time, for the right price. After all, we’re fans, too.\n\nFeatures:\nFan first\nTrack your favorite teams and artists to be the first to know everything you need to know\nSell or transfer tickets in just a couple taps\nGet a ticket and get in with a couple of taps. Simple.\n\nValue\nWe do our best to match or beat what the other guys are offering for the same tickets\nWe keep our fees low so you can get tickets to the things you love without breaking the bank\nTell your friends about SeatGeek and when they buy their first tickets, you’ll both get credit toward future events.\n\nInnovative\nDeal Score rates every available seat based on price, section, visibility and more\nRally provides all of the information you need to get there, get settled and get hyped, all from the same screen as your ticket\nFrom buying and selling to tracking and transferring, get it done on any device\n\nTrustworthy\nIf something goes wrong, like your event gets canceled, we’ll give you your money back, or better\nSee exactly what your View From Seat will be before you sit\nSearch tickets with the fees already included, so you won’t be surprised when it comes time to pay for them\n\nCONNECT:\nWebsite – seatgeek.com\nFacebook – facebook.com/SeatGeek\nTwitter – twitter.com/SeatGeek\nContact Us – seatgeek.com/contact",
+      "android_package_name": "com.seatgeek.android",
+      "ios_bundle_id": "com.seatgeek.SeatGeek",
+      "title": "SeatGeek",
+      "domain_name": [
+        "https://seatgeek.com",
+        "https://seatgeek.com"
+      ],
+      "website": "https://seatgeek.com",
+      "developer": "SeatGeek, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/rDMsfzq4RwA6Kf4OZIMnoC9338Bvm4kO9FjMzCYPYbM-mz6MdOWmOJGG2KGwBMmeTJw",
+      "icon_72": "https://play-lh.googleusercontent.com/rDMsfzq4RwA6Kf4OZIMnoC9338Bvm4kO9FjMzCYPYbM-mz6MdOWmOJGG2KGwBMmeTJw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.thetrainline"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Welcome, future Trainliner. Get on board with millions of world-wide users, today, to travel confidently with us – Europe’s leading train and bus app.  \n\nWhy? \nWhether heading to an international city or from an international terminal, in a matter of clicks you’ll be booking the best seats in advance or saving money on-the-day with our Best Price Guarantee. And for those who like to stay looped, you can turn on real-time notifications and keep an eye on live timetable tracking – you can even use Crowd Alerts to find out how busy your train is. Plus, forgetting, misplacing, or totally destroying your paper tickets becomes a thing of the past when you purchase digital versions through our app!  \n\nWith so much to see and do, getting there should be the easy part – and when you book through our app, it is! Find cheap tickets for Eurostar, Avanti West Coast, GWR, LNER, National Express, Renfe, Iryo, Trenitalia, Italo, and many other European rail lines. Or if you want to buy bus tickets, simply search and book directly in the app. Need some travel inspo first? We got that covered, too, with travel blogs and suggested “popular journeys”.\n\nSo, whether you want to book bus seats, get cheap train tickets, or stay updated during your journey, you can always rely on our app to deliver the goods. \n\nWhy use Trainline to book train and bus tickets? \n- Buy all your tickets in one place – plan your dream country-hopping journey on our app.\n- Compare train and bus options from 260 train and bus companies.\n- Compare prices and get cheap tickets in your preferred currency (USD, GBP, EUR, AUD, CAD, CHF, and SEK).\n- Buy tickets with Amex, Apple Pay, PayPal, and all major credit cards and debit cards.\n- Add loyalty and discount cards to get benefits on cheap tickets on UK rail services, Eurostar, SNCF, Thalys, and Renfe.\n- Book tickets in advance or buy same-day train tickets up to 15 minutes before departure. \n- Buy tickets on your phone to skip station queues for selected routes.\n- Add Cancel for Any Reason to your booking for cover up to 15 minutes before departure.  \n- Save plans for later and lock in tickets for up to 7 days.  \n- Find the best value train tickets using our price calendar. \n\nOur partners: \nAcross Europe and the UK, you can browse routes with\nEurostar (UK, France and the Netherlands)\nHeathrow Express (UK)\nAvanti West Coast (UK)\nGWR (UK)\nNational Express (UK)\nLondon Overground (UK)\nSNCF (France)\nTGV Lyria (France)\nThalys (France)\nTrenitalia (Italy)\nItalo (Italy)\nRenfe (Spain)\nAlsa (Spain)\nDeutsche Bahn (Germany)\nÖBB (Austria)\nSBB (Switzerland)\nNS (the Netherlands)\nSNCB (Belgium)\nFlixbus and many, many more… \n\nNo matter who you choose to rail with, we make buying European tickets a smooth experience while bringing you the best fares available for every fuss-free journey. But should you need it, our dedicated customer support team is on-hand (and on the phone) to help you navigate the railways of Europe. Just give us a call!  \n\nSo, download our FREE Trainline app and get access to everything you need to train across the UK and Europe like a pro.  \n\nVisit our FAQs page to find out more: https://www.thetrainline.com/en/help/  \nOr, follow us on social: \nFB: thetrainlinecom \nTW: /thetrainline \nIG: @trainline \n\n*Average saving based on bookings made by Trainline US customers at least 30 days in advance vs within 7 days of departure, between 1.1.24 and 09.30.24 to travel between 05.01.24 and 09.30.24 and calculated on the 3 most booked EU routes. Adult fares only, single journey in standard class, based on price paid per passenger without Railcard.​",
+      "android_package_name": "com.thetrainline",
+      "ios_bundle_id": "com.thetrainline.iphone",
+      "title": "Trainline",
+      "domain_name": [
+        "https://www.thetrainline.com",
+        "https://www.thetrainline.com"
+      ],
+      "website": "https://www.thetrainline.com",
+      "developer": "thetrainline",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/01DZthgdocCF5tYXt3MxpV_zTxXV1CST6U9Fbsr9SXygqw7dD42YjlZMAxUO6N4-VZI",
+      "icon_72": "https://play-lh.googleusercontent.com/01DZthgdocCF5tYXt3MxpV_zTxXV1CST6U9Fbsr9SXygqw7dD42YjlZMAxUO6N4-VZI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.comuto"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Carpooling\nDriving somewhere?\nShare your ride and start saving on travel costs!\n• Publish your next ride in just minutes: it’s easy and fast\n• Decide who goes with you: review passengers’ profiles and ratings to know who you’re travelling with.\n• Enjoy the ride: that’s how easy it is to start saving on travel costs!\n\nWant to go somewhere?\nBook, meet and travel at low prices no matter where you’re going.\n• Search for a ride among thousands of destinations.\n• Find the ride closest to you: there’s maybe one leaving from just around the corner.\n• Book a seat instantly or request a seat: it’s simple!\n• Get closer to where you want to go, thanks to thousands of carpool options.\n\nBlaBlaCar buses\nBook your next bus ride and travel at low prices.\n• Choose among a wide choice of destinations.\n• Bag a bargain with bus tickets from just €3.99 for trips in France or in Germany.\n• Book your bus ticket easily and enjoy the ride.\n\n-------------------------\nNote: Continued use of GPS running in the background can dramatically decrease battery life.\nTELL US WHAT YOU THINK: https://www.blablacar.co.uk/contact",
+      "android_package_name": "com.comuto",
+      "ios_bundle_id": "com.comuto.comuto",
+      "title": "Blablacar",
+      "domain_name": [
+        "https://www.blablacar.com",
+        "https://www.blablacar.com"
+      ],
+      "website": "https://www.blablacar.com",
+      "developer": "Comuto",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/OoegseHhyZMW1T24gPLOPkzBoYo_riX_vqztSIJCqWJPkW8EBx7d4MzO_EOpk0_11w",
+      "icon_72": "https://play-lh.googleusercontent.com/OoegseHhyZMW1T24gPLOPkzBoYo_riX_vqztSIJCqWJPkW8EBx7d4MzO_EOpk0_11w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.flightradar24free"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Travelpayouts is the largest affiliate network for making money on flight tickets, hotels, insurance programs, car rentals, apartments, and other travel services. \n\nThe Travelpayouts application was created for those who are already making money selling travel services and for those who have just joined the affiliate network and are planning to make money via a travel blog or other traffic source.\n\nWith Travelpayouts, you will get access to over 90 travel affiliate programs, including Trip.com, Booking.com, Agoda, GetYourGuide, RentalCars.com, and other travel affiliate programs.\n\nWith the Travelpayouts mobile app, you can conveniently track statistics on searches, clicks, and sales. The application provides both general and detailed information on a specific brand for the selected period.\n\nThe Travelpayouts app provides you with complete data on the number of searches and bookings. For convenient monitoring of sales, you can set up push notifications about new bookings with your affiliate marker.\n\nIn addition to tracking sales and statistics, in the official Travelpayouts application, you can:\n• Keep track of your finances – Monitor your earnings and payouts\n• Get help – Contact support through the app\n• Manage your Travelpayouts profile\n\nThe Travelpayouts app is a tool for users of all income levels, regardless of whether you earn from a website, social network group, contextual advertising, or another source of traffic.\n\nPlease visit https://www.travelpayouts.com/ for more information about the affiliate network",
+      "android_package_name": "com.flightradar24free",
+      "ios_bundle_id": "com.travelpayouts",
+      "title": "JetRadar",
+      "domain_name": [
+        "https://www.travelpayouts.com",
+        "https://www.travelpayouts.com"
+      ],
+      "website": "https://www.travelpayouts.com",
+      "developer": "Go Travel Un Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/IxxF4rt1_5dQmlqaT2B-0KrF2mmwa_BNsHnkrPg1RsRAWCpT124I_r7rPKBbL1GtSo_e",
+      "icon_72": "https://play-lh.googleusercontent.com/IxxF4rt1_5dQmlqaT2B-0KrF2mmwa_BNsHnkrPg1RsRAWCpT124I_r7rPKBbL1GtSo_e=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.airasia.mobile"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Fulfill your travel needs with the AirAsia MOVE app – your ultimate travel companion!\n\nGet ready to elevate your travel experience with the AirAsia MOVE app, formerly known as the airasia Superapp. Whether you are seeking the best hotel deals, affordable flights, or exploring new destinations in Asia and beyond, this all-in-one app has everything you need.\n\nEnhance your journeys with a wide range of products and services, plus amazing deals and promotions! If you are looking for budget travel, the AirAsia MOVE app makes it easier, smoother, and more affordable for everyone.\n\nFlight booking made easy:\nEasily find and book cheap flights with our user-friendly interface.\nFind flight tickets from over 700 airlines across the world.\nAccess cheap tickets from AirAsia, the world’s best low-cost airline of 2024, and other popular affordable airlines including Scoot, Cebu Pacific, Jetstar Airways, Citilink, and more.\nExperience booking flight tickets from the world’s best airlines like Singapore Airlines, Qatar Airways, Emirates, and others with just your fingertips!\nCompare flight prices from your preferred airlines and choose the best one that fits your budget.\nUnlock exclusive flight deals and unbeatable flight promotions to fly to your dream destinations.\nBook flights and access your e-ticket and boarding pass effortlessly.\nEnjoy cabin baggage on your flight with your favorite airlines when booking your trip.\nGet your meal ready for your flight! You can check meal availability or purchase in advance when you book your flight!\nSecure your flight insurance with selected airlines and travel with total peace of mind!\n\nFind your hotel rooms and accommodations for a comfortable stay:\nDiscover a hotel of your choice from over 900,000 hotels and accommodations worldwide.\nWhether it’s a budget hotel, luxury hotel, city hotel, beach hotel, resort, or any type of accommodation, you can find it all in one app.\nChoose from 5-star hotels or book a hotel room within your budget.\nBook hotels with flexible payment options. You can choose hotels with free cancellation, pay now, pay later, or pay at the hotel itself—anything at your convenience. \nAirAsia Hotels also offers great hotel deals and discounts for your desired destination worldwide.\nFind competitive hotel prices for your vacations, honeymoons, or business trips now!\n\nFlight+Hotel deals that you can’t resist:\nChoose from thousands of flights and over 900,000 hotels worldwide. From budget-friendly options to luxurious stays, we have it all.\nSave more when you book your flights and hotels together. Enjoy discounted rates that are lower than booking separately.\nEnjoy a seamless experience with our user-friendly interface, making it easy to find and book the perfect flight and hotel combination in just a few taps.\nFlight+Hotel combo allows you to save more for your amazing vacations.\nGuaranteed combo savings with Flight+Hotel promotions exclusive to the AirAsia MOVE app users.\n\nTravel on your terms with *airport rides:\nEffortlessly book rides with a few simple taps!\nUtilize AirAsia ride, our e-hailing and taxi app, at your convenience.\nTailor your ride schedule to fit your agenda.\nSecure airport rides up to 3 days ahead for hassle-free transfers.\nChoose from a wide range of ride options, such as taxis, private cars, minivans, and beyond, at lower fares.\nBenefit from budget-friendly fares for local or intercity journeys with skilled drivers.\nEnhance safety by sharing ride details with loved ones.\n\nSave more with your point redemptions:\nAirAsia rewards allows you to earn AirAsia points with every transaction on the AirAsia MOVE app.\nCollect points to redeem products and services within the app. The more you spend, the more you save!\nRedeem points for discounts and exclusive offers on flights, hotels, taxis, and more.\n\n*Note: Some features and promotions are available only in specific countries.\n\nDownload the AirAsia MOVE app now to enhance your travel experience and start your next adventure!",
+      "android_package_name": "com.airasia.mobile",
+      "ios_bundle_id": "com.airasia.mobile",
+      "title": "AirAsia",
+      "domain_name": [
+        "https://www.airasia.com",
+        "https://www.airasia.com"
+      ],
+      "website": "https://www.airasia.com",
+      "developer": "AirAsia Berhad",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zC77vrLTjzLTFWxodfoQhZvZ8kfjCE7wsFzAF84KfNnUjcCBSD4gmQoiHkWmZzrhoZaW",
+      "icon_72": "https://play-lh.googleusercontent.com/zC77vrLTjzLTFWxodfoQhZvZ8kfjCE7wsFzAF84KfNnUjcCBSD4gmQoiHkWmZzrhoZaW=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.aa.android"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "With the American Airlines app, you’re covered with the information you need exactly when you need it. Curious about traffic to the airport? Need a mobile boarding pass? Wondering where the closest Admirals Club® lounge is? All of this info and more is available at your fingertips.\n\n- Lock Screen widgets: See your next trip's details right from the Lock Screen with our new dynamic widgets.\n\n- Dynamic home screen: Knows where you are in your travel journey and gives you easy access to the right tools at the right time.\n\n- Mobile boarding pass: Check in for your trip and retrieve your mobile boarding pass. No need to print, and it’s updated along the way.\n\n- Flight updates: Get the latest flight updates by simply retrieving your trip and allowing American Airlines to send notifications to your mobile device. \n\n- Interactive terminal maps: Navigating airports is a breeze with our interactive terminal maps. Find the closest Admirals Club® lounge or get directions to your connecting gate. \n\n- AAdvantage® account details: Review all the details of your AAdvantage® account right from the app. Not an AAdvantage® member? Sign up today.\n\n- Upgrade your seat: Request upgrades with ease. Want to see where you are on the list? The app displays the upgrade standby list within 4 hours of your scheduled departure. \n\n- Seat selection: Choose or change your seat within the app. Just pick the one you’d like and change it on the spot. \n\n- Track your bag: Know exactly where your bag is from the time it leaves your hands to when you extend the handle at your destination. \n\n- Save your trip: Your recently viewed trips are automatically saved in the app so you can easily grab the details for your next flight in seconds.\n\n- Quick interactions: The American app utilizes Haptic Touch and is Apple watch compatible, giving you quick access to the most important info. \n\n- Wi-Fi access in the air: Don’t forget, on flights with Wi-Fi you can use the American app and aa.com at no cost. \n\nThere’s a new group of flyers out there – The World’s Greatest Flyers. They know that having the right travel tools makes for a great experience.\n\nThe sky’s the limit with the American Airlines sticker pack! Let friends and family know that you’re traveling, headed to the Admirals Club® lounge to take it easy before taking off, snapping photos at 30,000 feet or that you’ve arrived.\n\nContact Us: 800-222-2377",
+      "android_package_name": "com.aa.android",
+      "ios_bundle_id": "com.aa.AmericanAirlines",
+      "title": "American Airlines",
+      "domain_name": [
+        "http://www.aa.com/app",
+        "https://www.aa.com"
+      ],
+      "website": "http://www.aa.com/app",
+      "developer": "American Airlines, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Fv8XHfieFcN6A0QgXH68DjdowRHqagzndBt6DpfJtW1UBJktfCYHx7jiU5dVuFSVXrM",
+      "icon_72": "https://play-lh.googleusercontent.com/Fv8XHfieFcN6A0QgXH68DjdowRHqagzndBt6DpfJtW1UBJktfCYHx7jiU5dVuFSVXrM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.delta.mobile.android"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Welcome to Fly Delta, Delta’s award winning iOS app. With our dynamic Today screen which provides quick access to your boarding pass and other important day-of-travel information, Fly Delta makes travel easier than ever before.\n\n• Enroll in Delta's SkyMiles® program and earn miles every time you travel\n• Find, compare and book Domestic and International flights\n• Book SkyMiles award tickets\n• Purchase Delta Comfort+™ seats and Trip Extras, including in-flight Wi-Fi, Priority Boarding and more\n• Reserve Preferred Seats like bulkhead and aisle\n• Rebook cancelled flights or missed connections\n• Manage your trips, profile and customize your travel preferences\n• Check your SkyMiles account balance and current Medallion® status\n• Check in, view your boarding pass and add it to Apple Wallet\n• Pay for checked bags and track their location\n• Check the latest flight status and receive flight and gate change notifications\n• Save a photo to remember your parking spot\n• Check your status on the upgrade or standby list\n• View or change your seat\n• Locate Delta Sky Club® lounges\n• View interactive airport maps, public transportation details and weather information\n• Get detailed info about our fleet and partners\n• Map flights en route with an interactive flight tracker\n• “Today” gathers everything you need for your day of travel into one convenient place\n• “Notifications” ensures you always have the latest flight updates, gate changes and more\n• View countdown to departure and arrival along with gate and baggage carousel information on Apple Watch\n\nThe Fly Delta app for iPhone and delta.com are always free to use on Delta’s Wi-Fi-enabled flights. Visit delta.com/app for more information.\n\nWhen downloading the Fly Delta app, you agree that your personal data will be processed in accordance with Delta’s Privacy Policy which can be accessed via the link below or on our website at delta.com.",
+      "android_package_name": "com.delta.mobile.android",
+      "ios_bundle_id": "com.delta.iphone.ver1",
+      "title": "Delta Airlines",
+      "domain_name": [
+        "http://www.delta.com/app",
+        "https://www.delta.com"
+      ],
+      "website": "http://www.delta.com/app",
+      "developer": "Delta Air Lines, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QhkICgvXHugQCRG67ncdgJLcnAsmTCQ4q6m_RJ-0O2lVoz--DzqJP7OoBkDAvq5D8w",
+      "icon_72": "https://play-lh.googleusercontent.com/QhkICgvXHugQCRG67ncdgJLcnAsmTCQ4q6m_RJ-0O2lVoz--DzqJP7OoBkDAvq5D8w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.southwestairlines.mobile"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Book a flight in just a few easy steps \nCheck in, change or cancel your flights. Plus, add extras like EarlyBird Check-In®. \n\nSuper-Fast Shopping & Booking\nBook a trip in just a few quick taps. Use Face ID® to make booking even faster! You can also store your credit cards.\n\nEverything you need to Travel\nGet the information you need right at your fingertips on the home screen - gate information, boarding position, flight status, and more. \n\nBoarding Pass on the Go\nGet mobile boarding passes for all passengers on your trip 24 hours in advance. Southwest passes have rich color and bold font, which makes seeing your Gate and Boarding Position very clear. Find the details you need quickly: Flight Number, Confirmation Number, Boarding Time, Tier Status, and TSA Pre-Check. Don’t forget to add your Mobile Boarding Passes to Apple Wallet!\n\nApple Pay®\nApple Pay® is now available as a payment option in the iOS app! This is an additional option to our other available payment methods - PayPal® or Credit/Debit Cards.\n\nTravel Funds\nYou can now use flight credits, Southwest LUV Vouchers, and gift cards when changing your flight in the app. Your unused Southwest® flight credit(s) will show  in ‘My Account’,  within ‘travel funds’ section.\n\nInflight Entertainment\nUse the app to take you to our Inflight Entertainment Portal1 where you can watch free live TV2, listen to free music from iHeartRadio2, access free on-demand TV episodes, and view free movies. \n \n1Available only on WiFi-enabled aircraft. Limited time offer. Where available. 2Due to licensing restrictions, on WiFi-enabled international flights free live TV and iHeartRadio may not be available for the full duration of flight.\n\nLive Chat \nContact our Customer Representatives through Live Chat by scrolling down to Contact Us in the navigation drawer and then tap on “Chat.”\n\nAirport Pickup and Drop-off\nThanks to our partnership with Lyft®, you can now use the app to help you request a Lyft®! You’ll know key information like estimated time of arrival and estimated price before booking. More of a rental car person? You can do that in the app, too.\n\nCars, Hotels, and Vacations\nUse our app to quickly book all of your travel needs. \n\nEarn Rewards when you Travel\nSign up for Rapid Rewards® and earn points on your flights. Did you forget to add your Rapid Rewards® number during booking? – No worries, add it after booking your flight and earn points. You can then use those points to purchase more flights!",
+      "android_package_name": "com.southwestairlines.mobile",
+      "ios_bundle_id": "com.southwest.iphoneprod",
+      "title": "Southwest Airlines",
+      "domain_name": [
+        "http://www.southwest.com",
+        "https://www.southwest.com"
+      ],
+      "website": "http://www.southwest.com",
+      "developer": "Southwest Airlines",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/vrjZfz_lztdUB8Aai-hyM7esx1Ru9Jm5pPsvtuHxTub64v4ekRe8RxqnuXhTdiO6vXs",
+      "icon_72": "https://play-lh.googleusercontent.com/vrjZfz_lztdUB8Aai-hyM7esx1Ru9Jm5pPsvtuHxTub64v4ekRe8RxqnuXhTdiO6vXs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.united.mobile.android"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Meet the United app \n \nFrom planning, to booking, to day of travel, we’ve got you covered.  \n\nOn our app you can: \n• look for flights across our global network and book them easily for yourself, or your friends and family\n• check in for your flight and get your boarding pass before you get to the airport\n• change seats, or flights, if something better becomes available\n• make sure you’re prepared for your trip with our Travel-Ready Center\n• add your bags, drop them at bag drop shortcut, and track them along your journey\n• use our built-in terminal guide to find your gate and navigate the airport with ease\n• watch movies, play games, and pay for inflight snacks and drinks while you’re in the air\n• enroll in MileagePlus or manage your MileagePlus account and use your miles to book award travel in our app\n• talk, text or video chat with an agent if you have any questions about your trip\n• figure out your next move if your flight is delayed or cancelled",
+      "android_package_name": "com.united.mobile.android",
+      "ios_bundle_id": "com.united.UnitedCustomerFacingIPhone",
+      "title": "United Airlines",
+      "domain_name": [
+        "https://hub.united.com/united-app-travel-enhancements-2019-2625355292.html",
+        "https://hub.united.com"
+      ],
+      "website": "https://hub.united.com/united-app-travel-enhancements-2019-2625355292.html",
+      "developer": "United Air Lines",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ksMkNKYrH89qrIvuoLOtgElqPqjFMyHaWStkTTZGqWMCymFI6FW3uwyuLWyZxlVgwXc",
+      "icon_72": "https://play-lh.googleusercontent.com/ksMkNKYrH89qrIvuoLOtgElqPqjFMyHaWStkTTZGqWMCymFI6FW3uwyuLWyZxlVgwXc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.afklm.mobile.android.gomobile.klm"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "KLM Houses\n\nForget about the crumpled notes - download this app to store all your collected KLM houses. This app contains all miniature houses and provides, amongst others, the following functionalities:\n- A scanner to find your house easy and fast;\n- An overview, including image gallery, of all houses;\n- Add notes so you can store every fond memory about the houses;\n- Have duplicates? Keep track of how many houses you own;\n- Read all about the history of all the houses;\n- Find the location of the houses on Google Maps!",
+      "android_package_name": "com.afklm.mobile.android.gomobile.klm",
+      "ios_bundle_id": "com.klm.mobile.iphone.klmhouses",
+      "title": "KLM Royal Dutch Airlines",
+      "domain_name": [
+        "http://www.klm.com/travel/gb_en/prepare_for_travel/on_board/travel_classes/klm_delft_blue_houses_application.htm",
+        "https://www.klm.com"
+      ],
+      "website": "http://www.klm.com/travel/gb_en/prepare_for_travel/on_board/travel_classes/klm_delft_blue_houses_application.htm",
+      "developer": "Koninklijke Luchtvaart Maatschappij N.V.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VuliGf2HEwB1FyBCWI7uDINWYL8tEM5rQOb3A6o7NLOZ8BG_TmQNWRzzkwUJrJ2QchI",
+      "icon_72": "https://play-lh.googleusercontent.com/VuliGf2HEwB1FyBCWI7uDINWYL8tEM5rQOb3A6o7NLOZ8BG_TmQNWRzzkwUJrJ2QchI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "au.com.qantas.qantas"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Elevate your journey with the Qantas app, your trusted, simple, and personalised travel companion. Whether you're travelling, shopping, or tracking your Qantas Points, we've got you covered. Check-in for your flight, view your digital boarding pass, see your Points activity and more.\n\nUse the Qantas app to:\n• Search and book Qantas flights\n• Explore all Qantas products including hotels, cars, tours and travel insurance\n• Manage and view your trips, including flights, hotels and car bookings \n• Access your digital boarding pass and keep it in the app or add to Apple Wallet\n• Select or change your seats any time before check-in when flying on Qantas-operated and marketed flights \n• Request an upgrade with a few taps\n• Track your Points activity, Status Credits, tier progress and learn more about how to earn points\n• Discover and redeem your Frequent Flyer member benefits\n• Claim missing Qantas Points and status credits for eligible flights\n• Use and earn Qantas Points on a range of products from Qantas Marketplace and Qantas Shopping\n• Explore movie and TV show options that will be available on your flight \n• Stay updated with notifications for check-in and boarding \n• Manage, link and transfer your lounge invitations before you fly\n• When eligible, see which lounges you can access\n\nDownload the app today on your iPhone or iPad.\n\nEnjoying our app? Leave us a rating and review. Any questions or feedback? Reach out to mobileappsupport@qantas.com.au\n\nPlease note: Check-in, in-app boarding passes, requesting upgrades and some alerts are not available for all flights and all airports.",
+      "android_package_name": "au.com.qantas.qantas",
+      "ios_bundle_id": "com.qantas.Qantas",
+      "title": "Qantas Airways",
+      "domain_name": [
+        "http://www.qantas.com.au/travel/airlines/global/en",
+        "https://www.qantas.com.au"
+      ],
+      "website": "http://www.qantas.com.au/travel/airlines/global/en",
+      "developer": "Qantas Airways Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/lCyu99ytI8vWW3e_5u4ua79ypoJj8_v-WI0FJBSGO30gNPimYKdtuGcIDcZy1CaWG6RR",
+      "icon_72": "https://play-lh.googleusercontent.com/lCyu99ytI8vWW3e_5u4ua79ypoJj8_v-WI0FJBSGO30gNPimYKdtuGcIDcZy1CaWG6RR=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mttnow.droid.easyjet"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Wherever you’re going, take us with you.\n\nSearch, book and manage your flights anytime, anywhere.\n\nSEARCH & BOOK FLIGHTS – Search and book a trip to your favourite European location.\n\nMANAGE FLIGHT BOOKINGS - Keep track of your easyJet flight bookings all in one place.\n\nMOBILE BOARDING PASSES – Use your mobile boarding pass to travel through the airport quickly, speed up boarding and reduce paper waste. You can store up to eight boarding passes per flight, which will be available offline, so you'll not need a data connection. For even more convenience, you can also save your boarding passes to Apple Wallet.\n\nFLIGHT TRACKER – Track your plane's location in real-time. Plus, check the latest arrival and departure information. You also see your plane’s journey, live in the air, with the addition of the FlightRadar24 map.",
+      "android_package_name": "com.mttnow.droid.easyjet",
+      "ios_bundle_id": "com.mttnow.iphone.easyjet",
+      "title": "EasyJet",
+      "domain_name": [
+        "http://www.easyjet.com/en",
+        "https://www.easyjet.com"
+      ],
+      "website": "http://www.easyjet.com/en",
+      "developer": "easyJet Airline Company Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Thn1XxCmoZ9VdmKBfAP5Hvi8EZ8D6_ffGSDaiJTohJulisRXGsfkO_7OH-_ivbSCbrA",
+      "icon_72": "https://play-lh.googleusercontent.com/Thn1XxCmoZ9VdmKBfAP5Hvi8EZ8D6_ffGSDaiJTohJulisRXGsfkO_7OH-_ivbSCbrA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "me.lyft.android"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Get where you’re going with Lyft.\n\nWhether you’re catching a flight, going out for the night, commuting to the office, or running errands in a rush, the Lyft app offers you multiple ways to get there.\n\nEASY TO USE\nEnter your destination. See your route and ride cost up front. Choose Priority Pickup to get going quick. Boom. Done. Simple\n\nCHOOSE YOUR WHEELS\nChoose from Wait & Save, Priority Pickup, Bikes & Scooters, Lyft XL, Lyft Lux, Transit, or even Rentals.\n\nAFFORDABLE RIDES\nOur Wait & Save option helps you get around for less. And you can find the fastest public transit routes, too.\n\n* Lyft ride types may vary by region. Check the app to see what is available in your city.\n—\nPrices vary based on market condition.\n\nBy downloading the app, you agree to allow Lyft to collect your device's language settings.",
+      "android_package_name": "me.lyft.android",
+      "ios_bundle_id": "com.zimride.instant",
+      "title": "Lyft",
+      "domain_name": [
+        "http://lyft.com",
+        "https://lyft.com"
+      ],
+      "website": "http://lyft.com",
+      "developer": "Lyft, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/TFdtjYT75LQYBhg40bjeSuImFWawZZ9_RETaDLsu8_Rt5YsFgUglZQdDSc54uDAj2ro-",
+      "icon_72": "https://play-lh.googleusercontent.com/TFdtjYT75LQYBhg40bjeSuImFWawZZ9_RETaDLsu8_Rt5YsFgUglZQdDSc54uDAj2ro-=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.comuto"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Carpooling\nDriving somewhere?\nShare your ride and start saving on travel costs!\n• Publish your next ride in just minutes: it’s easy and fast\n• Decide who goes with you: review passengers’ profiles and ratings to know who you’re travelling with.\n• Enjoy the ride: that’s how easy it is to start saving on travel costs!\n\nWant to go somewhere?\nBook, meet and travel at low prices no matter where you’re going.\n• Search for a ride among thousands of destinations.\n• Find the ride closest to you: there’s maybe one leaving from just around the corner.\n• Book a seat instantly or request a seat: it’s simple!\n• Get closer to where you want to go, thanks to thousands of carpool options.\n\nBlaBlaCar buses\nBook your next bus ride and travel at low prices.\n• Choose among a wide choice of destinations.\n• Bag a bargain with bus tickets from just €3.99 for trips in France or in Germany.\n• Book your bus ticket easily and enjoy the ride.\n\n-------------------------\nNote: Continued use of GPS running in the background can dramatically decrease battery life.\nTELL US WHAT YOU THINK: https://www.blablacar.co.uk/contact",
+      "android_package_name": "com.comuto",
+      "ios_bundle_id": "com.comuto.comuto",
+      "title": "BlaBlaCar",
+      "domain_name": [
+        "https://www.blablacar.com",
+        "https://www.blablacar.com"
+      ],
+      "website": "https://www.blablacar.com",
+      "developer": "Comuto",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/OoegseHhyZMW1T24gPLOPkzBoYo_riX_vqztSIJCqWJPkW8EBx7d4MzO_EOpk0_11w",
+      "icon_72": "https://play-lh.googleusercontent.com/OoegseHhyZMW1T24gPLOPkzBoYo_riX_vqztSIJCqWJPkW8EBx7d4MzO_EOpk0_11w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ubercab.eats"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Food & Drink",
+      "description": "Get food delivery to your doorstep from thousands of amazing local and national restaurants. Find the meal you crave and order food from restaurants easily with the Uber Eats app. Track your order in real-time.\n\nFIND YOUR FAVORITE FOOD & RESTAURANTS\nOrder food from nearby restaurants and search by cuisine, restaurant name, dish, and meal. \nFood delivery options for you to order and enjoy including pizza, burritos, burgers, sushi, donuts, and Chinese takeout.\nPrefer pickup? Skip the line and reservations and choose to pick up your order instead. Choose your favorite delivery options with the Uber Eats app now.\n\nSUBSCRIBE TO UBER ONE\nFor $9.99 per month, Uber One subscribers enjoy $0 Delivery Fee and up to 10% off orders over $15 at participating non-grocery stores (and 5% off orders over $35 at participating grocery stores) available on Uber Eats. Members are also eligible for rewards, perks, coupons, and offers. View full Uber One Terms & Conditions in app. \n\nORDER ALMOST ANYTHING, ANYTIME\nOrder household needs from your favorite drug stores, supermarkets, and pet shops. Baby food or diapers, pharmacy needs, beauty products and cosmetics. Grocery staples like bread and milk, bananas and produce, flowers and plants, packaged foods or frozen treats. \n\nYou can even order alcoholic drinks including beer, wine, liquor and cocktails. *\n\nSIMPLE DELIVERY ORDERING\nPick your food order from any menu and add it to your cart with a few taps. That’s it.\nUber Eats makes it easy to order food delivery online or through the app and have it delivered by restaurants and delivery people near you.\nOr, schedule your order in advance for a delivery person to pick it up later. Your choice!\n\nORDER FOOD AHEAD WITH PICKUP\nNow you can also order food ahead for Pickup instead of just ordering delivery. Select Pickup, add food items to your cart, and skip the lines to the restaurant to get your food.\n\nREAL-TIME ORDER TRACKING\nTrack your food delivery order on a map as it heads your way.\nSee the estimated arrival time at your address.\nGet notified when your order arrives.\n\nFIND SOME OF YOUR FAVORITE NATIONAL RESTAURANTS\nSome of our food delivery partners include: Pizza Hut, Little Caesars, Buffalo Wild Wings, Papa Johns, Shake Shack, Domino’s Pizza, Nando’s, Burger King, CAVA, A&W, Chick-fil-A, Chipotle, Dunkin', IHOP, KFC, McDonald's, Panda Express, Panera, Popeyes, Shake Shack, Sonic, Starbucks, Subway, Sweetgreen, Taco Bell, Tim Hortons, Wendy's, Five Guys, Jersey Mikes, White Castle, Jack in the Box, Outback Steakhouse, Red Lobster.\n\nFIND PHARMACIES, GROCERY STORES, AND MORE\nOrder from grocers such as Albertsons and SEG. Other delivery partners in the pharmacy, convenience, and retail space include CVS, Walgreens, 7-Eleven, Wawa, Gopuff, BevMo!, and Total Wines.Order from stores such as Walmart, Walgreens, CVS and Safeway. Other delivery partners include Petco, Drizly, and Favor.\n\nABOUT UBER EATS\nUber Eats is the way to order the food you love through an easy delivery experience. Uber Eats is available in hundreds of cities around the world. Enter your delivery address to explore restaurant and grocery delivery options near you.\n\n\nAVAILABLE INTERNATIONALLY\n\nJoin the thousands of others in your city who use the Uber Eats app to order from their favorites restaurants and schedule delivery\n\nUber Eats is currently available in cities and metro areas including Adelaide, Amsterdam, Atlanta, Auckland, Austin, Baltimore, Brussels, Cape Town, Chicago, Dallas, Denver, Johannesburg, Glasgow, London, Los Angeles, Madrid, Melbourne, Mexico City, Miami, Milan, Nashville, New Orleans, New York, Ottawa, Paris, Philadelphia, Rio de Janeiro, San Diego, San Francisco, Seattle, Stockholm, Sydney, Taipei, Tokyo, Toronto, Warsaw, and Washington DC. Uber Eats helps you find food delivery around the world. See full list of available countries in the app.\n\n*Alcohol in select markets. Must be at least 21 to purchase. Item availability varies by market. See app for details.",
+      "android_package_name": "com.ubercab.eats",
+      "ios_bundle_id": "com.ubercab.UberEats",
+      "title": "Uber Eats",
+      "domain_name": [
+        "https://www.ubereats.com",
+        "https://www.ubereats.com"
+      ],
+      "website": "https://www.ubereats.com",
+      "developer": "Uber Technologies, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/tYRirzPrNIJd6rw48wFf2caJBUTEXaKvlMn7JOm1ALQ2NM7GYwzpMClT_L18bl_MF_mL",
+      "icon_72": "https://play-lh.googleusercontent.com/tYRirzPrNIJd6rw48wFf2caJBUTEXaKvlMn7JOm1ALQ2NM7GYwzpMClT_L18bl_MF_mL=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.foursquare.robin"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Swarm is the best way to keep track of the places you go. From the new café downtown to that killer ramen spot in Tokyo, you’ll never ask “what was the name of that place?” again.  Whether you love to be a local, or are trying to travel the globe, check in so you can remember everywhere with Swarm.\n\n• This is lifelogging made easy. Each time you check in we’ll add a pin your personal map so you can look back on the places you visit. Help out your future self by adding a photo or a note to your check-ins to make the memories all the better.\n\n• Indian Restaurant? Check. Karaoke bar? Check. Haven’t been to an Art Museum yet? Now’s your chance to go somewhere new! Explore more and collect different types of places. You’ll earn fun Stickers along the way.\n\n• Whether it’s your 10th week in a row at the gym, first time to Canada, or the 25th time you’ve gotten ice cream with your BFF, the more you check in, the more helpful insights you’ll get about your habits and explorations. \n\n*A note on battery. We’ve spent *years* developing the location technology that powers Foursquare Swarm, making it extremely power efficient. But, as with all apps of this type, continued use of GPS running in the background can dramatically decrease battery life.",
+      "android_package_name": "com.foursquare.robin",
+      "ios_bundle_id": "com.foursquare.robin",
+      "title": "Foursquare",
+      "domain_name": [
+        "http://www.swarmapp.com",
+        "https://www.swarmapp.com"
+      ],
+      "website": "http://www.swarmapp.com",
+      "developer": "Foursquare Labs, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Vm8PfIKIENrm_8vZNAUldp0seiOk4crusyrbs4GMfuhDFcBhaiTAHY1kE-NIHC1sWNI",
+      "icon_72": "https://play-lh.googleusercontent.com/Vm8PfIKIENrm_8vZNAUldp0seiOk4crusyrbs4GMfuhDFcBhaiTAHY1kE-NIHC1sWNI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.earth"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Create and collaborate on immersive, data-driven maps from anywhere, with the new Google Earth.\nSee the world from above with high-resolution satellite imagery, explore 3D terrain and buildings in hundreds of cities, and dive in to streets and neighborhoods with Street View's 360° perspectives.",
+      "android_package_name": "com.google.earth",
+      "ios_bundle_id": "com.google.b612",
+      "title": "Google Earth",
+      "domain_name": [
+        "https://www.google.com/earth",
+        "https://www.google.com"
+      ],
+      "website": "https://www.google.com/earth",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/9ORDOmn8l9dh-j4Sg3_S7CLcy0RRAI_wWt5jZtJOPztwnEkQ4y7mmGgoSYqbFR5jTc3m",
+      "icon_72": "https://play-lh.googleusercontent.com/9ORDOmn8l9dh-j4Sg3_S7CLcy0RRAI_wWt5jZtJOPztwnEkQ4y7mmGgoSYqbFR5jTc3m=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.YRH.PackPoint"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "As Featured On The App Store's \"Best New Apps\", The Washington Post, BBC, LA Times, Lifehacker, Fast Company's Co.DESIGN, and The Next Web.\n\"A Travel App That Practically Packs Your Bags For You\"\n\nNever Forget Your ______ Again!\n\nPackPoint is an intelligent packing app and packing list builder for serious travelers. PackPoint will tell you what you need to pack based on length of travel, weather at your destination, and any activities planned during your trip.\n\nPunch in the city you're traveling to, the departure date, and the number of nights you'll be staying there.\n\nPRO TIPS:\n- Tap and hold to re-order packing list items\n- Select \"hide checked items\" for a minimal packing list as you pack.\n- Check out the Customize menu within PackPoint for Premium features\n- Swipe left to remove an item from your packing list\n- Tap the \"+\" sign to change quantities for each packing list item\n- Check off \"Repeat Basics\" if you're willing to repeat wearing basics like shirts and pants\n- Check off \"Laundry\" if you will have access to laundry facilities\n\nPackPoint will build a packing list for you that takes into account:\n- Business or Leisure travel\n- Activities you plan on doing\n- What you need for an international trip\n- Warm weather clothes\n- Cold weather clothes\n- An umbrella if the forecast calls for rain\n\nHave a packing app feature request, or feedback? E-mail info@packpnt.com or visit https://ideas.packpnt.com\nLike us on Facebook https://www.facebook.com/packpoint\nFollow us on Twitter https://twitter.com/packpnt @packpnt",
+      "android_package_name": "com.YRH.PackPoint",
+      "ios_bundle_id": "net.drinkpoint.Packpoint",
+      "title": "PackPoint",
+      "domain_name": [
+        "https://packpnt.com",
+        "https://packpnt.com"
+      ],
+      "website": "https://packpnt.com",
+      "developer": "Wawwo",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ij0tFNTWaQPXP-ynb4ues46ApfW9kOa2oDY7hMYpVtIIPPNJG8mE3h6gQiA7-SZzcZZB",
+      "icon_72": "https://play-lh.googleusercontent.com/Ij0tFNTWaQPXP-ynb4ues46ApfW9kOa2oDY7hMYpVtIIPPNJG8mE3h6gQiA7-SZzcZZB=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.roadtrippers"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "DISCOVER THE OPEN ROAD AND THE GREAT OUTDOORS WITH EASE\nRoadtrippers, the #1 road trip planning app in the USA and Canada, now includes the patent-pending AI-powered trip wizard: Roadtrippers Autopilot™.  Whether you’re RVing on your annual campground trip, or planning a weekend trip at a boutique hotel, Roadtrippers Autopilot™ uses the knowledge of over 38 million trips to help get you there. And, with the newly added features from Campendium, Roadtrippers will be your go-to app for planning epic road trips and finding the perfect camping spots. \n\nENHANCED CAMPING AND RV FEATURES\n∙ Campground Reviews and Insights: Dive into over 150,000 campground reviews, offering perspectives for RVers and campers alike. Discover the best spots, from swanky RV parks to serene, free remote destinations.\n∙ Comprehensive Map Overlays: Find the perfect campgrounds with ease using overlays for public land, cell coverage, and wildfire smoke, ensuring you’re always informed and prepared.\n∙ Advanced Filtering Options: Tailor your search with new filtering capabilities, including cell service and elevation, to find your ideal campsite every time.\n\nEXPLORE AND PLAN WITH EASE\n∙ Epic Routes and Places: Uncover millions of unique places, from quirky roadside attractions to breathtaking national parks. Get inspired by pre-made trip guides for once-in-a-lifetime routes.\n∙ Customizable Planning: Start with up to three stops or upgrade to add up to 150 stops per trip with our Premium membership. Enjoy RV-friendly GPS navigation, offline maps, trip collaboration, and more.\n∙ Seamless Syncing and Navigation: Your saved trips and favorite places sync across devices. Hit the road with confidence using CarPlay for easy navigation.\n\nJOIN THE ROADTRIPPERS COMMUNITY\nMerging the spirit of Campendium with Roadtrippers, we invite you to embark on road trips and camping adventures that you’ll cherish forever. Whether you’re mapping out a weekend getaway or a cross-country journey, Roadtrippers is here to guide you every mile and every campsite along the way.\n\nDownload Roadtrippers today and transform your travel dreams into reality. Your next epic adventure awaits!\n\nTerms of use: https://roadtrippers.com/tos\nPrivacy policy: https://roadtrippers.com/privacy-policy\n\nNote: Designed for discovering and planning road trips in the USA and Canada only.",
+      "android_package_name": "com.roadtrippers",
+      "ios_bundle_id": "com.roadtrippers.roadtrippersinc",
+      "title": "Roadtrippers",
+      "domain_name": [
+        "https://roadtrippers.com",
+        "https://roadtrippers.com"
+      ],
+      "website": "https://roadtrippers.com",
+      "developer": "Roadtrippers Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gw8yvnJYkEbJrmY74zv7UZuinvB3FAUZDapM1HjqWAczOpbCQCN87aurE5CZEBI48w",
+      "icon_72": "https://play-lh.googleusercontent.com/gw8yvnJYkEbJrmY74zv7UZuinvB3FAUZDapM1HjqWAczOpbCQCN87aurE5CZEBI48w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tripit"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Join nearly 20 million travelers on the world's highest-rated travel planner app for trip and itinerary organization!\n\n\nTRAVEL ITINERARY\n\nAs soon as you book a flight, hotel, rental car or other travel plan, simply forward it to plans@tripit.com and we’ll automatically add it to your comprehensive itinerary. Seamlessly sync travel plans to your calendar or share them with anyone you choose.\n\n\nRESERVATION DETAILS\n\nNo more frantically searching through your inbox for important details about your travel plans, like when your flight gets in or the confirmation number for your hotel. Find them in a flash with TripIt — even when you’re offline. Access this information hands-free with Siri shortcuts!\n\n\nUpload PDFs, photos, boarding passes, digital passport QR codes and more to your travel itinerary, so you can track everything in one place.\n\n\nMAPS AND DIRECTIONS\n\nThe TripIt app includes all the map-related tools you’ll need on-the-go (it’s great for road trips).\n\n-\tPlot out your entire trip on Google Maps or Apple Maps\n-\tQuickly pull up transportation options and driving directions between two points (powered by Rome2Rio)\n-\tEasily locate the closest restaurants, parking, ATMs and more\n\n\nTRIPIT PRO\n\nFor roughly the price of checking your bags, upgrade to TripIt Pro to access exclusive travel perks all year long. When you upgrade, TripIt Pro will do all this for you (and more!):\n\n\n• Share real-time flight status alerts and check in reminders\n• Notify you if you're eligible for a refund if your fare price drops after booking\n• Track your reward programs and alert you if points are expiring\n• Navigate you through the airport with interactive maps\n• Keep you informed when a potential disruption may impact your trip\n\n\nYour iTunes account will be charged when the purchase is confirmed. Your TripIt Pro subscription will be good for 1 year, and automatically renew each year at $48.99 unless you turn off auto-renew at least 24 hours before your term ends. To manage your subscription, including auto-renew, visit iTunes Account Settings.\n\n\nFREE TRIPIT PRO FOR SAP CONCUR USERS\n\nIf your company uses SAP Concur, you may receive complimentary TripIt Pro benefits that most travelers have to pay for. Make sure you’re connected to TripIt to get itineraries created for you as soon as you book, and receive a complimentary subscription to TripIt Pro, if you’re eligible.\n\n\nFor more information, see the TripIt User Agreement (https://www.tripit.com/uhp/userAgreement) and Privacy Policy (https://www.tripit.com/uhp/privacyPolicy).",
+      "android_package_name": "com.tripit",
+      "ios_bundle_id": "com.tripit.tripitmobile",
+      "title": "TripIt",
+      "domain_name": [
+        "https://www.tripit.com/uhp",
+        "https://www.tripit.com"
+      ],
+      "website": "https://www.tripit.com/uhp",
+      "developer": "TripIt Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Q5MO1O16dA5Bg22LIcNsmeyJYT8smqyRblAnUbJ7fJOCZsYrea_2khF0_XZvBo4f6NM",
+      "icon_72": "https://play-lh.googleusercontent.com/Q5MO1O16dA5Bg22LIcNsmeyJYT8smqyRblAnUbJ7fJOCZsYrea_2khF0_XZvBo4f6NM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "au.com.bingko.travelmapper"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "CruiseMapper is an impartial cruise information app with thousands of cruises to show the travelers.\n\nCruiseMapper features include: \n- detailed itineraries and port schedules\n- cruise ship reviews and videos\n- current position of cruise ships \n- special features and technical details\n- a lot more useful information about the cruise ship you choose \n\nThe future-cruisers might search the database of nearly 30 cruise lines, 320+ cruise ships and over 20,000 cruises to find the perfect cruise. If you really need to find your special cruise, then this is the right place to look. \n\nWith CruiseMapper you'll find schedules for all cruises departing from ports around all over the world. Helping you select the perfect one to you, saving you the extra expenditures you would do otherwise.\n\nImportant: \nIf you experience any problem with the App, please fill this form to contact us http://www.cruisemapper.com/contact instead of writing a review here. We will do our best to solve it. Thanks!\n\nConnect with CruiseMapper\n- on Facebook: https://www.facebook.com/CruiseMapper\n- on Google+ https://plus.google.com/+Cruisemapper\n- on our website http://www.CruiseMapper.com",
+      "android_package_name": "au.com.bingko.travelmapper",
+      "ios_bundle_id": "com.astrapaging.CruiseMapper",
+      "title": "Travel Mapper",
+      "domain_name": [
+        "http://www.cruisemapper.com",
+        "https://www.cruisemapper.com"
+      ],
+      "website": "http://www.cruisemapper.com",
+      "developer": "ASTRA PAGING LTD",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ct-C198qmJepjtTXaNdoaUS8YG7wUQZpMjSHQV4MlHo13VNiGJNeK7znzcqVRasBoaz3",
+      "icon_72": "https://play-lh.googleusercontent.com/Ct-C198qmJepjtTXaNdoaUS8YG7wUQZpMjSHQV4MlHo13VNiGJNeK7znzcqVRasBoaz3=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.flightradar24free"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "The world's best flight tracker app - #1 Travel app in over 150 countries.\n\nTurn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.\n\n• Watch aircraft move around the world in real-time\n• Identify flights overhead & see flight information—including a photo of the actual aircraft—by simply pointing your device at the sky \n• See what the pilot of an aircraft sees in 3D \n• Tap on a plane for flight details such as route, estimated time of arrival, actual time of departure, aircraft type, speed, altitude, high-resolution photos of the actual aircraft & more.\n• See historical data & watch playback of past flights\n• Tap on an airport icon for arrival & departure boards, flight status, aircraft on the ground, current delay stats, & detailed weather conditions\n• Search and bookmark individual flights using flight number, airport, or airline\n• Filter flights by airline, aircraft, altitude, speed, & more\n• NEW - view aircraft in 3D with hundreds of new aircraft and airline liveries added.\n \nFlightradar24 is a free app and includes all the above features. If you want even more great features from Flightradar24 there are two upgrade options—Silver & Gold—and each comes with a free trial.\n \nSILVER\n\n• 90 days of flight history\n• More aircraft details, like serial number & age\n• More flight details, like vertical speed & squawk\n• Filters and alerts to find and track flights\n• Current weather at 3,000+ airports overlaid on the map\n \nGOLD\n \n• All the features included in Flightradar24 Silver +\n• 365 days of flight history\n• Detailed live map weather layers for clouds & precipitation\n• Aeronautical charts & oceanic tracks showing the pathways flights follow across the sky\n• Air traffic control boundaries that show which controllers are responsible for a flight\n• Extended Mode S data — even more information about altitude, speed, and wind & temperature conditions during flight\n \nIf you choose to upgrade to a Silver or Gold subscription, a payment will be charged to your iTunes account at the end of the free trial period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your account settings in the iTunes Store. Silver and Gold upgrade prices are listed in the app as they vary depending on your country and currency. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nHOW IT WORKS\n\nMost aircraft today are equipped with ADS-B transponders that transmit positional data. Flightradar24 has a rapidly growing network of 35,000 ground stations to receive this data that then shows up as aircraft moving on a map in the app. In an expanding number of regions, with the help of multilateration (MLAT), we’re able to calculate the positions of aircraft that don’t have ADS-B transponders. Coverage is subject to change at any time.\n\nCONNECT WITH US\n\nWe love getting feedback on FR24. Since we’re unable to respond directly to reviews, you can contact us directly and we’ll be happy to assist.\n• Email (support@fr24.com)\n• X (@Flightradar24)\n• Facebook (@Flightradar24)\n• YouTube (@Flightradar24DotCom)\n\nDISCLAIMER\n\nThe use of this app is strictly limited to entertainment purposes. This specifically excludes activities that might endanger yourself or the lives of others. Under no circumstances will the developer of this app be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement.\n\nTerms of Service: https://www.flightradar24.com/terms-and-conditions\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
+      "android_package_name": "com.flightradar24free",
+      "ios_bundle_id": "se.resenatverket.FlightRadar24-Free",
+      "title": "FlightRadar24",
+      "domain_name": [
+        "https://www.flightradar24.com",
+        "https://www.flightradar24.com"
+      ],
+      "website": "https://www.flightradar24.com",
+      "developer": "Flightradar24 AB",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/IxxF4rt1_5dQmlqaT2B-0KrF2mmwa_BNsHnkrPg1RsRAWCpT124I_r7rPKBbL1GtSo_e",
+      "icon_72": "https://play-lh.googleusercontent.com/IxxF4rt1_5dQmlqaT2B-0KrF2mmwa_BNsHnkrPg1RsRAWCpT124I_r7rPKBbL1GtSo_e=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.maps"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Fast, detailed and entirely offline maps with turn-by-turn navigation – trusted by over 140 million travelers worldwide.\n\nOFFLINE MAPS\nSave mobile data; no internet is required.\n\nNAVIGATION\nUse driving, walking and cycle navigation anywhere in the world.\n\nTRAVEL GUIDES\nSave you time planning the trip and never miss an interesting place with our ready-made travel guides. We've partnered with the best travel content creators to build travel guide catalog for hunderds of destinations around the world. Whether you prefer city travel, car trips or outdoor activities you will find a great choice of guides for a perfect journey.\n\nINCREDIBLY DETAILED\nDirections to points of interest (POIs), hiking trails and places missing from other maps.\n\nUP-TO-DATE\nMaps are updated by millions of OpenStreetMap contributors daily. OSM is an open-source alternative to Google Maps and Apple Maps.\n\nFAST AND RELIABLE\nOffline search, GPS navigation along with optimized maps to effectively save memory space.\n\nBOOKMARKS\nSave locations you love and share them with your friends.\n\nAVAILABLE WORLDWIDE\nEssential for home and travel. \n\nMAPS.ME is free to download and use.\n\nAND MORE!\n– Search through different categories, e.g. restaurants, cafes, tourist attractions, hotels, ATMs and public transport (metro, bus, etc).\n– Make hotel bookings via Booking.com directly from the app.\n– Share your location via text message or social media.\n– When cycling or walking, the app shows whether the way is uphill or downhill.\n\nContinued use of GPS running in the background can dramatically decrease battery life.\nIf you have any questions, visit our Help Center: support.maps.me.\nIf you are unable to find the answer to your question, contact us at: ios@maps.me.\nFollow us on FB: http://www.facebook.com/mapswithme | Twitter: @MAPS_ME\n\nPrivacy Policy: https://maps.me/policy/\nTerms of Use: https://maps.me/terms/",
+      "android_package_name": "com.google.android.apps.maps",
+      "ios_bundle_id": "com.mapswithme.full",
+      "title": "Maps.me",
+      "domain_name": [
+        "https://maps.me",
+        "https://maps.me"
+      ],
+      "website": "https://maps.me",
+      "developer": "MAPS.ME (CYPRUS) LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
+      "icon_72": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.klook"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Download Klook to find deals for the best things to do for anytime, anywhere.\n\nA World of Possibilities\nThere are nearly half a million travel activities across the world waiting for you on Klook. From sightseeing trips and hotel bookings to immersive cultural experiences, we're here to guide you to your world of joy.\n\nTrusted & Top-rated Activities\nExplore handpicked experiences and get local insights for hundreds of destinations. Museums in Singapore? Tour packages in South Korea? Or some family attractions nearby? When you're on Klook, you're seeing the best of every place in your hands.\n\nExperiences Made Easy\nWe make e-booking fast with instant confirmation and skip-the-line tickets on selected attractions. Whether it’s chasing waves on a Phuket vacation package, tasting wine in Melbourne or finding out what’s fun for the weekend in your area, you're just a few taps away from booking whatever makes you happy.\n\nUnlock Gold on Klook Rewards for Exclusive Perks \n- Earn up to 3x more KlookCash\n- Get up to US$95 in promo codes \n- Skip the line for premium customer support \n- Early access to top deals\n- Special Gold-only prices\n\nYou can elevate your Klook experience to Gold when you spend US$380 or make 5 purchases of at least US$30 per year.\n\nAnd a Whole Lot More\n- Budgeting when travelling? Use Klook-exclusive promo codes to save on the best deals \n- Redeem your tickets and e-vouchers or download them for easy offline access\n- Save your bucket-list holiday ideas to your wishlist and book later\n- Choose from trains, buses, cars and even ferries to get around\n- Get movie and event ticket discounts and bundles\n\nFind us and say hello!\n- Official website: www.klook.com\n- Facebook: @klookglobal\n- Twitter: @klooktravel\n- Instagram: @klooktravel\n\nGot ideas for us? Let us know at appfeedback@klook.com. Thanks bestie.",
+      "android_package_name": "com.klook",
+      "ios_bundle_id": "com.klook.klook",
+      "title": "Klook",
+      "domain_name": [
+        "http://www.klook.com",
+        "https://www.klook.com"
+      ],
+      "website": "http://www.klook.com",
+      "developer": "Klook Travel Technology Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Uqz_LWO7-RodfrOX8aJ0So20HNFBjPmWfqq7UPG_uK6g-NXx6TGiFGa0Gg8dXmlDN871",
+      "icon_72": "https://play-lh.googleusercontent.com/Uqz_LWO7-RodfrOX8aJ0So20HNFBjPmWfqq7UPG_uK6g-NXx6TGiFGa0Gg8dXmlDN871=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.getyourguide.android"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Download the GetYourGuide app to discover and book unforgettable travel experiences anywhere in the world\n\nWhether you're planning a vacation or looking for last-minute things to do in any destination, we make booking tours, day trips, and activities easier than ever. Choose from culture, food, adventure, nature, and more experiences.\n\nMaximize your trip with exclusive access to the world's top attractions and museums, find the highlights and hidden gems, and keep up with last-minute travel deals using the app — we make travel planning easy, and making memories easier.\n\nFind over 75,000 experiences\n\nBooking tickets for unmissable sights has never been easier — experience the Colosseum, Eiffel Tower, London Eye, TV Tower, Sagrada Familia, and more.\n\nDiscover expert-guided tours — explore unforgettable travel highlights in Paris, Dubai, London, Florence, New York City, Berlin, Vienna, New Orleans, Cancun, Tuscany, Lisbon, and more. Our app will be your city guide for destinations around the world, and our local experts help you get fully immersed.\n\nTravel with flexibility\n\nReserve now, pay later — save your place for popular experiences early and make your payment at a later date.\nInstant confirmation — whether you're booking tours in advance or need last-minute tickets, receive your tickets and booking confirmation instantly.\nOffline tickets — Conveniently access your booking information offline. Download, store, and present your tickets on your mobile device\n\nBook with confidence\n\n24/7 customer service — Easily find help when you have questions. We offer customer service by email, phone, and in the app across multiple languages.\nFlexible cancellation — Don’t stress if your plans change. We offer free cancellation up to 24 hours before your activity for most bookings.\n\nWith tours and activities for any interest, you can plan your trips your way. Dive into nature and explore fjords in Norway, try local cuisine across Europe, or uncover fascinating history in the United States.\n\nWhether you're living the magic of the wizarding world on a Harry Potter experience, savoring delicious culinary delights on a food tour of Barcelona, booking top rated tours to see the Vatican, or following a city guide through Berlin, we guarantee you'll find something unforgettable to do — make the most of your travel and leisure time.\n\nUncover the top tourist activities in the world's bucket-list destinations:\nBook museum tours and tickets in Rome, food trips through Naples, trekking in Iceland, river cruises around Prague, outdoor adventures in Bali, sightseeing in Budapest, and more.\n\nUse the app as a travel planner or for travel guidance, then book travel experiences for the world's must-see highlights with excursions and last-minute tickets.\n\nTell us how we’re doing\nLeave us a review if you’re enjoying your GetYourGuide app experience or head over to our help page for further assistance: www.getyourguide.com/contact",
+      "android_package_name": "com.getyourguide.android",
+      "ios_bundle_id": "com.getyourguide.mobile.GetYourGuide",
+      "title": "GetYourGuide",
+      "domain_name": [
+        "https://www.getyourguide.com",
+        "https://www.getyourguide.com"
+      ],
+      "website": "https://www.getyourguide.com",
+      "developer": "GetYourGuide AG",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QMg0LWwb9Ki67eLcIcFpZxvCvBrW0aefn6BmXBJq3zj1G5Z_LYxcPdGKs_WWx8R5Gw",
+      "icon_72": "https://play-lh.googleusercontent.com/QMg0LWwb9Ki67eLcIcFpZxvCvBrW0aefn6BmXBJq3zj1G5Z_LYxcPdGKs_WWx8R5Gw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.viator.mobile.android"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Thanks to industry-leading flexibility and last-minute availability, it's never too late to make any day extraordinary. And with our mobile app putting world-class travel experiences in the palm of your hand, your dream trip is just a few taps away. Whether you need inspiration for things to do on your trip or want to access your tickets on the go, the app has you covered. Here’s how: \n\nBook and manage your trip on the go:\n• Browse our amazing selection of tours and activities before and during your trip\n• Easily access tickets offline\n• Modify, edit, or cancel your bookings from wherever you are\n• Get same-day notifications about your activity with directions to your departure and pickup points\n• Free cancellation up to 24 hours in advance\n\nEasy trip planning:\n• Read millions of reviews from Tripadvisor and our Viator travel communities\n• Contact tour guides directly for easy communication\n• Create wishlists of all tours and activities you want to book\n\nFlexible payment options:\n• Reserve now and pay later\n• Pay in installments with Klarna\n• Book with Credit Card, PayPal, or Apple Pay\n\nExclusive app-only promos:\n• Take advantage of in-app messaging offering the latest promos and special offers \n\nViator Rewards\nWith Viator Rewards, you’ll earn rewards on every eligible purchase.  The best part? You can use them to save actual money on future bookings. Do more with Viator. Earn. Redeem. Repeat. Simple as that. \n\nNo matter what type of traveler you are, Viator will help you make memories that will last a lifetime.\n\nBut don’t just take it from us. Here’s what our travel community says about the Viator app:\n\n“So easy and efficient. Even ol’ guys like me can easily maneuver using the Viator app! Awesome!”\n\n“Great app. Easy to navigate, lots of options, and great info.”\n\nRated 4.3/5 on Trustpilot with over 57,000 verified reviews.\n\nP.S. Having technical issues with the app? Please email mobileappsupport@viator.com\n\nJoin the Viator App Feedback Team\nShare your thoughts about the Viator App to make it better for our travel community.\nhttps://www.userinterviews.com/opt-in/bTQXz4p6A6krCkVi475HFRm7",
+      "android_package_name": "com.viator.mobile.android",
+      "ios_bundle_id": "com.viator",
+      "title": "Viator",
+      "domain_name": [
+        "https://www.viator.com",
+        "https://www.viator.com"
+      ],
+      "website": "https://www.viator.com",
+      "developer": "VIATOR SYSTEMS PTY LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/N3He9pc5BH83Pog2Y1nju81DBFzmTifnzeNQPqqVjlkjvnSAK_v8ejC6dXuAS5nW1B3a",
+      "icon_72": "https://play-lh.googleusercontent.com/N3He9pc5BH83Pog2Y1nju81DBFzmTifnzeNQPqqVjlkjvnSAK_v8ejC6dXuAS5nW1B3a=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "ctrip.english"
+      },
+      "cat_key": "TRAVEL",
+      "cat_keys": [
+        "TRAVEL",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "KAYAK searches hundreds of travel sites to show you your options and let you pick what works best for your trip. Track prices, set a budget, build your itinerary and more.\n\nWHAT’S IN OUR APP.\n• Double check prices, no matter where you found it: KAYAK PriceCheck lets you upload a screenshot of a flight deal from any site, and we’ll search hundreds of sites to see if we can find a better deal.\n• Get the flight you want: Compare flight options from hundreds of sites then zero in on the best one for you by using our filters.\n• Hotel rates only on the app: Find mobile-only prices from select hotels.\n• Car sharing: Search car sharing alongside traditional agencies for more options (and maybe better prices).\n• Know when prices change: Track search results for your trip and get a notification when prices change.\n• Search on your budget: Only have $300 to spend? KAYAK Explore will show you your flight options, on any budget.\n\nONLY ON THE KAYAK APP.\n• Flight tracker: Get alerts when something about your flight changes or track flights so you can see if you’ll make your connection.\n• Trips offline: All your ticket confirmations and reservations loaded into Trips are accessible regardless of whether or not you have Wifi.\n• Measure your bag: Direct your camera at your bag or carry on and we’ll let you know if it’s the right size for your flight without incurring a fee.\n\nWE LOVE FEEDBACK.\nGot a question and in need of support? Send us a message at https://www.kayak.com/help and we’ll help you out.\n\nMORE ON WHAT KAYAK OFFERS.\nFind flights, hotels, vacation rentals, rental cars and more - then filter by what matters to you most. Like a pet-friendly boutique hotel with a pool. Or a 4-door sedan with airport pick-up to get you on your way. We bring together great deals from your favorite travel sites in one place.\n\nSEARCH HUNDREDS OF FLIGHT SITES AT ONCE.\nWith filtering and flexibility options, you can quickly search and book what works best for your trip.\n\nMORE OPTIONS, MORE SAVING.\nFind mobile-only rates and exclusive deals on the app. Set Price Alerts to know when prices drop on the flights, cars and hotels you’re interested in.\n\nCREATE ITINERARIES AS YOU PLAN.\nOur Trips tool puts all your plans in one place. Get alerted to flight and gate changes, access boarding passes both on- and offline, and share your itinerary with friends – all in one spot. You can sync your inbox or manually add any part of your trip - from tour and restaurant confirmations to notes on things to see.\n\nCAR RENTAL DEALS.\nSearch from over 70,000 locations to find the perfect rental car. Book risk-free by filtering for free cancellation policies.\n\nGET A HOTEL… OR A HOME.\nSee your accommodation options from major hotel chains and resorts to local boutiques to apartments, cabins, beach homes and more. Filter for free cancellation if you’re worried plans will change.\n\nPlan your next trip with KAYAK. Download now to start planning a great trip.",
+      "android_package_name": "ctrip.english",
+      "ios_bundle_id": "com.kayak.travel",
+      "title": "Trip.com",
+      "domain_name": [
+        "https://www.kayak.com",
+        "https://www.kayak.com"
+      ],
+      "website": "https://www.kayak.com",
+      "developer": "Kayak Software Corp",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/XP13OLtNtCincmIUiQmuHUhoq1RwkCaN9uV9zafCOhXrxFSTMPLTUpChh3P9yfbGBg",
+      "icon_72": "https://play-lh.googleusercontent.com/XP13OLtNtCincmIUiQmuHUhoq1RwkCaN9uV9zafCOhXrxFSTMPLTUpChh3P9yfbGBg=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

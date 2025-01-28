@@ -22,6 +22,7 @@
     "express-rate-limit": "^7.5.0",
     "google-play-scraper": "^10.0.1",
     "googleapis": "^144.0.0",
+    "json2csv": "^6.0.0-alpha.2",
     "jsonwebtoken": "^9.0.2",
     "pg": "^8.13.1",
     "puppeteer": "^23.11.1"

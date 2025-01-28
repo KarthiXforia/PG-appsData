@@ -1,0 +1,1251 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.trinity.health"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "MyChart puts your health information in the palm of your hand and helps you conveniently manage care for yourself and your family members. With MyChart you can:\n•\tCommunicate with your care team.\n•\tReview test results, medications, immunization history, and other health information.\n•\tConnect your account to Apple Health to pull health-related data from your personal devices right into MyChart.\n•\tView your After Visit Summary® for past visits and hospital stays, along with any clinical notes your provider has recorded and shared with you.\n•\tSchedule and manage appointments, including in-person visits and video visits.\n•\tGet price estimates for the cost of care.\n•\tView and pay your medical bills.\n•\tSecurely share your medical record from anywhere with anyone who has Internet access.\n•\tConnect your accounts from other healthcare organizations so you can see all your health information in one place, even if you've been seen at multiple healthcare organizations.\n•\tReceive push notifications when new information is available in MyChart. You can check whether push notifications are enabled under the Account Settings within the app.\nSelect features are also available on Apple Watch. \n\nNote that what you can see and do within the MyChart app depends on which features your healthcare organization has enabled and whether they’re using the latest version of Epic software. If you have questions about what’s available, contact your healthcare organization.\n\nTo access MyChart, you must create an account with your healthcare organization. To sign up for an account, download the app and search for your healthcare organization or go to your healthcare organization’s MyChart website. After you’ve signed up, turn on Face ID, Touch ID, or a four-digit passcode to quickly log in without needing to use your MyChart username and password each time. Then, make sure you have push notifications enabled to receive updates on your device when new information is available in MyChart. \n  \nFor more information about MyChart’s features or to find a healthcare organization that offers MyChart, visit www.mychart.org.\n\nHave feedback about the app? Email us at mychartsupport@epic.com.",
+      "android_package_name": "org.trinity.health",
+      "ios_bundle_id": "com.epic.mychart",
+      "title": "MyChart",
+      "domain_name": [
+        "http://www.epic.com",
+        "https://www.epic.com"
+      ],
+      "website": "http://www.epic.com",
+      "developer": "Epic Systems Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/YVRBZbOosrAi7hXnXT42SXLvOLs9Wm6_yyGGCryE0pO9XZBTl3vhej9J_143csEyBsOe",
+      "icon_72": "https://play-lh.googleusercontent.com/YVRBZbOosrAi7hXnXT42SXLvOLs9Wm6_yyGGCryE0pO9XZBTl3vhej9J_143csEyBsOe=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.medscape.android"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Your go-to medical resource to get immediate clinical answers. With Medscape, you get free access to the latest news, expert commentary, clinical tools, drugs and disease information, medical podcasts, CME/CE activities, and more.\n\n\n\n* Access 450+ medical calculators, grouped by specialty for quicker and easier use!\n* Check out useful resources such as the Drug Interaction Checker, Pill Identifier, and step-by-step procedural videos.\n* Look up the most current prescribing and safety information on 9,200+ prescription and OTC drugs, herbals, and supplements.\n* Read the latest medical news and expert commentary in over 30 specialties.\n* Stay current with the latest FDA approvals, conference news, late-breaking clinical trial data, and more.\n* Discover, subscribe, and listen to Medscape original podcasts such as This Week in Cardiology, or other popular shows from experts in the industry such as Becker's Healthcare.\n* Earn free CME/CE credits and ABIM MOC points on the go, and monitor your progress with our built-in Activity Tracker.\n* Access the largest network for physicians and medical students with Medscape Consult.\n* Join other healthcare professionals at MedscapeLIVE! events.\n\n\n\nMedscape is the leading online destination for physicians and healthcare professionals worldwide. \n\nDo you have feedback for the Medscape team? Email us at medscapemobile@webmd.net",
+      "android_package_name": "com.medscape.android",
+      "ios_bundle_id": "com.medscape.mobile",
+      "title": "Medscape",
+      "domain_name": [
+        "https://www.medscape.com/public/medscapeapp",
+        "https://www.medscape.com"
+      ],
+      "website": "https://www.medscape.com/public/medscapeapp",
+      "developer": "WebMD Health Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/DHsn5m0iPY9OHap91ig9bfcf6oR2APnPhSK_t-lO15pysHSenLtfsl0BVSbufmLelrLh",
+      "icon_72": "https://play-lh.googleusercontent.com/DHsn5m0iPY9OHap91ig9bfcf6oR2APnPhSK_t-lO15pysHSenLtfsl0BVSbufmLelrLh=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.lewisblack.JustPlay"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "The affordable health care and medication app – that’s GoodRx. Save money on meds with a free prescription discount finder and care for yourself without breaking the bank. Our mobile health care platform helps millions of Americans affordably get medicine, prescription drugs, pet meds, senior care and more.\n\nGet the best price on meds with medicine discount choices and coupons for seniors. Find prescription savings for medications & drugs with our Rx app for healthy living well under the average medication price. GoodRx is the perfect prescription discount finder for all your meds and health care needs.\n\nDiscover medicine discount options with GoodRx's digital coupons. GoodRx contains everything from prescription rewards to telehealth services for a complete mobile health tool and Rx savings solutions. GoodRx even includes a drug guide & price tracker to monitor your meds.\n\nSave money on the medication app that’s more than a coupon finder. Monitor prescription status with a pill reminder and medicine tracker, check prices, & get convenient prescription savings with mobile coupons.\n\nDownload GoodRx today to find savings on your medication and become your own health advocate!\n\nGoodRx Features:\n\nGet Digital Coupons at Over 70,000 Locations\n- CVS Pharmacy\n- Walmart Pharmacy\n- HEB Pharmacy\n- Walgreens Pharmacy\n- Rite Aid Pharmacy\n- Target Pharmacy\n- Safeway Pharmacy\n- Vons Pharmacy\n- Kroger Pharmacy\n- & more!\n\nMedication App With Up To 80% Off Prescription Drugs\n- Mobile Rx savings solutions: Rx saver, medicine discount & free coupons app\n- Check Rx pharmacy prices & redeem mobile coupons with a prescription discount finder\n- Convenient Rx mobile app with prescription savings through free coupons\n- Coupons for pet meds cover your furry friend\n- Visit your local pharmacy and use digital coupons easily\n- A complete mobile health & coupons app with manufacturer discounts, patient assistance programs & more\n- Save money on medications at your preferred pharmacy & Rx discount location\n\nPrescription Reminder & Medication Tracker\n- Free medication reminder: Refill your prescriptions with pill reminder alerts\n- Medicine tracker: Manage medications with a drug guide & prescription list\n- Medication log: Track everything from birth control prescriptions to medications\n\nComplete Health Care Tool\n- Get affordable urgent care with online medical professionals\n- Find a doctor with no Medicare or insurance needed\n- Get telehealth support to understand your meds and prescription list\n- Med delivery & pickup available from anywhere\n- Medication list with a drug guide to help understand your prescriptions\n\nGoodRx Care services include\n- Urinary Tract Infection (UTI) treatment\n- Erectile Dysfunction (ED)\n- Start & refill birth control\n- Short term medication refill\n- & more!\n\nPrescription Discount App Trusted by Millions\n- Digital coupons made easy for every mobile health consumer\n- Our medication coupons app shows which Rx pharmacy has the best price on drugs or even free\n- Prescription discount finder used by doctors & clinics to help patients save money\n- Featured by: The New York Times, PBS, ABC News, Forbes, CNN, Good Morning America, The LA Times & more!\n\nUpgrade to GoodRx Gold for even more benefits, medication rewards and prescription discount offers. Get exclusive pricing and reliable mobile health care with GoodRx Gold.\n\nBy downloading GoodRx, you agree to be bound by our Terms Of Use. Read more at http://www.goodrx.com/terms-of-use\n\nPlease visit https://www.goodrx.com/consumer-health-data-privacy-notice to read our Consumer Health Data Privacy Notice for additional information about our handling of consumer health data.\n\n*GoodRx works to make its apps accessible to all, including those with disabilities. If you are having difficulty accessing this application, please call or email us at (855) 268-2822 or ada@goodrx.com so that we can provide you with the services you require through alternative means",
+      "android_package_name": "com.lewisblack.JustPlay",
+      "ios_bundle_id": "com.goodrx.iphone",
+      "title": "GoodRx",
+      "domain_name": [
+        "https://www.goodrx.com",
+        "https://www.goodrx.com"
+      ],
+      "website": "https://www.goodrx.com",
+      "developer": "GoodRx, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7YixGdJ1pIQ4MksZ-vZELD6b2ms-pq75t3Qy1aZxESDQXHCkKsG-dFn0QF4E9mZ5ql4",
+      "icon_72": "https://play-lh.googleusercontent.com/7YixGdJ1pIQ4MksZ-vZELD6b2ms-pq75t3Qy1aZxESDQXHCkKsG-dFn0QF4E9mZ5ql4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.webmd.android"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "From WebMD, the one healthcare app you need to check symptoms, set medication reminders, learn about conditions and drugs, research treatments and diagnoses, find doctors and specialists in your area, and save on prescriptions at your local pharmacy.\n\nKey Features: \n\n• Symptom Checker – Choose your symptoms, learn about potential conditions or issues, and lookup treatment and care options.\n• Medication Reminders – Never miss a dose. You’ll receive reminders when it’s time to take your medications. View daily prescription schedules and instructions, plus pill images with dosage and timing information for each drug. Reminders sync to your other mobile devices when you sign-in with your WebMD account.\n• WebMD Rx – We partner with major pharmacy chains to find the lowest prescription drug prices, which often beat insurance co-pays. It’s 100% free to use. No registration required.\n• Doctor Directory – Find the closest doctors and specialists based on your current location or search by city, state or zip. \n• Conditions – Find medically-reviewed information about conditions relevant to you and learn more about causes, treatments, and related symptoms. \n• Customization and Saving Functionality – Save your conditions, drugs, doctors, hospitals, pharmacies, and healthy living articles for secure, easy access and reference. \n• Drug Interaction Checker – Find and identify potentially harmful and unsafe combinations of prescription medications by entering two or more drugs in question.\n\nIf you are a California resident, California law may provide you with certain rights regarding our use of your personal information. For more information relevant to our users who are California residents, please review the \"California Residents\" section of our Privacy Policy linked on this download page or within our app.\n\nABOUT WebMD\nWebMD Health Corp. (Nasdaq: WBMD) is the leading provider of health information services, serving consumers, physicians, healthcare professionals, employers, and health plans through our public and private online portals, mobile platforms and health-focused publications. More than 95 million unique visitors access the WebMD Health Network each month.\n\nThe WebMD Health Network includes WebMD Health, Medscape, MedicineNet, emedicineHealth, RxList, theheart.org, drugs.com and Medscape Education.\nSOURCE WebMD Health Corp.\nWebMD. Better Information. Better Health.\n\nWebMD does not provide medical advice, diagnosis or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on the WebMD mobile application.\n\n*Prescription savings vary by prescription and by pharmacy, and may reach up to 80% off cash price.",
+      "android_package_name": "com.webmd.android",
+      "ios_bundle_id": "com.webmd.mobile",
+      "title": "WebMD",
+      "domain_name": [
+        "http://www.webmd.com",
+        "https://www.webmd.com"
+      ],
+      "website": "http://www.webmd.com",
+      "developer": "WebMD Health Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Wg9aaBdA6X4IagSnb4b8en4XxYgiR0X5ZGCokNwRbhky8sd_ZQdjorvQBk9Sb63pDUQ",
+      "icon_72": "https://play-lh.googleusercontent.com/Wg9aaBdA6X4IagSnb4b8en4XxYgiR0X5ZGCokNwRbhky8sd_ZQdjorvQBk9Sb63pDUQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.healthtap.userhtexpress"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "HealthTap is a telehealth app where you choose & keep one primary care doctor you love to get ongoing care — affordably with or without great insurance or benefits!\n\nGet personalized, quality medical advice without an expensive and inconvenient trip to a doctor’s office. Meet with your favorite new doctor regularly for health checkups, prescriptions, lab tests & results, treatment plans and referrals to specialists. Our amazing doctors seek to build long-term, trusted relationships with their patients to take care of Americans' ongoing health needs.\n\nOur top U.S. board-certified doctors are available for virtual visits 7 days per week in all 50 U.S. states.\n\n~~~ SUBSCRIPTION BENEFITS ~~~\n\nSubscribe for $15/month* (billed twelve months at a time) to save hundreds of dollars & countless hours each year with:\n\n• Same day or week video appointments with your doctor — $44/visit or less**\n• Free texting with your doctor for follow-ups and clarifications\n• Speak with the first available doctor during nights, weekends, holidays, or while traveling out of state for urgent care — $59/visit or less**\n• Get prescriptions, lab tests ordered, referrals to specialists, and even doctor’s notes for school or work\n• Save up to 75% on prescriptions with coupons for local pharmacies\n• Set up profiles for your children at no additional cost\n\nWe accept hundreds of insurance plans and even HSA/FSA cards.\n\n* Subscription may be covered by select insurance plans\n** Insurance coverage may reduce your out-of-pocket cost\n\n~~~ AVAILABLE WITHOUT SUBSCRIPTION ~~~\n\n$129 Urgent Care Video Visits — talk with the first available doctor within minutes (7 days per week) over video or text for advice, prescriptions, test orders, and referrals. Just $129 per visit (retail price) or your insurance copay.\n\nFREE Educational Doctor Answers — Get educational text answers to your health questions from a network of over 90,000 U.S. doctors across 147 specialties volunteering their time to help millions like you for FREE! Search millions of answers or post your own and get responses from real doctors within hours.\n\n~~~ WHAT WE TREAT ~~~\n\nWe can help with a broad range of medical issues, including the following examples:\n\nMANAGING YOUR CONDITION\nHigh blood pressure, diabetes, asthma, allergies, high cholesterol, arthritis, thyroid disorders\n\nWOMEN’S HEALTH\nUTI, birth control, menopause, period problems, yeast infections, skin and hair care\n\nCHILDREN’S HEALTH (ages 2+)\nCold & flu symptoms, diarrhea or constipation, skin rashes, allergies\n\nMEN’S HEALTH\nSTI symptoms, erection issues, bladder or bowel issues, skin and hair care\n\nSENIOR HEALTH (ages 65+)\nMuscle or joint pain, medication management, preventive health screenings\n\nWELLNESS & PREVENTION\nWeight counseling, skin and hair care, supplements, health screenings, stress reduction\n\nSEXUAL HEALTH\nSTI prevention or testing, erectile dysfunction, birth control counseling\n\nMENTAL & BEHAVIORAL HEALTH\nAnxiety, depression, sleep issues, school or work stress, alcohol abuse, smoking cessation\n\n…and much more!\n\n~~~ SEE WHAT MEMBERS ARE SAYING ~~~\n\n“Great prices, very friendly doctor, very convenient, and I was able to get a same or next-day appointment and prescriptions that I needed.” – Joe C\n\n“Super quick and efficient. Doctor was very personable and made me feel comfortable through the telehealth visit. She explained everything and made sure I understood.”  – Katlyn A\n\n“When I moved I lost my medical insurance.  I found HealthTap and it was a lifesaver.  I have told many people about it.” – Steven B\n\n“My doctor is extremely accommodating. She has multiple appointment times open throughout the weekend. She is never in a hurry and very thorough. HealthTap is a wonderful service!” – Diana C\n\n~~~\n\n100% SECURE & CONFIDENTIAL:\nWe take your privacy very seriously. Your visit with the doctor is confidential and HIPAA compliant.\n\nQUESTIONS?\nYou’re always welcome to contact us at support@healthtap.com for responsive and helpful support.",
+      "android_package_name": "com.healthtap.userhtexpress",
+      "ios_bundle_id": "com.healthtap.userhtexpress",
+      "title": "HealthTap",
+      "domain_name": [
+        "https://www.healthtap.com",
+        "https://www.healthtap.com"
+      ],
+      "website": "https://www.healthtap.com",
+      "developer": "HealthTap",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zah40Ha30crRdZgippl-8u813f8gL6xZl9LkC-3sFC8gGLCH_uebtqD1OvpJZW3yt8M",
+      "icon_72": "https://play-lh.googleusercontent.com/zah40Ha30crRdZgippl-8u813f8gL6xZl9LkC-3sFC8gGLCH_uebtqD1OvpJZW3yt8M=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.medscape.android"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Save time in the prescribing moment\n•\tRx and OTC monographs: pharmacology, prescribing and safety information, adult and pediatric dosing, adverse reactions, contraindications, black box warnings, pregnancy and lactation considerations, and more\n•\tDrug interaction checker: prevent harmful interactions between up to 30 brand, generic, OTC, or alternative drugs at a time\n•\tPill identifier: drug guide organized by shape, color, imprint code, etc.\n•\t600+ dosing calculators, medical equations, and tools\n•\tFormularies: drug coverage information for 6,600+ U.S. insurance plans, by state\n•\tCustomizable home screen with drag-and-drop simplicity\n\nAdditional features in Epocrates Plus, now just $16.99/month!\n•\tAlternative medicine monographs: dosage, interactions, etc.\n•\tPeer-reviewed disease content from the BMJ\n•\tLabs, ICD-10 codes, and more medical content\n\nSince 1998, Epocrates has helped more than one million clinicians prescribe with confidence, save time, and stay focused on the patient. Rated the #1 medical app 10 years in a row by Decision Resource Group’s “Taking the Pulse.”  \n\nPayment will be charged to iTunes Account at confirmation of purchase. Account will be charged for renewal within 24-hours prior to the end of the current period. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. Manage your subscriptions in Account Settings after purchase. Introductory pricing or discounts, if available, will only apply for the initial introductory period of the subscription. For more information, see our Terms of Service https://www.epocrates.com/termsOfUse.do and Privacy Policy http://www.epocrates.com/privacy.",
+      "android_package_name": "com.medscape.android",
+      "ios_bundle_id": "com.Epocrates.Rx",
+      "title": "Epocrates",
+      "domain_name": [
+        "http://epocrates.com",
+        "https://epocrates.com"
+      ],
+      "website": "http://epocrates.com",
+      "developer": "Epocrates",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/DHsn5m0iPY9OHap91ig9bfcf6oR2APnPhSK_t-lO15pysHSenLtfsl0BVSbufmLelrLh",
+      "icon_72": "https://play-lh.googleusercontent.com/DHsn5m0iPY9OHap91ig9bfcf6oR2APnPhSK_t-lO15pysHSenLtfsl0BVSbufmLelrLh=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.kapron.ap.eyecare"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "The Pristine Eye Hospitals mobile application simplifies patient experiences and offers seamless access to the best eye care services in Hyderabad, all at your fingertips. \n\nWith our application, you can book appointments, set eyedrop reminders, share medical documents, manage your family’s health profiles, avail exclusive offers, and more!\n\nThe application is also available in both English and Telugu, with more languages coming soon.",
+      "android_package_name": "com.kapron.ap.eyecare",
+      "ios_bundle_id": "com.novocuris.pristine",
+      "title": "EyeCare Live",
+      "domain_name": [],
+      "website": "",
+      "developer": "Pristine Eye Hospitals",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6QFlLezXQGaA9lOrT1GxU6nc_XZyKyEsDlxMgoffSkezHsKDjASGnGRqniTd3w88PW0",
+      "icon_72": "https://play-lh.googleusercontent.com/6QFlLezXQGaA9lOrT1GxU6nc_XZyKyEsDlxMgoffSkezHsKDjASGnGRqniTd3w88PW0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.one_mobile"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "You can now access your Docplanner agenda from your smartphone! This brand new app is faster, easier to use and more intuitive. With the Docplanner app you will be able to check your bookings, create new appointments or view all your patients’ information in one single place.\n \nWhat can I use this app for?\nSee a summary of all your appointments for today\nCreate new appointments at the time of your choice with just one click\nAccess to the basic information of all your patients\nVideoconsultation\n \nIf you have any doubt about how to use this app (or would like to suggest any new feature you’d like to have), please contact us at support-uk@doctoralia.com. We'll be happy to help!",
+      "android_package_name": "com.one_mobile",
+      "ios_bundle_id": "com.docplanner.saas",
+      "title": "DocPlanner",
+      "domain_name": [],
+      "website": "",
+      "developer": "Docplanner Italy S.R.L.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ip0qKW1HsjQXNpQFcNtiGnUoALdhKWbIZSgQCnBTTTNIiS_9dc_jMvJz01xWSYeLQoc",
+      "icon_72": "https://play-lh.googleusercontent.com/Ip0qKW1HsjQXNpQFcNtiGnUoALdhKWbIZSgQCnBTTTNIiS_9dc_jMvJz01xWSYeLQoc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cube.gdpc.fa"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "**One of “8 New Apps You Don't Want To Miss” – Mashable**\n** “First Aid By American Red Cross is a fix for what ails you.” - Appolicious**\n\nAccidents happen. That’s why it’s important to have lifesaving information at your fingertips so you can respond with confidence. The free First Aid mobile app by the American Red Cross puts expert advice for common emergencies in the palm of your hand—from the latest First Aid and CPR techniques to the nearest hospital location. Stay up to date on your lifesaving skills. Receive reminders to re-certify, as well as access to helpful videos, interactive quizzes and other lifesaving information.\n\nFeatures:\n• Easy to use Spanish language switch translation directly inside the app.\n• Simple step-by-step instructions guide you through everyday first aid scenarios.\n• Fully integrated with 9-1-1 so you can call EMS from the app at any time.\n• Preloaded content means you have instant access to all safety information at anytime, even without reception or an Internet connection. \n• App user and lifesaving award stories  \n• Quick, intuitive access to first aid information and videos via a search bar which is Siri/Bixby enabled \n• Interactive functionality, such as Hospital finder to find an emergency center near you and Metronome for practicing CPR \n• Interactive quizzes allow you to earn badges that you can share with your friends and show off your lifesaving knowledge\n• Immediate, anywhere access so individuals can view their digital certificate, (if they took a blended learning course on the Red Cross Learning Center), sign up and view upcoming classes, and receive reminders to recertify.",
+      "android_package_name": "com.cube.gdpc.fa",
+      "ios_bundle_id": "com.americanredcross.firstaid",
+      "title": "First Aid by American Red Cross",
+      "domain_name": [
+        "http://www.redcross.org/apps",
+        "https://www.redcross.org"
+      ],
+      "website": "http://www.redcross.org/apps",
+      "developer": "American Red Cross",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/e3CiNKOxlVn3XFXnH0tndpXZvpUwXhEqvPtXhga-Lx0TH2vv8hx8pUZ7Yaf29h9B3w",
+      "icon_72": "https://play-lh.googleusercontent.com/e3CiNKOxlVn3XFXnH0tndpXZvpUwXhEqvPtXhga-Lx0TH2vv8hx8pUZ7Yaf29h9B3w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.aranoah.healthkart.plus"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Tata 1mg is India's leading & most trusted healthcare platform. Be it medicines, health products, medicine info, lab tests, doctors consultation, the Tata 1mg app provides it all.\nWe are active in 1000+ cities including Delhi NCR, Mumbai, Pune, Bangalore, Kolkata & more. Order medicines online & get same-day safe delivery at home in select cities.\n\nWith Tata 1mg, you can\n•\tBuy genuine medicines & health products\n•\tGet medicine information vetted by doctors\n•\tBook lab tests\n•\tConsult doctors online\n•\tGet health tips & educational content from experts\n\nSave on Medicine Bills\nThere are 2 lakh+ allopathy medicines available at best prices on our medicine app. Tata 1mg is a one-stop destination for Homeopathy & Ayurvedic medicines, medical devices, health supplements, personal hygiene products & brands like Dabur, Himalaya, SBL Homeopathy, Accu-Chek & more. All products sold are 100% genuine and procured from verified & licensed pharmacies only.\nDon't want to go through the hassle of adding each medicine separately? Just upload prescription on the app & we'll place the order for you.\n\n\nBook Health Check-ups & Lab Tests \nGet tested safely from home & get best discounts on blood tests, thyroid tests, diabetes tests & more. Test samples are collected by highly trained & experienced phlebotomists. Book from over 2,000 tests by 120+ top verified labs such as Dr Lal Path Labs, SRL Diagnostics, Thyrocare & more via Tata 1mg. Get free home sample-collection & online reports.\n\nConsult India’s Best Doctors Online\nTata 1mg allows you to consult doctors online from home. Chat privately with registered medical specialists. Find doctors & book appointments with General Physicians, Gynaecologists, Dermatologists & more specialities. Doctors registered on Tata 1mg undergo a strict onboarding and verification process.\n\nView Medicine Information\nWe provide accurate, authoritative & trustworthy information on medicine to help people use their medicines safely. Access other medicine information like treatment, usage, side effects, recommendations, safety warnings, expert advice & answers to patient FAQs.\n\nRead Regular Health Tips\nGet useful health tips written by expert doctors like Ayurveda & its benefits, maintaining personal hygiene, & other relevant topics.\n\nAwards & Recognition:\nOur goal is to make healthcare understandable, accessible & affordable. We set out on our journey in 2015 & have come a long way since. We have been conferred with prestigious titles like:\n•\tBML Munjal Award for 'Business Excellence through Learning & Development'\n•\tBest Online Pharmacy in India Award\n•\tTop 50 venture in The Smart CEO-Startup50 India\n•\tIndia's only ISO/IEC 27001 & LegitScript certified online healthcare platform\n•\tVC Circle Award for the \"Most promising Healthcare startup\n•\tBMW Simply Unstoppable Award, 2019\n•\tABP News 'Healthcare Leadership Award’ at World Marketing Congress, 2019\n•\tIMC Awards for Excellence, 2019 for ‘Best Mobile Innovation for Health’\n\n* We were also recognized by the Government of India - Ministry of Health & Family Welfare as an m-health initiative that consumers can use.\n* We have been selected as the only company from across the globe for SD#3 \"Health & Well Being for all\" by Unreasonable Group, US State Department\n\nPermissions Explained\nPhotos/Media/Files: To store & retrieve your uploads\nCamera: To allow you to take a photo & directly upload it to the app\nLocation: To know about your current location & show you the services available in your area\n\nDisclaimer\nDOCTOR-PATIENT RELATIONSHIP: Tata 1mg does not replace your relationship with a physician or healthcare provider. The information SHOULD NOT be relied upon as a substitute for sound professional medical advice, evaluation or care from your physician or other qualified healthcare provider.\n\nPlease note: This application is currently available for download exclusively in India and the United States.",
+      "android_package_name": "com.aranoah.healthkart.plus",
+      "ios_bundle_id": "com.aranoah.healthkart",
+      "title": "1mg",
+      "domain_name": [
+        "https://www.1mg.com",
+        "https://www.1mg.com"
+      ],
+      "website": "https://www.1mg.com",
+      "developer": "TATA 1mg Healthcare Solutions Pvt Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/yjbAu08_Ahes38IEMV8slP91zgjh2mdh5xpZefvcbYuZxR8O7FZFderRn2Ivaz0uR2Lw",
+      "icon_72": "https://play-lh.googleusercontent.com/yjbAu08_Ahes38IEMV8slP91zgjh2mdh5xpZefvcbYuZxR8O7FZFderRn2Ivaz0uR2Lw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.practo.fabric"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Say goodbye to doubts, and say hello to India’s top doctors on Practo. Take complete care of yourself and your family from the comfort of your home - consult doctors online, book doctor appointments, order medicines online, and book diagnostic tests. \n\nPracto, India’s fastest growing telemedicine app, has over 1 lakh+ doctors and 70,000 clinics and hospitals covered under its network. It is a one-stop solution for all your healthcare and medical needs where you can:\n\nAccess instant video consultation across 25+ specialties\nBook hassle-free online doctor appointments\nOrder medicines and get them delivered to your doorstep\nGet End-to-end care for Elective Surgeries\nBook lab tests and get free home sample collection\nBuy family health plans for unlimited online medical consultations\nRead expert-written articles and tips\n\n\nOnline doctor consultations from the comfort of your home\n\nConnect with doctors online and address all health concerns over a private and 100% secured video call/audio call/ chat. Post your online doctor consultation, get a digital prescription and order medicines, or book lab tests immediately.\n\nGet started with just four simple steps: \n\n              1. Enter your symptoms\n              2. Select a specialist and pay online\n              3. Wait 2 minutes to connect with one of the online docs \n              4. Consult via video/audio call/ chat and get online doctor advice\n\nFind and book appointments with doctors near you\n\nTired of searching for the right doctor to go to? Worry no more! Choose from 1 lakh+ docs and specialists. Book appointments for General Physicians, Dermatologists, Gynaecologists, Pediatricians, Psychiatrists, Urologists, Orthopedists, and more specialities.\n\nEvery doctor registered on Practo Pro (our doctors’ app) undergoes a strict onboarding and verification process. \n\nGet up to 40% off on medicines and health products\n\nOrder medicines online and get them delivered to your doorstep. Find more than 50k medicines, health, and wellness products on Practo’s online medicine store. Save big with discounts and offers on medicines, surgical, and other products. \n\nEnd-to-end care for elective surgeries\n\nExpert surgical care for 50+ ailments like Hernia, Piles and Anal Fissure. Get access to experienced surgeons, advanced medical technology, personal care assistants, financial help and post-surgical support.\n\nPracto PLUS - Unlimited online consultations across all specialities\n\nBuy affordable health plans (1 month and 6 months) and get access to unlimited online consultations for the entire family, with doctors available 24/7.\n\nAwards and Recognitions\n\nContributor to the field of Indian ophthalmology by Karnataka Ophthalmic Society (KOS), iBeach Film Festival, Goa, 2019\nNews Corp VCCircle consumer internet company of the year award, 2017\n\nDownload this telemedicine app right away, & join our healthy community!\n\nWe’d love to hear from you. Drop us a line at support@practo.com\n\nYou can find us on www.practo.com, https://www.facebook.com/practo/ and \nhttps://www.twitter.com/Practo\n\nBook doctor appointments for diabetes, cancer, weight loss, hair fall, Ear, ENT problems & more. Get online medical consultations for 25+ specialities including Psychology, Physiotherapy, Gynaecology, Dermatology, Gastroenterology, Dentistry, Orthopaedics, Ayurveda, & Homeopathy.",
+      "android_package_name": "com.practo.fabric",
+      "ios_bundle_id": "com.practo.search.Practo",
+      "title": "Practo",
+      "domain_name": [
+        "https://www.practo.com",
+        "https://www.practo.com"
+      ],
+      "website": "https://www.practo.com",
+      "developer": "PRACTO TECHNOLOGIES PRIVATE LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FzTCIxV68Dg3Qjl-VUtGef2NpQ_JdKhj-RXcPdEN8O5XB8TSSLqlwAWBnd7tJGUrW_Q",
+      "icon_72": "https://play-lh.googleusercontent.com/FzTCIxV68Dg3Qjl-VUtGef2NpQ_JdKhj-RXcPdEN8O5XB8TSSLqlwAWBnd7tJGUrW_Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "eu.smartpatient.mytherapy"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Birth Control Pill Reminder is an easy-to-use and reliable app that helps you take your pills every day at the time you choose. It has a Pre-Alarm and Auto-Snooze feature to ensure you don't forget to take your pills. It tracks the remaining quantity and shows a refill alert when you're running low. The number of pills per packet is customizable, making it compatible with all types of birth control pills. It also reminds you to use your ring or patch. The app doesn't need to be running to receive notifications.\n\nMAIN FEATURES\n• 3 supported birth control methods (Pills, Ring, and Patch)\n• Compatible with all birth control pill types (21/7, 24/4, 28, 35, 84/7, ...)\n• Ring days are customizable (21/7, 25/3, 28/0, ...)\n• Patch weeks are customizable (3 weeks, 9 weeks, 12 weeks, ...)\n• Reminders to take your placebo (non-active) pills\n• Configurable reminder message allows discretion when getting notified\n• Pre-Alarms: Receive notifications before the actual time\n• Auto-Snooze: Allows the alarm to repeat up to 5 times at regular intervals (e.g. 1 min, 10 mins, 30 mins) until you take action\n• Option to Snooze or mark it as Done directly from the lock screen or notification banners\n• Take notes every day for future reference\n• 2 themes to choose from: pink and blue\n• 24 built-in alarm sounds\n• Refill alerts when running low\n• Backup and restore all data on the same device or multiple devices\n• Password Protection\n\nGENERAL\n• VoiceOver accessibility support\n• Dark Mode (Available in iOS 13 and later)\n• Notifications are local. No internet connection required\n• App doesn't need to be open to receive notifications\n• Universal App, full native support for iPhone and iPad\n\nFREE VERSION\n• Pre-Alarms, Auto-Snooze, Snooze, and Password Protection are available in the full version\n• Full version is available as an In-App Purchase\n• One-Time payment. No monthly or annual fees",
+      "android_package_name": "eu.smartpatient.mytherapy",
+      "ios_bundle_id": "com.aidareminder.BirthControl",
+      "title": "Pill Reminder",
+      "domain_name": [
+        "https://www.aidaorganizer.com/birthcontrol.html",
+        "https://www.aidaorganizer.com"
+      ],
+      "website": "https://www.aidaorganizer.com/birthcontrol.html",
+      "developer": "Sergio Licea",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ls7AqjsFiDxnGwMLkqGy6JrLScBoZnYytyArgP_HTHLufrGS3h8P-whZSPF-jZ_brzw",
+      "icon_72": "https://play-lh.googleusercontent.com/ls7AqjsFiDxnGwMLkqGy6JrLScBoZnYytyArgP_HTHLufrGS3h8P-whZSPF-jZ_brzw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.fineoutput.oswalmart"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Book",
+      "description": "Berita gembira untuk Anda! Nikmatilah Renungan Oswald Chambers (ROC) setiap hari dengan aplikasi iOS SABDA. Bukalah hati Anda untuk dibentuk melalui uraian Firman Tuhan yang Anda renungkan bersama Oswald Chambers.\n\nRenungan harian \"My Utmost For His Highest\" adalah karya besar yang ditulis oleh Oswald Chamber. Terbit pertama kali tahun 1935 dan sangat disukai oleh banyak orang Kristen dari seluruh dunia dan masuk menjadi sepuluh besar buku Kristen yang terlaris. Teks Renungan ROC berbahasa Indonesia telah diterjemahkan dengan sangat baik oleh M. Agustinus Purba.",
+      "android_package_name": "com.fineoutput.oswalmart",
+      "ios_bundle_id": "org.sabda.renunganchambers.ios",
+      "title": "Oswaldo",
+      "domain_name": [],
+      "website": "",
+      "developer": "Yohanes Rayon",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AtoKOSa5pGjkiQT6u2qAvU5-SIUV9T6vRMLQ1jmobfasQkOvcQ3Fkg13YVAKyxpyVg",
+      "icon_72": "https://play-lh.googleusercontent.com/AtoKOSa5pGjkiQT6u2qAvU5-SIUV9T6vRMLQ1jmobfasQkOvcQ3Fkg13YVAKyxpyVg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.rubytribe.skinvision.ac"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "CONSULTATIONS WITH ONLINE DERMATOLOGISTS\n* World’s leading dermatology app for tracking skin changes, moles, skin care and telehealth in dermatology.\n* Dermatologically Endorsed by the Skin Health Alliance\n* App Store App of the Day on World Cancer Day\n* Recommended by doctors to their patients in over 130 clinics/hospitals worldwide\n* Mentioned by Forbes, USAToday, CNET, Lifehacker, Digital Health News, MobiHealthNews and many more.\n\nMIISKIN APP FEATURES\nSome app features are exclusively part of Miiskin Premium or Premium Light and consultations with dermatologists requires payment.\n\n* TELEHEALTH CONSULTATION with a dermatologist. Find a dermatologist licensed in your state and start a consultation. Get a treatment plan and prescription, if appropriate, within two business days.\n\n* PHOTOS AND TELEHEALTH with anyone you like. Ask your doctor and healthcare provider about your usage of the app and if they can receive photos for telehealth consultations or triage. Always follow your doctor’s instructions.\n\n* CLOSE-UP PHOTOGRAPHY used for tracking changes in single moles and other local areas on the skin. Miiskin has carefully calibrated the camera for the best possible close-up photography. Log the location on a body chart / map.\n\n* IN-APP COMPARISON allows you to get a SIDE-BY-SIDE VIEW of your photos so you can more easily compare them for changes over time.\n\n* AUTOMATIC SKIN IMAGING using computer vision and augmented reality technology makes the app capable of taking FULL-BODY IMAGES of you. All you need to do is to place the phone upright on a table with the camera facing the room and it does the rest. Currently available for iPhone XR, XS, 11, 11Pro and SE 2020.\n\n* MOLE SIZING helps you measure your moles and lesions over time. Simply add a coin into your close-up photos.\n\n* FACE TRACKING lets you take selfies from multiple-angles in seconds to track e.g. acne or skincare results\n\n* WEB COMPARE allows you to access your Miiskin App photos in the browser on any tablet or computer with a SIDE-BY-SIDE VIEW. Very useful for you to compare your full-body images for any changes on a larger screen.\n\n* SECURITY AND PRIVACY is a big priority for us. Miiskin separates your photos from your normal camera roll and encrypts them so no other apps can access them. You can protect them even more with a PIN-code or your Face/Touch ID and BLUR OUT areas of your full-body photos that you wish to stay private even if you share your photos.\n\nMIISKIN DOES NOT PROVIDE A DIAGNOSIS\nThe app does not diagnose your moles or evaluate the risk of melanoma, skin cancer or any other conditions. The app assists you with tracking skin and moles over time with a photo diary. We do not think that with today’s technology, and the present quality of smartphone images, that it is possible to provide AI diagnoses of melanoma or skin cancer risk. \n\nIf you find a mole or mark that looks concerning you should always consult a certified doctor.\n\nTHE VISION OF MIISKIN\nMiiskin’s vision is to help you keep track of skin changes and increase access to dermatology care in the most user-friendly way possible.\n\nMIISKIN PREMIUM\nPayment will be charged to iTunes Account at confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nTERMS OF SERVICE\nhttps://miiskin.com/terms\n\nMIISKIN SUPPORT\nIf you need any help or assistance with the app or your subscription, do not hesitate to contact Miiskin on support@miiskin.com.",
+      "android_package_name": "com.rubytribe.skinvision.ac",
+      "ios_bundle_id": "com.Miiskin",
+      "title": "Skin Vision",
+      "domain_name": [
+        "https://miiskin.com",
+        "https://miiskin.com"
+      ],
+      "website": "https://miiskin.com",
+      "developer": "Miiskin ApS",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/SuY9MJysv6iEhDWipfG3ZmbsTy6McwpiHLevqJahllVOPv4N53CZxhW025pyUeSRL6_x",
+      "icon_72": "https://play-lh.googleusercontent.com/SuY9MJysv6iEhDWipfG3ZmbsTy6McwpiHLevqJahllVOPv4N53CZxhW025pyUeSRL6_x=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cardiogram.v1"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Cardiogram has been downloaded by over 10 million users in 100+ countries.\n\nCardiogram is a subscription app with a 30-day Free Trial for new users.\nSubscribe to either Heart IQ, or Migraine IQ, or both.\n\n\nCARDIOGRAM HEART IQ\nbrings together ALL the heart health data you need to live your healthiest life.\n\nHeart IQ transforms your wearables into scientifically-validated heart monitors. And your smartphone into your heart's personal interpreter. With Heart IQ, you'll discover what your heart's patterns reveal about your cardiovascular health & receive personalized suggestions for positive action.\n\nHeart IQ is a breakthrough app helps you detect & manage chronic cardiovascular conditions. See minute-by-minute heart rate information collected by your watch, not just a summary. Set customized heart rate alerts for high & low readings. Use interactive, color-coded charts (with pinch-to-zoom) of your heart rate data, step counts, time-stamped symptoms, & medications.\n\nBy connecting Apple Health, Cardiogram pulls in ECG & Blood Pressure readings to have a comprehensive report of your symptoms & readings to share with your doctor. You can also connect a family member to your account so they can see your data.\n\nHEART IQ FEATURES\n\n·      Heart rate/pulse monitor & heart analyzer\n·      Symptom tracking\n·      ECG/EKG & blood pressure readings\n·      Risk report cards for hypertension, sleep apnea & diabetes\n·      Sleep tracking\n·      Apple watch companion app\n·      Supported languages - Cardiogram is only available in English at this time\n·      Supported devices include most smartwatches with a heart rate sensor including Apple Watch, Samsung, Fossil, Fitbit, Garmin etc.\n\nHEART IQ BENEFITS\n\n•\tHeart Rate Tracking — Easy to read heart rate graph pulls fitness & sleep data & allows custom tagging. Export data & share with your doctor.\n•\tHealth Risk Scores — Continuously updated Health Score monitors your risk for hypertension, sleep apnea, diabetes & aFIB.\n•\tIn App Content — Our heart health experts provide valuable lifestyle solutions & tips to help you on your healthy lifestyle journey.\n•\tCardiogram Community — 500,000+ Heart IQ user community which benefits our ongoing AI learning & allows you to compare your heart health metrics with peers.\n\n\nCARDIOGRAM MIGRAINE IQ\nhelps you to understand what’s going on in your body when you have migraines. Using AI, Migraine IQ might even help you get ahead of migraine pain before an episode overwhelms you. Migraine IQ empowers you to manage your migraines more effectively.\n\nMIGRAINE IQ FEATURES\n\n\t•\tLog, track & manage migraines & headaches\n\t•\tFirst to market with migraine prediction\n\t•\tPredictive Risk Analysis to predict upcoming episodes\n\t•\tTracking & correlation of user habits to migraines\n\t•\tTracking & correlation of user specific triggers to support users\n\t•\tDesigned by clinical thought leaders in headaches & migraines\n\t•\t15,000 Cardiogram users volunteered to help develop the predictive algorithms\n\nMIGRAINE IQ BENEFITS\n\n•\tMigraine Tracking — Migraine IQ has an intuitive interface & allows for daily tracking of stress level, sleep duration & quality, missed meals, & food triggers. \n\n•\tSmart Metrics & Reporting — Metrics from your wearable are displayed. These include resting bpm, steps, sleep duration, & average sleep bpm. The reports section shows a summary of all tracked migraines & your daily log information. \n\n•\tMigraine Headache Mapping — Captures location & perceived intensity of pain, stress level for day, sleep duration & quality, & food triggers \n\n•\tMigraine Risk Scores — Headache risk scores, trends, characterizations, & recent entry details along with personalized recommendations for relief & prevention \n\n•\tReports — The reports section shows a summary of all tracked migraines & your daily log information. \n\n•\tHabit Tracking — You are able to choose & track habits that will improve your overall health & wellbeing. \n\n\n30-day Free Trial available for new users.",
+      "android_package_name": "com.cardiogram.v1",
+      "ios_bundle_id": "com.cardiogram.ios.heart",
+      "title": "Cardiogram",
+      "domain_name": [
+        "https://cardiogram.com",
+        "https://cardiogram.com"
+      ],
+      "website": "https://cardiogram.com",
+      "developer": "Cardiogram Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KQc4BM1veC6KV8D3A7nrddnFqtLzWyQw5IstjaAprr9hJUkleRvt8xdlYUmQtj5xF9g",
+      "icon_72": "https://play-lh.googleusercontent.com/KQc4BM1veC6KV8D3A7nrddnFqtLzWyQw5IstjaAprr9hJUkleRvt8xdlYUmQtj5xF9g=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bluestarsupport"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "We know that living with diabetes can be tough. That’s why we’re making diabetes self-care easier. BlueStar® provides daily digital coaching unique to you; to help you learn about your condition, build better habits, and live your best life.\n\n\n\nOur diabetes app is award-winning**, FDA-cleared* and fits easily into your everyday life — while giving you useful tips and advice along the way. It’s easy-to-use, hassle-free, and secure.\n\n\n\nNote: BlueStar is only available via your health plan, health system or employer.\n\n\n\nBlueStar can help make living with diabetes easier with:\n\n\nDIGITAL COACHING: \nGet the right guidance at the right time — all in one easy-to-use app.\n\n\nTOTAL HEALTH APPROACH TO DIABETES: \nHelp build and maintain better habits by connecting your medications, nutrition, activity, devices and health data, including data from Apple Health®. \n\n\nTHE SUPPORT YOU NEED TO MANAGE YOUR BLOOD GLUCOSE: \nLearn what you need - at your own pace - with easy-to-use tools and easy-to-follow guidance within the app.\n\n\nSHARE YOUR PROGRESS: \nCelebrate your successes and share your challenges with your doctor and care team — easily and quickly.\n\n\n*BlueStar® Rx/OTC is an FDA-cleared medical device, intended for use by healthcare providers and their adult patients with type 1 or type 2 diabetes. For full labeling information, visit www.welldoc.com. \n\n\n**Named Best Diabetes Apps for Sugar-Conscious Peeps 2021, by Tech Times \n\n\nBlueStar® is a Software as a Medical Device (SaMD) intended to be used by healthcare providers (HCPs) and their patients – aged 18 years and older - who have type 1 or type 2 diabetes. BlueStar is intended to assist patients in managing their diabetes with guidance from their providers. BlueStar has two versions – BlueStar and BlueStar Rx. BlueStar is not intended to replace the care provided by a licensed healthcare professional. BlueStar should not be used by patients with gestational diabetes or patients using an insulin pump. Visit www.welldoc.com for full labeling information.\n\n\nThe privacy and security of your personal information is very important to us. We protect it in accordance with the Health Insurance Portability and Accountability Act.\n\n\nABOUT WELLDOC\nWelldoc is committed to improving the health of individuals living with a chronic disease.\n\n\n© 2009-24 Welldoc, Inc. Intellectual Property. All rights reserved. The Welldoc and BlueStar name and logo are trademarks of Welldoc. Made in the USA. Manufactured by Welldoc.",
+      "android_package_name": "com.bluestarsupport",
+      "ios_bundle_id": "com.welldocincent.BlueStar",
+      "title": "BlueStar",
+      "domain_name": [
+        "https://www.welldoc.com/product",
+        "https://www.welldoc.com"
+      ],
+      "website": "https://www.welldoc.com/product",
+      "developer": "WellDoc Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/kF00kvIiI7Iqvd4OqSAALUUuvAUe-h-h36QvGcunLNz85GiirJhuEiY_460iAbyDAug",
+      "icon_72": "https://play-lh.googleusercontent.com/kF00kvIiI7Iqvd4OqSAALUUuvAUe-h-h36QvGcunLNz85GiirJhuEiY_460iAbyDAug=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.healthyminds"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "• 2024 Pick: Best Meditation App by Healthline, The New York Times Wirecutter, Vogue, and Sports Illustrated\n\nWell-being is a skill that can be learned. We’re here to guide you along the way.\n\nBacked by four decades of research from world-renowned neuroscientist Dr. Richard Davidson and the team at Healthy Minds Innovations & the Center for Healthy Minds at the University of Wisconsin—Madison, the Healthy Minds Program trains your mind through meditation and podcast-style lessons to develop skills for gaining focus, reducing stress, and maintaining positive social connections.\n\nResearch with the Healthy Minds App showed that just 5 minutes a day of practice leads to a 28% reduction in stress, an 18% reduction in anxiety, a 24% reduction in depression, and a 13% increase in social connection.\n\nFeaturing our scientific Awareness, Connection, Insight, and Purpose, Well-being Framework, the Healthy Minds Program is a holistic, all-encompassing meditation app that offers the best of both guided meditations and opportunities to learn. You’ll learn simple skills to enhance personal well-being, build healthy relationships, and improve communication, performance, and creativity.\n\n––––––––––––––––––––––––––\n\nWhat makes us unique?\n\nDeveloped from Science: \nWhile many meditation apps can claim the scientific benefits of meditation, our practices are developed directly from neuroscientific research. You’ll also hear from the world’s foremost neuroscientists about neuroplasticity and how to train your mind.\n\nMade for Busy Lives: \nOur app features active meditation practices that fit into your busy lifestyle. Don’t have time to sit for 20 minutes? Put on an active practice and train your mind while you fold the laundry.\n\nGuided by Measurement:\nThanks to our pioneering scientific research, the Healthy Minds Program offers the first mobile mental and emotional well-being assessments. Learn about your current level of well-being and contribute to cutting-edge research on the science of well-being. Our app also integrates with Apple Health to track your mindful minutes.\n\nGoes Beyond Mindfulness:\nOur guided path offers step-by-step instructions for becoming more present in the moment and developing a sense of purpose, meaning, and connection in life.\n\nDriven by Mission and Supported by Donation:\nThe Healthy Minds Program is made possible by our donors, who support our vision of a kinder, wiser, more compassionate world. Unlike other apps that require a subscription, the Healthy Minds Program is available by donation, driven by a mission to translate science into tools to cultivate and measure well-being.\n\n––––––––––––––––––––––––––\n\nRead the End User License Agreement and Terms of Use here:\nhttps://hminnovations.org/hmi/terms-of-use\n\nRead our Privacy Policy here:\nhttps://hminnovations.org/hmi/privacy-policy",
+      "android_package_name": "com.healthyminds",
+      "ios_bundle_id": "com.healthymindsinnovations.healthyminds",
+      "title": "Healthy Minds Program",
+      "domain_name": [
+        "https://hminnovations.org/meditation-app",
+        "https://hminnovations.org"
+      ],
+      "website": "https://hminnovations.org/meditation-app",
+      "developer": "Healthy Minds Innovations, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Mz9ajUz6QjIa1x0OKigpUYDEQ801v7s3_uPC5yRiiMc_MHRyC9zW6DMMRnvRLuYuvAk",
+      "icon_72": "https://play-lh.googleusercontent.com/Mz9ajUz6QjIa1x0OKigpUYDEQ801v7s3_uPC5yRiiMc_MHRyC9zW6DMMRnvRLuYuvAk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.withings.wiscale2"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Whether you’re looking to lose weight, get more active, monitor blood pressure, or even sleep better, Health Mate unleashes the power of Withings health devices, backed by a decade of expertise. In the app you’ll find health data that is easy to understand, personalized, and fully leverageable by you and your doctor. \n\nWith Health Mate, be empowered to take action—and start mastering your vitals.\n\nTRACK YOUR VITALS\n\nWEIGHT & BODY COMPOSITION MONITORING\nReach your weight goals with advanced insights including weight, weight trends, BMI & body composition.\n\nACTIVITY & SPORT MONITORING\nAutomatically track your daily activity and workout sessions with in-depth insights including steps, heart rate, multisport tracking, connected GPS & Fitness Level assessment. \n\nSLEEP ANALYSIS / SLEEP APNEA DETECTION\nImprove your nights with sleep-lab worthy results (sleep cycles, sleep score, heart rate, snoring & more) and uncover sleep apnea, a highly prevalent & underdiagnosed disease.\n\nHYPERTENSION MANAGEMENT\nMonitor hypertension from the comfort of your home with medically-accurate systolic and diastolic blood pressure results, plus reports you can share with your doctor to monitor the efficacy of treatment.\n\nCARDIOVASCULAR DISEASE DETECTION\nDetect the development of chronic diseases with advanced medical insights including irregular heart rhythm, atrial fibrillation, valvular heart diseases and overall arterial health via pulse wave velocity. \n\n...WITH A SIMPLE & SMART APP\n\nEASY TO USE\nOnly one app for all Withings products for a holistic view of your health, in the palm of your hands. \n\nEASY TO UNDERSTAND\nAll the results are displayed clearly with normality ranges & color-coded feedback to know exactly where you stand. \n\nTAILORED HEALTH INSIGHTS\nKnowing your data is good, but knowing how to interpret it is better. Health Mate has now a voice and will highlight particularly relevant data for your health and enrich your experience with a science-based interpretation of this data.\n\nSHAREABLE REPORTS FOR YOUR DOCTORS\nEasily share data with healthcare professionals including an ECG record, blood pressure & more. Get also access to a full health report that can be shared to your practician via PDF.\n\nTHE COMPANION TO APPLE HEALTH & YOUR FAVORITE APPS\nHealth Mate and Apple Health work seamlessly together, so you can retrieve all your health data in one place for easier health tracking.  Health Mate is also compatible with 100+ top health & fitness apps including Strava, MyFitnessPal and Runkeeper.\n\n\nABOUT WITHINGS\n\nWITHINGS creates devices embedded in easy-to-use everyday objects that connect to a unique app and act as powerful daily health check-ups, as well as tools to help master long-term health goals. Our team of engineers, doctors, and health professionals invents the world’s most efficient devices to help track and analyze anyone’s vitals, via a decade of expertise.\n\nTerms of use:https://www.withings.com/legal/applications-conditions#/legal/services-terms-and-conditions \nPrivacy policy: https://www.withings.com/legal/applications-conditions#/legal/privacy-policy\nMedical compliance: https://www.withings.com/eu/en/compliance?srsltid=AfmBOoovZiYectAmYJC5gs2HhHrMxHAhPdN4NFQQI5RSImnQdrLoxKSc",
+      "android_package_name": "com.withings.wiscale2",
+      "ios_bundle_id": "com.withings.wiScaleNG",
+      "title": "Health Mate",
+      "domain_name": [
+        "https://withings.com",
+        "https://withings.com"
+      ],
+      "website": "https://withings.com",
+      "developer": "Withings",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/dkCJUDoyVfq-9ZE4NrX_gRqu_kTuyf3F0LGPb7ybt_pQCCnWXD2BojizznpqMbJEbQ",
+      "icon_72": "https://play-lh.googleusercontent.com/dkCJUDoyVfq-9ZE4NrX_gRqu_kTuyf3F0LGPb7ybt_pQCCnWXD2BojizznpqMbJEbQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.doctorondemand.android.patient"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Connect face to face with a doctor, psychiatrist or psychologist through video on your iPhone or iPad. Doctor On Demand by Included Health works with or without insurance and is available at reduced rates through many major health plans and large employers. You’ll always see your cost upfront and won’t receive a surprise bill after your visit.\n\nDoctor On Demand by Included Health’s providers are licensed, board-certified and US-based. With an average patient rating of 4.9 out of 5 stars, our physicians, psychiatrists, and psychologists have experience across many specialities.\n\nFrom colds to cholesterol, our providers can treat hundreds of issues online through video. Just like an in-person visit, your doctor will take your history and symptoms, perform an exam, and may recommend treatment - including prescriptions and lab work, if needed. Doctors can also access your vitals, such as temperature and blood pressure, through our integration with Apple's HealthKit. If your employer or school requires a doctor's note, one can be provided.\n\nDoctor On Demand by Included Health also offers a private space to meet face to face with a psychologist or psychiatrist through video. Choose from a diverse group of therapists and work with them to address what’s important to you from the privacy of home. You can also take a free mental health assessment to find out if you will benefit from talking to us. Our therapy and psychiatry appointments are available in as little as two weeks, much faster than finding a traditional provider.  \n\nHere are some examples of how we can support your full mind and body health:\n\n-Cold & Flu\n-Urinary Tract Infections\n-Sinus Infections\n-Acne, Rashes & Skin Issues\n-Screenings for High Cholesterol, Diabetes & Thyroid Issues\n-Headaches & Migraines\n-Allergies\n-Depression\n-Stress & Anxiety\n-Grief & Loss\n-Prescription Refills \n\nDoctor On Demand by Included Health lets you avoid the hassle, wait and cost of a walk in clinic, urgent care or ER.  You can chat virtually through video with a doctor 365 days a year–weekends and holidays included. \n\nBelow are some frequently asked questions about our app:\n\nWhen are doctors available?\nOur physicians are available, on call, and standing by 24/7/365, weekends and holidays included. You can see a doctor immediately or schedule a visit at your convenience. If you would like to see a psychologist or psychiatrist, you can schedule an appointment 7 days a week.\n\nIs insurance accepted? How much does a visit cost?\nOur services are available with and without insurance. We also partner with many top employers and health plans to reduce your cost. See exactly what your visit will cost before you connect. \n\nWho are the doctors?\nDoctor On Demand by Included Health's trusted, US-based, board-certified physicians, psychiatrists and licensed psychologists have an average of 15 years experience and come from diverse backgrounds with a variety of specialties.\n\nHow does it work?\nConnect face to face with a medical doctor right from your phone in as little as five minutes. Just like an in-person visit, the doctor will take the patient's history and symptoms, and perform an exam. Doctor On Demand by Included Health also offers a private space to meet with a psychologist or psychiatrist through a video visit from the privacy and convenience of home–or anywhere you are.\n\nWhat can you treat?\nFrom colds to cholesterol our medical doctors can treat hundreds of issues, including cold & flu, urinary tract infections, allergies, headaches, sprains and skin conditions. They can also order labs and screenings to help with preventative care and help manage chronic care conditions. Doctor On Demand by Included Health’s psychologists and psychiatrists can see you for anxiety, stress, depression, PTSD, trauma and loss, relationships, postpartum and behavioral therapy.\n\nThis service is available nationwide, in all 50 states and the District of Columbia.",
+      "android_package_name": "com.doctorondemand.android.patient",
+      "ios_bundle_id": "com.doctorondemand.doctorondemand",
+      "title": "Doctor On Demand",
+      "domain_name": [
+        "https://www.doctorondemand.com",
+        "https://www.doctorondemand.com"
+      ],
+      "website": "https://www.doctorondemand.com",
+      "developer": "Doctor On Demand, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0fwKbTv4d8Jr5jxUCBspDPQpsxOtuldWJZ4TGJLblAEXc_7Bp0-mdCuFTrNKGQs2OWo",
+      "icon_72": "https://play-lh.googleusercontent.com/0fwKbTv4d8Jr5jxUCBspDPQpsxOtuldWJZ4TGJLblAEXc_7Bp0-mdCuFTrNKGQs2OWo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.doctor.teleDoc"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Teladoc Health connects you with complete care, at your convenience and an affordable cost. You’ll find what you need to get well—like 24/7 care—alongside primary care, therapy and programs proven to keep you well.\n\nEXPERIENCE AND EXCELLENCE\nTeladoc Health has been modernizing healthcare since 2002. More than 50 million visits later, we are the leader in telemedicine. With our app, top-quality doctors and data-driven programs are just a tap away.\n\nSEAMLESS CARE FOR ALL OF YOU\nOur app brings together doctors, therapists, dietitians, nurses, coaches and self-guided programs that tend to every aspect of your well-being. If you need in-person care, we can refer you to in-network providers and care sites. But don’t underestimate us.\n\nWith a suite of connected devices, in-home lab services and prescription delivery (in some locations), we cover most common health needs. And with insurance, your copay for care could be as low as $0.\n\nPERSONAL AND PERSONALIZED\nTeladoc Health providers and coaches will get to know you. Our video and phone visits allow you to discuss your health and planning next steps together.\n\nThe app integrates with our devices and Apple Health to put data in your hands. Analyze it during appointments with your care team, or on your own on the go. Then apply what you learn about your health and your habits to find the right path to your goals. We’ll send you notifications and nudges to keep you on the right track.\n\nOUR SERVICES INCLUDE:\n\n24/7 CARE\nOn-demand appointments any time of day with board-certified physicians for:\n- Colds and flu\n- Pink eye\n- Sore throats\n- Sinus infections\n- Rashes\n\nPRIMARY CARE\nAccess within a week to board-certified primary care physicians and nurses who become your dedicated virtual care team for:\n- Routine checkups and preventive care\n- Goal-setting and a personalized care plan\n- Lab orders (bloodwork)\n- Checking blood pressure and other vitals\n- Managing chronic conditions\n\nCONDITION MANAGEMENT\nDepending on your coverage, you may be eligible for:\n- Programs to help manage conditions like diabetes and high blood pressure\n- Connected devices like a blood glucose meter or blood pressure monitor\n- Expert health coaching\n- Health data, trends and actionable insights\n\n\nMENTAL HEALTH\nLicensed therapists, psychiatrists and self-guided content for help with:\n- Anxiety and stress\n- Depression or not feeling yourself\n- Relationship conflicts\n- Trauma\n\n\nNUTRITION\nRegistered dietitians who can help with:\n- Weight loss\n- Diabetes\n- High blood pressure\n- Digestive issues\n- Food allergies\n\nDERMATOLOGY\nDermatologists who diagnose and treat common skin conditions, such as:\n- Acne\n- Psoriasis\n- Eczema\n- Rosacea\n- Skin infections\n\nYour coverage might also provide virtual access to:\n- Specialist for an expert second option on surgery, a diagnosis or treatment plan\n- Therapy and coaching to help with back and joint pain\n- Imaging and sexual health testing referrals\n\n\nCHECK YOUR COVERAGE\nSign up to see which telemedicine services are covered by your health insurance or employer.\n\nSECURE AND CONFIDENTIAL\nTeladoc Health takes your privacy seriously. Your health information is protected by federal and state laws, including HIPAA. Please see our Notice of Privacy Practices for more information on how Teladoc Health uses your health information.\n\nAWARDS AND RECOGNITION\n- Company of the Year—Healthcare Dive, 2020\n- World’s Most Innovative Companies—Fast Company, 2021\n- Largest Virtual Care Company—Forbes, 2020",
+      "android_package_name": "com.doctor.teleDoc",
+      "ios_bundle_id": "com.teladoc.members",
+      "title": "Teladoc",
+      "domain_name": [
+        "https://www.teladoc.com",
+        "https://www.teladoc.com"
+      ],
+      "website": "https://www.teladoc.com",
+      "developer": "Teladoc, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/tBowDICclhWW8rNHqQP4_U785hlROxvHmxDP660HpQ9aeWdW15jlLK5de0DQCqA56Ho",
+      "icon_72": "https://play-lh.googleusercontent.com/tBowDICclhWW8rNHqQP4_U785hlROxvHmxDP660HpQ9aeWdW15jlLK5de0DQCqA56Ho=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.medisafe.android.client"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Never forget to take your meds and pills again with the MUST HAVE pill reminder ranked #1 by pharmacists and physicians in independent tests.\n\nNow in the U.S.: See crucial drug-to-drug interaction warnings about how your meds might conflict, as well as easily import your meds and prescriptions using Health Records on iPhone from more than 100 hospitals and health systems in the US. \n\nBe safe with your meds - Improper medicine use and dosage tracking leads to:\n• 50% of patients not taking medicines as prescribed\n• 125,000 deaths a year (one every 4 minutes)\n• 700,000 hospital visits a year\n• 44 out of 100 prescriptions never picked up at the pharmacy\n\nWith Medisafe you won't put yourself or your loved ones at risk by missing a dosage -- or taking a double dose because nobody tracked. \n\nThis is the MUST HAVE med app seen on Fox TV, ABC, Mashable, Inc. Magazine, Los Angeles Times, Boston Globe, Life Hacker, Fast Company, TechCrunch, and many more.\n\nHere's why:\nCLEAN & SIMPLE: Visual and easy medical manager to handle drug reminders.\nHEALTH APP INTEGRATION: Keeps track of your measurements and syncs them to HealthKit app: blood glucose, blood pressure, weight, pulse, temperature and in the US, medications from health records where available.\nREPORT SHARING: See your progress report and send it to the doctor or nurse as a visual informative PDF.\nFAMILY INTERACTION: Synchronizes the family's medicine pillboxes to one place, in real time. Manage your entire family from one account!\nMEDTONES: Various Medtones to make Medisafe playful and a great addition to your day: have Darth Vader, Dr Evil, Austin Powers, Elsa or your Nagging Mom remind you about your meds.\nREMINDERS: Reminds you to take medication doses on time every time, even if your device is asleep. Medisafe has timezone support too! No need to worry while traveling, your reminders are always on time.\nREFILL REMINDER: Rx refill reminds you when you need to restock your prescriptions.\n\nPharmacists rank Medisafe #1 out of 461 apps they've tested, and MyVCM recognizes Medisafe for HIPAA privacy \"best practices in managing security and compliance.\"\n\nMedisafe does not provide medical advice, diagnosis or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding your medications or a medical condition.\n\nTerms of Use: https://www.medisafeapp.com/terms-and-conditions/\nPrivacy Policy: https://medisafeapp.com/privacy-policy/\n\nMore info:\nFAQs: https://www.medisafeapp.com/help/\nPharmacists Rank Medisafe #1: http://bit.ly/2nTjmsI\n\nContact us: support@medisafe.com  \n\nThanks,\nMedisafe Team",
+      "android_package_name": "com.medisafe.android.client",
+      "ios_bundle_id": "com.medisafe.medisafe",
+      "title": "Medisafe",
+      "domain_name": [
+        "https://www.medisafeapp.com",
+        "https://www.medisafeapp.com"
+      ],
+      "website": "https://www.medisafeapp.com",
+      "developer": "MediSafe Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/vD1dTDEFNEiPJBdwUnz3WS2sVKFwXQevwOc7X2O73q1qyHZJPJyatKXrHEb-br6HPSM",
+      "icon_72": "https://play-lh.googleusercontent.com/vD1dTDEFNEiPJBdwUnz3WS2sVKFwXQevwOc7X2O73q1qyHZJPJyatKXrHEb-br6HPSM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.hkvitals"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "The MyVitals App allows users to easily manage and view their health data. By creating an iHealth account and connecting our devices, you'll be able to store data securely in the cloud.\n\n[Device Support]\nThis app will support iHealth blood pressure monitors, pulse oximeters, touchless forehead thermometers, and weighing scales.\n\n[Graphs and charts]\nUsing easy-to-read graphs and charts, you'll be able to view changes and trends over time. You can view all types of graphic trends on the same screen and use the share function to keep your care team up to date with your condition status.\n\n[Measurement Results]\nAfter taking a measurement, you'll be able to see the results in real-time. By connecting the device to your iHealth account, you'll be able to sync the data and access it at any time.\n\n[Contact Us]\nIf you have any questions about how to use our products, or if you would like to provide feedback, please let us know in the app. You may message the care team directly or fill out the feedback form in the settings section.\n\n[Support Healthkit]\nAfter authorization, you can sync your measurement data in this app to your Healthkit to conduct comprehensive health data monitoring and health management.",
+      "android_package_name": "com.hkvitals",
+      "ios_bundle_id": "com.ihealthlabs.MyVitalsPro",
+      "title": "Vitals",
+      "domain_name": [],
+      "website": "",
+      "developer": "iHealth Labs Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/xwt6B9htumSq4Ev1Hj7AGqHJLXHDI_3JtAXBtrii6OaMNcS2rFbrbkhRn0N0WN9v_w",
+      "icon_72": "https://play-lh.googleusercontent.com/xwt6B9htumSq4Ev1Hj7AGqHJLXHDI_3JtAXBtrii6OaMNcS2rFbrbkhRn0N0WN9v_w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.doctor.teleDoc"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Zocdoc is the leading healthcare marketplace that makes it easy for patients to find and book the right doctors for them. Each month, millions of people use Zocdoc to search for in-network care and instantly book appointments online. Patients typically see a doctor within 24 to 72 hours of booking.\n\nDownload the free Zocdoc app to find and book a doctor today. \n\nWHAT TYPE OF CARE IS AVAILABLE ON ZOCDOC\n\nZocdoc aims to help every patient find and book every type of care. There are nearly 100,000 providers across more than 250 specialities available on Zocdoc— primary care physicians, dentists, eye doctors, OB-GYNs, therapists, dermatologists, and more. This also includes urgent care, imaging services, and 24/7 on-demand virtual care. Providers on Zocdoc offer virtual and in-person visits, and they accept +18,000 different insurance plans, making it easy to find in-network care.\n\nWHY DO PATIENTS LOVE ZOCDOC\n\n- With the Zocdoc app, patients can easily find and book the right care:\n- Search by insurance and location to find nearby in-network providers\n- Add your location to find doctors near you\n- Filter by speciality, procedure, availability, distance, gender, and more\n- Read verified reviews from other patients\n- See doctors’ real-time appointment availability\n- Instantly book in-person or telehealth appointments online\n- Get fast access to care, typically within 24 - 72 hours\n- Receive personalized appointment reminders\n- Fill out your intake forms digitally, ahead of your visit \n\nHOW DOES ZOCDOC WORK\n\nSearch and compare the right doctors by what matters\nSearch by speciality or symptom along with location, availability, and insurance to see providers who are in-network. Research and compare providers by reviewing their profiles, which include professional statements, education background, photos, and verified reviews and ratings from other patients. \n\nInstantly book any type of care\nView providers’ real-time appointment availability, select a convenient time, and click to instantly book an appointment, 24/7.\n\nPrepare for the appointment\nSave time by filling out intake forms and insurance information on Zocdoc ahead of the visit. \n\nStay on top of care\nKeep track of upcoming visits with appointment reminders and personalized recommendations for preventative care. View your care team and easily rebook.",
+      "android_package_name": "com.doctor.teleDoc",
+      "ios_bundle_id": "com.zocdoc.zocdociphone",
+      "title": "TeleDoc",
+      "domain_name": [
+        "https://www.zocdoc.com",
+        "https://www.zocdoc.com"
+      ],
+      "website": "https://www.zocdoc.com",
+      "developer": "Zocdoc Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/tBowDICclhWW8rNHqQP4_U785hlROxvHmxDP660HpQ9aeWdW15jlLK5de0DQCqA56Ho",
+      "icon_72": "https://play-lh.googleusercontent.com/tBowDICclhWW8rNHqQP4_U785hlROxvHmxDP660HpQ9aeWdW15jlLK5de0DQCqA56Ho=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.symptomate.mobile"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Medocity MD was developed for care professionals to virtually connect with, track and monitor patients. The platform’s configurable cloud-based design allows it to be used for Virtual Care Management, Care Coordination, Remote Patient Monitoring and Connected Communications like Telemedicine. And, it’s\navailable on smart phone, tablet and PC.\n\nFeatures include:\nPatient Dashboard – Quickly view patient health summary, risk level, symptom and vital alerts, trend data and patient reports\nMessaging and Telemedicine – Secure messaging and Video calling with patient\nCare plan – Customizable templated patient-specific care plans for chronic conditions\nEMR Integration – Import patient data from your EMR\nAnd many more…",
+      "android_package_name": "com.symptomate.mobile",
+      "ios_bundle_id": "com.medocity.md",
+      "title": "iTriage",
+      "domain_name": [
+        "http://www.medocity.com",
+        "https://www.medocity.com"
+      ],
+      "website": "http://www.medocity.com",
+      "developer": "MEDOCITY, INC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5V8yUOdndb2ECsz2A8yMfzlb_e8zpGXcjtfvBmmeoCwz4Greu3GKBuVGlZb3DzGTrB8",
+      "icon_72": "https://play-lh.googleusercontent.com/5V8yUOdndb2ECsz2A8yMfzlb_e8zpGXcjtfvBmmeoCwz4Greu3GKBuVGlZb3DzGTrB8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.medihelpapp.medihelp"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Denna app är utformad för att du som medarbetare hos en arbetsgivare som är ansluten till MedHelp ska kunna göra din sjuk-, VAB eller friskanmälan på ett smidigt sätt. \n\nNär vi mottagit din anmälan meddelas de som behöver informationen hos din arbetsgivare. Din arbetsgivare hålls uppdaterad under hela sjukperioden och kan därför ta kontakt med dig för kompletterande upplysningar.",
+      "android_package_name": "com.medihelpapp.medihelp",
+      "ios_bundle_id": "se.medhelp.portalwrapper",
+      "title": "MedHelp",
+      "domain_name": [
+        "https://www.medhelp.se/halsopartner/sjuk-och-frisk",
+        "https://www.medhelp.se"
+      ],
+      "website": "https://www.medhelp.se/halsopartner/sjuk-och-frisk",
+      "developer": "MedHelp AB",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/R6OYBOu_T1D-oI7juBAbW36ys3l6INUM-DLkqLKEyJav0G54WqKo0-HeVdfov2YYLnKo",
+      "icon_72": "https://play-lh.googleusercontent.com/R6OYBOu_T1D-oI7juBAbW36ys3l6INUM-DLkqLKEyJav0G54WqKo0-HeVdfov2YYLnKo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.stethome.home.asthma"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "This app is a part of the StethoMe medical device. It is certified according to Council Directive 93/42/EEC of 14 June 1993 (MDD). As such it can be used jointly with StethoMe electronic stethoscope as a class 2a medical device in the jurisdiction of EU, CH and UK.\n\nStethoMe® enables easy and quick monitoring of asthma symptoms in children. It is the first system that detects respiratory system abnormalities.\nHow does StethoMe work?\nThis solution enables performing unassisted auscultation at home:\n- The StethoMe mobile application sends the sounds recorded using the StethoMe stethoscope to the StethoMe AI algorithms.\n- These medical algorithms analyse the recording and notify immediately of any abnormalities appearing in the lungs.\n- The sounds recorded can be sent to a doctor for diagnosis and remote consultation.\nThe application's module dedicated to asthma establishes the intensity of wheezes and rhonchi and enables measuring the respiratory rate, heart rate, and inhalation/exhalation ratio.\n\nThe StethoMe system is a certified medical device. The asthma module is currently in the testing phase.\nThe most recent user manual is available at https://stethome.com/manuals.\nUsing the application requires connecting with a StethoMe® stethoscope via Bluetooth.\n\nNever diagnose the patient on your own solely on the basis of the results obtained using this device. \nOnly a doctor may order treatment and diagnose respiratory system diseases.",
+      "android_package_name": "com.stethome.home.asthma",
+      "ios_bundle_id": "com.stethome.stethome-asthma",
+      "title": "StethoMe",
+      "domain_name": [],
+      "website": "",
+      "developer": "StethoMe Sp. z o.o.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3NoJoazAPLfW7NqpQSOnaVa_a6rYx8OYq2NL2Uf42mLu-8j73Dy0vhPPRADOVsBn930",
+      "icon_72": "https://play-lh.googleusercontent.com/3NoJoazAPLfW7NqpQSOnaVa_a6rYx8OYq2NL2Uf42mLu-8j73Dy0vhPPRADOVsBn930=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.pocketlab.android"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "The PocketLab app brings together science curriculum, hands-on lessons, and data sensors for science learning. We built PocketLab for the curious explorers, educators, students, and makers to bring science, technology, engineering, and math (STEM) to life like never before.\n \nPocketLab sensors connect with a single button to your iPhone or iPad and instantly stream measurement data that you can see and record. PocketLab sensors are designed for investigating physics, biology, chemistry, Earth science, environmental science, and engineering. Using the PocketLab app, you can easily analyze your data, create graphs, and integrate your data with other software. PocketLab has the same features as lab equipment that costs thousands of dollars but is low cost and intuitive to use.\n\nNOTE: The PocketLab app is designed to pair with a PocketLab sensor. Order your sensor at thepocketlab.com.",
+      "android_package_name": "com.pocketlab.android",
+      "ios_bundle_id": "com.myriadsensors.pocketlab",
+      "title": "PocketLab",
+      "domain_name": [
+        "http://thepocketlab.com",
+        "https://thepocketlab.com"
+      ],
+      "website": "http://thepocketlab.com",
+      "developer": "Myriad Sensors, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/eM9BLecJWT1gJ5i7By68tGLynxeQfQJnQCo0xae81MI0mO-wFjrVoZd_7O4d8jMRUQo",
+      "icon_72": "https://play-lh.googleusercontent.com/eM9BLecJWT1gJ5i7By68tGLynxeQfQJnQCo0xae81MI0mO-wFjrVoZd_7O4d8jMRUQo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.life360.android.safetymapd"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Stay connected and secure with Life360, the ultimate friend and family locator and location-tracking app. Whether at home, online, or on the move, our comprehensive family safety features bring peace of mind to your loved ones AND help safeguard your personal belongings. Experience location safety features that surpass ordinary GPS tracking apps. More than just a GPS location tracker, with Life360, finding friends and family has never been easier.\n\nIn addition to focusing on safety, Life360 allows you to effortlessly keep tabs on your keys, wallet, phone, and other essentials using Tile Bluetooth trackers. These trackers integrate with your Life360 map, ensuring you can easily locate everything and everyone that matters most from a single, convenient platform.\n\nLife360 memberships include essential safety features like:\n\n- SOS Alerts: Send silent alerts with your precise location to friends, family members, emergency contacts, and responders.\n- 24/7 Emergency Dispatch: We're here for your loved ones, always ready to respond, even when you can't make the call.\n- Identity Theft Protection: Safeguard sensitive digital information for each family member, backed by a white-glove restoration service.\n- Roadside Assistance: Free towing, jumpstarts, tire changes, lockout assistance, refueling and more.\n\nWith Life360, you can:\n- Find my friends\n- Find my family\n- Find my kids\n- Find my phone\n- Track everything that matters most\n\t\nDownload the free app now to access Advanced Location Sharing, Location History, Crash Detection, and Place Alerts. Keep tabs on your family members as they come and go from key locations like home, school and work.\n\nTake your safety to the next level by upgrading to one of our premium Life360 memberships. Choose the plan that suits your friend's and family's unique needs and enjoy a 7-day free trial.\n\nLife360 Silver - Simplify your safety with features such as:\n- 2 Places with unlimited Alerts\n- 2 days of Location History\n- Crash Detection\n- Family Driving Summary\n- Data Breach Alerts\n- SOS Help Alerts During Emergencies\n\nLife360 Gold* - Keep your family secure on the go with all the features of Life360 Silver, plus:\t\n- 30 days of Location History\n- Unlimited Place Alerts\n- Individual Driver Reports\n- Crash Detection with emergency dispatch and live agent support\n- 24/7 Roadside Assistance\n- $250 in Stolen Phone Protection\n- ID Theft Protection and Data Breach Alerts\n- $25,000 in Stolen Fund Reimbursement\n\nLife360 Platinum* - Prepare for anything, anywhere, with all the features of Life360 Gold, plus:\n- $1 million in Stolen Fund Reimbursement\n- 50 miles of Free towing\n- $500 in Stolen Phone Protection\n- Travel Support with Disaster Assistance\n- Medical Support\n\nJoin millions who trust Life360 for location sharing.\n\nhttps://www.life360.com/privacy_policy/\nhttps://www.life360.com/terms_of_use/\n\nExplanation for App Permissions [Optional Permissions]\n• Camera: App accesses user’s camera to allow users to take photos or videos on the app.\n• Location: App accesses location information to allow users to share location information to other Circle members.\n• Microphone: App accesses microphone to allow users to record and share voice memos.\n• Music and audio: App accesses music and audio to play music and audio.\n• Nearby devices: App accesses nearby devices to find, connect to and determine the relative position of nearby devices by using Bluetooth.\n• Notifications: App accesses notification to send notification to users.\n• Phone: App accesses user’s phone to allow users to make phone calls on the app\n• Photos and videos: App accesses photos and videos to allow users to view photos and videos on the app.\n• Physical activity: App accesses physical activities to calculate and detect driving events, such as driving speed, use of breaks, and accident detection. \n\nYou may still use the app even if you withhold optional permissions. However, app features requiring permission may not be available in such cases.",
+      "android_package_name": "com.life360.android.safetymapd",
+      "ios_bundle_id": "com.life360.safetymap",
+      "title": "Life360",
+      "domain_name": [
+        "http://www.life360.com",
+        "https://www.life360.com"
+      ],
+      "website": "http://www.life360.com",
+      "developer": "Life360",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AxZFJIQK5sr8KXkko0jBH5SolEbpM_8W8q7h3EZNeTNWTeZi-G3kp2OTbrqo--X24H4",
+      "icon_72": "https://play-lh.googleusercontent.com/AxZFJIQK5sr8KXkko0jBH5SolEbpM_8W8q7h3EZNeTNWTeZi-G3kp2OTbrqo--X24H4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.alivecor.aliveecg"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Kardia works with the FDA-cleared KardiaMobile, KardiaMobile 6L, or KardiaBand personal EKG devices, which can detect the most common arrhythmias in just 30 seconds. The Kardia app is designed to make managing heart care from home easier than ever, giving you the ability to seamlessly record EKGs, share heart data with your doctor remotely, keep track of your health history, and more.\n\nCapture a medical-grade EKG with your Kardia device anytime, anywhere—no patches, wires, or gels required. Get an immediate result from Kardia's Instant Analysis of normal, possible atrial fibrillation, bradycardia, or tachycardia. For additional analysis, you can choose to send the recording to your physician or to one of our partners for a Clinician Review by a cardiologist (US, Australia only) or cardiac care physiologist (UK, Ireland only).\n\nThe Kardia system is recommended by leading cardiologists and used by people around the world for accurate EKG recordings. Track your heart health data from home with the medical accuracy your doctor can trust.\n\n\nNOTE:  This app requires KardiaMobile, KardiaMobile 6L, or KardiaBand hardware to record an EKG. Get your Kardia device now at alivecor.com.\n\nKardia integrates with Apple Health to create a combined view of your health metrics.\n\nNOTE: Requires KardiaMobile or KardiaBand hardware to record an EKG\n\nFDA 510(k) numbers: K191406, K181823, K171816, K183319\nCE # 0123",
+      "android_package_name": "com.alivecor.aliveecg",
+      "ios_bundle_id": "com.alivecor.professional.aliveecg",
+      "title": "Kardia",
+      "domain_name": [
+        "http://www.alivecor.com",
+        "https://www.alivecor.com"
+      ],
+      "website": "http://www.alivecor.com",
+      "developer": "AliveCor, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/WYIp8_w9gWcg_cnDiCWX_WgVxTp9w6ZrEkCVUxN-EBQOYVOcnsXtJ5c7Sipwd8bqv8g",
+      "icon_72": "https://play-lh.googleusercontent.com/WYIp8_w9gWcg_cnDiCWX_WgVxTp9w6ZrEkCVUxN-EBQOYVOcnsXtJ5c7Sipwd8bqv8g=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "gov.va.mobileapp"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Wellframe helps you feel in control of your health by connecting you to care right on your iPhone or iPad. You can send a private message at any time to your care team - it's as easy as texting, but more secure. Your care team will create a personal daily checklist for you with helpful articles, videos, and things to do. The more tasks you check off, the more your care team can customize your program for you.\n\nSet reminders to help remember your medications and appointments, and track your steps and progress over time. You’ll learn what to expect and feel better supported as you go.\n\nWellframe takes your privacy and security seriously and is fully HIPAA-compliant.\n\nWellframe is always free for users - just sign up with the access code you received from your sponsoring provider or company.\n\nWellframe works with Apple Health for certain care programs, such as those that provide a step count task.\n\nSeek a doctor’s advice before making any medical decisions. This app is designed for education and to provide support between provider visits. If you're enrolled in an eligible care program you may connect a glucometer to share readings with your care management team, but should continue to check with your doctor before making any changes to diet, exercise, or treatment plan.",
+      "android_package_name": "gov.va.mobileapp",
+      "ios_bundle_id": "com.wellframe.heart",
+      "title": "Wellframe",
+      "domain_name": [
+        "http://www.wellframe.com/download",
+        "https://www.wellframe.com"
+      ],
+      "website": "http://www.wellframe.com/download",
+      "developer": "Wellframe Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6vJWSRJhRAaxuSfJr8o14Wl_qw_sjnB4TJhqnZ_g5_zOQVVG1ChtkCWhXeA2quTMapQ",
+      "icon_72": "https://play-lh.googleusercontent.com/6vJWSRJhRAaxuSfJr8o14Wl_qw_sjnB4TJhqnZ_g5_zOQVVG1ChtkCWhXeA2quTMapQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.alen"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "The American Red Cross Blood Donor App puts the power to save lives in the palm of your hand. Donating blood, platelets and AB Plasma is now easier than ever. \n\nFeatures:\n\n· Find local blood drives and donation centers quickly and easily\n· Convenient, easy appointment scheduling and rescheduling\n· Complete your RapidPass®\n· Get notified when your blood is on its way to a patient\n· View the results of your mini-physical\n· Receive appointment reminders and special blood shortage alert messages\n· Keep track of total blood donations\n· Stay updated on special promotions\n· Earn badges for special donation milestones\n· Join or create a lifesaving team, recruit other blood donors and view rankings on the Blood Donor Teams Leaderboard \n· Stay updated on special promotions",
+      "android_package_name": "com.alen",
+      "ios_bundle_id": "org.redcross.blood",
+      "title": "RedCross Blood Donor",
+      "domain_name": [
+        "http://www.redcrossblood.org",
+        "https://www.redcrossblood.org"
+      ],
+      "website": "http://www.redcrossblood.org",
+      "developer": "American Red Cross",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/BhaoEHo4D8Q6kJb0R7o9CI-vDsUdFiSID-fZ_gRDTqscusf1kLhyK64-mMSM6lOktNU",
+      "icon_72": "https://play-lh.googleusercontent.com/BhaoEHo4D8Q6kJb0R7o9CI-vDsUdFiSID-fZ_gRDTqscusf1kLhyK64-mMSM6lOktNU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.babycenter.pregnancytracker"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Check out the most up-to-date popular names with our free App! \n\nYou will find the top 2000 boy's and girl's name in this App with details of each name: pronunciation, origin and its original meaning. Premium version provides all names data from the past decades. \n\nIf you cannot make the decision right now, just tap the gray star to add it to favorites. You can email it to yourself or any other friends. \n\nFEATURES: \n* Name list for boy's and girl's \n* Browse by rank or in alphabetical order \n* Favorites and Email \n* Rich Details of pronunciation, origin & meaning, popularity rank",
+      "android_package_name": "com.babycenter.pregnancytracker",
+      "ios_bundle_id": "gpp.englishnames7",
+      "title": "My Pregnancy Today",
+      "domain_name": [],
+      "website": "",
+      "developer": "品 高",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/XHdIxUfGoosEIyP7Kc6oq-OVRrJ4Q-zyerrw14qmHTO1CjfCibyGRwEQ87AF1Z3evvHD",
+      "icon_72": "https://play-lh.googleusercontent.com/XHdIxUfGoosEIyP7Kc6oq-OVRrJ4Q-zyerrw14qmHTO1CjfCibyGRwEQ87AF1Z3evvHD=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.clue.android"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Get to know your menstrual cycle with the award-winning Clue app. Clue makes it easy to stay in sync with your body and track your period, fertility, and cycle-related experiences accurately and effortlessly. \n\nWhether you’re trying to get pregnant, tracking cycle-related experiences, or navigating the changes of perimenopause, Clue’s got you covered. \n\nBacked by science and founded and led by women, Clue is trusted by millions of people worldwide. Thanks to our Berlin headquarters, your data with Clue is protected by some of the strictest data privacy laws in the world (GDPR). Your health data will never be sold or disclosed. No matter where you live. \n\nWhat can Clue do for you? \n\nPERIOD & MENSTRUAL CYCLE TRACKING\n\nClue Period Tracking empowers you to become the expert of your unique body.\n\n• Know when to expect your period and plan ahead with advanced, personalized predictions\n• Discover your body’s unique patterns by tracking 100+ experiences connected to your cycle like feelings, PMS, cravings, pain, sex drive, and much more\n• Review an analysis of your past periods and cycles, including average cycle length, period length, period flow, and cycle variation\n• Log your birth control method, including pills, IUD, ring, patch, and more\n• Set up calendar reminders for your period\n• Add a widget to your home screen so you can see your current cycle and know when your period is predicted to start\n• Sync your period data with Apple Health\n• Get answers to your health questions with science-based content that breaks down complicated topics like fertility, STIs, and the science of sex into easy-to-understand articles\n\nFERTILITY & OVULATION CALCULATOR\n\nClue’s clinically-tested technology takes the mystery out of getting pregnant and can easily tell you your most fertile days.\n\n• Get personalized ovulation and fertility predictions for the best time to try or do home insemination\n• Access tips and advice from fertility experts to help you understand the science behind getting pregnant\n\nPREGNANCY TRACKING\n\n• Follow the growth of your baby with weekly updates on size, weight, and development\n• Track your body's changes during pregnancy, like increased smell and taste, pregnancy glow, sleep quality, the supplements you take, and more\n• Receive weekly tips and support from OB-GYNs and Nurse Midwives\n\nPERIMENOPAUSE\n\nGet support throughout your transition to menopause (a time known as perimenopause)\n\n• Track hot flashes, sleep changes, your mood, and more \n• Stay on top of your changing cycle\n• Learn how your body is changing with expert-led articles\n\nGet the most out of Clue, plus access to all four tracking modes (like Clue Conceive and Clue Pregnancy), with a Clue Plus subscription!\n\nA few legal details:\n\nAfter you choose the Clue subscription that’s right for you & confirm your purchase, the credit card associated with your iTunes Account will be charged. Once purchased, your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. If you currently have a free trial, any unused time will be forfeited when you purchase a subscription.\n\nIf you want to renew your subscription, your account will be charged the same amount you paid for your initial subscription, 24 hours before the end of the current period. You can manage or change your subscription at any time, including turning off auto-renewal, by going to the ‘Account Settings’ on your device after the purchase.\n\n\nNote: Clue should *not* be used as a contraceptive. Clue is made to help people understand their menstrual and reproductive health by tracking their data, as well as predicting fertile days to aid conception. The app does not substitute professional medical advice, diagnosis, or treatment. Your healthcare provider can give you advice on your specific needs and situation.\n\nHelloclue.com\nsupport.helloclue.com\n\nTerms of Service: www.helloclue.com/terms\nPrivacy Policy: www.helloclue.com/privacy",
+      "android_package_name": "com.clue.android",
+      "ios_bundle_id": "com.helloclue.clue",
+      "title": "Clue Period Tracker",
+      "domain_name": [
+        "http://helloclue.com",
+        "https://helloclue.com"
+      ],
+      "website": "http://helloclue.com",
+      "developer": "BioWink GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FGULXsKpMz-SctALJKzI8WZ8-IZjvI3_pdltt1JCXeQ-ES-K9k4tgvPpUUFaEaCG8es",
+      "icon_72": "https://play-lh.googleusercontent.com/FGULXsKpMz-SctALJKzI8WZ8-IZjvI3_pdltt1JCXeQ-ES-K9k4tgvPpUUFaEaCG8es=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.popularapp.periodcalendar"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Period Tracker, the easiest way to track your health! \n\n*Now supports HealthKit, 3DTouch, TouchID, portrait charts, Advanced TTC Mode (the easiest way to get pregnant by following the homepage timeline’s simple prompted instructions!), and Pregnancy Mode with articles and week-by-week images.\n\nPeriod Tracker is SIMPLE and CUTE. \n* Press a button at the start of your period every month. Period Tracker logs your dates and calculates the average of your past 3 months' menstrual cycles to predict the start date of your next period. \n* View your current and future period dates, ovulation and fertile days, moods, symptoms, weight, temp, and fertility notes in a simple month-view calendar. \n* Discreet iPhone icon simply reads \"PTracker.\" \n\nPeriod Tracker is FILLED WITH FEATURES. \n* Take daily notes of menstrual symptoms including Spotting, Flow, Cramps, Headaches, Backaches, Bloating, Tender Breasts, and Body Aches! \n* Track your weight, temperature and moods (over 30+ moods to choose from!) \n* Add custom symptoms and moods \n* Charts! Beautiful, comprehensive and handy. Charts show weight, temp, symptoms, period length, cycle length, and more.\n* Backup/Restore your data with your online backup and restore account. (works across platforms)\n* Homescreen shows your predicted ovulation, eight day \"fertile window,” and your cycle day. Great for trying to conceive.\n* Pregnancy mode activates countdown to baby's due date and week-by-week articles.\n* Protect your privacy with TOUCH ID or with a passcode option that is fast and easy. \n* Export your period dates and notes to email for doctor's visits. \n\nPeriod Tracker is loved by millions of users.\nMommaRed - \"I really like this application. It is easy to use, easy to track and plan for upcoming events. The recent updates have made it even better. One of my favorite iPhone apps.\" \n\nBlanczz226 - \"This is one of my favorite apps. I use it every month and it's extremely accurate. Worth the $ for sure\"\n\nGeekSugar.com - \"Period Tracker is the ultimate menstrual mentor. You enter in your info, and it tracks your cycles, letting you keep notes about your activities and well being, all the while using twee 'lil hearts .and flowers to denote important days.\" \n\nCelstemc - \"One of my first apps and I am completely in love with it! Won't use another one like it!! Cute and easy to use!\" \n\nSubscription Details\nBy subscribing to the Period Tracker Patron program you receive additional features.  Subscription purchased through the app will be charged to your iTunes account.  Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.  Account will be charged for renewal within 24-hours prior to the end of the current period at the cost of $9.99.  Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.  Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription.\n\nTerms of service: https://gpapps.com/support/eula/\nPrivacy policy: https://gpapps.com/support/privacy-policy/\n\nDisclaimer: Period Tracker period and fertility forecasts may not be accurate and should not be used to prevent unwanted pregnancy. To forecast ovulation Period Tracker calculates 14 days before the projected start date of one's next period. Forecast accuracy depends on a number of factors including how regular one's cycle length is, when one actually ovulates during the cycle, and how many periods have been logged in the app. Anxiety, stress, diet, nutrition, exercise, environment, medications, age and other factors can also affect one's cycle from month to month. \n\nPlease email comments and suggestions to supportgpa@gmail.com.",
+      "android_package_name": "com.popularapp.periodcalendar",
+      "ios_bundle_id": "com.gpapps.ptrackerlite",
+      "title": "Menstruation Tracker",
+      "domain_name": [
+        "http://www.gpapps.com",
+        "https://www.gpapps.com"
+      ],
+      "website": "http://www.gpapps.com",
+      "developer": "GP International LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3T6je2roer04CrMNWfJ1CT3VWuAWOo_qadovMi667wJ8W0DXyDflloB5aT7H9laqXvE",
+      "icon_72": "https://play-lh.googleusercontent.com/3T6je2roer04CrMNWfJ1CT3VWuAWOo_qadovMi667wJ8W0DXyDflloB5aT7H9laqXvE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.crazylabs.fashion.squad"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Glow is the most comprehensive period tracker and fertility app in the world. With Glow, you can track your menstrual cycle, ovulation, and fertility signs, all in one place. Glow also provides you with personalized insights and advice to help you understand your body and improve your chances of getting pregnant.\n\nFEATURES\n- Track your menstrual cycle: Glow makes it easy to track your menstrual cycle. Simply input the start and end dates of your period, and Glow will do the rest. Glow will track your cycle length, flow, and symptoms, and provide you with insights into your unique cycle patterns.\n- Ovulation tracking: Glow's ovulation tracker is one of the most accurate on the market. Glow uses advanced algorithms to predict your fertile window and ovulation day, so you can know when you're most likely to get pregnant.\n- Fertility sign tracking: In addition to tracking your menstrual cycle and ovulation, Glow also allows you to track other fertility signs, such as basal body temperature, cervical mucus, and sexual activity. This information can help you to better understand your fertility and make informed decisions about your reproductive health.\n- Personalized insights: Glow provides you with personalized insights and advice based on your cycle data. This information can help you to understand your body better, improve your chances of getting pregnant, and manage your menstrual cycle.\n- Community support: Glow also has a large and supportive community of users. You can connect with other women who are trying to conceive, get advice from experts, and share your experiences.\n- Apple Health Integration: Sync data between Glow and Apple Health app.\n\nBENEFITS\n- Improve your chances of getting pregnant: Glow's ovulation tracker and fertility sign tracking tools can help you to better understand your fertility and make informed decisions about your reproductive health. This can help you to improve your chances of getting pregnant.\n- Manage your menstrual cycle: Glow's menstrual cycle tracking tool can help you to track your cycle length, flow, and symptoms. This information can help you to better understand your cycle and manage your menstrual symptoms.\n- Get personalized insights and advice: Glow provides you with personalized insights and advice based on your cycle data. This information can help you to understand your body better, improve your chances of getting pregnant, and manage your menstrual cycle.\n\nSUBSCRIPTION INFORMATION\nGlow is free to download and use. Upgrading to Glow Premium will unlock: \n- Advanced Cycle Chart\n- Cycle Analysis\n- Comparative Insights\n- Forecast\n- Advanced BBT chart\n- Premium Articles\n- Private messaging\n- Custom profile\n- Premium support\n- (More premium features will be coming soon!)\n\nGlow offers quarterly and yearly subscription options: \n- Payment will be charged to your iTunes Account at the confirmation of purchase. \n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n- Your iTunes Account will be charged for renewal within 24-hours prior to the end of the current period. \n- Subscriptions may be managed and auto-renewal may be turned off by going to your Account Settings in iTunes after purchase. \n\nYour journey to motherhood starts here. Join millions of women who trust Glow - download the app today!\n\nFor full Privacy Policy and our Terms of Service:\nhttps://glowing.com/privacy-policy/\nhttps://glowing.com/terms-of-service/\n\n**Note: The information provided by Glow should not replace professional medical advice. Always consult with a healthcare provider for medical advice. If you are having technical issues or have any questions about your cycle or period, we're here to help. Please send us an email to: support@glowing.com",
+      "android_package_name": "com.crazylabs.fashion.squad",
+      "ios_bundle_id": "com.upwlabs.emma",
+      "title": "Glow",
+      "domain_name": [
+        "https://glowing.com",
+        "https://glowing.com"
+      ],
+      "website": "https://glowing.com",
+      "developer": "Glow, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jYB0COBKiB2LOKUFLNl3QH9wLRzNxVNfZxaRPkVpf2CqX3dmqtVnbhngEiSWWsu-Svk",
+      "icon_72": "https://play-lh.googleusercontent.com/jYB0COBKiB2LOKUFLNl3QH9wLRzNxVNfZxaRPkVpf2CqX3dmqtVnbhngEiSWWsu-Svk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.drugscom.app"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "The affordable health care and medication app – that’s GoodRx. Save money on meds with a free prescription discount finder and care for yourself without breaking the bank. Our mobile health care platform helps millions of Americans affordably get medicine, prescription drugs, pet meds, senior care and more.\n\nGet the best price on meds with medicine discount choices and coupons for seniors. Find prescription savings for medications & drugs with our Rx app for healthy living well under the average medication price. GoodRx is the perfect prescription discount finder for all your meds and health care needs.\n\nDiscover medicine discount options with GoodRx's digital coupons. GoodRx contains everything from prescription rewards to telehealth services for a complete mobile health tool and Rx savings solutions. GoodRx even includes a drug guide & price tracker to monitor your meds.\n\nSave money on the medication app that’s more than a coupon finder. Monitor prescription status with a pill reminder and medicine tracker, check prices, & get convenient prescription savings with mobile coupons.\n\nDownload GoodRx today to find savings on your medication and become your own health advocate!\n\nGoodRx Features:\n\nGet Digital Coupons at Over 70,000 Locations\n- CVS Pharmacy\n- Walmart Pharmacy\n- HEB Pharmacy\n- Walgreens Pharmacy\n- Rite Aid Pharmacy\n- Target Pharmacy\n- Safeway Pharmacy\n- Vons Pharmacy\n- Kroger Pharmacy\n- & more!\n\nMedication App With Up To 80% Off Prescription Drugs\n- Mobile Rx savings solutions: Rx saver, medicine discount & free coupons app\n- Check Rx pharmacy prices & redeem mobile coupons with a prescription discount finder\n- Convenient Rx mobile app with prescription savings through free coupons\n- Coupons for pet meds cover your furry friend\n- Visit your local pharmacy and use digital coupons easily\n- A complete mobile health & coupons app with manufacturer discounts, patient assistance programs & more\n- Save money on medications at your preferred pharmacy & Rx discount location\n\nPrescription Reminder & Medication Tracker\n- Free medication reminder: Refill your prescriptions with pill reminder alerts\n- Medicine tracker: Manage medications with a drug guide & prescription list\n- Medication log: Track everything from birth control prescriptions to medications\n\nComplete Health Care Tool\n- Get affordable urgent care with online medical professionals\n- Find a doctor with no Medicare or insurance needed\n- Get telehealth support to understand your meds and prescription list\n- Med delivery & pickup available from anywhere\n- Medication list with a drug guide to help understand your prescriptions\n\nGoodRx Care services include\n- Urinary Tract Infection (UTI) treatment\n- Erectile Dysfunction (ED)\n- Start & refill birth control\n- Short term medication refill\n- & more!\n\nPrescription Discount App Trusted by Millions\n- Digital coupons made easy for every mobile health consumer\n- Our medication coupons app shows which Rx pharmacy has the best price on drugs or even free\n- Prescription discount finder used by doctors & clinics to help patients save money\n- Featured by: The New York Times, PBS, ABC News, Forbes, CNN, Good Morning America, The LA Times & more!\n\nUpgrade to GoodRx Gold for even more benefits, medication rewards and prescription discount offers. Get exclusive pricing and reliable mobile health care with GoodRx Gold.\n\nBy downloading GoodRx, you agree to be bound by our Terms Of Use. Read more at http://www.goodrx.com/terms-of-use\n\nPlease visit https://www.goodrx.com/consumer-health-data-privacy-notice to read our Consumer Health Data Privacy Notice for additional information about our handling of consumer health data.\n\n*GoodRx works to make its apps accessible to all, including those with disabilities. If you are having difficulty accessing this application, please call or email us at (855) 268-2822 or ada@goodrx.com so that we can provide you with the services you require through alternative means",
+      "android_package_name": "com.drugscom.app",
+      "ios_bundle_id": "com.goodrx.iphone",
+      "title": "GoodRX Drugs",
+      "domain_name": [
+        "https://www.goodrx.com",
+        "https://www.goodrx.com"
+      ],
+      "website": "https://www.goodrx.com",
+      "developer": "GoodRx, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hPbxJhnceggrITJpS-iqh-UDVqPWgWKIsQGBPL9AFnjSfKi9jm_VpOIvijhbupeO5A",
+      "icon_72": "https://play-lh.googleusercontent.com/hPbxJhnceggrITJpS-iqh-UDVqPWgWKIsQGBPL9AFnjSfKi9jm_VpOIvijhbupeO5A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "ai.healai.assistant"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Games",
+      "description": "World’s healthiest game!\n\nCure your way through the quirkiest and funniest diseases in My Hospital - the ultimate simulation game where you design, manage and maintain your very own medical centre! \n\nCreate elixirs, farm and harvest your own medical plants and produce cures for hundreds of patients that need your help. It’s a world where Panacea rules and every treatment is available at your fingertips! \n\n◉ BUILD YOUR HOSPITAL\n\nConstruct and manage your own hospital. Build doctor’s offices, diagnostic rooms, the treatment centre and laboratories. Expand and upgrade your hospital and share it with friends! \n\n◉ CREATE UNIQUE CURES\n\nFarm and harvest plants with healing properties, produce dozens of elixirs, and blend syrups to treat more than 80 funny diseases. Whether it’s a chilli throat condition, frozen hands or slimey lungs, you’ll be sure to find the cure! Unlock new remedies, treatment rooms and new conditions with every level and complete fun challenges!\n\n◉ DECORATE YOUR HOSPITAL\n\nCustomize each area of your health center to make your patients feel at home. You have tons of decorations to choose from and when you finally manage to make it look as pretty as a picture, show it off in front of your friends! \n\n◉ PLAY WITH FRIENDS\n\nConnect with your Facebook account to access your friends’ Hospitals around the world. Buy, sell cures and compete with other Hospital managers. Tell them about your achievements via Game Center, and Facebook. \n\nPlease note that My Hospital is free to download and play. However, some in-game items are available and can be purchased for real money. \n\nLike us on Facebook\nhttps://www.facebook.com/myhospital\n\nHaving problems? Got any suggestion? We’d love to hear your feedback! Reach us at: myhospital@kuuhubb.com",
+      "android_package_name": "ai.healai.assistant",
+      "ios_bundle_id": "com.cherrypickgames.myhospital",
+      "title": "Heal",
+      "domain_name": [
+        "http://myhospital.games",
+        "https://myhospital.games"
+      ],
+      "website": "http://myhospital.games",
+      "developer": "Kuu Hubb Oy",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KoeQx6xQrspCHZPONvfDeoKam6uk1ac-eW2lO5V5bo9f50lyhaDcBOwTrhQ3k-NssRs",
+      "icon_72": "https://play-lh.googleusercontent.com/KoeQx6xQrspCHZPONvfDeoKam6uk1ac-eW2lO5V5bo9f50lyhaDcBOwTrhQ3k-NssRs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.blood.pressure.bptracker"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "SmartBP® is a blood pressure app that enables you to log, monitor, evaluate, and share BP reports using iOS devices and Apple Watch. In addition, SmartBP connects with Apple Health. With your health information at your fingertips, you can now take a more active role in your own health. For those with prehypertension or hypertension, SmartBP can assist in monitoring progress, identifying trends, and managing all your blood pressure and heart measurements, ultimately aiming to enhance your overall heart health and blood pressure. SmartBP is a smarter way to manage your blood pressure measurements and track your progress.\n\nDisclaimer: \n1) SmartBP al­lows you to record, track and an­a­lyze trends in your blood pres­sure. You can ei­ther man­u­al­ly en­ter your records or use a blood pres­sure mon­i­tor to sync with SmartBP through Apple Health. SmartBP alone does not mea­sure blood pres­sure. You need a sep­a­rate blood pres­sure mon­i­tor to mea­sure blood pres­sure.\n\n2) SmartBP is NOT a substitute for a doctor or professional healthcare or advice. Any health related information provided is for informational purposes only and should not be used to replace the advice of healthcare professionals.\n\n3) SmartBP Cloud Sync is not a replacement for backing up your health data. While we strive for the highest data security, no measures can ensure 100% protection. Regular data backups are the user's responsibility.\n\nFor information on how to use the app, visit our website \n* Video: www.smartbp.app\n* FAQ: www.smartbp.app/faq \n\nFeatures- \n\n- Log your systolic, diastolic blood pressure, pulse rate and weight. Body mass index (BMI), pulse pressure (PP) and mean arterial pressure (MAP) is automatically calculated. You can manually enter measurements or seamlessly sync them with a supported Bluetooth BP monitors such as:\n* A&D \n* Omron \n* Beurer\n* Transtek\n\n- Quickly add notes (e.g. before dinner) and measurement information (e.g. sitting, left arm) using tags. \n\n- Store and access all your blood pressure measurements anywhere and anytime using Apple HealthKit. Avoid manual data entry and reduce errors by automatically uploading blood pressure measurements to HealthKit by auto-syncing with SmartBP. The following Blood Pressure Monitor Apps can connect to HealthKit (check for compatibility with different models): \n* A&D \n* Omron \n* QardioArm\n* iHealth\n* Withings\n\n- Share your blood pressure information with your doctor, healthcare provider or family using email, text message (SMS), Apple HealthKit. Create blood pressure reports in PDF format with blood pressure data, charts and stats and share with your doctor or healthcare provider. \n\n- View 7, 14, 30 day summary grouped by daily AM/PM averages and tags. Create, share and print summary PDF reports and CSV file.\n\n- Print PDF reports or charts directly\n\n- Analyze your progress through clear graphs and statistics (including mean and variability). Filter data using tags to assess lifestyle changes or medication effectiveness. Compare tagged graphs side by side and observe systolic vs. diastolic blood pressure correlations.\n\n- Track your Heart Rate trends\n\n- Sync ECG records\n\n- Back up your health data and access it on all your mobile devices with SmartBP Cloud.  This is an optional service. We do not sell your health data.\n\n- Sync directly between iPhone and iPad through Bluetooth or WiFi without sharing on the cloud.\n\n- Back up blood pressure data by exporting to Dropbox, and Drive, or import from CSV files into the app.\n\n- Protect your data with TouchID, FaceID or Pin keypad protection.\n\n- Set medication reminders & track effectiveness.\n\n- Intuitive color coded data to identify normal, prehypertensive, stage I and II hypertension. These limits can be modified. Categorize your records based on 2017 ACA/AHA, 2023 ESC/ESH or create your own custom categories.\n\n- Create multiple user profiles and manage them from a single app/device.\n\n- US and international height and weight units supported.",
+      "android_package_name": "com.blood.pressure.bptracker",
+      "ios_bundle_id": "com.evolvemedicalsystems.sbp",
+      "title": "Blood Pressure Monitor",
+      "domain_name": [
+        "https://www.smartbp.app",
+        "https://www.smartbp.app"
+      ],
+      "website": "https://www.smartbp.app",
+      "developer": "Evolve Medical Systems, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0vDhq3_jZGwoI_1el9xBjCjDU_BKhHxT0XdElIYITFj7KpL1wmawpzQwcIvB3xU3kHQ",
+      "icon_72": "https://play-lh.googleusercontent.com/0vDhq3_jZGwoI_1el9xBjCjDU_BKhHxT0XdElIYITFj7KpL1wmawpzQwcIvB3xU3kHQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.fitbit.FitbitMobile"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "See the big picture on your health and fitness journey with the Fitbit app. Find easy ways to get active, sleep better, stress less and eat healthier.\n\nTrack the stats you care about across health, fitness and sleep, and change your goals as your routines evolve. Stay motivated with energizing workout content for your body and mind. See how far you’ve come with a glance at your personal goal progress and how you stack up to friends and family. Unlock even more possibilities when you sync up with a wearable device like Fitbit tracker or smartwatch and see how your activity, sleep, nutrition and stress all fit together.\n\nGET MORE ACTIVE: See how small moves add up by using your smartphone to track steps and distance—or pair with a tracker or smartwatch to record your heart rate, Active Zone Minutes, calories burned and more. It’s a fitness planner in your pocket: Use the app as a diary to set goals and track your progress. It can help you stay active during the day, too. Check your hourly activity goal and get reminders to move or take a walk. Plus, that motivation you’ve been looking for is right in the app. Bring the gym home with a curated list of audio and video workouts that you can do at your own pace, right from your living room.* You’ll find sessions for HIIT, cardio, strength, running, biking, yoga and more.\n\nTRACK YOUR HEART HEALTH: Understand your overall health by using your watch or tracker to keep tabs on your heart rate 24/7. Monitor your heart rhythm and see your resting heart rate trends, plus time spent in heart rate zones during workouts.\n\nSLEEP BETTER: Find sleep tools to help you learn about your sleep quality and improve it—from  measuring your sleep duration and sleep stages to understanding your restless time. Set reminders for bedtime and wake-up time to keep your sleeping schedule managed.\n\nSTRESS LESS: Listen to audio sessions to lessen stress and improve your mood. Use mindfulness to start your day a better way, find moments of calm and set intentions with meditation or get help falling asleep with breathing exercises and relaxing sounds.*\n\nEAT SMARTER: Keep your diet in check with easy-to-use tools for setting goals. Tracking meals and logging food & water intake lets you see if you’re getting enough protein, fat, fiber and carbs on your way to managing your weight and overall health.\n\nEVEN MORE WITH FITBIT PREMIUM: Upgrade to Fitbit Premium and get all the guidance, insights and inspiration you need to take your workout routine to the next level. \n\n• Your Daily Readiness Score helps you understand when it’s time to go all out and when it’s time for rest & recovery—plus, you’ll get recommended workouts based on your body’s needs.\n• Get the support you need across a whole library of workouts to keep your mind and body fit—from strength training, HIIT and cycling to dance cardio, yoga, meditation and more—led by Fitbit’s expert trainers who are ready to coach.\n• Perfect your mindfulness practice with a full library of sessions that calm anxiety, prep for sleep and even help you meditate while walking. \n• Find new ways to rest & recover with your Sleep Score. Plus, check out your sleep patterns and monthly trends in your Sleep Profile.\n• Feed your appetite with access to easy, healthy recipes to help you reach your nutrition goals and bring your wellness full circle.\n\nTerms of Service: https://www.fitbit.com/global/us/legal/terms-of-service\n\n*A Fitbit Premium subscription is required to access the full content library.",
+      "android_package_name": "com.fitbit.FitbitMobile",
+      "ios_bundle_id": "com.fitbit.FitbitMobile",
+      "title": "Fitbit Health",
+      "domain_name": [
+        "https://www.fitbit.com",
+        "https://www.fitbit.com"
+      ],
+      "website": "https://www.fitbit.com",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QhMCymTyxJbzRiwMBA-GYooS-nVKm3fHg2CSRyKHvhmC-e5vOibfST73y1MmScvtPw",
+      "icon_72": "https://play-lh.googleusercontent.com/QhMCymTyxJbzRiwMBA-GYooS-nVKm3fHg2CSRyKHvhmC-e5vOibfST73y1MmScvtPw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cigna.mobile.envoy"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "The myCigna app gives you a new and improved way to easily access your important health information. You must be a Cigna customer to use the secure myCigna mobile app. Features available are based on the coverage you have with Cigna. \n\nHealthKit is integrated into myCigna in order to serve the ability to customize your Find Care and Telehealth experience. \n \nID Cards  \n•    Quickly view ID cards (front and back) \n•    Easily print, email, or share from your mobile device\n \nFind Care\n•    Search for a doctor, dentist, pharmacy or health care facility, from Cigna's national network and compare quality-of-care ratings and costs\n \nClaims\n•    View and search recent and past claims\n \nAccount Balances\n•    Access and view health fund balances\n \nPharmacy\n•    View and refill your prescriptions right from your mobile device\n•    Update billing and shipping preferences \n \nCoverage\n•    View plan coverage and authorizations\n•    Review plan deductibles and maximums\n•    Find what’s covered under your plan\n \nWellness \n•    View goal activity and awards\n\nLanguages Supported\n•    Spanish and English\n \nAbout Cigna\n \nMore than just a health insurance company, Cigna is a global health service company--dedicated to helping the people we serve improve their health, well-being and sense of security. We make this happen through a broad range of integrated health care and related plans and services, and proven health and well-being programs that are targeted to the unique needs of our customers, clients and partners.",
+      "android_package_name": "com.cigna.mobile.envoy",
+      "ios_bundle_id": "com.cigna.mobile.myCigna",
+      "title": "Cigna",
+      "domain_name": [],
+      "website": "",
+      "developer": "Connecticut General Life Insurance Company",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zHphdgFlnTanGxvMW-YKQ5K172-jP03mrnVR97HNFf62mg04zTWmX5Rhgh_Kfn44oA",
+      "icon_72": "https://play-lh.googleusercontent.com/zHphdgFlnTanGxvMW-YKQ5K172-jP03mrnVR97HNFf62mg04zTWmX5Rhgh_Kfn44oA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.lcs.mmp.lite"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Heads up! There's a new and improved version of this app named \"My Pain Diary: GOLD EDITION\".  \n\nFind it below in the 'Developer Apps' section or search for it by name.\n\nTrack your chronic pain, symptoms, triggers and more to create detailed reports you doctor will love! \n\n- \"My surgeon spotted something by looking at my graph and was able to diagnose another condition, which is now being treated.\" \n\nJoin more than 80,000 chronic pain sufferers who have better managed their pain and symptoms with My Pain Diary.\n\nCreated by a chronic pain patient to track, manage, and report on pain and symptoms.\n\nRecommended by doctors worldwide. As seen in USA Today. Award-winning app! Best App Ever Awards 2013 (Honorable Mention). Winter/Spring 2012 Web Health Award (Winner). \n\nSmart features such as automatic weather tracking and reminders make creating new entries a breeze. \n\n- \"What I like about this app is that you can completely tailor it to your needs, making it as simple or as complicated as you want. Sometimes I need to be extremely detailed; sometimes all I can bear to do is hit a number. It allows for that.\"\n\nThe interactive graph and color-coded calendar make it easy to spot patterns, trends, and correlations. \n\n- \"Helped me discover trends I would not otherwise have been aware of...\"\n\nMy Pain Diary can be customized to suit your tracking need regardless of your condition. The flexible nature of the app makes it perfect for tracking anything from headaches and migraines to Fibromyalgia and CRPS. \n\nUsers are successfully tracking more than 60 chronic pain conditions with My Pain Diary including: Fibro, MS, Headaches, Back Pain, Rheumatoid Arthritis, Endometriosis, Anxiety, Depression, Lupus, RSD, Crohn's and over 60 other chronic health conditions!\n\n\nWITH MY PAIN DIARY YOU CAN:\n\n - Track just about anything.\n \n - Learn how you are affected by weather. MPD automatically saves the following weather data with each new entry: humidity, barometric pressure, temperature, precipitation, cloud cover, wind speed and direction.\n\n - Identify triggers, remedies, patterns and trends. \n\n - Compare multiple conditions and metrics on a single, interactive graph which makes finding correlations easy.\n\n - Keep an accurate record of your condition for your doctor. \n\n - Email or print a report for you and your doctors.\n\n - Track your complex medical condition multiple times a day.\n\n\nPOPULAR FEATURES:\n\nUnlimited tracking:\nTrack unlimited conditions, symptoms, triggers ,etc. Track multiple times a day if needed. Create entries for dates in the past. Edit entries at any time.\n\nWeather tracking: \nWeather data is saved automatically with each new entry and can be compared against your pain using the interactive graphs.\n\nPhoto attachments: \nDocument your swelling, rash, discoloration, etc with photos. \n\nColor coded calendar: \nGet a sense of your progress with just a glance.\n\nInteractive graphs: \nOverlay various ‘metrics’ to get a whole new look at your pain. Want to see if that thing makes your pain worse? You can do that with the graphs. \n\nDoctor Reports: Detailed reports can be emailed or printed for you and your doctors. The PDF reports can be configured to suit your needs and optionally include a graph, photos, notes and weather data.\n\nEditable Pain Scale Descriptions: MPD comes with a pretty good default pain scale. However, you should consult with your doctor and replace it with their pain scale. \n\nPrivate Entries: \nFlag an entry as ‘Private’ and it will NOT show up on a Doctor’s Report. \n\nReminders: \nKeep consistent entries with the help of the built-in reminder system. \n\nPasscode Lock: \nGet an extra layer of security by locking MPD. A 4-digit pass will be required to access the data. \n\nDropbox Backup: Ensure you never lose your data. Regularly backup your entries to Dropbox.",
+      "android_package_name": "com.lcs.mmp.lite",
+      "ios_bundle_id": "com.damonlynn.mypaindiary",
+      "title": "Chronic Pain Tracker",
+      "domain_name": [
+        "http://www.facebook.com/mypaindiary",
+        "https://www.facebook.com"
+      ],
+      "website": "http://www.facebook.com/mypaindiary",
+      "developer": "Damon Lynn",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Zzk-S1StHZk_HFJwEjOREwr32_Igic0QVV3v4hqSs5QwjitDwfWI1Q5m88THdvY2cNE",
+      "icon_72": "https://play-lh.googleusercontent.com/Zzk-S1StHZk_HFJwEjOREwr32_Igic0QVV3v4hqSs5QwjitDwfWI1Q5m88THdvY2cNE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.prehabguys.prehabapp"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "A professional and indispensable toolset for modern day physical therapists. The app helps you:\n  - Increase efficiency,\n  - Simplify everyday tasks,\n  - Perform a variety of assessments,\n  - Impress and attract more patients,\n  - Explain diagnosis to patients,\n  - Build patients' confidence and trust.\n\nEasy to use and provides valuable information to both, practitioners and patients. The app includes:\n- Posture analysis\n- Functional Movement Screen (FMS) analysis\n- Simple and precise Range of Motion (ROM) measurement\n- Angles and ROM measurements on images\n- Motion analysis (angles, velocities, accelerations)\n- 10 meter walk test (or any other distance)\n- 6 minute walk test (or any other duration)\n\nPOSTURE ANALYSIS\nFast, easy and intuitive. Find imbalances and asymmetries. Analyze whole body posterior, anterior and lateral postures, or examine in greater detail specific points of interest - analyze head and neck in front and lateral views, analyze condition of patients with facial paralysis or look for trunk asymmetries indicating a scoliosis.\n\nRANGE OF MOTION\nState of the art goniometer for smart devices. Leave cumbersome goniometers in a drawer and use your device to measure ROMs. Unlike traditional goniometers and other apps, there is no need for perfect alignment - just place the device in a most convenient way you can, let a patient make a movement, read the results and compare them to reference values.\n\nMEASURE ANGLES ON IMAGES\nTake a picture of a patient or select an image from gallery, and measure ROM or any other angles directly on the image. Show the measurements to the patient to allow him to comprehend his condition better by inspecting visual evidence.\n\nFMS ANALYZER\nSome movement compensations can be missed even by an experienced therapist. Also, it is not always easy to explain to a patient the magnitude of spotted problems. Our FMS analyzer can provide you with objective measures of the correctness of the performed movement and any imbalances you might have spotted or even missed. Visualized results are appreciated by both, therapists and patients.\n\n6 MINUTE WALK TEST\nEnter a walkway length, tap 'Start', place the device in a patient's front pocket and come back in 6 minutes (or any other duration you set) for results. The app will calculate the walked distance, inform the patient when the time is out and allow you to enter parameters, such as blood pressure, BORG index, etc.\n\n10 METER WALK TEST\nPerform 10m walk test, or set the distance to any other arbitrary length. Perform multiple trials (if needed) of normal-comfortable speed and maximum speed walks. The app will calculate velocities for each trial as well as average of all trials and generate a report.\n\nMOTION ANALYSIS\nUse the device as a sensor to capture and analyze motions of interest - arm swings, trunk movements, weight lifting, squatting, ... The movement is charted in terms of angles, angular velocities and accelerations and linear velocities and accelerations. Use it in therapy, use it when working with sportsman, use it wherever you find it useful!\n\nHelp us get even better!\nYour opinion is very important to us so, please, feel to tell us what you think, what you like and what you don't like and what features you would like to see in the app: support@trinuslab.com\n\nFantastic app, but is it free?\nHuge resources were needed (and still are) to develop and support such an app so, unfortunately, we cannot give it for free. However, even for the smallest of therapist's practices the cost is negligible and benefits are countless. Your small support will enable us to continually improve the app!",
+      "android_package_name": "com.prehabguys.prehabapp",
+      "ios_bundle_id": "com.trinuslab.ios.physiomaster",
+      "title": "Physio - Physical Therapy",
+      "domain_name": [],
+      "website": "",
+      "developer": "TrinusLab d.o.o.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/o9aAvIbZt32rt6oq2wqSh3LsQmfpwV6H4115T2AqVCv5xe-M-AF3YTkBXyQIier71Jo",
+      "icon_72": "https://play-lh.googleusercontent.com/o9aAvIbZt32rt6oq2wqSh3LsQmfpwV6H4115T2AqVCv5xe-M-AF3YTkBXyQIier71Jo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.religare.healthinsurance"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "FEEL CONFIDENT IN YOUR SKIN WITH 15-MINUTE DAILY BEAUTY RITUALS\n\nLuvly is an all-in-one face yoga app that helps women look younger, feel healthier, and relaxed. \nTo give you the most expert and quality self-care courses, all our app content is created by professionals in the beauty industry, including yoga coaches, dermatologists, cosmetologists, and nutritionists. \nThe app won \"The Webby Awards\" in 2021 and received the Bronze Lovie Award and the People’s Lovie Award in 2024!\n\nAchieve your beauty goals quickly and safely with our experts’ insights into your skin’s unique needs.\n– Try personalized face yoga programs \n– Explore 100s of tried and tested exercises and massages  - for jawline, double chin, cheeks, forehead, etc.\n– Enjoy custom meal plans backed by professional nutritional experts\n– Get personalized skin care insights\n\nWhat’s inside?\nAd-free experience only! We care about improving your mental health through quality “me-time” with no interruptions.  Designed just for you,   we create custom expert content in key wellness areas, giving you the best self-care app.\n\nFACE YOGA EXERCISES\nLuvly uses a combination of highly personalized facial fitness massages to sculpt the perfect visage. Our tailored programs help women look younger and feel true serenity from within through the process of self-care.\n\nSKINCARE\nSkincare slows down the process of aging and brings peace of mind. Become the best version of yourself. Confident. Gorgeous. Happy. Tracking your course improvements is essential. Monitor the progress of your skin condition day by day directly in the app’s journal.\n\nCOSMETIC SCANNER\nCheck the ingredients in your beauty products. Get detailed ingredient reports of skin care products and stop buying harmful, toxic products that don't suit your skin.\n\nBREATHING EXERCISES\nWhen life is stressing you out, take some time for yourself. Follow Luvly’s special breathing exercises that bring you peace of mind. Eliminate the signs of aging and replace them with a younger, fresher you.\n\nMEAL PLANNER\nYou’ll be able to choose a personalized collection of healthy meal plans developed by professional nutritionists. The app also provides you with all the support you’ll need on your journey to a fresher face. Luvly will be by your side to help you unlock the wellness within.\n\nAI SKIN HELPER\nGet personalized advice on any skincare issue. Ask any question about your skincare routine, skin health, or concerns, and get personalized advice, backed by science.\n\nDownload now and let your inner beauty shine with Luvly!\n\nThe app contains the following subscription options:\n- 3 months without trial - 29.99$, 1 year without trial - 49.99$, 1 month with 3-day trial - 19.99$, 1 week with 3-day trial - 6.99$\n- Payment will be charged to the iTunes Account at confirmation of purchase.\n- Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.\n- The account is charged for renewal within 24 hours before the end of the current period.\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.\n- The renewal cost is equal to the value that “Apple’s App Store Matrix” determines as the equivalent of the subscription price in $USD.\n- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.\n\nDisclaimer\nLuvly’s content is not medical advice, a diagnosis, or a treatment plan for any facial skin condition. Your doctor or specialist should never substitute it for a treatment plan. If you are experiencing any medical skin conditions or have concerns, please consult your healthcare provider before commencing any program.\n\nPrivacy Policy: https://luvly.care/privacy-policy\nTerms of Service: https://luvly.care/terms-of-use\nOur website: https://luvly.care/",
+      "android_package_name": "com.religare.healthinsurance",
+      "ios_bundle_id": "com.harmonybit.face.yoga",
+      "title": "Lift Care",
+      "domain_name": [],
+      "website": "",
+      "developer": "Gismart Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZBdHZIdRgt-8pMRTHrSiJqLLQ_03SDr9LVfj_wZOUOgEb5CXA2_Dy-0pJdNKVicex-BS",
+      "icon_72": "https://play-lh.googleusercontent.com/ZBdHZIdRgt-8pMRTHrSiJqLLQ_03SDr9LVfj_wZOUOgEb5CXA2_Dy-0pJdNKVicex-BS=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.spruce.messenger"
+      },
+      "cat_key": "MEDICAL",
+      "cat_keys": [
+        "MEDICAL",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "Spruce is the leading platform for HIPAA-compliant communication and care outside of the exam room. Call, text, fax, secure message, video chat, and more—all from one secure app, with a unified team inbox. Designed for healthcare professionals and their patients, Spruce takes your clinical operations to the next level, with powerful, easy-to-use tools for team collaboration, panel management, telehealth, business phone functionality, and automated custom communications.\n\nHealthcare Professionals: Start your free 14-day trial today—no credit card required.\n\nPatients: Spruce is always free. Download to connect with your care team for secure messaging and telehealth.⁣⁣⁣\n\n— SPRUCE FOR HEALTHCARE PROFESSIONALS —\n• Get new phone and fax numbers, or transfer in your existing lines\n• Robust mobile and desktop apps\n• Built-in compliance: Automatic HIPAA BAA, two-factor login security, SOC 2 auditing, HITRUST certification, and automatic audit logging for communication read, write, and view\n• Advanced phone system: Phone trees, multiple lines, secure voicemail, automated transcription, VoIP, number sharing\n• Messaging and fax: Secure individual and group messaging, two-way SMS texting, secure two-way eFax\n• Telehealth: Secure video calling, as well as adaptive clinical questionnaires for patient intake and screening\n• After-hours: Automated schedules adjust your phone system and messaging to match your business hours\n• Automation: Save messages for reuse, schedule messages for future delivery, implement automatic message responses for common needs\n• Panel management: Contact and conversation tagging, patient list upload, advanced search, bulk messaging, and custom inbox configuration and communication routing for each team member\n• Team collaboration: Secure team chats, shared inboxes, internal notes, and @-paging bring the features of modern team software to the healthcare space\n• And more…!\n\n— SPRUCE FOR PATIENTS —\n• Sign in to a free and secure patient app, on mobile or desktop\n• Receive video calls from your care team\n• Send and receive secure messages, including photos\n• Receive alerts for new activity\n\nAsk your healthcare team for an invitation to connect on Spruce. If they're not on Spruce yet, ask them to sign up today!",
+      "android_package_name": "com.spruce.messenger",
+      "ios_bundle_id": "com.sprucehealth.messenger-live",
+      "title": "Spruce Health",
+      "domain_name": [
+        "https://www.sprucehealth.com",
+        "https://www.sprucehealth.com"
+      ],
+      "website": "https://www.sprucehealth.com",
+      "developer": "Spruce Health, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/PHY_vazU_gzzR-Glhnxvg2TjIFWxbdms7NXqQC6vfbKZ2Kfu2V7miSNIsP480dJkqw",
+      "icon_72": "https://play-lh.googleusercontent.com/PHY_vazU_gzzR-Glhnxvg2TjIFWxbdms7NXqQC6vfbKZ2Kfu2V7miSNIsP480dJkqw=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

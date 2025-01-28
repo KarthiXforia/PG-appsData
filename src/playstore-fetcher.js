@@ -7,10 +7,10 @@ const app = express();
 app.use(express.json());
 
 const APPS_CONFIG_PATH =
-  "/Users/xforiauser/Desktop/playstore-apps/utils/apps.json";
+  "/Users/Xforia-User/Documents/PG-appsData/utils/apps.json";
 const FAILED_APPS_PATH = "./failed_playstore_apps.json";
 const RESULT_PATH =
-  "/Users/xforiauser/Desktop/playstore-apps/utils/playstore-result.json";
+  "/Users/Xforia-User/Documents/PG-appsData/utils/playstore-result.json";
 
 async function loadAppsConfig() {
   try {

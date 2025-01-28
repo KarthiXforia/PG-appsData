@@ -1,0 +1,1379 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.duolingo"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn Math and Music the Duolingo way!  \n\nBuild real-world math skills – from calculating tips to identifying patterns – and sharpen your mental math in our Math course.\n\nLearn how to read music and play familiar songs on your device in our Music course – no instrument required.\n\nWhether you’re learning for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.\n\nWhy Duolingo?\n• Duolingo is fun and effective. Game-like lessons and fun characters keep you motivated to build solid skills across language, math and music.\n\n• Duolingo works. Designed by learning experts, Duolingo has a science-based teaching methodology proven to foster long-term knowledge retention.\n\n• Track your progress. Work toward your learning goals with playful rewards and achievements when you make practicing a daily habit!\n\n• Join 300+ million learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.\n\n• Every course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian. And now, learn Math and Music with our newest courses!\n\nWhat the world is saying about Duolingo:\n\n“Far and away the best language-learning app.” –The Wall Street Journal\n\n“This free app and website is among the most effective language-learning methods I’ve tried… lessons come in the form of brief challenges – speaking, translating, answering multiple-choice questions – that keep me coming back for more.” –The New York Times\n\n“Duolingo may hold the secret to the future of education.” – TIME Magazine\n\n“…Duolingo is cheerful, lighthearted and fun…” - Forbes\n\n“Our favorite language app…” - CNET\n\nIf you like Duolingo, try Super Duolingo for 14 days free! Learn a language fast with no ads, and get fun perks like Unlimited Hearts and Monthly Streak Repair.\n\nIf you choose to purchase Super Duolingo, payment will be charged to your Apple account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nPrivacy Policy: https://www.duolingo.com/privacy\nTerms of Service: https://www.duolingo.com/terms",
+      "android_package_name": "com.duolingo",
+      "ios_bundle_id": "com.duolingo.DuolingoMobile",
+      "title": "Duolingo",
+      "domain_name": [
+        "https://www.duolingo.com",
+        "https://www.duolingo.com"
+      ],
+      "website": "https://www.duolingo.com",
+      "developer": "Duolingo, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/8pKtLZZh7050RH3nFWK6R2RNSR9ltGKuW4NY0kh0NdxThqAYwNY0QnOLRswpNOnMpREw",
+      "icon_72": "https://play-lh.googleusercontent.com/8pKtLZZh7050RH3nFWK6R2RNSR9ltGKuW4NY0kh0NdxThqAYwNY0QnOLRswpNOnMpREw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.khanacademy.android"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "You can learn anything. For free.\n\nSpend an afternoon brushing up on statistics. Discover how the Krebs cycle works. Get a head start on next semester's geometry. Prepare for upcoming exams. Or, if you're feeling particularly adventurous, learn how fire-stick farming changes the landscape of Australia.\n\nWhether you're a student, teacher, homeschooler, principal, adult returning to the classroom after 20 years, or a friendly alien trying to get a leg up in earthly biology — Khan Academy's personalized learning library is available to you, for free.\n\n- Learn anything, for free: Thousands of interactive exercises, videos, and articles at your fingertips. Study math, science, economics, finance, grammar, history, government, politics, and much, much more.\n\n- Sharpen your skills: Practice exercises, quizzes, and tests with instant feedback and step-by-step hints. Follow along with what you're learning in school, or practice at your own pace.\n\n- Keep learning when you're offline: Bookmark and download your favorite content to watch videos without an internet connection.\n\n- Pick up where you left off: Tailored to your current learning level, our mastery system gives instant feedback and recommendations on exactly which skills and videos to try next. And, if you choose to create a free account, your learning syncs with http://khanacademy.org, so your progress is always up-to-date across all your devices. \n\nLearn using expert-created videos, interactive exercises, and in-depth articles in math (arithmetic, pre-algebra, algebra, geometry, trigonometry, statistics, calculus, differential equations, linear algebra), science (biology, chemistry, physics), economics (microeconomics, macroeconomics, finance and capital markets), humanities (art history, civics, finance, US history, US government and politics, world history), and more (including computer science principles)!\n\nAlready familiar with the Khan Academy website? Not all functionality is available in this app. Community discussions, computer programming content, test prep, parent tools, teacher tools, and district tools should all be accessed directly at http://khanacademy.org.\n\nKhan Academy is a 501(c)(3) nonprofit organization, with the mission of providing a free, world-class education for anyone, anywhere.",
+      "android_package_name": "org.khanacademy.android",
+      "ios_bundle_id": "org.khanacademy.Khan-Academy",
+      "title": "Khan Academy",
+      "domain_name": [
+        "https://www.khanacademy.org",
+        "https://www.khanacademy.org"
+      ],
+      "website": "https://www.khanacademy.org",
+      "developer": "Khan Academy",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/TpK0AcjPn5-XDKgSZ5jAob1H7MsQuJILOMR4M4QYkTt5CBPgTJVr7mysrKM6Ia8SrX8",
+      "icon_72": "https://play-lh.googleusercontent.com/TpK0AcjPn5-XDKgSZ5jAob1H7MsQuJILOMR4M4QYkTt5CBPgTJVr7mysrKM6Ia8SrX8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.classroom"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Classroom is a free service for schools, non-profits, and anyone with a personal Google account. Classroom makes it easy for learners and instructors to connect—inside and outside of schools. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate, and stay organized.\n\nClassroom is designed to help teachers create, collect, and grade assignments paperlessly, including time-saving features like the ability to automatically make a copy of a Google Document for each student. It also creates Drive folders for each assignment and for each student to help keep everyone organized.\n\nStudents can keep track of what’s due on the Assignments page and begin working with just a click. Teachers can quickly see who has or hasn't completed the work, and provide direct, real-time feedback and grades right in Classroom.\n\nWith the mobile app for iOS, students and teachers can view their classes and communicate with their classmates in real time. Students can open their assignments and work on them right from their iPhone or iPad. Teachers can keep track of who has turned in work and grade the assignment - at school or on the go. Students and teachers receive notifications when they have new content in Classroom, so they are always up to date.\n\nThere are many benefits of using Classroom:\n\nEasy to set up\nTeachers can add students directly or share a code with their class to join. It takes just minutes to set up.\n\nSaves time\nThe simple, paperless assignment workflow allows teachers to create, review, and grade assignments quickly, all in one place.\n\nImproves organization\nStudents can see all of their assignments on an assignments page, and all class materials (e.g., documents, photos, and videos) are automatically filed into folders in Google Drive.\n\nEnhances communication\nClassroom allows teachers to send announcements and start class discussions instantly. Students can share resources with each other or provide answers to questions on the stream.\n\nSecure\nLike the rest of Google Workspace for Education services, Classroom contains no ads, never uses your content or student data for advertising purposes.\n\nPermissions Notice:\nCamera: Needed to allow the user to take photos or videos and post them to Classroom.\nMicrophone: Needed to enable audio capture for recording videos to be posted to Classroom.\nPhotos: Needed to allow the user to attach photos or videos to Classroom. Photos or videos posted to Classroom will be stored on Google servers in order to show them in Classroom.",
+      "android_package_name": "com.google.android.apps.classroom",
+      "ios_bundle_id": "com.google.Classroom",
+      "title": "Google Classroom",
+      "domain_name": [
+        "https://www.google.com/edu/classroom",
+        "https://www.google.com"
+      ],
+      "website": "https://www.google.com/edu/classroom",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/w0s3au7cWptVf648ChCUP7sW6uzdwGFTSTenE178Tz87K_w1P1sFwI6h1CLZUlC2Ug",
+      "icon_72": "https://play-lh.googleusercontent.com/w0s3au7cWptVf648ChCUP7sW6uzdwGFTSTenE178Tz87K_w1P1sFwI6h1CLZUlC2Ug=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.quizlet.quizletandroid"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Welcome to a new era of AI-enhanced study with Quizlet. Immerse yourself in any subject imaginable, where you can choose from over 700 million digital flashcard sets or create your own. As the #1 AI-enhanced learning platform, Quizlet offers personalized quizzes and practice tests, expert-written homework solutions, and transformative AI study tools. Join a community of over 300 million learners who have improved their grades and achieved their goals with Quizlet.\n\nWith the Quizlet app, students and teachers can:\nUpload class notes to make flashcards, practice tests and essay prompts with Magic Notes\nCreate flashcard sets or search from millions of flashcards created by other students and teachers\nTurn flashcards into formative assessments or interactive flashcard games\nUse Learn and Test modes to transform flashcards into quizzes and practice tests \nRetain material for the long term with spaced repetition\nCrush tough homework with expert-written solutions\n\nDownload the app today and join a community of over 300 million global learners. \nUpgrade to Quizlet Plus and get complete access to homework help, personalized study modes and ad-free studying.\n\nWhat our students say when they leave 5-star reviews:\n\n“Best study app ever!!”\n“The only app I use when I need to get down to business.”\n“Quizlet is by far the best studying app I’ve downloaded. It’s packed full of different ways to study for upcoming tests!”\n \nQuizlet Plus subscriptions will be charged to your iTunes account. Your monthly or annual subscription automatically renews unless canceled at least 24 hours before the end of the current period. Manage your subscriptions in your Account Settings after purchase. \n\nTerms of Service: https://quizlet.com/tos\nPrivacy Policy: https://quizlet.com/privacy",
+      "android_package_name": "com.quizlet.quizletandroid",
+      "ios_bundle_id": "com.quizlet.quizlet",
+      "title": "Quizlet",
+      "domain_name": [
+        "https://quizlet.com",
+        "https://quizlet.com"
+      ],
+      "website": "https://quizlet.com",
+      "developer": "Quizlet Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hiQHKRhpuGu4pWAFhpto9H7qWKSdX-BjKbDAtZYgm_jfoD0cN7MCllGOn6L3XWo-6Q",
+      "icon_72": "https://play-lh.googleusercontent.com/hiQHKRhpuGu4pWAFhpto9H7qWKSdX-BjKbDAtZYgm_jfoD0cN7MCllGOn6L3XWo-6Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.microblink.photomath"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Photomath is known worldwide for helping millions of learners to learn, practice, and understand math – one step at a time. \n\nScan any math problem with the Photomath app to get step-by-step explanations with accurate solutions and a variety of teacher-approved methods. Math is about the process, so Photomath breaks your problem into bite-sized steps to help you understand the “what” and “why” along with the “how.” Whether you’re learning basic arithmetic or advanced geometry, we’ll tackle it together, step by step. \n\nWhy Photomath? \n\nBillions of math problems: From elementary arithmetic to advanced calculus and everything in between, Photomath can solve billions of math problems—including word problems! Whether handwritten, in a textbook, or on a screen, Photomath is here to help you untangle your trickiest problem.\n\nStep-by-step explanations: Math isn’t just about an answer. It’s about every step along the way. That’s why Photomath breaks down each step, so you can *really* learn. Less guesswork = less stress, especially with our new Animated Steps, which show you the exact progression of a particular step. Get basic step-by-step explanations at no charge when you download Photomath.\n\nExpert-developed methods: Photomath’s educational content is centered around the learner’s experience, driven by the expertise of our own team of mathematicians and former math teachers. \n\nSelf-paced learning: Photomath’s instant support is like having a 24/7 virtual tutor. Checking your homework before dinner? Stuck on a problem at 2am? We can help. Follow our detailed steps, taking whatever time you need to review definitions, rationale, and more – all within the explanation.\n\nWant to dive deeper and explore more ways to learn? Photomath Plus can get you there with custom Animated Tutorials, detailed Textbook Solutions, and more! \n\nKEY FEATURES\n• Step-by-step explanations included in our basic version (at no charge)\n• Word problem instructions\n• Interactive graphs\n• Video learning\n• Multiple solution methods\n• Advanced scientific calculator\n\nPhotomath is for learners of all levels, including those studying:\nNumbers & Quantity\nAlgebra\nFunctions\nTrigonometry & Angles\nSequences\nGeometry\nCalculus\n\n“The step-by-step guide is beneficial to students that do not have access to a tutor and struggle with solving math problems.” — Forbes\n\n“A viral video about a new app looks like a dream come true for anyone who struggles with math.” — Time\n___________________________________________\n\n• Payment will be charged to your Apple ID account at the confirmation of purchase. \n• A subscription automatically renews unless it’s canceled at least 24 hours before the end of the current billing period. \n• Your account will be charged for renewal within 24 hours prior to the end of the current period. \n• Manage or cancel your subscription in your account settings on the App Store after purchase. \n• Offers and pricing are subject to change without notice. \n\nSuggestions or questions? Email us at support@photomath.com \n\nWebsite: www.photomath.com\nTikTok: @photomath\nInstagram: @photomath \nFacebook: @Photomathapp \nTwitter: @Photomath \n\nTerms of Use: https://photomath.app/en/termsofuse \nPrivacy Policy: https://photomath.app/en/privacypolicy",
+      "android_package_name": "com.microblink.photomath",
+      "ios_bundle_id": "com.microblink.PhotoMath",
+      "title": "Photomath",
+      "domain_name": [
+        "http://www.photomath.com",
+        "https://www.photomath.com"
+      ],
+      "website": "http://www.photomath.com",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ma_HEbK1LzEoayR0tE0ZXqLopug69-dPspfCV36zzHOSuC0_i6mu5ulKz1eY7en-UM4",
+      "icon_72": "https://play-lh.googleusercontent.com/Ma_HEbK1LzEoayR0tE0ZXqLopug69-dPspfCV36zzHOSuC0_i6mu5ulKz1eY7en-UM4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.coursera.android"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Start, switch, or advance your career with more than 8,000 courses, hands-on projects, certificate programs, and degrees. Coursera partners with world-class companies and universities, so that you can learn with experts and build the most job-relevant, in-demand skills.\n\nWITH COURSERA YOU CAN:\n• Learn job-relevant skills and industry-standard tools through hands-on projects\n• Build knowledge for your career across a wide range of industry-tailored courses\n• Get job-ready for an in-demand role through Professional Certificates\n• Master a skill in a specific industry field with Specializations\n• Advance your career with a bachelor’s or master’s degree\n\nSO THAT YOU’LL BE ABLE TO:\n• Grow your career with confidence\n• Develop skills and credentials to stand out\n• Enjoy flexibility and control over your career\n\nWITH THE COURSERA APP YOU GET:\n• Flexible schedules and on-demand courses\n• Downloadable videos for offline viewing\n• Audio-only supported courses, so you can learn when and where you want\n• Mobile-friendly courses, so you can learn effectively on any device\n• Saved coursework, quizzes and projects across your desktop and mobile devices\n• Video subtitles for a variety of languages, including: Arabic, French, German, Indonesian, Japanese, Korean, Portuguese, Russian, Chinese, and Spanish\n\nPOPULAR COURSES:\n• Computer Science: Programming, Mobile and Web Development, Python\n• Data Science: Machine Learning, Probability and Statistics, Data Analysis\n• Business: Finance, Marketing, Entrepreneurship, Business Strategy, E-commerce, UX, Design\n• Information Technology: Cloud Computing, Support and Operations, Data Management, Security\n\nPROFESSIONAL CERTIFICATE PROGRAMS:\n• Front end developer, back-end developer, DevOps engineer\n• Data analyst, data scientist, data engineer, data warehouse developer\n• Project manager, UX designer, digital marketer, social media marketer, marketing analyst\n• IT support specialist, application developer, Cybersecurity analyst\n• Sales development representative, sales operations specialist bookkeeper, sales representative\n\nDEGREE CATEGORIES:\n• MBA and Business Degrees, Management Degrees\n• Computer Science and Engineering, Data Science, and Data Analytics\n• Social Science, Public Health\n\nGet to Know Us: http://www.coursera.org\nPrivacy Policy: https://www.coursera.org/about/privacy\nTerms of Service: https://www.coursera.org/about/terms",
+      "android_package_name": "org.coursera.android",
+      "ios_bundle_id": "org.coursera.coursera",
+      "title": "Coursera",
+      "domain_name": [
+        "https://www.coursera.org/about",
+        "https://www.coursera.org"
+      ],
+      "website": "https://www.coursera.org/about",
+      "developer": "Coursera, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/H8crzfriK6t5b0N5wXykhxMjPopyWGDZPaMJlvWlAKb7EG-26KGu15P_RnFDinBw1Jc",
+      "icon_72": "https://play-lh.googleusercontent.com/H8crzfriK6t5b0N5wXykhxMjPopyWGDZPaMJlvWlAKb7EG-26KGu15P_RnFDinBw1Jc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.edx.mobile"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "edX is the online learning platform that prepares you for every career moment. Register for free, and get immediate access to:\n\n* Education for every budget and background. Choose from thousands of courses and programs — from free courses to full degrees — that match your personal, professional, and financial needs.\n* World-class academic and industry partners. Discover immersive programs from Harvard, Amazon, Google, MIT, IBM, and hundreds of other exceptional institutions around the world.\n* Learning that drives meaningful career outcomes. Upskill in dozens of critical disciplines — like AI, supply chain management, and sustainability — to build a résumé-redefining skill set. \n\nIt’s never too late or too early to join edX. Our courses and programs meet you where you are in your professional trajectory. You can:\n\n* Switch industries. Launch, change, or advance your tech career with immersive boot camps.\n* Strengthen your résumé. Deepen your expertise and showcase your skills with professional certificate programs.\n* Level up as a leader. Learn to lead initiatives and teams with executive education programs. \n* Earn a degree. Unlock new career opportunities with master’s, doctorate, and undergraduate degree programs. \n\nMake your next career move on your schedule. With edX’s free mobile app, you can: \n\n* Stream online courses in AI, cybersecurity, data science, and more.\n* Download course materials and transcripts for uninterrupted access.\n* Test your knowledge with quizzes, assignments, and exams.\n* Discover and enroll in new courses and programs as your skills evolve.\n\nVisit: edx.org\nLike: facebook.com/edx\nFollow: x.com/edxonline and instagram.com/edxonline",
+      "android_package_name": "org.edx.mobile",
+      "ios_bundle_id": "org.edx.mobile",
+      "title": "edX",
+      "domain_name": [
+        "https://www.edx.org",
+        "https://www.edx.org"
+      ],
+      "website": "https://www.edx.org",
+      "developer": "edX LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/y7_Fws2dAIXamBjYWganflbhHmfZys7KUWCvDnvAey346BMLfB3NvuR4niv07EosJ9lE",
+      "icon_72": "https://play-lh.googleusercontent.com/y7_Fws2dAIXamBjYWganflbhHmfZys7KUWCvDnvAey346BMLfB3NvuR4niv07EosJ9lE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.udemy.android"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Skill up to success. Udemy is a leading  destination for online courses that empowers you to grow professionally and personally. Get the app to explore our expansive library of thousands of topics with cutting-edge online video courses in Coding, Development, Python, Java, Business, Marketing, SEO, SEM, Design, Drawing, Photography, and much more.\n\nTap into knowledge from around the world by learning from real-world experts. With courses in over 75 languages, you’ll probably find the right course for your goals.\n\nHere’s what makes learning with the Udemy app so valuable:\n\nLEARN OFFLINE: Download courses and learn even when your internet connection is unreliable\n\nLEARN ON THE BIG SCREEN: Watch courses with AirPlay and Chromecast\n\nDARK MODE: Stay focused in any lighting condition\n\nLEARNING REMINDERS: Build your learning routine with customized push notifications that fit your schedule\n\nNOTES: Maximize your learning by taking notes and adding bookmarks to remember more of what you learned\n\nQUIZZES: Take in-course quizzes to reinforce your learning\n\nQ&A: Ask instructors your burning questions to increase your knowledge or get a little extra help\n\nPICTURE IN PICTURE: Watch courses and practice skills at the same time\n\nMULTITASKING: Watch courses and take notes from your iPad. Ask questions from a single screen\n\nLIFETIME ACCESS: Take courses on your schedule. Revisit them as needed.\n\nMany instructors update courses (at no extra cost) to bring you the latest knowledge as it becomes available. Making learning with us a short- and long-term investment in your success.\n\nOther popular topics people are learning to achieve their goals:\nApp Development: iOS, Swift, Java, Kotlin\nData Science: R, Machine Learning, Artificial Intelligence\nMarketing: Mobile, Social Media, SEM, SEO\nArt, Music, Drawing, Photography, Health & Fitness\n\nLearners around the world trust Udemy to launch new careers, advance in their current fields, and reap the benefits of lifelong learning.\n\nTake control of your future with online courses that deliver practical, professional skills. Prepare for certification exams in IT, Project Management, and more. Earn certificates of completion for paid courses to showcase on your resume or impress in your next interview.\n\nJoin millions of learners around the globe and improve your life through learning!",
+      "android_package_name": "com.udemy.android",
+      "ios_bundle_id": "com.udemy",
+      "title": "Udemy",
+      "domain_name": [
+        "http://www.udemy.com",
+        "https://www.udemy.com"
+      ],
+      "website": "http://www.udemy.com",
+      "developer": "Udemy Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/dsCkmJE2Fa8IjyXERAcwc5YeQ8_NvbZ4_OI8LgqyjILpXUfS5YhEcnAMajKPrZI-og",
+      "icon_72": "https://play-lh.googleusercontent.com/dsCkmJE2Fa8IjyXERAcwc5YeQ8_NvbZ4_OI8LgqyjILpXUfS5YhEcnAMajKPrZI-og=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.skillshare.Skillshare"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Explore your creativity on Skillshare, the leading learning app for online courses where millions of creatives come together. Take the next step in your creative journey with thousands of inspiring classes on topics like drawing, animation, creative writing, and much more. With Skillshare you’ll take online classes hand-in-hand with leading professionals that will teach you to use the tools you need to excel in any creative endeavor.\n\nDiscover lessons in everything from calligraphy and graphic design to photography and arts and crafts. Watch thousands of online classes on the creative education app made for everyone – whether it’s a hobby or professional pursuit.\n\nWith Skillshare you’ll learn to use essential art tools like Procreate, Fresco, Illustrator, and Photoshop to polish your creative skills with the latest in industry tech. Learn piano, a new language, or digital marketing – the possibilities are endless. Discover online courses for the talent you’ve always wanted to develop with Skillshare today\n\nStart your creative career and download Skillshare now.\n\nSKILLSHARE FEATURES\n\nPROFESSIONALLY LED LESSONS\n- Discover hundreds of free classes and start learning as soon as you download\n- Find online courses that teach everything – from public speaking and art design to how to draw\n- Explore guided lessons that help teach the creative skills you’ve always wanted to develop\n\nEXPLORE ONLINE CLASSES FOR ALL CREATIVE NEEDS\nDevelop your skills in:\n- Drawing\n- Calligraphy\n- Graphic Design\n- Photography\n- Animation\n- Arts & Crafts\n- Illustration\n- Hand Lettering\n- Pattern Design\n- Icon Design\n- Watercolor\n- Music\n- Animation\n- Creative Writing\n- Digital Marketing\n- and more!\n\nTHE ON THE GO EDUCATION APP\n- Sync your progress across multiple devices for seamless learning\n- Skillshare is the learning app that goes where you go, with convenient offline viewing when needed\n- Multitask with a mini viewer to keep your lessons going and get more done\n\nDownload Skillshare today and watch hundreds of free online classes to kickstart your creative journey. Start your free trial of Skillshare Premium to get unlimited access to our full library of premium, subscription-only classes. As a Skillshare Premium Member, you can also download classes to watch offline.\n\nQuestions? Suggestions? Feel free to email us at help@skillshare.com.\n\nTERMS\n\nAfter your 30 day trial, payment will automatically be charged to your iTunes Account. Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period. Your subscription and auto-renewal settings are managed via your iTunes Account Settings. For further information please refer to our privacy policy (https://www.skillshare.com/ss/privacy) and terms of use (https://www.skillshare.com/ss/terms).",
+      "android_package_name": "com.skillshare.Skillshare",
+      "ios_bundle_id": "com.skillshare.Skillshare",
+      "title": "Skillshare",
+      "domain_name": [],
+      "website": "",
+      "developer": "Skillshare, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Lfh8g5kPONfSNL7R4s8itnMMdj3lhmHU9tb4gp7eoOaXkJo0dOcwB6iWPdNGZMRDMVs",
+      "icon_72": "https://play-lh.googleusercontent.com/Lfh8g5kPONfSNL7R4s8itnMMdj3lhmHU9tb4gp7eoOaXkJo0dOcwB6iWPdNGZMRDMVs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ted.android"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Get personalized recommendations that match your unique interests, or browse TED’s library of thousands of inspiring, informative, transformational videos for free.\n\nFeatures on iPhone, iPad and iPod touch:\n\n・Sign in to get personalized recommendations and sync videos across all your devices\n・Watch videos with subtitles in over 100 languages\n・Check out the newest and trending videos, browse by topic, or select from our curators’ picks\n・Stream videos to your Apple TV with AirPlay\n・Download videos to watch offline\n・Add talks your list to watch later\n・Toggle between dark mode or light modes\n・Get instant inspiration with the “Surprise Me!” feature\n\nGet the TED app to stay curious, informed and inspired.",
+      "android_package_name": "com.ted.android",
+      "ios_bundle_id": "com.ted.TED",
+      "title": "TED",
+      "domain_name": [
+        "https://www.ted.com",
+        "https://www.ted.com"
+      ],
+      "website": "https://www.ted.com",
+      "developer": "TED Conferences LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/rcI6L8JBagw27bBiS-sjTAxdurhdf-bWLcTQVH6gjYHym3Nf0VOhyzOdzaEYM9NTBXxk",
+      "icon_72": "https://play-lh.googleusercontent.com/rcI6L8JBagw27bBiS-sjTAxdurhdf-bWLcTQVH6gjYHym3Nf0VOhyzOdzaEYM9NTBXxk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.chegg"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Get ready for exam season with the Chegg Study® app. \n\nUsed by millions of students, the Chegg Study app is the homework helper which offers school help and personalized support for each of your courses—from homework to exam prep, study your courses inside-out and learn your own way. Tap into our huge library of millions of fully explained, step-by-step solutions, and flashcards for subjects including Math, English, Physics, Engineering, Chemistry, and more.  \n\nGet school help for 80 subjects and hundreds of courses and flashcards. The Chegg Study app is the homework helper that has you covered for your toughest concepts, classes, and assignments, for school. \n\nNow with AI solutions backed by experts you can get your homework help even quicker and boost your education using the latest technology. \n\nGet 24/7 study help and expert Q&A responses. Snap or scan a pic of any homework question and submit it with our question scanner to our Chegg experts. You will get detailed solved answers in as little as 30 minutes.* \n\nGet unstuck and be your own problem solver, learn about tough concepts with detailed explanations, solutions, and answers provided. \nSearch our library of over 60 million fully solved homework questions. See how to solve them with our question scanner feature. \nTake control of your education and learn at your own rate and in your own style. With Chegg there are a variety of ways to study your courses so you can learn and have fun at the same time!\n\nThe fine print: \nYour Chegg Study subscription will be charged to your credit card through your iTunes account. Subscription automatically renews unless auto-renew is turned off at least 24 hours prior to the end of the current subscription period. Your account will be charged for renewal within the 24 hours prior to the end of your current subscription period. You can manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. \nFor bug reports and general feedback, email cheggstudy.appsupport@chegg.com or tweet @Chegg #iOSapp. \n\nPrivacy Policy: http://www.chegg.com/privacypolicy/ \nTerms of use: http://www.chegg.com/termsofuse/ \n\n *Experts’ response time for answers and solutions varies by question and subject. Average response time is 46 minutes. \n **Available for select problems only.",
+      "android_package_name": "com.chegg",
+      "ios_bundle_id": "com.chegg.mobile.consumer",
+      "title": "Chegg Study",
+      "domain_name": [
+        "http://www.chegg.com",
+        "https://www.chegg.com"
+      ],
+      "website": "http://www.chegg.com",
+      "developer": "Chegg, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/MRFoeH2ytWajpVulg3b6mxt-2OiyrGkhV1Kht-R3Ejlbtl4TY8aCItZS0p5z8ivGHkhH",
+      "icon_72": "https://play-lh.googleusercontent.com/MRFoeH2ytWajpVulg3b6mxt-2OiyrGkhV1Kht-R3Ejlbtl4TY8aCItZS0p5z8ivGHkhH=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.duolingo.literacy"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "From the creators behind Duolingo, the world’s #1 education app, comes Duolingo ABC! Duolingo ABC is the fun, hands-on way for your child to learn to read!\n \nFrom preschool to second grade, engage kids with interactive stories and over 700 hands-on lessons. Duolingo ABC offers bite-sized lessons to help kids learn the alphabet, phonics, sight words, vocabulary, and more! Lessons also include multi-sensory activities, such as tracing, drag-and-drop prompts and more.\n \nInteractive stories will teach kids to read and build fluency. Delightful stories include engaging imagery while reading words aloud to kids and highlighting each word spoken. This utilizes multi-sensory learning, and can help your child learn to read independently.\n \nFun mini games and rewards work in tandem with the bite-sized lessons, keeping kids motivated to learn while building their confidence.\n \nDuolingo ABC helps kids have fun while they sound out words, practice reading and writing in English, and build reading literacy skills for a lifetime!!\n\nDUOLINGO ABC FEATURES:\n \nLessons & Stories:\n- Engage kids in hands-on learning they will love!\n- New lessons are added often, so there is always something new to discover!\n- Bite-sized lessons help kids learn phonics, sight words & vocabulary\n- Enjoy fun activities like letter tracing and interactive stories, suitable for even the youngest learners\n- Kids will love, play and learn from Duolingo ABC’s cast of characters!\n\nDesigned For Kids, By Experts:\n- Designed by literacy & early-education experts to develop kids’ skills in phonics, sight words, reading & more\n- Lessons are built to feel like a game, mixing learning with fun!\n- Get children excited to learn with mini games & rewards to stay motivated and keep going\n- Thoughtfully designed learning sequences will build confidence in your kids with each success!\n\nKid-Safe & Ad-Free\n- Rest easy, parents: There are no ads or in-app purchases to worry about\n- Age appropriate content: content is focused on preschool, kindergarten and first and second grade level lessons\n\nOffline Learning\n- On a plane? At a restaurant? Duolingo ABC can be used anytime, anywhere\n- Enjoy playing and learning offline - so kids can learn wherever you go\n \nDuolingo ABC is an educational learning app that offers immersive lessons to teach preschool to second grade kids reading fundamentals.\n\n--\n\nPrivacy Policy: https://www.duolingo.com/privacy\nTerms of Service: https://www.duolingo.com/terms",
+      "android_package_name": "com.duolingo.literacy",
+      "ios_bundle_id": "com.duolingo.literacy",
+      "title": "Duolingo ABC",
+      "domain_name": [
+        "https://www.duolingo.com",
+        "https://www.duolingo.com"
+      ],
+      "website": "https://www.duolingo.com",
+      "developer": "Duolingo, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gnhFgUBwTzfRhBsNnkEHiY68xmYVlovPF9COih3ASF1Q48qPlWTOkyDyh27u10NXXNg",
+      "icon_72": "https://play-lh.googleusercontent.com/gnhFgUBwTzfRhBsNnkEHiY68xmYVlovPF9COih3ASF1Q48qPlWTOkyDyh27u10NXXNg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.babbel.mobile.android.en"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Millions of people are learning languages with Babbel — the language app built by language experts. Why Babbel? Our short, interactive lessons rethink old-school language education to get you speaking a new language with confidence!\n\n\nBABBEL WORKS:\n\n• Efficacy backed by researchers at Yale University: \n100% of study participants improved their oral proficiency in 3 months*\n\n• After 10 hours with Babbel, Michigan State University researchers found:\n96% of learners saw better test scores on grammar and vocabulary\n73% of study participants became better speakers**\n\n====================\n\nOur language experts build every language course tailored to your native language. This way you learn Spanish and 13 more languages quickly and effectively.\n\nTRY BABBEL – DOWNLOAD THE APP AND TAKE A FREE LESSON\n\n====================\n\nLEARN 14 LANGUAGES:\n\nIt's not just a Spanish learning app! Learn French, Italian, German, Portuguese, Russian, Polish, Turkish, Norwegian, Danish, Swedish, Dutch, Indonesian, and English.\n\n====================\n\nWhy are Americans learning languages with the Babbel language app?\n\nSHORT, EFFECTIVE LESSONS\nEasy to fit language lessons into your day\n\nLESSONS FOR EVERY SITUATION\nFor travel, work, and more\n\nLISTEN, SPEAK, WRITE\nWell-rounded language practice\n\nPERFECT YOUR PRONUNCIATION\nSophisticated speech-recognition technology\n\nRETAIN WHAT YOU LEARN\nReview feature that’s optimized to help you retain knowledge\n\nLEARN GRAMMAR IN CONTEXT\nUseful tips & tricks as you learn\n\nOVER 5,000 LANGUAGE COURSES\nLearn Spanish and 13 other languages with in-depth content, including more than 60,000 language lessons\n\nOFFLINE MODE\nDownload lessons and learn anywhere\n\n====================\n\nRead Babbel Magazine to get tips, tricks, and interesting facts about how to learn languages:\n* Babbel Magazine: https://www.babbel.com/en/magazine\n\nFollow us on social media for tips on language learning!\n* Instagram: https://www.instagram.com/babbelusa\n* Facebook: https://www.facebook.com/Babbel.usa\n\n====================\n\nYou will need a subscription in order to get access to the full learning materials for one language. Each subscription will be automatically renewed unless auto-renew is turned off at least 24 hours before the end of the current payment period. Your iTunes account will be automatically charged at the same price for renewal within the 24-hour period prior to the end of the current payment period unless you change your subscription preferences in your iTunes Account Settings. When a subscription is canceled, access to the app’s courses and features will expire at the end of the current payment period.\n\nYou'll get access to all courses for the following durations:\n\n1 month\n3 months\n6 months\n12 months\n\nPrivacy policy: https://about.babbel.com/en/privacy/\nTerms of use: https://about.babbel.com/en/terms/\n\nCONTACT US:\n\nIdeas, comments, or feedback? Email us at support-mobile@babbel.com\n\n\nSTART YOUR LANGUAGE LEARNING JOURNEY TODAY:\n\nLearn Spanish (Latin American or Spain)\nLearn French\nLearn Italian\nLearn English (American or British)\nLearn German\nLearn Russian\nLearn Polish\nLearn Portuguese\nLearn Turkish\nLearn Norwegian\nLearn Danish\nLearn Swedish\nLearn Dutch\nLearn Indonesian\n\n\n\n*Based on a study conducted with Babbel users learning Spanish. Van Deusen-Scholl, N., Lubrano, M.J. (both Yale University) & Sporn, Z. (Babbel), 2019. \"Measuring Babbel’s Efficacy in Developing Oral Proficiency.\"\n\n**Based on a study conducted with Babbel users learning Spanish. Loewen, S., Isbell (both Michigan State University) & Sporn. Z (Babbel), 2018. “Learning Spanish with Babbel: Oral Proficiency Outcome in App-Based Foreign Language Learning”.",
+      "android_package_name": "com.babbel.mobile.android.en",
+      "ios_bundle_id": "com.babbel.babbelMulti",
+      "title": "Babbel",
+      "domain_name": [
+        "https://www.babbel.com",
+        "https://www.babbel.com"
+      ],
+      "website": "https://www.babbel.com",
+      "developer": "Babbel GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/BGCEUH1msmPLk8lag0lDg-snDbFANRalI3WBAYD5IQvnNZG-KlC8_SNsUaB9bC-lBA0Z",
+      "icon_72": "https://play-lh.googleusercontent.com/BGCEUH1msmPLk8lag0lDg-snDbFANRalI3WBAYD5IQvnNZG-KlC8_SNsUaB9bC-lBA0Z=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "linguado.com.linguado"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Is your goal to ACTUALLY SPEAK a new language? Millions of people have learned to SPEAK a new language with Pimsleur - the scientifically proven language learning app.\n \nPimsleur is uniquely focused on conversational language skills, unlike many other language apps. Our focus is on the language learner’s conversational goals, so we won’t have you matching words and images on a screen, we actually teach you how to speak from day 1. You will be able to hold your first conversation within 30 minutes!\n\nTHE PIMSLEUR METHOD: \nFor 50 years, we’ve been helping people rapidly learn languages in 30 days. Do you want to learn Spanish for your trip to Mexico? Do you want to learn Japanese for a trip to Tokyo? Pimsleur is the language learning app for you. And best of all, you can learn Japanese, Spanish, French, and more … while driving, at the gym, or while cooking dinner. No Internet needed with offline mode. Plus the built-in hands-free mode makes it easy to learn a new language anywhere, anytime, even in the car!\n\nPimsleur language courses are available for 51 languages, so you can learn Japanese, Spanish, French, Italian, German, Chinese Mandarin, Korean, Norwegian, Hebrew, Tagalog, Hindi, Arabic, Portuguese, Russian and English.\n\nPimsleur also integrates beautifully with the Amazon Alexa for working through lessons at home.\n\nTRY IT FREE:\nDownload the app and try a free lesson today in one of 51 languages. Discover why we’ve been in business for 50 years!\n\nPIMSLEUR PREMIUM APP FEATURES:\n\nCORE CONVERSATIONAL LESSONS\nEnjoy the enhanced continuity of 30-minute Pimsleur conversational lessons you can take anywhere, or do at home with Alexa.\n\nREADING LESSONS\nLearn to read your new language – easily, but not at the expense of your goal of speaking the language!\n\nSPEAK EASY CHALLENGE\nRole-play while reviewing written transcripts of the conversations.\n\nDIGITAL FLASH CARDS\nPractice vocabulary and dive deeper into the written language.\n\nSKILLS CATEGORIES\nReview and practice sentences and phrases by topic.\n\nSKILL-BUILDING TOOLS\nRelax, have fun, and test your new skills with the Quick Match and Speed Round.\n\nSYNC PROGRESS\nLearning stays on track as your progress is automatically synched across all your mobile devices including Amazon Echo.\n\nUNINTERRUPTED LEARNING\nStream or download and listen offline. There are no ads. You listen and learn without interruptions.\n\n*Not all features are available for all languages. For more information or a complete list of languages, please visit our website.\n\nCHOOSE FROM 51 LANGUAGES\nLearn Spanish, French, Japanese, German, Italian, Brazilian Portuguese, Russian, Hebrew, Korean, Mandarin, Chinese, Arabic, Turkish, Polish, English, Indonesian, Dutch, Danish, Swedish, Polish, Farsi, Greek, Tagalog, Norwegian, Thai, Finnish, Czech, and many more.\n\nYour Privacy Choices: https://simon-privacy.my.onetrust.com/webform/42b48037-2185-4e2d-96d2-a4301bbc3f8a/b3c0395b-4ed8-404f-b14b-3d388bec653d\nCalifornia Notice: https://www.pimsleur.com/c/privacy-policy#US\n\nSUBSCRIPTION PRICING AND TERMS:\nPimsleur Terms of Use: https://www.pimsleur.com/c/terms-of-use#_Toc1489408\nPimsleur Privacy Policy: https://www.pimsleur.com/c/privacy-policy",
+      "android_package_name": "linguado.com.linguado",
+      "ios_bundle_id": "com.simonandschuster.pimsleur.unified.ios",
+      "title": "Lingoda",
+      "domain_name": [
+        "https://www.pimsleur.com",
+        "https://www.pimsleur.com"
+      ],
+      "website": "https://www.pimsleur.com",
+      "developer": "Simon & Schuster",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0lLOSthJsRiJo63iK95J7Ee0FHyDOzPW0oEt9afExf3vxWyp1leSOIRNHt9VMUOqzLE",
+      "icon_72": "https://play-lh.googleusercontent.com/0lLOSthJsRiJo63iK95J7Ee0FHyDOzPW0oEt9afExf3vxWyp1leSOIRNHt9VMUOqzLE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.magoosh.gre"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Get Ready for the GRE with Magoosh – Your Best Study Partner!\n\nMagoosh has helped millions of students ace the Graduate Record Examination (GRE), and our app is updated and ready for the new Shorter GRE format. With Magoosh, you get a straightforward and effective way to prepare for your GRE test, right from your phone or tablet.\n====\n\nReal Practice, Real Progress\n• Practice with over 1600+ GRE questions, including Official Practice Questions from Educational Testing Service (ETS), the makers of the GRE. This means you get to study with material that's just like the real test.\n • Every question has a video explanation, helping you understand the concept quickly.\n\nVideos That Teach You Fast\n • Watch over 250 video lessons on Math, Verbal, and Writing. These lessons make hard topics easy.\n • Keep track of what you learn with our progress tracker.\n\nStudy Your Way, Anywhere\n • Choose how you want to study with different schedules.\n • Read helpful articles and get support from tutors.\n • Use our app offline to keep studying no matter where you are.\n\nWhy Choose Magoosh for GRE Prep?\n • Proven Success: Millions have used our apps to prepare for the GRE.\n • Real Test Questions: Practice with questions just like those on the actual GRE.\n • Easy to Use: Our app makes studying simple and keeps you motivated.\n • Start studying with Magoosh today and take a step closer to the GRE score you need. \n\nIt's your time to shine!",
+      "android_package_name": "com.magoosh.gre",
+      "ios_bundle_id": "com.magoosh.gre.Magoosh",
+      "title": "Magoosh GRE Prep",
+      "domain_name": [
+        "https://magoosh.com",
+        "https://magoosh.com"
+      ],
+      "website": "https://magoosh.com",
+      "developer": "Magoosh",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1W60B9Vio6WFYRLmchuS1ELLIkb4b5aiJtffFJ2XZ4dHgL95folOZzW53Yd5wPJZLn8",
+      "icon_72": "https://play-lh.googleusercontent.com/1W60B9Vio6WFYRLmchuS1ELLIkb4b5aiJtffFJ2XZ4dHgL95folOZzW53Yd5wPJZLn8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.brilliant.android"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Sharpen your math, data, and computer science skills in minutes a day with Brilliant. For professionals, students, and lifelong learners alike—Brilliant is the best way to learn. Join over 10 million people and explore thousands of bite-size, interactive lessons that get you hand-on with core concepts in everything from math and computer science to data analysis and physical science.\n\nBrilliant’s team of award-winning teachers and researchers build interactive lessons on a world of STEM topics. Build math skills with intro to advanced courses covering algebra, geometry, calculus, probability and statistics, trigonometry, linear algebra, and more. Explore cutting-edge topics like AI, neural networks, algorithms, python, quantum mechanics, and beyond. Whatever math, data, computer science, or science topic you’re looking to skill up in—Brilliant’s got you covered. Do the first chapter of any course for free – and get access to all courses with a Premium subscription.\n\nBRILLIANT IS THE BEST WAY TO LEARN\n\n- Effective, hands-on learning\n\nVisual, interactive lessons make concepts feel intuitive — so even complex ideas just click. Our real-time feedback and simple explanations make learning efficient. Research shows that interactive learning is 6x more effective than watching lecture videos.\n\n- Guided bite-size lessons\n\nBrilliant makes it easy to stay on track, see your progress, and level up in as little as 15 minutes a day by building your problem-solving skills one concept at a time.\n\n- Learn at your level\n\nProfessionals, students, and lifelong learners alike can hone dormant skills or learn new ones. Progress through lessons and challenges tailored to your level. Explore intro to advanced courses in algebra, geometry, calculus, logic, statistics and probability, scientific thinking, physics, quantum mechanics, AI, neural networks, algorithms, python, and beyond.\n\n- Stay motivated\n\nForm a real learning habit with fun content that’s always well-paced, game-like progress tracking, and friendly reminders.\n\nWHAT ARE PEOPLE SAYING ABOUT BRILLIANT?\n\n“Brilliant has taught me mathematical concepts that I previously struggled to understand. I now feel confident approaching both technical job interviews and real world problem-solving situations.” —Jacob S.\n\n“I am using this app while taking CS classes and it often does a better job at explaining concepts than my professors.” — Erald C.\n\n“Well-organized, well-explained, well-designed. Brilliant is absolutely a good choice if you want to learn or relearn anything objective.” - Joel M.\n\nSend feedback to ios@brilliant.org.\n\nLIKE US: https://facebook.com/brilliantorg\n\nFOLLOW US: https://twitter.com/brilliantorg\n\nYou can review our privacy policy here (https://brilliant.org/privacy_policy/) and our terms of use here (https://brilliant.org/terms-of-use/) (the terms of use are better reading in our opinion).",
+      "android_package_name": "org.brilliant.android",
+      "ios_bundle_id": "com.brilliant.Brilliant",
+      "title": "Brilliant",
+      "domain_name": [
+        "https://brilliant.org",
+        "https://brilliant.org"
+      ],
+      "website": "https://brilliant.org",
+      "developer": "Brilliant Worldwide, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/DM7xNDj3WrHQHAdxY-fMhTqMbVViBbNsnBFW8QTHsgXRGEnZIASe65pLjIh6_UtIhsg",
+      "icon_72": "https://play-lh.googleusercontent.com/DM7xNDj3WrHQHAdxY-fMhTqMbVViBbNsnBFW8QTHsgXRGEnZIASe65pLjIh6_UtIhsg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.yanka.mc"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "LEARN FROM THE BEST. BECOME YOUR BEST. \nCook like a pro, write a book, sell a TV show, run a company, and more. Get access to insights and guidance from renowned icons, artists, and legends. \n\n200+ INSTRUCTORS\nLearn from today’s most brilliant minds with classes on writing, business, arts & entertainment, food, home & lifestyle, sports & gaming, music, and more. \n\nTHOUSANDS OF LESSONS\nEach class is broken up into bite-sized lessons—so you can watch at your own pace or binge all at once. \n\nACCESSIBLE ANYWHERE\nWatch at home or on the go on your iPhone, iPad, Mac, or Apple TV. Download select classes to watch offline or listen in audio mode.\n\nTHE WORLD’S BEST CHEFS | Gordon Ramsay, Roy Choi, Dominique Crenn, Yotam Ottolenghi, Madhur Jaffrey, Thomas Keller, and more. \n\nTHE WORLD’S BEST CREATIVES | Anna Wintour, David Lynch, Helen Mirren, Jodie Foster, Spike Lee, Neil Gaiman, Shonda Rhimes, Steve Martin, Timbaland, and more.\n\nTHE WORLD’S BEST LEADERS | Bob Iger, Sir Richard Branson, Howard Shultz, Cornel West, Indra Nooyi, Melinda French Gates, Kris Jenner, Malala, and more.  \n\nAND MORE\nRobin Roberts, Jane Goodall, Ron Finley, Matthew Walker, Serena Williams, Lewis Hamilton, Samuel L. Jackson, Kim Scott—and many more—added regularly.\n\n\nANNUAL MEMBERSHIP TERMS\nThe annual membership is an auto-renewing subscription plan. By signing up, you agree to the Terms of Service, Privacy Policy, and applicable notices below. Your Apple account will be charged the noted amount for the first year and will be charged annually thereafter at the then-current rate unless you cancel before the end of the current period. No refunds for partially unused periods. To cancel or update payment information, go to your App Store Subscriptions.\n\nSee our Privacy Policy at https://www.masterclass.com/privacy\nSee our Terms of Service at https://www.masterclass.com/terms\nCA Privacy Notice: https://www.masterclass.com/privacy/states#california\nFor CA residents: Do Not Sell My Info: https://www.masterclass.com/privacy/states#do-not-sell",
+      "android_package_name": "com.yanka.mc",
+      "ios_bundle_id": "com.masterclass.production",
+      "title": "MasterClass",
+      "domain_name": [],
+      "website": "",
+      "developer": "Yanka Industries, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/f9VJeBoXbPy6liy6hID6qv-uKNQ5U4q55FHz3akcdgYSwMmB2GRQwM-5rW2XTQvDdQfN",
+      "icon_72": "https://play-lh.googleusercontent.com/f9VJeBoXbPy6liy6hID6qv-uKNQ5U4q55FHz3akcdgYSwMmB2GRQwM-5rW2XTQvDdQfN=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.memrise.android.memrisecompanion"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Over 75 million people learn a language with Memrise because it goes beyond teaching you a language—it brings you the experience of real-life conversations, cultural insights, and the confidence to speak like a local.\n\nLearn Spanish, Korean, Japanese or 34 other languages in lessons that teach you vocabulary, listening and speaking as if you were a local living in the country!\n\nChoose a language from Spanish (MEX & EU), Korean, Japanese, English, French, Italian, Portuguese (PT & BR), German, Polish, Russian, Turkish, Arabic, Chinese, Dutch, Danish, Icelandic, Mongolian, Norwegian, Slovenian, Yoruba, Hindi, Ukrainian, Thai, Swahili, Hebrew, Greek, Indonesian, Welsh, Tagalog, Persian, Vietnamese.\n\nNEW languages added: isiXhosa, Hausa, Igbo and Somali!\n\n* Showing you how to piece together natural sentences, preparing you for everyday conversation\n* Giving you a place to practice role-play and gain confidence\n* Teaching you the cultural nuances you need to feel like a local\n\nMemrise is the best language-learning app for beginners that are starting to learn a language from scratch, intermediate learners that want to build on their listening and speaking, and advanced learners who are looking to improve their conversational skills.\n\nDownload Memrise so that you can confidently:\n\n* Connect with your partner and their family\n* Have a better time while travelling\n* Sharpen your mind if you’re learning a language for brain health\n* Prepare for a language exam\n* Connect with work colleagues\n* Better understand different cultures\n\nHow do we help you have conversations in other languages?\n\n* Choose from hundreds of real-life scenarios\n* Build vocab by learning relevant words & phrases the locals actually use\n* Practice listening to native speaker videos using what you’ve just learned\n* Then build confidence speaking with AI Buddies, your personalised language learning bots\n\n- Helping 75+ million learners speak confidently\n- 190,000 4.6 star ratings\n- Featured in BBC World Service, Forbes, The Verge, The Financial Times, and more\n\nWhat other learners are saying\n\n\"I've been using Memrise for about two years, studying European Portuguese. I have the paid version - it's a solid learning tool, and it has been my primary resource ever since got it. I find the Learn with Locals feature to be especially useful, more so as my Portuguese improves. My wife and I spent a couple of weeks in Portugal a few months ago, and we were able to handle all of our transactions - stores, restaurants, markets, car rental, etc!\" - Voloúre\n\nNeed to speak a new language soon? Get the practice you need with Memrise Pro\n\n- Unlock all vocab lessons\n- Unlock all native speaker videos\n- Unlimited speaking practice\n- Ad free\n\nCompare with our Free Plan\n- Limited vocab lessons\n- Limited videos and conversations\n- Ads\n\nDownload our app for free and start learning with Memrise today: Learn French, Spanish (Spain), Spanish (Mexico), German, Korean, Japanese, Japanese (no script), Turkish, Italian, Chinese (simplified), Dutch, Portuguese (Portugal), Portuguese (Brazil), Russian, Swedish, Norwegian, Polish, Danish, Slovenian, Icelandic, Yoruba, Mongolian, English (UK) and English (US)! \n\n------\n*PLEASE READ: A Memrise Pro subscription are designed for Memrise-approved courses. A subscription is required in order to access all our learning features. These features may vary depending on your device's language and language pair. Once purchased, subscriptions will automatically renew unless cancelled before the end of the current payment period. Subscriptions can be managed or cancelled in your Apple App Store account. In-app Permissions – To enable some of the features of the Memrise app we may need to ask for your permission. For example, we'll ask to access your microphone if you'd like to practice your pronunciation skills. You can change permissions at any time in your settings. \n\nPrivacy Policy: https://www.memrise.com/privacy/  \nTerms of Use: https://www.memrise.com/terms/",
+      "android_package_name": "com.memrise.android.memrisecompanion",
+      "ios_bundle_id": "com.memrise.ios.memrisecompanion",
+      "title": "Memrise",
+      "domain_name": [
+        "https://www.memrise.com",
+        "https://www.memrise.com"
+      ],
+      "website": "https://www.memrise.com",
+      "developer": "Memrise Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/eooMtOtVjJzq7fCS4G--Iy3jY8QvFEzdsoWMcO5Z_mJOilep2Wu_aZLJjTP9SOF_9jU",
+      "icon_72": "https://play-lh.googleusercontent.com/eooMtOtVjJzq7fCS4G--Iy3jY8QvFEzdsoWMcO5Z_mJOilep2Wu_aZLJjTP9SOF_9jU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.byjus.thelearningapp"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "The BYJU'S Learning App featuring Disney is an award-winning math, language and reading app for kids in preschool to grade 3. Concepts are made simple and fun as your child embarks on this guided learning adventure alongside Disney and Pixar characters.\n\nA personalized learning adventure:\nPowered by the recommendation engine, the app takes kids on personalized journeys where they can discover activities based on their interests, learning style, and pace, while engaging in educational games and fun videos in math, language and reading. \n\nAligned to state & national standards-based curriculum:\nOur multi-subject educational app helps kids build on the skills they learn in school and is filled with educational games, fun videos, and activities made specifically for kids in preschool to 3rd grade. \n\nBuild skills in math, language and reading:\nVocabulary, grammar, and reading comprehension are just a few of the skills your child can develop. Kids can practice foundational concepts like addition, subtraction and fractions, develop problem-solving skills, and foster critical thinking. \n \nMATH\nNumber sense\nSpatial Reasoning\nPatterns\nAddition/Subtraction\nMultiplication/Division\nFractions\nTime & Money\nMeasurement\n \nLANGUAGE & READING\nParts of Speech\nListening\nFluency \nWord families\nPhonics\nVocabulary\nGrammar\nComprehension\n \nExtend the learning with our Magic Workbooks:\nUse the app on its own or pair it with BYJU’S Magic Workbooks featuring Disney using an iPad for an active learning experience.\nVisit https://www.byjuslearning.com/products/byjus-leaning-app-magic-workbooks to learn more.\n\nFeatures:\n- A guided learning adventure featuring iconic Disney and Pixar characters like Buzz Lightyear, Elsa, Lightning McQueen, and more\n- Personalized recommendations based on your child’s interests, learning style, and pace\n- A library of 2,500+ activities including video lessons, learning games, and engaging stories personalized to your child’s grade level\n- Progress reports that give you a real-time overview of your child’s learning journey\n- Parent-child activities that enable you to actively participate in your child’s learning adventures \n- Create up to 3 kids’ profiles with one account. You can select any grade across Pre-K to Grade 3 for each profile\n\nTry free for 7 days!\n\n- Choose from a monthly subscription @ $9.99, or an annual subscription @ $99.99\n- Get the first 7 days free with any subscription plan. Billing starts at the end of your free trial period. You incur no charges if you cancel your subscription within the free trial period\n- You can subscribe with your iTunes account to unlock unlimited access to our library at any time. Your subscription will automatically be renewed at the end of the billing period and the account will be charged within 24 hours prior to the end of the billing period\n- Your subscription can be canceled anytime through your iTunes account \n- For more details, please read our terms and conditions: https://dbel-us.byjus.com/legal/terms-of-service.html \n- The BYJU'S Learning App featuring Disney includes BYJU’S original content and content licensed by Disney.\n\nAbout BYJU’S\n \nFeatured in the TIME 100 Most Influential Companies 2021 list, BYJU’S is an education technology company transforming the way children learn. By combining innovative technology with visually-rich content, BYJU’S programs are personalized to suit every child’s learning style, fueling a love of learning and making them active, life-long learners.",
+      "android_package_name": "com.byjus.thelearningapp",
+      "ios_bundle_id": "com.tangibleplay.k3us",
+      "title": "BYJU’S",
+      "domain_name": [
+        "http://www.playosmo.com",
+        "https://www.playosmo.com"
+      ],
+      "website": "http://www.playosmo.com",
+      "developer": "Tangible Play Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7Ce16xDkZW-GmTSjvcfhBFQwe67Uu79Hzr-M4JAfvvq7qX_cTPsl7TcbhFZeW3MdpUGm",
+      "icon_72": "https://play-lh.googleusercontent.com/7Ce16xDkZW-GmTSjvcfhBFQwe67Uu79Hzr-M4JAfvvq7qX_cTPsl7TcbhFZeW3MdpUGm=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.linkedin.android.learning"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Achieve your next career goal with LinkedIn Learning—the only skill development platform based on the real-time skill and career insights from LinkedIn.\n\nWith the LinkedIn Learning app, you can:\n• Learn from industry experts on the most in-demand business, tech, and creative skills\n• Get personalized content recommendations based on your skills and goals\n• Stay up-to-date on the latest skills with new courses added weekly\n• Learn the way you want online or offline—with bite-sized video, audio, or full course options\n• Start learning a little bit every day with Daily\n• Earn Professional Certificates and Continuing Education Credits\n• Add certificates of completion to your LinkedIn profile \n• Learn in the language that's best for you, including English, German, French, Spanish, Japanese, Chinese, Portuguese, Dutch, Indonesian, Polish, Turkish, and Korean\n\nTrending topics include:\n• Artificial intelligence and generative AI\n• Business productivity and software\n• Cybersecurity\n• Diversity, equity, and inclusion\n• Leadership and management\n• Software development\n\n\nThe LinkedIn Learning app is free to download. With a subscription, you can access our full library as well as LinkedIn Premium networking tools. \n\nIf you choose to subscribe, your subscription will automatically renew and will charge your credit card through iTunes account, unless auto-renew is turned off at least 24-hours before the end of the current period. You can turn off auto-renew at any time from your iTunes account settings.\n\n\nLinkedIn is committed to making its products and features accessible. Please find our statements to support this commitment https://linkedin.com/accessibility/reports.\n\nLinkedIn privacy policy: https://linkedin.com/legal/privacy-policy\nLinkedIn terms of use: https://linkedin.com/legal/user-agreement",
+      "android_package_name": "com.linkedin.android.learning",
+      "ios_bundle_id": "com.linkedin.Learning",
+      "title": "LinkedIn Learning",
+      "domain_name": [
+        "https://www.linkedin.com/learning",
+        "https://www.linkedin.com"
+      ],
+      "website": "https://www.linkedin.com/learning",
+      "developer": "LinkedIn Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/_rscxiBBXosch987Y2RJjgeVzhCoewK_0IXsrIKFKKVAaXRqZaVXcSgap7uwM4-fbck",
+      "icon_72": "https://play-lh.googleusercontent.com/_rscxiBBXosch987Y2RJjgeVzhCoewK_0IXsrIKFKKVAaXRqZaVXcSgap7uwM4-fbck=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.preply"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Learn any language in 1-on-1 lessons and get fluent with the best language tutor for you, no matter if you want to learn Spanish, French, Arabic, or any of the other 50 available languages! Match with your ideal tutor, someone who you connect with, who truly understands your language goals, and who is excited to see you succeed. Book your first lesson and start seeing the progress you've been looking for!\n\nLearn any of the following languages (more than 50 available!): \n\n• Spanish\n• Italian\n• French\n• Arabic\n• Chinese\n• Korean\n• Russian\n... and many more!\n\nLearn a language that suits your individual needs:\nChoose how much you want to spend, when you'd like to learn, and what goals you're looking to achieve: The more you filter the list, the better selection of tutors you'll have for your specific needs. \n\nMatch with your tutor! A personalized list of tutors will come up for you:\nTake a look at their introduction video in their profile, other students' reviews, and much more to help you pick the right one! \n\nDetermine the goals of the individual lessons together:\nBook a first lesson with your favorite tutor where you can discuss your goals, talk about who you are, and get to know each other. A first lesson is the perfect opportunity to start building a connection with your tutor and find out how they can support your language learning journey.\nYour tutor will develop a fully personalized learning plan, so you can really notice the results! \n\nKeep track of your progress:\nThis is when the real fun begins! It's time to start seeing the progress lesson by lesson and to notice yourself getting better every single day. \n\nPractice outside of class using the Preply app:\nPractice beyond lessons using Preply's app, where you can work on your vocabulary and language exercises. The best thing about learning with Preply is that your learning experience goes way beyond your 1-on-1 lessons. With features like the Vocab tool, Study Time Calculator, or the Language Placement Test, you can keep improving at your own pace and learn in the way that makes you feel good. \n\nAnd the best part? You can take your lessons with you wherever you want with the Preply app! It's convenient, easy to use, and, most importantly, the most effective way to learn a language. \n\nWhether you're aiming for your next big career move, you want to move countries, travel the world, understand your colleagues or friends, or you simply want to speak a new language fearlessly, then choose your ideal Preply tutor. \n\nSpeaking a new language is life-changing. We've got the best tutors from all over the world to help you achieve your goals.\n\nReady to get started? Find your best tutor today, and get fluent in no time.",
+      "android_package_name": "com.preply",
+      "ios_bundle_id": "com.preply",
+      "title": "Preply",
+      "domain_name": [
+        "https://preply.com",
+        "https://preply.com"
+      ],
+      "website": "https://preply.com",
+      "developer": "PREPLY, INC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/YyPdn2yPp5Mt2YDhe1eQaV2uZDxVMEjH5xNbzFLLyHgCrbqE3302dSm0F1iEacYiKXs",
+      "icon_72": "https://play-lh.googleusercontent.com/YyPdn2yPp5Mt2YDhe1eQaV2uZDxVMEjH5xNbzFLLyHgCrbqE3302dSm0F1iEacYiKXs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.classdojo.android"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "It’s time to build better classrooms. \n\nClass Dojo is a game-changing platform designed for teachers, parents and kids. The end goal? Giving kids an education they love. Here’s how.\n\n* Teachers and parents can safely and easily communicate throughout the school day\n* Parents get photo and video updates from their child’s teacher, so they can feel like they’re there \n* Kids get fun learning content at school and at home \n* Everyone stays in the know on the latest and greatest school news and updates.\n *Did we mention it’s free? \n\nJoin the millions strong in 180 countries that are making their classrooms feel more like communities. \n\n\"I’ve divided my time teaching as B.C. and A.C.: before ClassDojo, and after ClassDojo. I never want to go back!\" — Jen E., an elementary school teacher\n\nThe Plus Experience\nWhen parents start using ClassDojo and are ready for more of what they love, there’s ClassDojo Plus—more memories, more moments, more milestones. And yes, more answers to “how was school today?”\n\nTerms of use:\nhttps://www.classdojo.com/terms\n\nPrivacy policy:\nhttps://www.classdojo.com/privacy",
+      "android_package_name": "com.classdojo.android",
+      "ios_bundle_id": "com.ClassDojo",
+      "title": "ClassDojo",
+      "domain_name": [
+        "https://www.classdojo.com",
+        "https://www.classdojo.com"
+      ],
+      "website": "https://www.classdojo.com",
+      "developer": "ClassDojo, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gKVjyfeXOCb1JBdDuQvhudzGG2tWmTS27A6DSn66GPU3HyVnAsm_u8M8-yrcfCBbgwQ",
+      "icon_72": "https://play-lh.googleusercontent.com/gKVjyfeXOCb1JBdDuQvhudzGG2tWmTS27A6DSn66GPU3HyVnAsm_u8M8-yrcfCBbgwQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.socrative.teacher"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Socrative is the best classroom app for formative assessment, empowering teachers to quiz and grade at the speed of learning, from any device, in class or remotely.\n\nSimple and reliable, Socrative is trusted by millions of educators around the world to deliver effective assessments to learners at every level.\n\nWith instant feedback, you can identify knowledge gaps, engage your students more effectively, and adjust teaching on-the-fly to close feedback loops faster.\n\n- Flexible & engaging assessment tools: quickly create, manage, share a library of activities, and send customized quizzes directly to students, all in one simple platform.\n- Easy-to-create virtual rooms: easily set up rostered rooms for classes or individual activities, and invite students with simple and secure login options. \n- Automatic grading: with real-time marking and result reporting, it’s never been easier to visualize student learning so you can engage your learners, quickly adapt lessons or revisit concepts in the moment, and spend less time grading assignments.\n- Powerful real-time reporting: download detailed student and question-level quiz reports to share with students or colleagues, and make communication a breeze with automatic distribution of quiz results to students. \n\nSocrative is available for download on all major digital devices, and for use on all major browsers. You can use Socrative on smartphones, tablets, laptops, and desktop computers.\n\nSocrative is 100% free for students to use, on all devices.",
+      "android_package_name": "com.socrative.teacher",
+      "ios_bundle_id": "com.socrative.socrativeTeacher",
+      "title": "Socrative Teacher",
+      "domain_name": [
+        "https://socrative.com",
+        "https://socrative.com"
+      ],
+      "website": "https://socrative.com",
+      "developer": "Showbie Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qWgEBAfmOmyquM8mv0vNM9Ws3u0ndNUkfNt4hWwPw8Ia_aWvKSIz3Y2vyXDjY_QR9hU",
+      "icon_72": "https://play-lh.googleusercontent.com/qWgEBAfmOmyquM8mv0vNM9Ws3u0ndNUkfNt4hWwPw8Ia_aWvKSIz3Y2vyXDjY_QR9hU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "seesaw.shadowpuppet.co.classroom"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Beloved by teachers around the world, Seesaw is the only educational platform built specifically to address the unique needs of elementary classrooms. Seesaw brings together high-quality instruction, authentic assessments that drive deep learning insights, and inclusive communication – in one place. With Seesaw, students have the power to show their thinking and share their learning, ideas and creativity with their teachers and families. \n\nUsed by 10M teachers, students and families in over a third of elementary schools in the US. Beyond the US, Seesaw is used in over 130 countries!\n\nTeachers love Seesaw—out of 1000 teachers surveyed, 92% said Seesaw makes their lives easier. \n\nBuilt on extensive educational research, Seesaw is validated by industry-leading third-party LearnPlatform as a designated evidence-based intervention, eligible for ESSA Federal Funding with Tier IV designation. \n\nAwarded the ISTE Seal of Alignment. Grounded in learning science research and based on practitioner experience, the ISTE Standards ensure that using technology for learning can create high-impact, sustainable, scalable and equitable learning experiences for all learners. \n\nHigh Quality Instruction\n- Enable teachers to deliver high-quality, standards-aligned instruction that encourages student voice and choice\n- Multimodal tools make learning accessible and engaging. Tools include video, voice, screen recording, photos, drawing, labeling and more!\n- Present to Class mode designed for front of class modeling, whole class instruction and discussions \n- Assign activities to all students for center/stations work or whole class independent work. Use student groups to easily differentiate assignments \n- Over 1600 research-based and ready-to-teach lessons created by Seesaw’s curriculum experts with whole group instruction videos, 1:1 or small group practice activities and formative assessments. Includes robust lesson plans to support teacher implementation. \n- 100k ready-to-assign activities created by our community of educators and 1600+ ready-to-teach scaffolded lessons \n\nInclusive Family Engagement \n- Engage families as partners in the learning process through inclusive two-way communication though portfolios and messages  \n- Provide a window into the classroom and insight into their child's progress with frequent sharing of student posts and assignments \n- Robust messaging with built-in translation into over 100 home languages \n- Message Progress Reports to families to keep them informed \n\nDigital Portfolios \n- Capture learning completed within and outside of Seesaw through digital portfolios that showcase student growth.\n- Organize student work by folder and skill \n- Simplify parent-teacher conferences and report cards \n\nAssessment to Support Data-Driven Decisions  \n- Routinely assess student learning to glean meaningful insights into their understanding and make data-informed instructional decisions \n- Formative assessments with auto-graded questions provided detailed and actionable reporting \n- Tie skills and standards to activities for easy progress monitoring of key learning objectives \n\nAccessible and Differentiated Learning \n- Enable developmentally appropriate, accessible, and differentiated instruction to reach and engage all learners  \n\nSeesaw is COPPA, FERPA and GDPR compliant. Learn more at web.seesaw.me/privacy\n\nNeed help? Visit our Help Center at help.seesaw.me.",
+      "android_package_name": "seesaw.shadowpuppet.co.classroom",
+      "ios_bundle_id": "me.see-saw.classroom",
+      "title": "Seesaw",
+      "domain_name": [
+        "https://seesaw.com",
+        "https://seesaw.com"
+      ],
+      "website": "https://seesaw.com",
+      "developer": "Seesaw Learning, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/IAt2jQc4H7nj1kdXqlq3yFv9sA3lblL-A7R-Ou2NYXAwcoxIbEUbFqyHcjvFMUe4upI",
+      "icon_72": "https://play-lh.googleusercontent.com/IAt2jQc4H7nj1kdXqlq3yFv9sA3lblL-A7R-Ou2NYXAwcoxIbEUbFqyHcjvFMUe4upI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.merriamwebster"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Reference",
+      "description": "Get America’s most useful and respected dictionary, optimized for your iPhone, iPad, and Apple Watch. Continuously updated with the newest words and meanings, this is the premier iOS app for English language reference, education, and vocabulary building. \n \nAnd now we’ve added new word games! It’s never been more fun to learn new words and test your vocabulary for everyone from English learners to total word nerds. Hundreds of words to test your skills.\n \nOffline access: You’ll have complete access to definitions and synonyms whether or not you’re connected.\n \nFeatures: \n \n* Universal App\n* New Vocabulary-Building Quizzes: fun, fast quizzes to learn new words or test your vocabulary\n* Additional resources available with in-app purchases\n* Voice Search: look up a word without having to spell it\n* Word of the Day: learn a new word every day\n* Integrated Thesaurus: more than 200,000 word choices with examples of their use\n* Example Sentences: understand how a word is used in context\n* Audio Pronunciations: voiced by real English speakers, not text-to-speech robots\n* Favorite Words and Search History: keep track of the words that are most important to you\n* Favorite Word Syncing Through iCloud: share your favorites between devices\n* For Tablets: browse the entire dictionary with a scrolling index\n* Apple Watch Extension: see the Word of the Day and find watch-sized definitions with voice search\n \nFully featured and absolutely free, this app is supported by ads. You can remove ads for $2.99 per year with an in-app purchase charged to your iTunes account or $5.99 per year with additional resources. Prices vary by location. Your subscription will automatically renew unless cancelled at least 24 hours before the end of the subscription period. You can manage your subscription in your account settings.\n\nTerms of Use: https://www.merriam-webster.com/terms-of-use",
+      "android_package_name": "com.merriamwebster",
+      "ios_bundle_id": "com.m-w.dictionary",
+      "title": "Merriam-Webster Dictionary",
+      "domain_name": [
+        "http://www.merriam-webster.com",
+        "https://www.merriam-webster.com"
+      ],
+      "website": "http://www.merriam-webster.com",
+      "developer": "Merriam-Webster, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KPfzAySglb5tjz93jwKTDZdKE0D-97yMRLhwLGc7h-MDJeyr0m-uAyJRKOmLTCRFo50",
+      "icon_72": "https://play-lh.googleusercontent.com/KPfzAySglb5tjz93jwKTDZdKE0D-97yMRLhwLGc7h-MDJeyr0m-uAyJRKOmLTCRFo50=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.quizizz_mobile"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Use the Quizizz app to learn anything, anywhere. You can study on your own or engage in group quizzes, assignments, and presentations—in person and remotely. Quizizz is used by more than 70 million people per month in schools, homes, and offices around the world.\n\nOur app is designed to help you participate in group activities and study on your own. \n\nAt home and in the classroom:\n\n- Join a game with your class\n- Study on your own with millions of quizzes covering every subject.\n- See questions and answer options on your own device.\n- Challenge your friends for instant study groups.\n- Find free quizzes on mathematics, English, science, history, geography, languages, and general knowledge topics.\n\n\nAt work:\n\n- Participate in training sessions and compete with your peers\n- Get the data to see what you know now, and what you need to review.\n- Respond to live presentations and polls\n- Complete surveys and eLearning.\n\n\nFrom the Quizizz Community:\n\n\"Wow! Students wanted to do a quiz on @quizizz over again. They never ask to do a worksheet over again.\" \n— Nora, High School Math Teacher\n\n\"My 3rd graders absolutely loved using @quizizz today to review for their geography test. They asked to play another round! \" \n— Katie, Student Teacher.\n\n\"This is the best website EVER!\" \n— 4th grade student at Home Brink Elementary\n \n\nTried our app already? Share feedback at app_support@quizizz.com.\n\nIf you really like us, please share the love with a review.",
+      "android_package_name": "com.quizizz_mobile",
+      "ios_bundle_id": "com.quizizz.game",
+      "title": "Quizizz",
+      "domain_name": [
+        "https://quizizz.com",
+        "https://quizizz.com"
+      ],
+      "website": "https://quizizz.com",
+      "developer": "Quizizz Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/T8OESpLf0MfFAM20udw6PyOXNGORyJ2fjfAZNMCsOEmr62nn4PvUGbCgis7PUE5LeA",
+      "icon_72": "https://play-lh.googleusercontent.com/T8OESpLf0MfFAM20udw6PyOXNGORyJ2fjfAZNMCsOEmr62nn4PvUGbCgis7PUE5LeA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bagatrix.mathway.android"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Mathway is the world’s smartest math calculator for algebra, graphing, calculus and more! Mathway gives you unlimited access to math solutions that can help you understand complex concepts. Simply point your camera and snap a photo or type your math homework question for step-by-step answers.\n\n\nIf a premium subscription option is selected:\n• Payment will be charged to iTunes Account at confirmation of purchase\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n• Account will be charged for renewal within 24-hours prior to the end of the current period, at the same monthly or annual rate selected at the beginning of the subscription\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n\n\nTerms of Use: https://www.mathway.com/terms\nPrivacy Policy: https://www.mathway.com/privacy",
+      "android_package_name": "com.bagatrix.mathway.android",
+      "ios_bundle_id": "com.bagatrix.mathway",
+      "title": "Mathway",
+      "domain_name": [
+        "https://www.mathway.com/about",
+        "https://www.mathway.com"
+      ],
+      "website": "https://www.mathway.com/about",
+      "developer": "Chegg, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FCMEORLhwFpdp0NpgdjkDatyAB3SIN8C29m2Cmm935oY45z45pm_gDH_nbMdmTsmRg",
+      "icon_72": "https://play-lh.googleusercontent.com/FCMEORLhwFpdp0NpgdjkDatyAB3SIN8C29m2Cmm935oY45z45pm_gDH_nbMdmTsmRg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "jp.gocro.smartnews.android"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "At SmartNews, we simplify how you read news. Get access to trustworthy articles from your favorite publishers for free. Stay connected to the world around you through vetted content covering everything from politics and health to sports and entertainment.\n\nRead news from premium publishers: Bloomberg, The Atlantic, USA Today, TIME, The Huffington Post, Bleacher Report, Quartz, The Verge, LAT, VOX, AP, Reuters, Buzzfeed, Fast Company.\n\nSTART YOUR DAY WITH SMARTTAKE \nEscape misinformation and stress with SmartTake, a free daily digest of unique and balanced information. Curated by our award-winning editors, SmartTake offers quality\n updates on global, local, entertainment, sports, politics, and health, helping you keep it light and feel good about being informed.\n\nPolitics\n-  Get prepared for the elections, polls, and debates with balanced stories across the political spectrum from Democrat to Republican.\n- Understand candidates, ballot measures, debates, results, and city council elections near you.\n-Find voter information, campaign finance stories, verified election reports, and expert election analysis you can trust.\n\nQuality \n-We partner with thousands of trusted publishers for balanced news.\n-Our award-winning journalists validate content to ensure it meets our high-quality\n requirements.\n- Read trustworthy breaking coverage for your area for free.\n\nEntertainment  \n-Get an inside look at entertainment.\n-Discover top movies or TV shows with your favorite actors. \n-Follow entertainment topics so you never miss a story.\n\nLocal \n-Get informative stories from quality publishers based on your location. \n-See the latest local government coverage in your hometown \n-Discover local updates, traffic, events, local weather, new restaurants, family activities, politics, school boards, and more.\n\nSports\n-Get daily articles highlighting the latest games, teams, players, and sporting events.\n-Set notifications for your favorite teams.\n-See breaking news about football, basketball, golf, tennis, soccer, and more.\n\nHealth\n-Discover the healthcare news that impacts you all in one free app. \n-See what experts say about wellness, aging, and mental health from top publishers.\n-Follow stories about pain relief updates, exercise trends, and home remedies. \n\n***\nIN THE PRESS\n\n“Browse headlines quickly, customize your channels, and read the news offline. SmartNews is an excellent free alternative to other popular news apps.”\n- CNET\n\n***\nAWARDS\n\nBest Local News App, 2024 (US)\nBestapp\n\nBest News Aggregator, 2023 (US)\nLifewire\n\nBest News App, 2023  (US)\nAndroidCentral\n\n***\nREVIEWS\n\n“Better than Feedly or Flipboard. Love it!” Joe C.\n\n“Much better than the new version of Apple News.” - Donald B.\n\n“Been using Google News but this is better. Much easier to share.” Nikki H.\n\n***\nTerms of Service\nThe SmartNews Terms of Service are linked below. Please read and confirm these terms before using our services.\nhttps://www.smartnews.com/terms/",
+      "android_package_name": "jp.gocro.smartnews.android",
+      "ios_bundle_id": "jp.gocro.SmartNews",
+      "title": "SmartNews",
+      "domain_name": [
+        "https://www.smartnews.com",
+        "https://www.smartnews.com"
+      ],
+      "website": "https://www.smartnews.com",
+      "developer": "SmartNews, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/XtyTxwnErRI0pEIXO7sEB9B_d_6xF9knDCGeezSbiamt6GnnbmNPIwDoLEyy52VuLxU",
+      "icon_72": "https://play-lh.googleusercontent.com/XtyTxwnErRI0pEIXO7sEB9B_d_6xF9knDCGeezSbiamt6GnnbmNPIwDoLEyy52VuLxU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.keep"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "• Capture, edit, share, and collaborate on your notes on any device, anywhere.\n• Add notes, lists, photos, and audio to Keep.\n• Organize your notes with labels and colors.\n• Set and forget. Get reminded about a note at the right time or place.\n• Record a voice memo and have it automatically transcribed.\n• Grab the text from an image to help you quickly find that note again through search.\n\nWHEN AND WHERE YOU NEED IT\nNeed to remember to pick up some groceries? Set a location-based reminder to pull up your grocery list right when you get to the store. Need to finish a to-do? Set a time-based reminder to make sure you never miss a thing.\n\nSHARE YOUR THOUGHTS WITH FAMILY AND FRIENDS\nNext time you go to the store, share your shopping list on Keep and watch as items get checked off in real time. No need for text messages back and forth. Get things done together, faster.\n\nFIND WHAT YOU NEED, FAST\nQuickly filter and search for notes by color and other attributes like lists with the label “To-dos”, audio notes with reminders or just see shared notes. Find what you're looking for even faster, and let Keep do the remembering for you.\n\nALWAYS WITHIN REACH\nKeep works on your phone, tablet and computer. Everything you add to Keep syncs across your devices so your important stuff is always with you.\n\nTry Google Keep on the web at http://keep.google.com and find it in the Chrome Web Store at http://g.co/keepinchrome.",
+      "android_package_name": "com.google.android.keep",
+      "ios_bundle_id": "com.google.Keep",
+      "title": "Google Keep",
+      "domain_name": [
+        "http://www.google.com/keep",
+        "https://www.google.com"
+      ],
+      "website": "http://www.google.com/keep",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5",
+      "icon_72": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.codeway.homework"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Students share their understanding by answering formative assessment questions in a variety of formats: quizzes, quick question polls, exit tickets and space races.  Once students launch the Socrative Student App, they'll be prompted to join the teacher's room via the teacher's unique code. No student accounts necessary!\n\nFeatures\n• \tVisualize student and whole class understanding \n• \tMultiple choice and True/False questions\n•\t Open-ended questions and vote on the results \n•\t End of class Exit Tickets \n•\t Play games with our Space Race! \n•\t Class, Question and Student level reports\n\nSupported Browsers and Devices\n•\t Socrative works on every browser: including Firefox, Chrome, Safari and Internet Explorer.  \n•\t Use any Web Enabled device: including Smartphones, Tablets, Laptops and Desktops",
+      "android_package_name": "com.codeway.homework",
+      "ios_bundle_id": "com.socrative.socrativeStudent",
+      "title": "Socratic",
+      "domain_name": [
+        "https://www.socrative.com",
+        "https://www.socrative.com"
+      ],
+      "website": "https://www.socrative.com",
+      "developer": "Showbie Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6qFdYeZDA1EbhPMBCrjvMM5omtWPeki2XD_UrmMNQ_SulxV1QmjKiqr-cLoidOFfhro",
+      "icon_72": "https://play-lh.googleusercontent.com/6qFdYeZDA1EbhPMBCrjvMM5omtWPeki2XD_UrmMNQ_SulxV1QmjKiqr-cLoidOFfhro=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wolfram.android.alphapro"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Reference",
+      "description": "Use the power of Wolfram's computational intelligence to answer your questions. Building on 35+ years of development led by Stephen Wolfram, Wolfram|Alpha is the world's definitive source for instant expert knowledge and computation.\n\nAcross thousands of domains—with more continually added—Wolfram|Alpha uses its vast collection of algorithms and data to compute answers and generate reports for you.\n\nParts of Wolfram|Alpha are used in Apple's Siri assistant; this app gives you access to the full power of the Wolfram|Alpha computational knowledge engine.\n\nUse Wolfram|Alpha to compute the following and much more:\n\n• Identify a plane: \"Flights overhead\"\n • Find out weather: \"Weather last New Year's\"\n • Get information on movies: \"Movies with Keanu Reeves and Sandra Bullock\"\n • Get financial insight: \"APPL vs. MSFT\"\n • Calculate units and measurements: \"Seconds in a nanocentury\"\n • Get trivia answers: \"Number of tennis balls that can fit in a Boeing 747\"\n • Find nutritional information: \"Whopper vs. Big Mac\"\n • Get fitness information: \"Running calculator\"\n • Have fun: \"Tell me a joke\"\n\nSubscription Details:\n\nBecome a Wolfram|Alpha Pro member to unlock additional features. Payment will be charged to your iTunes account at confirmation of purchase. Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Subscription fees are $9.99 per month or up to $59.99 per year depending on your plan. You can manage your Wolfram|Alpha Pro subscription by visiting the iTunes Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a Wolfram|Alpha Pro subscription.\n\nPrivacy policy: https://www.wolfram.com/legal/privacy/wolfram\nTerms of use: https://products.wolframalpha.com/iphone/app-internal/termsofuse.html",
+      "android_package_name": "com.wolfram.android.alphapro",
+      "ios_bundle_id": "com.wolframalpha.wolframalpha",
+      "title": "Wolfram Alpha",
+      "domain_name": [
+        "http://products.wolframalpha.com/iphone",
+        "https://products.wolframalpha.com"
+      ],
+      "website": "http://products.wolframalpha.com/iphone",
+      "developer": "Wolfram Group LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/OceHg5bH7EsTRwl-lD7jjV9WM0mpj0oH4YfA-CSbjvfa7NCLQBu5-4cLwNlDvCUp5Q4",
+      "icon_72": "https://play-lh.googleusercontent.com/OceHg5bH7EsTRwl-lD7jjV9WM0mpj0oH4YfA-CSbjvfa7NCLQBu5-4cLwNlDvCUp5Q4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.quizlet.quizletandroid"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Say goodbye to boring study sessions and hello to Flashcards Maker—your new best friend for mastering any subject! Whether you’re cramming for exams, picking up a new language, or just exploring new ideas, Flashcards Maker makes learning fun and easy. With our app, you can create flashcards that fit your style, review them on your schedule, and track your progress in a way that’s actually enjoyable.\n\nFlashcards Maker is perfect for students, professionals, and curious minds alike. It’s user-friendly, intuitive, and designed to make your study time effective and engaging. Ready to ace your goals? Download it today and start your journey to smarter learning!\n\nTerms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "android_package_name": "com.quizlet.quizletandroid",
+      "ios_bundle_id": "alexanderparnev.Flashcards",
+      "title": "GoConqr",
+      "domain_name": [],
+      "website": "",
+      "developer": "Alexander Parnev",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hiQHKRhpuGu4pWAFhpto9H7qWKSdX-BjKbDAtZYgm_jfoD0cN7MCllGOn6L3XWo-6Q",
+      "icon_72": "https://play-lh.googleusercontent.com/hiQHKRhpuGu4pWAFhpto9H7qWKSdX-BjKbDAtZYgm_jfoD0cN7MCllGOn6L3XWo-6Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.microblink.photomath"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Get ready for exam season with the Chegg Study® app. \n\nUsed by millions of students, the Chegg Study app is the homework helper which offers school help and personalized support for each of your courses—from homework to exam prep, study your courses inside-out and learn your own way. Tap into our huge library of millions of fully explained, step-by-step solutions, and flashcards for subjects including Math, English, Physics, Engineering, Chemistry, and more.  \n\nGet school help for 80 subjects and hundreds of courses and flashcards. The Chegg Study app is the homework helper that has you covered for your toughest concepts, classes, and assignments, for school. \n\nNow with AI solutions backed by experts you can get your homework help even quicker and boost your education using the latest technology. \n\nGet 24/7 study help and expert Q&A responses. Snap or scan a pic of any homework question and submit it with our question scanner to our Chegg experts. You will get detailed solved answers in as little as 30 minutes.* \n\nGet unstuck and be your own problem solver, learn about tough concepts with detailed explanations, solutions, and answers provided. \nSearch our library of over 60 million fully solved homework questions. See how to solve them with our question scanner feature. \nTake control of your education and learn at your own rate and in your own style. With Chegg there are a variety of ways to study your courses so you can learn and have fun at the same time!\n\nThe fine print: \nYour Chegg Study subscription will be charged to your credit card through your iTunes account. Subscription automatically renews unless auto-renew is turned off at least 24 hours prior to the end of the current subscription period. Your account will be charged for renewal within the 24 hours prior to the end of your current subscription period. You can manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. \nFor bug reports and general feedback, email cheggstudy.appsupport@chegg.com or tweet @Chegg #iOSapp. \n\nPrivacy Policy: http://www.chegg.com/privacypolicy/ \nTerms of use: http://www.chegg.com/termsofuse/ \n\n *Experts’ response time for answers and solutions varies by question and subject. Average response time is 46 minutes. \n **Available for select problems only.",
+      "android_package_name": "com.microblink.photomath",
+      "ios_bundle_id": "com.chegg.mobile.consumer",
+      "title": "Microsoft Math Solver",
+      "domain_name": [
+        "http://www.chegg.com",
+        "https://www.chegg.com"
+      ],
+      "website": "http://www.chegg.com",
+      "developer": "Chegg, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Ma_HEbK1LzEoayR0tE0ZXqLopug69-dPspfCV36zzHOSuC0_i6mu5ulKz1eY7en-UM4",
+      "icon_72": "https://play-lh.googleusercontent.com/Ma_HEbK1LzEoayR0tE0ZXqLopug69-dPspfCV36zzHOSuC0_i6mu5ulKz1eY7en-UM4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.scratch"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "With ScratchJr, young children (ages 5-7) learn important new skills as they program their own interactive stories and games.\n\nBy snapping together graphical programming blocks, children can make characters move, jump, dance, and sing. In the process, children learn to solve problems, design projects, and express themselves creatively on the computer. They also use math and language in a meaningful and motivating context, supporting the development of early-childhood numeracy and literacy. With ScratchJr, children don’t just learn to code, they code to learn.\n\nScratchJr was inspired by the popular Scratch programming language (http://scratch.mit.edu), used by millions of people (ages 8 and up) around the world. The ScratchJr interface and programming language were redesigned to make them appropriate for younger children’s cognitive, personal, social, and emotional development.\n\nScratchJr is a collaboration between the Lifelong Kindergarten research group at the MIT Media Lab, the Developmental Technologies research group at Tufts University, and the Playful Invention Company. The ScratchJr project has received generous financial support from the National Science Foundation (NSF DRL-1118664), Scratch Foundation, LEGO Foundation, and British Telecommunications.\n\nIf you enjoy using this free app, please consider making a donation to the Scratch Foundation (www.scratchfoundation.org), a nonprofit organization that provides ongoing support for ScratchJr. We appreciate donations of all sizes, large and small.",
+      "android_package_name": "org.scratch",
+      "ios_bundle_id": "edu.mitmedialab.scratchjr",
+      "title": "Scratch",
+      "domain_name": [],
+      "website": "",
+      "developer": "Scratch Foundation, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AmzHCh6UEelYfh9AfWXh1WIOC0Z_Z69N9bTvEi-hbRhDe7XL04xuuQfvQXCKLHSHcgVk",
+      "icon_72": "https://play-lh.googleusercontent.com/AmzHCh6UEelYfh9AfWXh1WIOC0Z_Z69N9bTvEi-hbRhDe7XL04xuuQfvQXCKLHSHcgVk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.pluralsight"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Pluralsight is the technology skills platform to build in-demand tech skills with access to thousands of expert-led videos courses, downloadable content, certification prep, and more. Explore online courses in:\n\nSoftware Development:\n• Learn programming in C++, C#, Java, JavaScript, Python, React, and more.\n• Master mobile development with Swift for iOS development.\n• Understand web development best practices with HTML, CSS, .NET, Angular, Node.js, and more.\n\nCloud Computing:\n• Pluralsight partners with AWS, Microsoft Azure, and Google Cloud to create online courses.\n• Gain tech skills for cloud app development, cloud infrastructure, cloud security, cloud fundamentals, cloud AI and data, SaaS platforms, and more.\n\nAI and Machine Learning:\n• Understand the fundamentals of artificial intelligence and enhance your machine learning literacy.\n• Build artificial neural networks (ANNs).\n• Get started with machine learning libraries such as Tensorflow and build deep learning solutions with PyTorch.\n• Leverage R and understand data mining with Python.\n\nInformation Security + Cybersecurity:\n• Gain security skills with incident response, penetration testing, security compliance, digital forensics, malware analysis, security certifications, and more.\n\nData:\n• Understand Big Data fundamentals, data analysis, Business Intelligence, and data visualizations.\n• Use Hadoop, SQL, and more.\n\nIT Ops:\n• Prepare for certifications with courses on IT certifications.\n• Gain tech skills for Windows Server, PowerShell, Docker, Linux, database administration, IT networking, security, virtualization, and more.\n\nAnd more:\n• Business professional courses on Agile, project management, PMP.\n• Architecture and construction topics on Maya, Revit, CAD, 3ds Max, more.\n\nTAKE YOUR LEARNING ON THE GO (NO WIFI NECESSARY!)\nLearn anytime, anywhere with mobile apps, downloadable courses, and offline viewing. Not sure what to learn? Bookmark courses via your mobile device and come back to them later—no matter the device bookmarked courses and progress syncs across devices. Pluralsight's suite of native apps enables you to learn on the go and without wifi with seven different applications:\n• Mac, iOS, iPadOS, Apple TV, and more!\n\nLEARN FROM TECH EXPERTS FROM AROUND THE GLOBE\nKeep your skills up-to-date with access to 7,000+ technology courses authored by an elite, global network of technology experts like Simon Allardice, Scott Allen, Janani Ravi, John Papa, Deborah Kurata, and more. Pluralsight partners with Microsoft, Google, AWS, and other tech industry giants to deliver the most relevant content on today's in-demand technologies.\nORGANIZE LEARNING AND REACH GOALS FASTER\nOur expertly curated paths ensure you learn the right skills in the right order, and channels allow you to organize, curate, and share the content that's most important to you—all so you can reach your goals faster.\n\nCHECK YOUR SKILL DEVELOPMENT PROGRESS\nWondering if what you're learning has stuck? Find out with in-course learning checks! Try it out by taking a course and doing a learning check!\n\nGET INSPIRED WITH ACCESS TO TECH CONFERENCES\nTune into some of today's most in-demand conferences like Microsoft Ignite, THAT Conferences, DEVintersection, Pluralsight LIVE, and more!\n\nVALIDATE SKILLS AND SAVE WITH CERTIFICATION PREP\nPrepare for and pass your IT certification exams with unlimited access to industry-leading certification content. Certification paths include:\n• AWS\n• Azure\n• Office 365\n• CompTIA\n• Ethical Hacking + Security (SSCP®, CCSP®, CISSP®)\n• VMware\n• And more!\n\nPluralsight Monthly Membership:\n\n$44.99 monthly\n\nIf you choose to subscribe, your iTunes account will be billed. Account will be charged and subscriptions automatically renew within 24 hours before the end of the billing cycle and will continue to renew until cancelled. Manage your subscription and auto-renewal from your iTunes account.\n\nLicense Agreement: https://www.pluralsight.com/terms",
+      "android_package_name": "com.pluralsight",
+      "ios_bundle_id": "com.pluralsight.pluralsight",
+      "title": "Pluralsight",
+      "domain_name": [
+        "http://www.pluralsight.com",
+        "https://www.pluralsight.com"
+      ],
+      "website": "http://www.pluralsight.com",
+      "developer": "Pluralsight, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AZW3Q9fPfsjhJncEpiAEsfteaz3pep88Tfy2-sjjf4Ib7wfM0M6B0TcRuW3-JJsS2oVz",
+      "icon_72": "https://play-lh.googleusercontent.com/AZW3Q9fPfsjhJncEpiAEsfteaz3pep88Tfy2-sjjf4Ib7wfM0M6B0TcRuW3-JJsS2oVz=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "io.lingvist.android"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Lingvist is the language learning app built by scientists and language experts that teaches vocabulary better than anyone else in the world. The depth of our AI-powered courses combined with the latest research in machine learning gets you using a language with high proficiency, fast. \n\nGET LEVEL PLACED FOR FREE - TRY LINGVIST\n\nLEARN 16 LANGUAGES: English, Spanish, German, French, Swedish, Danish, Dutch, Italian, Brazilian Portuguese, Norwegian, Latin American Spanish, Estonian, Polish, Japanese, Korean and Russian.\n\n=====\n\nWHY LINGVIST?\n\nFOLLOW CONVERSATIONS QUICKLY\nLearn the vocabulary that appears most often in a language first, allowing you to accelerate your learning.\n\nREAD, WRITE, SPEAK, AND LISTEN\nPerfect your pronunciation using sophisticated speech recognition technology or type your answers. Every sentence has audio to ensure you hone your listening skills.\n\nFOR SERIOUS LEARNERS\nYour learning efficiency is our focus. Enjoy a clean UI with no advertising, no unnecessary clicks, and no distractions.\n\nREMEMBER A LANGUAGE FOREVER\nUsing scientifically proven spaced repetition methodology, the vocabulary gets fixed in your long-term memory over time. \n\nLEARN GRAMMAR IN CONTEXT OR AS A FOCUS\nAcquire grammar passively like a native with our bite-sized sentences, or practice conjugating French verbs in our French course.\n\nSPECIALIST VOCABULARY FOR YOU\nSubmit your own words, images, or text and Lingvist will automatically gather vocabulary related to the theme for you to learn. Whether it’s Harry Potter in German or Spanish colors, you can learn the words most important to you. Our AI works intelligently to provide appropriate context for vocabulary.\n\nMOTIVATIONAL STATISTICS\nPacked with data on your learning progress, you’ll be able to chart your path to success.\n\nA MUST-HAVE TOOL IN YOUR BAG\nDo you live in your target country, use a tutor or language school, or even read books, listen to podcasts, or watch content in your target language? Lingvist works best when used in parallel with other learning methods. It’s the difference between passing your test or acing it. Lingvist is the perfect complement to learn faster and boost your vocabulary.\n\nLEARN BY DOING\nGetting it wrong is one of the fastest ways to learn, and your brain will start to remember very quickly.\n\nPERSONALIZED SETTINGS\nEvery learner is different. Personalize your learning to suit you, with various settings allowing you to learn with extra slow speech, strict diacritics, and even grammar tables.\n\nPERSONALIZED LEARNING PLAN\nWe'll serve you new words that are most relevant to you. As we measure your memory curves, we ask you to repeat words at the optimal time – just before you forget them. This way, you'll always know what to learn next.\n\nLANGUAGE LEARNING MADE EASY\nWhether you are planning on spending this summer in Italy and need to learn Italian, or your next adventure is taking up a course in Germany and you need an app to learn German, or you're heading to Korea and you need to learn Korean, we have you covered. Our language learning techniques will help you to get fluent in over 16 languages.\n\n=====\n\nSUBSCRIPTION\nYou will need a subscription in order to get access to the full learning materials for all languages we offer. Each subscription will be automatically renewed unless auto-renew is turned off at least 24 hours before the end of the current payment period. When a subscription is canceled, access to the app's courses and features will expire at the end of the current payment period.\n\nVisit our blog to get tips, tricks, and interesting facts on how to learn languages:\n▸▸ Lingvist blog: https://lingvist.com/blog/\n\nFollow us to get interesting facts on how to learn languages:\n▸▸ Facebook: https://www.facebook.com/theLingvist\n▸▸ Instagram: instagram.com/thelingvist/\n▸▸ Twitter: https://twitter.com/lingvist\n▸▸ LinkedIn: https://www.linkedin.com/company/lingvist\n\nPrivacy Policy: https://lingvist.com/privacy-policy/\nTerms of Use: https://lingvist.com/tos/",
+      "android_package_name": "io.lingvist.android",
+      "ios_bundle_id": "ee.keel24.Lingvist",
+      "title": "Lingvist",
+      "domain_name": [
+        "https://lingvist.com",
+        "https://lingvist.com"
+      ],
+      "website": "https://lingvist.com",
+      "developer": "Lingvist Technologies OU",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/YsEH8rj8w2c1awo7NLOOIaMbeCgO5AKZOpO5CkzMRQI5xtNPPWmjius2KtL0ik7P3mc",
+      "icon_72": "https://play-lh.googleusercontent.com/YsEH8rj8w2c1awo7NLOOIaMbeCgO5AKZOpO5CkzMRQI5xtNPPWmjius2KtL0ik7P3mc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.evernote"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Capture ideas when inspiration strikes. Bring your notes, to-dos, and schedule together to tame life’s distractions and accomplish more—at work, at home, and everywhere in between. \n\nEvernote syncs to all your devices, so you can stay productive on the go. Tackle your to-do list with Tasks, connect your Google Calendar to stay on top of your schedule, and see your most relevant information quickly with a customizable Home dashboard. \n\n---\n\n“Use Evernote as the place you put everything… Don’t ask yourself which device it’s on—it’s in Evernote” – The New York Times\n\n“When it comes to taking all manner of notes and getting work done, Evernote is an indispensable tool.” – PC Mag\n\n---\n\nCAPTURE IDEAS\n• Write, collect, and capture ideas as searchable notes, notebooks, and to-do lists.\n• Clip interesting articles and web pages to read or use later. \n• Add different types of content to your notes: text, docs, PDFs, sketches, photos, audio, web clippings, and more.\n• Use your camera to scan and organize paper documents, business cards, whiteboards, and handwritten notes.\n\nGET ORGANIZED\n• Manage your to-do list with Tasks—set due dates and reminders, so you never miss a deadline.\n• Connect Evernote and Google Calendar to bring your schedule and your notes together.\n• See your most relevant information instantly on the Home dashboard.\n• Create separate notebooks to organize receipts, bills, and invoices.\n• Find anything fast—Evernote's powerful search can even find text in images and handwritten notes.\n\n\nACCESS ANYWHERE\n• Sync your notes and notebooks automatically across any computer, phone, or tablet.\n• Start work on one device and continue on another without missing a beat.\n\nEVERNOTE IN EVERYDAY LIFE\n• Keep a journal to keep your thoughts organized. \n• Go paperless by scanning receipts and important documents.\n\nEVERNOTE IN BUSINESS\n• Keep everyone up to date by capturing meeting notes and sharing notebooks with your team.\n• Bring people, projects, and ideas together with shared Spaces. \n\nEVERNOTE IN EDUCATION\n• Keep track of lecture notes, exams, and assignments so you don’t miss important details.\n• Create notebooks for each class and keep everything organized.\n\n---\n\nAlso available from Evernote:\n\nEVERNOTE PERSONAL\n• 10 GB of new uploads each month\n• Unlimited number of devices\n• Create and manage tasks\n• Connect one Google Calendar account\n• Access your notes and notebooks offline\n\nEVERNOTE PROFESSIONAL\n• 20 GB of new uploads each month\n• Unlimited number of devices\n• Create, manage, and assign tasks\n• Connect multiple Google Calendar accounts\n• Access your notes and notebooks offline\n• Home dashboard - Full customization\n\n--\n\nPrice may vary by location. Subscriptions will be charged to your credit card through your iTunes account. Where applicable, your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. Subscriptions may not be cancelled for refund except as provided in Evernote's Commercial Terms. Manage your subscriptions in Account Settings after purchase.\n\n---\n\nPrivacy Policy: https://evernote.com/legal/privacy.php\nTerms of Service: https://evernote.com/legal/tos.php\nCommercial terms: https://evernote.com/legal/commercial-terms",
+      "android_package_name": "com.evernote",
+      "ios_bundle_id": "com.evernote.iPhone.Evernote",
+      "title": "Evernote",
+      "domain_name": [
+        "http://evernote.com",
+        "https://evernote.com"
+      ],
+      "website": "http://evernote.com",
+      "developer": "Evernote Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3",
+      "icon_72": "https://play-lh.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.classroom"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "It’s time to build better classrooms. \n\nClass Dojo is a game-changing platform designed for teachers, parents and kids. The end goal? Giving kids an education they love. Here’s how.\n\n* Teachers and parents can safely and easily communicate throughout the school day\n* Parents get photo and video updates from their child’s teacher, so they can feel like they’re there \n* Kids get fun learning content at school and at home \n* Everyone stays in the know on the latest and greatest school news and updates.\n *Did we mention it’s free? \n\nJoin the millions strong in 180 countries that are making their classrooms feel more like communities. \n\n\"I’ve divided my time teaching as B.C. and A.C.: before ClassDojo, and after ClassDojo. I never want to go back!\" — Jen E., an elementary school teacher\n\nThe Plus Experience\nWhen parents start using ClassDojo and are ready for more of what they love, there’s ClassDojo Plus—more memories, more moments, more milestones. And yes, more answers to “how was school today?”\n\nTerms of use:\nhttps://www.classdojo.com/terms\n\nPrivacy policy:\nhttps://www.classdojo.com/privacy",
+      "android_package_name": "com.google.android.apps.classroom",
+      "ios_bundle_id": "com.ClassDojo",
+      "title": "Classroom Management",
+      "domain_name": [
+        "https://www.classdojo.com",
+        "https://www.classdojo.com"
+      ],
+      "website": "https://www.classdojo.com",
+      "developer": "ClassDojo, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/w0s3au7cWptVf648ChCUP7sW6uzdwGFTSTenE178Tz87K_w1P1sFwI6h1CLZUlC2Ug",
+      "icon_72": "https://play-lh.googleusercontent.com/w0s3au7cWptVf648ChCUP7sW6uzdwGFTSTenE178Tz87K_w1P1sFwI6h1CLZUlC2Ug=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.snowcorp.epik"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Epic is the world’s largest digital library for kids! Our fun, kid-safe, interactive reading app fuels curiosity and reading confidence by letting kids freely explore their interests with instant access to 40,000+ books, audiobooks, learning videos and more.\n\nAnytime, anywhere: Access our library from any Apple device. You can even download books to read offline! \n\nBooks that read to them: In addition to our library of more traditional ebooks, we have a huge collection of Read-To-Me books and audiobooks. Featuring talented voice actors, fun music and exciting sound effects that bring stories to life!\n\nMultilingual: The majority of books on Epic are in English, but we also have Spanish-, French- and Chinese-language books to engage readers of different backgrounds and interests.\n\nFun rewards and learning tools: Reading Buddies, badges and quizzes keep them motivated to read and learn. Spotlight Words and audio-enabled Dictionary Lookup teach vocabulary and pronunciation. \n \n\nFOR FAMILIES: EPIC FAMILY \nA paid subscription beginning with a 7-day free trial. Cancel anytime. \n\n\nUp to 4 child profiles, so each kid can enjoy a personalized reading experience.\nParent dashboard lets you see what they’re reading and follow along with their progress. \n95% of Epic parents say Epic helped improve their child’s reading skills.\n\n\nFOR EDUCATORS: EPIC SCHOOL \nEpic School is free for educators and students to use during the school day.   \n\nELA Tools: Filter titles by AR, DRA, F&P, grade level and more. \nQuizzes, Dictionary Lookup and Spotlight Words help build skills.\nHelp with Daily 20: Teachers can easily assign and share books, then track daily and weekly reading. \nMultilingual books and fun reading formats make reading accessible for every student. \n9 out of 10 Epic Educators would recommend us to colleagues. \nComing soon! Epic School Plus, a district-funded premium offering that gives educators and students 24/7 access to the full Epic library. \n\n\nPRESS AND EXPERT REVIEWS\nEpic has been featured on The TODAY Show, CNET and Refinery 29, as well as in The Wall Street Journal, Parents Magazine, USA Today, Forbes, Parenting.com and more.\n\n“Epic strikes the perfect balance between educational and fun, and should allow parents to feel more confident about introducing the iPad into their children’s daily lives as a tool.”  –TechCrunch\n\n\"Get access to thousands of books on all subject matters\" –Parenting.com\n\n\"Epic is incredibly valuable because it gives students exposure to books that they wouldn't get from a library or our classroom.\" –Cindy, Epic Educator Ambassador\n\nPrivacy Policy\ngetepic.com/privacy\n\nTerms of Service\ngetepic.com/tos",
+      "android_package_name": "com.snowcorp.epik",
+      "ios_bundle_id": "com.getepic.Epic",
+      "title": "Epic!",
+      "domain_name": [
+        "http://www.getepic.com",
+        "https://www.getepic.com"
+      ],
+      "website": "http://www.getepic.com",
+      "developer": "Epic Creations, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/4zuKl7-wMKANspshlWH2rBrlH_96Xp58NotDS8pV5vC9C-cmc9IZt6vcejc5ZAz_X9I",
+      "icon_72": "https://play-lh.googleusercontent.com/4zuKl7-wMKANspshlWH2rBrlH_96Xp58NotDS8pV5vC9C-cmc9IZt6vcejc5ZAz_X9I=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.rebelvox.voxer"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Voxer combines the best of voice, text, photo, and video with walkie talkie messaging (Push-to-talk PTT) in one free, secure messaging app. Featured by Apple in 50+ countries, loved by tens of millions of people, and now available on the Apple Watch. \n\nBetter than phone calls, faster than texting. Just push a button, talk and instantly communicate in real-time, live. You can also  listen to saved messages later at your convenience, share text, photos, video, and your location. \n\nVoxer works with other popular smartphones and over any 3G, 4G, or WiFi network in the world.\n\nJoin many who are using Voxer with family, friends, and teams at work to:\n* Instantly communicate through live Walkie Talkie - PTT (Push-To-Talk)\n* Send voice, text, photos, videos, and location messages\n* Play voice messages anytime - they're all recorded\n* Create messages even when offline\n* Send end-to-end encrypted messages (Private chats) using the Signal Protocol\n\nUpgrade to Voxer Pro and get access to the following features:\n- Walkie talkie mode, (instantly receive voice messages even when you’re not in the app)\n- Voice-to-Text transcription,\n- Admin Control\n- Increased storage\n- Hands-free\n- Extreme notifications\n- Dropbox integration and more. \n\nVoxer Pro is built for remote, mobile teams that aren't sitting at a desk and need to communicate quickly. On-demand, delivery, logistics, hotels and hospitality, field service, NGO and education teams all use Voxer Pro. \n\nVoxer Pro subscriptions are $3.99/month or $29.99/year and auto-renew.\n - Payment will be charged to iTunes Account at confirmation of purchase\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n - Your account will be charged for renewal within 24-hours prior to the end of the current period (either $3.99/month or $29.99/year)\n- You can manage your subscriptions and auto-renewal may be turned off by going to the your Account Settings after purchase\n- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to Voxer Pro\nPrivacy Policy: https://www.voxer.com/privacy\nTerms of Service: https://www.voxer.com/tos \n\n\nWe want to hear from you!\n* Like us on Facebook @ fb.com/voxer\n* Follow us on Twitter @ twitter.com/voxer\n* Need help? Check out support.voxer.com",
+      "android_package_name": "com.rebelvox.voxer",
+      "ios_bundle_id": "com.rebelvox.voxer-lite",
+      "title": "Voxer",
+      "domain_name": [
+        "http://www.voxer.com",
+        "https://www.voxer.com"
+      ],
+      "website": "http://www.voxer.com",
+      "developer": "Voxer Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/HKeyX-nFSz8qHl05cmDJl4CGRFouqXFkVctxgWhBCbPCPgZbJ8Q88FHbux7E4dAOxGU",
+      "icon_72": "https://play-lh.googleusercontent.com/HKeyX-nFSz8qHl05cmDJl4CGRFouqXFkVctxgWhBCbPCPgZbJ8Q88FHbux7E4dAOxGU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.moodle.moodlemobile"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "NOTE: This official Moodle app will ONLY work with Moodle sites that have been set up to allow it. Please talk to your Moodle administrator if you have any problems connecting.\n\nIf your Moodle site has been configured correctly, you can use this app to:\n• browse the content of your courses, even when offline\n• receive instant notifications of messages and other events\n• quickly find and contact other people in your courses\n• upload images, audio, videos and other files from your mobile device\n• view your course grades\n• and more!\n\nPlease see http://docs.moodle.org/en/Mobile_app for all the latest information.\nWe’d really appreciate your feedback on what else you want this app to do!",
+      "android_package_name": "com.moodle.moodlemobile",
+      "ios_bundle_id": "com.moodle.moodlemobile",
+      "title": "Moodle",
+      "domain_name": [],
+      "website": "",
+      "developer": "Moodle Pty Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/WETi4kiHx6KfyGBDsZ1-jgPdAATt8n6Fq4tK05TOBe_z6NxsoWjrGkDyy8PIW29pvJw",
+      "icon_72": "https://play-lh.googleusercontent.com/WETi4kiHx6KfyGBDsZ1-jgPdAATt8n6Fq4tK05TOBe_z6NxsoWjrGkDyy8PIW29pvJw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "notion.id"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Write, plan, organize. With AI at your side. Your notes, docs, tasks, and projects — all in one place.\n\n“AI’s everything app” — Forbes\n\nFREE FOR PERSONAL USE\n• Create as many notes, docs, and content as you want.\n• Use one of thousands of templates to get started.\n\nFREE TO TRY WITH YOUR TEAM\n• Millions run on Notion every day, from next-generation startups to established enterprises.\n• Get started by easily importing your content from Google Docs, PDFs, and more.\n• Connect tools like Figma, Slack, and GitHub to Notion.\n\nFREE FOR STUDENTS\n• Your study planner, class notes, to-dos and more, your way. Loved by millions of students worldwide.\n• Get organized for your best school year yet with beautiful, customizable templates created by students, for students.\n\nNOTES & DOCS\n• Create beautiful docs with images, to-dos, and 50+ more content types.\n• Find exactly what you need using Search with powerful filters to find content across your workspace.\n\nTASKS & PROJECTS\n• Choose the exact info you want to track. Create your own priority labels, status tags, and automations to craft the perfect workflow.\n• Capture every detail in a table. Break projects into manageable pieces to get the work done.\n\nAI\n• Write better. Use Notion AI to help write and brainstorm.\n• Get answers. Ask Notion AI questions about all your content and get answers in seconds.\n• Autofill tables. Notion AI turns overwhelming data into clear, actionable information  — automatically.\n\nSYNCS WITH BROWSER, MAC, AND WINDOWS APPS.\n• Pick up on mobile where you left off on desktop.\n\nMORE PRODUCTIVITY. FEWER TOOLS.\n• Track to-dos, write notes, create docs, and manage projects in one connected workspace.",
+      "android_package_name": "notion.id",
+      "ios_bundle_id": "notion.id",
+      "title": "Notion",
+      "domain_name": [
+        "https://www.notion.so",
+        "https://www.notion.so"
+      ],
+      "website": "https://www.notion.so",
+      "developer": "Notion Labs, Incorporated",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/i9njThXyZWOMReki5FARL9oN28AmzKg99kC07p7xaSyTqA-3wYc0yD5OJjUN5qhFHA",
+      "icon_72": "https://play-lh.googleusercontent.com/i9njThXyZWOMReki5FARL9oN28AmzKg99kC07p7xaSyTqA-3wYc0yD5OJjUN5qhFHA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "air.com.rosettastone.mobile.CoursePlayer"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Learning a language can be an experience that transforms your life. Over 25 years of language learning experience has taught Rosetta Stone one thing: everyone has the ability to learn to read, write, and speak a language with confidence. Try the Rosetta Stone app yourself for free. \n\nMany online language learning apps will promise that you can learn a language in just a few minutes a day. However, there is a significant difference between memorizing vocabulary lists and speaking a language with confidence. Learning a language is about more than just the words. One of the mistakes new language learners make is treating language as an object or an end goal instead of as an experience.\n\nDitch the books, translator, and dictionary, and surround yourself with a language whenever, wherever with the Rosetta Stone mobile app. \n\n\n\nWhat are people saying about Rosetta Stone:\n• CNN Underscored - \"There’s a good reason why the language learning app Rosetta Stone is the gros chien (that is, the big dog) of the apps we tested\"\n• Mashable - \"one of the OG language-learning services, known for its deep dive into accent pronunciation\"\n• Popular Science - \"super-smooth and intuitive, and the lessons neither feel too short so as to be forgettable nor too long so as to be a chore\"\n• PC Mag - \"reliable, accurate, and thorough\"\n\n\n\nRosetta Stone has taught millions of people new languages, and you’re next. From day one, you’ll: \n• Stay focused with a personalized language learning plan based on your motivation. \n• Learn a language intuitively using our proven immersion method. \n• Perfect your pronunciation with instantaneous feedback. \n• Download lessons to do everything offline.  \n• Access different kinds of exercises with our Extended Learning features. \n• Sync progress across all your devices. \n• And never see an ad, ever. \n\n\n\nFor the first time, we’re offering every one of our languages under one subscription. Flip between languages as often as you’d like and enjoy the freedom to get seriously curious. To access, simply select Unlimited Languages when you subscribe. \n\n\nChoose from 24 languages: \nArabic, Chinese (Mandarin), Dutch, English (American or British), Filipino (Tagalog), French, German, Greek, Hebrew, Hindi, Irish, Italian, Japanese, Korean, Persian (Farsi), Polish, Portuguese (Brazil), Russian, Spanish (Latin American or Spain), Swedish, Turkish, or Vietnamese. \n\n\n\nSelect a subscription: \nWe offer 3 and 12-month subscriptions—as well as a Lifetime option. \n\n\n\nSubscription Details:\n• Get full access to all lessons, stories, and audio companion when you subscribe to Rosetta Stone. \n• Payment will be charged to your Apple ID. \n• Your account will be auto-renewed 24 hours prior to the end of the current period.\n• Manage or cancel your subscription from your App Store User Settings at any time after purchasing. Payment will be taken until the end of the current period.\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\n\n\nEnterprise and Education Learners\n• Unlimited use of Rosetta Stone's mobile app is available for existing Enterprise and Education Learners.\n• Features may vary for Enterprise and Education Learners.\n\n\nFor questions or assistance, please visit http://support.rosettastone.com\n\n\n\nLearn a language today with Rosetta Stone.\n\n\nLearn Spanish (Latin American or Spain)\nLearn French\nLearn German\nLearn Italian\nLearn English (American or British)\nLearn Japanese\nLearn Korean\nLearn Chinese (Mandarin)\nLearn Arabic\nLearn Portuguese (Brazil)\nLearn Russian\nLearn Dutch\nLearn Filipino (Tagalog)\nLearn Greek\nLearn Hebrew\nLearn Hindi\nLearn Irish\nLearn Persian (Farsi)\nLearn Polish\nLearn Swedish\nLearn Turkish\nLearn Vietnamese\n\n\n\nFor questions or assistance, please visit http://support.rosettastone.com",
+      "android_package_name": "air.com.rosettastone.mobile.CoursePlayer",
+      "ios_bundle_id": "com.rosettastone.totale.companionhd",
+      "title": "Rosetta Stone",
+      "domain_name": [
+        "http://www.rosettastone.com",
+        "https://www.rosettastone.com"
+      ],
+      "website": "http://www.rosettastone.com",
+      "developer": "Rosetta Stone Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EfU-TIPgFiueENh7xSnhCbJcn-qUJi-SFpqPgjI0aeYvMcEhNh8J_L0H8ZUoteQDdg",
+      "icon_72": "https://play-lh.googleusercontent.com/EfU-TIPgFiueENh7xSnhCbJcn-qUJi-SFpqPgjI0aeYvMcEhNh8J_L0H8ZUoteQDdg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "no.mobitroll.kahoot.android"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Play engaging quiz-based games (kahoots) at school, at home and at work, create your own kahoots, and learn something new! Kahoot! brings the magic of learning to students, teachers, office superheroes, trivia fans, and lifelong learners.\n\n\nHere’s what you can do with the Kahoot! app, now available in English, Spanish (LATAM), French, German, Italian, Brazilian Portuguese, Japanese, Dutch, Turkish, Polish, Arabic, Simplified Chinese, Traditional Chinese, Norwegian, Swedish, Danish, Ukrainian and Korean:\n\nYoung students\n- Make your school projects awesome by building kahoots on any topic using pre-made templates, fun question types, themes, and background music.\n- Supercharge your games with unique rewards including new characters and accessories.\n- Enjoy premium game modes, perfect for birthday parties and family game nights!\n- Ace upcoming exams by setting learning goals and testing yourself with advanced study modes.\n- Make math fun with interactive games to get ahead in algebra, multiplications, and fractions.\n\nStudents\n- Study with unlimited free flashcards and other smart study modes\n- Join kahoots hosted live - in class or virtually - and use the app to submit answers\n- Complete self-paced kahoots\n- Challenge your friends in study groups with kahoots you found or created\n- Create your own kahoots and add images or videos\n- Host kahoots live for family and friends directly from your mobile device\n\nFamilies and friends\n- Find a kahoot on any topic, fit for any age\n- Host a kahoot live by sharing your screen to Apple TV or via video conferencing apps\n- Play a live kahoot using SharePlay. Start a FaceTime call and select the kahoot you want to play. No host is required - everyone can participate!\n- Engage your kids with studying at home\n- Assign a kahoot to challenge family members and friends\n- Create your own kahoots and add different question types and image effects\n\nTeachers\n- Search among millions of ready-to-play kahoots on any topic\n- Create or edit your own kahoots in minutes\n- Combine different question types to increase engagement\n- Host kahoots live in class or virtually for distance learning\n- Assign student-paced kahoots for content review\n- Assess learning outcomes with reports\n\nCompany employees\n- Create kahoots for e-learning, presentations, events and other occasions\n- Encourage audience participation with polls and word cloud questions\n- Host Kahoot! live in person or in a virtual meeting\n- Assign self-paced kahoots, for example, for e-learning\n- Assess progress and results with reports\n\nPremium features:\nKahoot! is free for teachers and their students, and it’s our commitment to keep it that way as part of our mission to make learning awesome. We offer optional upgrades that unlock advanced features, such as an image library with millions of images and advanced question types, such as puzzles, polls, open-ended questions and slides. To take advantage of these features, users will need a paid subscription.\n\nTo create and host kahoots in a work context, as well as get access to additional features, business users will need a paid subscription.\n\nRecurring billing, cancel anytime\n- Payment will be charged to your iTunes account at confirmation of purchase.\n- Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.\n- Account will be charged for renewal within 24 hours of the end of the current period, and the cost of the renewal will be provided.\n- Subscriptions may be managed by the user. Auto-renewal may be turned off by going to the user’s Account Settings after purchase. No cancellation of the current subscription is allowed during the active subscription period.\n- Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription.\n\nPrivacy Policy: https://kahoot.com/privacy\nTerms and conditions: https://kahoot.com/terms",
+      "android_package_name": "no.mobitroll.kahoot.android",
+      "ios_bundle_id": "no.mobitroll.kahoot.controller",
+      "title": "Kahoot!",
+      "domain_name": [
+        "https://kahoot.com-app",
+        "https://kahoot.com-app"
+      ],
+      "website": "https://kahoot.com-app",
+      "developer": "Kahoot ASA",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3TU0lcOEHV3sqVY8N5ptfoW2JhpTofIXa1xUIcwFnu4GH9NpN1zvgb4dIhmlOessNNM",
+      "icon_72": "https://play-lh.googleusercontent.com/3TU0lcOEHV3sqVY8N5ptfoW2JhpTofIXa1xUIcwFnu4GH9NpN1zvgb4dIhmlOessNNM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.lexilize.fc"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Prepare your kid for success during the whole school year with our complete learning course for AGES 2 to 10.\n5,000+ activities: GAMES, VIDEOS, WORKSHEETS & QUIZZES\n\nCOPPA and FERPA compliant, 100% safe with parental control and no ads.\n\n---------Recommended by The Guardian---------\n\nOver 25,000,000 kids around the world learn with Kids Academy apps!\n\nTalented and Gifted learning academy was created to help identify and nurture the talents of every child from the earliest stage! Hone writing and reading skills, develop a mindset for math, sharpen visual perception and hand-eye coordination - all through engaging gameplay!   \n\nPLENTY OF LEARNING ACTIVITIES\n\nOver 5,000+ educational games, videos, and printables developed by experts in early education:\n\n* Math, writing, phonics, and reading games \n* SORT, MATCH, and CLASSIFY games\n* Animated flashcards and mazes\n* Augmented reality-based worksheets and off-screen activities\n* Topic-related educational videos\n* Quizzes to reinforce what you've just learned\n\nCOMPLETE EARLY LEARNING COURSE (AGES 2-10)\nThe app provides a step-by-step learning pathway that lets toddlers develop early skills by moving from elementary concepts to more complex attributes. Kids will start with learning to trace letters and numbers and will gradually move to tasks that require deeper visual, fine motor, and problem-solving skills.\n\nOFF-SCREEN ACTIVITIES\nLearn on and beyond the screen! From math to writing, your kids will complete worksheets and get assessed within a few seconds. Use your finger or Apple Pencil (for iPad Pro only) to complete the tasks. Practice off-screen activities in two modes:\n\n* ON SCREEN MODE: complete the worksheet on the screen and get it checked and scored right on the device.\n\n* BACK CAMERA MODE: get printable from your device, complete it and let the device scan it and deliver the results right on the screen.\n\n\nDESIGNED WITH EXPERTS IN EARLY CHILD EDUCATION\nAt the core of this early learning app lies the vast expertise of acclaimed child psychologists and educators. Based on rock-solid approaches to preschool education, such as Montessori and Singapore Math, all the activities help to crank up kids’ innate thirst for knowledge and let them experience learning as an exciting process of discovery.\n\nCHESS COURSE TO PUMP UP BRAIN POWER\nChess promotes skills that can be applied to a vast variety of real-world situations and also pumps the brainpower to succeed at school. Video lessons, games, quizzes, and interactive worksheets will help acquire and solidify new skills.\n\nDETAILED LEARNING PROGRESS REPORT\nDevelop healhty learning routine, understand your child's strengths and weaknesses or just appreciate the hard work with detailed reports.\n\n\nFEATURES\n* A rich, exploratory environment filled with surprises\n* Effective motivation and rewards system\n* Fancy animated characters and objects from the child’s world\n* Easy-to-follow professionally voiced hints\n\n\nSUBSCRIPTION DETAILS:\n\n* While the app is free to download some of the content is only available as part of subscription-based membership.\n* There are several subscription options: Monthly ($19.99/month), Quarterly ($39.99/quarter),  and Yearly ($97.99/year).\n* All subscriptions include a free trial period of 7 days. This allows you to test the app and cancel it before you are charged if you don't like it.\n* All payments are charged to your iTunes account. Subscription starts and renews automatically after the trial period ends unless canceled at least 24 hours before the next billing period.\n* You can manage and cancel your subscription at any time via your iTunes account.\n* You can read our Privacy Policy here: https://www.kidsacademy.mobi/privacy/\n* You can read our Terms of Use here: https://www.kidsacademy.mobi/terms/\n* If you have any questions regarding your subscription, don’t hesitate to contact us at info@kidsacademy.mobi",
+      "android_package_name": "com.lexilize.fc",
+      "ios_bundle_id": "mobi.kidsacademy.alphabet",
+      "title": "Tinycards",
+      "domain_name": [
+        "https://www.kidsacademy.mobi",
+        "https://www.kidsacademy.mobi"
+      ],
+      "website": "https://www.kidsacademy.mobi",
+      "developer": "Kids Academy Co apps: Preschool & Kindergarten Learning Kids Games, Educational Books, Free Songs",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jSXMkkMrkeNvdzw67iNCtlsMS6p9EiapN7LA-yWhxK-i1eld9lJb1qcrCrQPd-Gad5d-",
+      "icon_72": "https://play-lh.googleusercontent.com/jSXMkkMrkeNvdzw67iNCtlsMS6p9EiapN7LA-yWhxK-i1eld9lJb1qcrCrQPd-Gad5d-=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.schoology.app"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Get the award-winning app that extends Schoology’s powerful learning management solution to your iOS device. Manage your classroom, create and submit assignments, participate in interactive discussions, perform assessments, collaborate with your peers, and much more!\n \nWith Schoology’s iOS mobile app, you can have rich and engaging academic experiences anytime, anywhere.",
+      "android_package_name": "com.schoology.app",
+      "ios_bundle_id": "com.schoology.schoology",
+      "title": "Schoology",
+      "domain_name": [
+        "https://www.powerschool.com/classroom/schoology-learning",
+        "https://www.powerschool.com"
+      ],
+      "website": "https://www.powerschool.com/classroom/schoology-learning",
+      "developer": "PowerSchool Group LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/H5eXed9UvaW7Jn6SCAm-_d4T0hExQ3xFoh1ml1mAgMWqw1CG0C8ltBBS7Cq99iSg4XAJ",
+      "icon_72": "https://play-lh.googleusercontent.com/H5eXed9UvaW7Jn6SCAm-_d4T0hExQ3xFoh1ml1mAgMWqw1CG0C8ltBBS7Cq99iSg4XAJ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.memrise.android.memrisecompanion"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "Over 75 million people learn a language with Memrise because it goes beyond teaching you a language—it brings you the experience of real-life conversations, cultural insights, and the confidence to speak like a local.\n\nLearn Spanish, Korean, Japanese or 34 other languages in lessons that teach you vocabulary, listening and speaking as if you were a local living in the country!\n\nChoose a language from Spanish (MEX & EU), Korean, Japanese, English, French, Italian, Portuguese (PT & BR), German, Polish, Russian, Turkish, Arabic, Chinese, Dutch, Danish, Icelandic, Mongolian, Norwegian, Slovenian, Yoruba, Hindi, Ukrainian, Thai, Swahili, Hebrew, Greek, Indonesian, Welsh, Tagalog, Persian, Vietnamese.\n\nNEW languages added: isiXhosa, Hausa, Igbo and Somali!\n\n* Showing you how to piece together natural sentences, preparing you for everyday conversation\n* Giving you a place to practice role-play and gain confidence\n* Teaching you the cultural nuances you need to feel like a local\n\nMemrise is the best language-learning app for beginners that are starting to learn a language from scratch, intermediate learners that want to build on their listening and speaking, and advanced learners who are looking to improve their conversational skills.\n\nDownload Memrise so that you can confidently:\n\n* Connect with your partner and their family\n* Have a better time while travelling\n* Sharpen your mind if you’re learning a language for brain health\n* Prepare for a language exam\n* Connect with work colleagues\n* Better understand different cultures\n\nHow do we help you have conversations in other languages?\n\n* Choose from hundreds of real-life scenarios\n* Build vocab by learning relevant words & phrases the locals actually use\n* Practice listening to native speaker videos using what you’ve just learned\n* Then build confidence speaking with AI Buddies, your personalised language learning bots\n\n- Helping 75+ million learners speak confidently\n- 190,000 4.6 star ratings\n- Featured in BBC World Service, Forbes, The Verge, The Financial Times, and more\n\nWhat other learners are saying\n\n\"I've been using Memrise for about two years, studying European Portuguese. I have the paid version - it's a solid learning tool, and it has been my primary resource ever since got it. I find the Learn with Locals feature to be especially useful, more so as my Portuguese improves. My wife and I spent a couple of weeks in Portugal a few months ago, and we were able to handle all of our transactions - stores, restaurants, markets, car rental, etc!\" - Voloúre\n\nNeed to speak a new language soon? Get the practice you need with Memrise Pro\n\n- Unlock all vocab lessons\n- Unlock all native speaker videos\n- Unlimited speaking practice\n- Ad free\n\nCompare with our Free Plan\n- Limited vocab lessons\n- Limited videos and conversations\n- Ads\n\nDownload our app for free and start learning with Memrise today: Learn French, Spanish (Spain), Spanish (Mexico), German, Korean, Japanese, Japanese (no script), Turkish, Italian, Chinese (simplified), Dutch, Portuguese (Portugal), Portuguese (Brazil), Russian, Swedish, Norwegian, Polish, Danish, Slovenian, Icelandic, Yoruba, Mongolian, English (UK) and English (US)! \n\n------\n*PLEASE READ: A Memrise Pro subscription are designed for Memrise-approved courses. A subscription is required in order to access all our learning features. These features may vary depending on your device's language and language pair. Once purchased, subscriptions will automatically renew unless cancelled before the end of the current payment period. Subscriptions can be managed or cancelled in your Apple App Store account. In-app Permissions – To enable some of the features of the Memrise app we may need to ask for your permission. For example, we'll ask to access your microphone if you'd like to practice your pronunciation skills. You can change permissions at any time in your settings. \n\nPrivacy Policy: https://www.memrise.com/privacy/  \nTerms of Use: https://www.memrise.com/terms/",
+      "android_package_name": "com.memrise.android.memrisecompanion",
+      "ios_bundle_id": "com.memrise.ios.memrisecompanion",
+      "title": "Memorize",
+      "domain_name": [
+        "https://www.memrise.com",
+        "https://www.memrise.com"
+      ],
+      "website": "https://www.memrise.com",
+      "developer": "Memrise Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/eooMtOtVjJzq7fCS4G--Iy3jY8QvFEzdsoWMcO5Z_mJOilep2Wu_aZLJjTP9SOF_9jU",
+      "icon_72": "https://play-lh.googleusercontent.com/eooMtOtVjJzq7fCS4G--Iy3jY8QvFEzdsoWMcO5Z_mJOilep2Wu_aZLJjTP9SOF_9jU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.evernote"
+      },
+      "cat_key": "EDUCATION",
+      "cat_keys": [
+        "EDUCATION",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Capture ideas when inspiration strikes. Bring your notes, to-dos, and schedule together to tame life’s distractions and accomplish more—at work, at home, and everywhere in between. \n\nEvernote syncs to all your devices, so you can stay productive on the go. Tackle your to-do list with Tasks, connect your Google Calendar to stay on top of your schedule, and see your most relevant information quickly with a customizable Home dashboard. \n\n---\n\n“Use Evernote as the place you put everything… Don’t ask yourself which device it’s on—it’s in Evernote” – The New York Times\n\n“When it comes to taking all manner of notes and getting work done, Evernote is an indispensable tool.” – PC Mag\n\n---\n\nCAPTURE IDEAS\n• Write, collect, and capture ideas as searchable notes, notebooks, and to-do lists.\n• Clip interesting articles and web pages to read or use later. \n• Add different types of content to your notes: text, docs, PDFs, sketches, photos, audio, web clippings, and more.\n• Use your camera to scan and organize paper documents, business cards, whiteboards, and handwritten notes.\n\nGET ORGANIZED\n• Manage your to-do list with Tasks—set due dates and reminders, so you never miss a deadline.\n• Connect Evernote and Google Calendar to bring your schedule and your notes together.\n• See your most relevant information instantly on the Home dashboard.\n• Create separate notebooks to organize receipts, bills, and invoices.\n• Find anything fast—Evernote's powerful search can even find text in images and handwritten notes.\n\n\nACCESS ANYWHERE\n• Sync your notes and notebooks automatically across any computer, phone, or tablet.\n• Start work on one device and continue on another without missing a beat.\n\nEVERNOTE IN EVERYDAY LIFE\n• Keep a journal to keep your thoughts organized. \n• Go paperless by scanning receipts and important documents.\n\nEVERNOTE IN BUSINESS\n• Keep everyone up to date by capturing meeting notes and sharing notebooks with your team.\n• Bring people, projects, and ideas together with shared Spaces. \n\nEVERNOTE IN EDUCATION\n• Keep track of lecture notes, exams, and assignments so you don’t miss important details.\n• Create notebooks for each class and keep everything organized.\n\n---\n\nAlso available from Evernote:\n\nEVERNOTE PERSONAL\n• 10 GB of new uploads each month\n• Unlimited number of devices\n• Create and manage tasks\n• Connect one Google Calendar account\n• Access your notes and notebooks offline\n\nEVERNOTE PROFESSIONAL\n• 20 GB of new uploads each month\n• Unlimited number of devices\n• Create, manage, and assign tasks\n• Connect multiple Google Calendar accounts\n• Access your notes and notebooks offline\n• Home dashboard - Full customization\n\n--\n\nPrice may vary by location. Subscriptions will be charged to your credit card through your iTunes account. Where applicable, your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. Subscriptions may not be cancelled for refund except as provided in Evernote's Commercial Terms. Manage your subscriptions in Account Settings after purchase.\n\n---\n\nPrivacy Policy: https://evernote.com/legal/privacy.php\nTerms of Service: https://evernote.com/legal/tos.php\nCommercial terms: https://evernote.com/legal/commercial-terms",
+      "android_package_name": "com.evernote",
+      "ios_bundle_id": "com.evernote.iPhone.Evernote",
+      "title": "Evernote",
+      "domain_name": [
+        "http://evernote.com",
+        "https://evernote.com"
+      ],
+      "website": "http://evernote.com",
+      "developer": "Evernote Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3",
+      "icon_72": "https://play-lh.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

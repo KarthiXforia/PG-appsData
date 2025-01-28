@@ -1,0 +1,1283 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.vsco.cam"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "VSCO — community, tools, and exposure for all photographers.\n\nVSCO is a community-driven platform that equips photographers to expand creatively and professionally. We empower photographers to connect with other creatives and businesses with our suite of creative tools that spans from mobile to desktop and across our global community.\n\n\n\nFREE PHOTO EDITOR\n\nTake your photography to the next level with free VSCO presets. Easily import and edit your RAW photos. Use editing tools like Contrast and Saturation to make your photos pop or try adding Fade for a more subdued look. Find the perfect composition and align your perspective with Crop and Skew. Save and recreate your favorite edits with Recipes.\n\n\nADVANCED PHOTO EDITING TOOLS\nJoin VSCO Membership to access VSCO’s complete preset library with over 200+ presets. Recreate vintage film looks inspired by Kodak, Fuji, Agfa, and others with Film X. Use advanced photo editing tools like HSL, Dodge & Burn, Split Tone, and Grain. Frame your images with bold colors using Borders.\n\n\nVIDEO EDITOR\nTransform your videos on mobile with the same premium VSCO presets and advanced editing tools from our photo editor. Adjust white balance and experiment with color control with HSL. Easily create short video GIFs with DSCO.\n\n\nPRO PRESETS\nJoin VSCO Pro Membership to refine your signature photo or video style with Pro presets. Pro presets allow you to edit and customize our most iconic tools, adjusting preset contrast, color, tone, and more.\n\n\nCOLLAGE PHOTOS AND VIDEOS\nMake photo and video collages in seconds. Create layered multimedia collages with pre-set templates or start with a blank canvas. Edit and combine video scenes with Montage, and use Collage to create new compositions with photos, text, and customizable shapes.\n\n\nVSCO SPACES\nCreate shared and private galleries, get feedback, and discuss the creative process. Spaces are collaborative environments that provide a safe space for creators to workshop ideas, share inspiration, and connect. With Client Spaces, easily set a password for secure sharing that improves your professional workflow.\n\n\nDISCOVER WORK OPPORTUNITIES\nExpand your reach with opportunities you won't find anywhere else. Get matched with top brands that want to hire on Hub. Join Brand Challenges and submit to monthly prompts that can get your photos licensed, and you paid. Post your photos with #VSCO for an opportunity to be curated to the VSCO Collection.\n\n\nPROFESSIONAL PROFILE\nCreate a professional profile that showcases your unique skills. Post photos and videos, organize your work into Galleries, and tell stories with Blogs. Add your experience and let others know that you're open to collaborating and professional work.\n\n\nINSPIRED BY COMMUNITY\nJoin a community that opens the door to your creativity. Start discussions on posts, repost inspiring photos, and make direct connections with messaging. Curate a Feed captures your unique interests and showcases photographers you follow from around the world.\n\nExplore even more features on desktop at vsco.co\n\n\nMEMBERSHIP TRIAL AND SUBSCRIPTION TERMS\nStart your VSCO membership with a free 7-day trial. Once the trial is over, you’ll be charged an annual subscription fee. Your VSCO membership will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can go to your Settings > iTunes Account & App Store > Apple ID > Subscriptions to manage your membership and turn auto-renew off. Your iTunes Account will be charged when the purchase is confirmed.\n\n\nRead more about our terms and conditions here —\nhttp://vsco.co/about/terms_of_use\n\nRead more about our privacy policy here —\nhttp://vsco.co/about/privacy_policy",
+      "android_package_name": "com.vsco.cam",
+      "ios_bundle_id": "co.visualsupply.cam",
+      "title": "VSCO",
+      "domain_name": [
+        "http://vsco.co/vscocam",
+        "https://vsco.co"
+      ],
+      "website": "http://vsco.co/vscocam",
+      "developer": "Visual Supply Company",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/RdCklOFg3SLN5QF8OR7cU-5bs1ESYo_pqGYrK2ena3XZDcrLOpjf7vLtNQELOR7Uo4MH",
+      "icon_72": "https://play-lh.googleusercontent.com/RdCklOFg3SLN5QF8OR7cU-5bs1ESYo_pqGYrK2ena3XZDcrLOpjf7vLtNQELOR7Uo4MH=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.adobe.lrmobile"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Get your best photos faster than ever with Lightroom’s free photo and video editor\n\nLightroom is the easy way for you to transform your snaps into photos that stand out. Offering intuitive AI-assisted tools, presets, filters, and advanced features that give you full control and pro-quality results.\n\nCreate your own style, apply filters, batch edit photos, and get stunning pictures with this easy-to-use yet powerful photo and video editor.\n\nQuick Actions\nInstantly get suggestions, tailored to your photos, so you can get the edits you want. \n\nPortrait Photos\nUse the Lens Blur tool to make people stand out and Generative Remove to erase background distractions, blemishes or shiny skin\n\nTravel Photos\nPresets and filters that enhance the sky in one tap and Remove tools to clean up distractions and unwanted objects for a photo worth sharing\n\nFood Photos\nSelective edits that make your subject stand out\n\nStreet Photos\nHDR, Texture and Grain editor that brings out the atmosphere of the location\n\nLandscape Photos\nHue and Saturation editor to set the tone of your photo\n\nAI-Powered Features\n• Quick Actions: instantly suggests the best edits for your photo, including skin smoothing, portrait retouching, and subject enhancement, based on your photo’s content\n• Generative Remove: easily remove photobombers and pesky objects that ruin your otherwise perfect photo\n• Lens Blur: add blur to backgrounds to make people really stand out (now available as Blur Background Presets)\n• Adaptive Presets: easily make subjects and skies pop with one tap\n• Masking: quickly select any part of a photo and make detailed edits to get the right balance in your image\n• Recommended Presets and Filters: with so many presets tailored to any photo, you can create stunning images and share to your social media in a few taps\n\nPowerful Editing Tools\n• Edit suggestions: Quick Actions recommends the best edits for your photos.\n• Remove: high-precision tools to flawlessly retouch and remove any distraction from your photos\n• Lighting tools: take control of Exposure, Highlights, Shadows, and Curves to capture the right light in your photo\n• Color tools: adjust Hue, Saturation, Luminance, and Color grading to add style or get a film look\n• Details or effects: modify Clarity, Texture, Dehaze, Grain and Vignette to add texture and depth to your images\n• Crop and geometry: alter the perspective, resize, rotate and straighten photos\n• HDR: edit the full dynamic range of your image for high quality photos\n\nVideo\n• Style: Presets, Light, Color and Edit tools to create stylistic videos\n• Social: Create edit replay for reels you can post to social media\n\nCamera\n• Get all the controls of a pro camera on your phone\n• ISO, Exposure, Shutter Speed and more\n\nAdditional Features\n• Create and save your own filters and presets to apply to all your photos\n• Instant access to your photo gallery\n• Quick search for pictures\n\nLightroom photo and video editor gives you pro-quality results with powerful filters, editing and Remove tools that make your pictures stand out.\n\nTerms & Conditions:\nYour use of this application is governed by the Adobe General Terms of Use http://www.adobe.com/go/terms_linkfree_en  and the Adobe Privacy Policy http://www.adobe.com/go/privacy_policy_linkfree_en\n\nDo not sell or share my personal information www.adobe.com/go/ca-rights-linkfree",
+      "android_package_name": "com.adobe.lrmobile",
+      "ios_bundle_id": "com.adobe.lrmobilephone",
+      "title": "Adobe Lightroom",
+      "domain_name": [
+        "https://www.adobe.com/products/photoshop-lightroom.html",
+        "https://www.adobe.com"
+      ],
+      "website": "https://www.adobe.com/products/photoshop-lightroom.html",
+      "developer": "Adobe Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Rl-Cz9SdkVR-OKhXydZq0cVMocSSolBsox3PxIe_I2dy-6wXIc9u4gbZhT3C3MYPwg",
+      "icon_72": "https://play-lh.googleusercontent.com/Rl-Cz9SdkVR-OKhXydZq0cVMocSSolBsox3PxIe_I2dy-6wXIc9u4gbZhT3C3MYPwg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.eterno.shortvideos.lite"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "TikSave is the #1 App for influencers and small businesses looking to grow their TikTok presence. Within a friendly interface, it offers tools and advanced features to manage your TikTok videos and help you optimize your engagement. It has never been easy to grow on social media, especially on TikTok where a video could either go viral or flop. You have already a lot to handle! From learning dances, shooting videos and replying to comments. That’s why TikSave is here to help you save, organize and plan your videos ahead of time to make your busy life a lot easier.\n\n● Save - add your favorite TikTok videos with just a few taps. Use the share sheet widget or copy paste the link of the video into TikSave.\n\n● Organize - create folders and group videos that belongs together. Later, it will be much easier to find that one video you are looking for.\n\n● Explore - find more content. Dive into the video’s profile, challenge and hashtags.\n\n● Analyse - see the video’s performances. Review the engagement and analytics of the video including views, likes, comments and shares.\n\n● Share - get external insights. Choose the profile, challenge or video you would like to share to your friends or on other social media platforms.\n\n● Schedule - visually plan your TikTok videos. Edit, optimize and choose the right time to post or repost your TikTok videos.\n\nFor support, you can email us at support@tiksave.app.\n\nMake sure to follow us on TikTok @tiksave.app for tips and tricks.\n\n● Disclaimer\nThis App is not affiliated with or endorsed by TikTok Inc. Any unauthorized reposting of content without watermark or violations of intellectual property rights is the sole responsibility of the user. Before posting content, you must make sure to have the permission to post that content from all copyright owners.\n\n● Terms of use\nhttp://tiksave.app/terms.html\n\n● Privacy policy\nhttp://tiksave.app/privacy.html\n\n● Subscription policy\nPayment will be charged to your iTunes account at confirmation of purchase on a once a week basis. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period. Subscriptions may be managed by you and auto-renewal may be turned off by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when you purchase a subscription where applicable.",
+      "android_package_name": "com.eterno.shortvideos.lite",
+      "ios_bundle_id": "com.nodestree.app.tiksave",
+      "title": "TikTok Lite",
+      "domain_name": [],
+      "website": "",
+      "developer": "Nodes Tree",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/8WyywZ3FL5j65_v6cl0aSqrPZlgK1ckTSOyJc60MfszL697PSeT7TWyfYe9Fx1J3P8A",
+      "icon_72": "https://play-lh.googleusercontent.com/8WyywZ3FL5j65_v6cl0aSqrPZlgK1ckTSOyJc60MfszL697PSeT7TWyfYe9Fx1J3P8A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cyberlink.youperfect"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "**The world's #1 AR makeup camera app & AI selfie editor. Try on hundreds of virtual makeovers from top brands, apply instant makeup beauty filters!**\n\nYouCam Makeup also offers advanced retouch tools to instantly make skin smoother, fine-tune from face, nose to lip shape, whiten teeth, enlarge eyes, and more! Start your selfie game right now!\n\n【Unleash your AI's potential】\n◇ AI Hair Style – Try various hair styles & hair color with one tap\n◇ AI Avatar – Personalize your online presence for profiles and social media\n◇ AI Pet Avatar – Create custom AI avatars of your furry family members\n◇ AI Fashion – Immerse yourself in the world of fashion with AI Fashion offering 15+ trendy styles\n\n【Real-Time Virtual Makeover】\n◇ Live makeup cam allows you to try instant makeovers including lipstick, eye shadow, eyebrows, contour, eyelashes, foundation, eye color, blush and more\n◇ Seven lip textures from matte and gloss, to metallic and holographic\n◇ Record a fantastic selfie makeup filter video to share on social platforms\n\n【Face Retouch & Selfie Editor】\n◇ Face Shaper – face slimming & reshape cheekbone, chin, jaw & forehead\n◇ Contour – real-time shape get a supermodel’s face\n◇ Highlight – instant makeover for stunning cheekbone & nose bridge\n◇ Foundation & Blush – one-tap to try brand shades\n◇ Blemish Removal – fine-tune skin to remove pimples, acne, blackhead, wrinkles, spots & dark circles\n◇ Concealer –  instantly remove pimples, acne, blackhead, spots & dark circles\n◇ Face Paint – apply cute art on your face\n◇ Smile Editor – Add a smile to perfect your selfies\n\n【True-to-Life Hair Color & Trendy Hairstyles】\n◇ Play hair color games with the most realistic hair dye tool\n◇ Find your favorite hair color & effects before you dye your hair\n◇ Get hairstyles from long & curly to short & straight to trendy bangs & bob haircut\n\n【Beautiful Eyes & Brows】\n◇ Easily apply hundreds of eyeshadow styles & colors \n◇ Get drama with a range of eyeliner & lash styles\n◇ Try eyebrow editor, for many shapes and colors\n\n【YouCam Makeup Premium Version】\nUpgrade to YouCam Makeup Premium for unlimited access to:\n◇ Exclusive makeup collections & lip art styles\n◇ Unlimited use of beautify tools, including Eye Tuner, Concealer, Face, Lip, Nose Shaper & more \n◇ Save photos in HD\n◇ Teeth whitener for perfect teeth!\n◇ Enhance nose shape including size, bridge, length, and tip instantly\n◇ Single color or ombré hair editing\n◇ Remove watermarks\n◇ An AD-FREE editing experience\n◇ Monthly NEW premium content delivered right to you!\n\n-----\n\nPerfect Corp’s Terms of Use (https://www.beautycircle.com/info/terms-of-service.action)\nPrivacy Policy (https://www.beautycircle.com/info/privacy.action).\n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period (1 month / 1 year). Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.\n\n******************************\nIdeas? Share them with us by email or Facebook\nBugs? Please report them and they will be fixed shortly!\nEmail: YouCamMakeup_ios@perfectcorp.com\nFollow us: https://www.instagram.com/youcamapps/",
+      "android_package_name": "com.cyberlink.youperfect",
+      "ios_bundle_id": "com.cyberlink.youcammakeup",
+      "title": "YouCam Makeup",
+      "domain_name": [
+        "https://www.perfectcorp.com/consumer",
+        "https://www.perfectcorp.com"
+      ],
+      "website": "https://www.perfectcorp.com/consumer",
+      "developer": "PERFECT MOBILE CORP.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mnbSYc6QyMgP8zWoGivOwuC274YGRDaqL1N0y6OACajwpO395Oi1Dmuz4L3y43hI6g",
+      "icon_72": "https://play-lh.googleusercontent.com/mnbSYc6QyMgP8zWoGivOwuC274YGRDaqL1N0y6OACajwpO395Oi1Dmuz4L3y43hI6g=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.lightricks.facetune.free"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Welcome to Facetune, the go-to photo editing app for creators, influencers, and selfie enthusiasts! We're all about celebrating you and helping your photos shine like never before. With Facetune, you get powerful tools, a user-friendly interface, and endless creative possibilities to express yourself with confidence.\n\nWhat's Hot in Facetune:\n• Headshots: Transform everyday photos into professional-grade headshots in seconds with AI technology.\n• Filters: Discover a variety of filters to give your photos the perfect mood and aesthetic.\n• Vanish & Remove Objects: Seamlessly remove unwanted objects or people from your background.\n• Blemish Remover: Instantly achieve a flawless complexion by removing blemishes and wrinkles.\n• Video Filters: Retouch skin and enhance your videos with stunning filters to make them pop.\n• Retouch: Fine-tune your selfies with advanced retouching tools to highlight your best features.\n• Teeth Whitening: Brighten your smile (or sneakers!) and make your teeth sparkle with our free teeth whitening feature.\n\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\nKey Features:\n\nAdvanced Retouching Tools:\n• Smooth: Achieve a natural, flawless complexion by removing blemishes and wrinkles instantly.\n• Reshape: Subtly enhance your natural beauty with precise facial adjustments.\n• Whiten: Brighten your smile and make your teeth look their best.\n\nProfessional Editing Tools:\n• Filters: Choose from a variety of filters to give your photos the perfect mood and aesthetic.\n• Light Effects: Adjust brightness, contrast, and highlights to create ideal lighting.\n• Details: Sharpen and enhance details to make your photos pop.\n\nCreative Enhancements:\n• Makeup: Apply virtual makeup to glam up your look without the fuss.\n• Hairstyles: Change your hair color and style with just a few taps.\n• Vanish: Remove unwanted objects or people from your background seamlessly.\n\nOne Tap Magic:\n• AI Enhance: Automatically enhance your photos with our AI technology.\n• Looks Presets: Instantly transform your photos with curated looks and presets.\n• Color Correction: Correct and enhance colors for a vibrant, polished look.\n\nUser-Friendly Interface: Facetune is designed to be intuitive and easy to use, making photo editing a breeze whether you're a beginner or a pro.\n\nSocial Media Ready: Create stunning photos that are ready to share on all your favorite social media platforms. Impress your followers with polished, eye-catching images that highlight your unique style.\n\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nWhy Facetune?\n\n- Authentic: Celebrate your true self with photos that reflect your real beauty.\n- Playful: Experiment with different looks and styles to express your creativity.\n- Sharp & Sassy: Make a statement with bold, confident photos.\n- Encouraging & Confident: Boost your confidence with tools that highlight your best features.\n\nJoin the Facetune Community:\nFacetune is more than just an app; it's a community of creators, influencers, and photo enthusiasts. Share your photos, discover new techniques, and get inspired by others.\nDownload Facetune Today!\n\nReady to turn those pics into pure fire? Get Facetune now and let's make some magic happen! Remember, life's a photoshoot, and you're the star. Now go out there and slay, bestie!\n\nLove, The Facetune Team\n\nP.S. Don't forget to check for updates! We're always cooking up new features to keep your photo editing game fresh and fabulous.\n\nTerms of use: https://static.lightricks.com/legal/terms-of-use.pdf \nPrivacy policy: https://static.lightricks.com/legal/privacy-policy.pdf\n\nTag us in your photos and videos with @Facetune and #facetune for a chance to be featured!",
+      "android_package_name": "com.lightricks.facetune.free",
+      "ios_bundle_id": "com.lightricks.Facetune2",
+      "title": "Facetune2",
+      "domain_name": [
+        "http://www.facetuneapp.com",
+        "https://www.facetuneapp.com"
+      ],
+      "website": "http://www.facetuneapp.com",
+      "developer": "Lightricks Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/PZMWnpFtmhKbVl1fm6HJS3Mru4O9_RTtz5LK1dGlFe2cLMJ4QWun1mfQO5GAJWEl8w",
+      "icon_72": "https://play-lh.googleusercontent.com/PZMWnpFtmhKbVl1fm6HJS3Mru4O9_RTtz5LK1dGlFe2cLMJ4QWun1mfQO5GAJWEl8w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.picsart.studio"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Ignite your creative potential with Picsart — the all-in-one, AI-powered design studio that’s free and easy to use. From pro-quality business designs to next-gen AI art, Picsart is the perfect companion for any creative project that lets you go from inspiration to creation in a flash. Easily switch scenes with Background Remover, finesse your photos & videos with effects, filters, and powerful photo & video editor tools, create inspiring mood boards with photo collages, and more with a full suite of intuitive graphic design tools. \n\n\nKick-start projects with Templates \n\n• Accelerate your design process with customizable graphic design templates made by professional editors.\n• Make templates your own with just a few taps and create stunning brand logos, social stories, business cards, and more.\n\n\nTransform designs with Background Remover tools\n \n• Use advanced AI to create pro-quality product shots for your business. \n• Perfect for online sellers and solopreneurs, Smart Background seamlessly merges contextually suitable backgrounds using easy photo editor tools. \n• Switching backdrops is easy with the Background Remover tool. Make precise changes with easy graphic design editor tools and create fresh aesthetic styles.\n\n\nGet creative with AI \n\n• Make any low-quality image pop with the easy AI Enhance photo editor tool.\n• Remove Object quickly cleans up pictures and removes unwanted objects from the frame.\n• Apply stylized AI filters to your shots to create stunning photo effects.\n• Use AI Replace to instantly transform images with fun face swaps, hair color changes, selfie edits, and more.\n• From memorable quotes for social to compelling captions for marketing campaigns, Picsart’s AI Writer creates unique texts for all your content needs.\n• Turn text into AI art with the AI Image Generator and create customizable images and GIFs automatically.\n• Explore endless opportunities using AI Expand, the game-changing photo editor tool that seamlessly extends the boundaries of any image by adding new content that’s identical to the original. \n• Upload selfies to generate unique, customized AI avatar portraits in different styles.\n\n\nEdit videos like a pro\n\n• Create videos that shine on any platform. \n• Use the easy video editor to create and edit clips with music.\n• Take your IG Stories, TikToks & Reels to the next level.\n• Try retouch video effects and other trendy filters in the video editor.\n• Add your best moments to a video collage.\n\n\nAdd your flavor with the sticker maker\n\n• Discover 60+ million options in the Picsart sticker maker library.\n• Add stickers to pictures to turn up the fun level on your graphic designs or showcase special business promos.\n• Use the sticker maker to create your own custom stickers.\n\n\nTell your story in text \n\n• Create unforgettable designs by adding text to images with the Picsart Text Editor. \n• Discover 100s of classic and trending fonts to create the look you want.\n• Craft your own unique text styles with powerful customization options that elevate your graphic design game.\n\n\nDiscover endless inspiration\n\n• From solopreneurs to graphic design enthusiasts, AI art pioneers, photo editors and more, share your ideas, and get inspiration for that next big project with Picsart Spaces.\n\n\nCreate collage magic\n \n• Create on-trend photo collages with your favorite pictures. \n• Try photo grid collage or freestyle collage for mood boards and frames for selfies and pictures\n• Use the social media Story Maker and level up your Instagram game with templates.\n\n\nUpgrade your design experience: \n\nPICSART Plus\n\nIn addition to Background Remover and photo & video editing tools, elevate your graphic designs with premium content, templates, and retouch features. \n\nPicsart Pro\n\nExplore more premium possibilities with access to more AI tools, extra team seats for small businesses, and more storage space.\nTerms and conditions: https://picsart.com/terms-and-conditions\nAbout Ads: https://picsart.com/privacy-policy#interest-base",
+      "android_package_name": "com.picsart.studio",
+      "ios_bundle_id": "com.picsart.studio",
+      "title": "PicsArt",
+      "domain_name": [
+        "https://picsart.com",
+        "https://picsart.com"
+      ],
+      "website": "https://picsart.com",
+      "developer": "PicsArt, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/WSEOsbT-CtdxmJ5q_ChABDyGqaiPOMqjRveVi524OS5C7M3Ccy9paoi4rrNzJu4ORhE",
+      "icon_72": "https://play-lh.googleusercontent.com/WSEOsbT-CtdxmJ5q_ChABDyGqaiPOMqjRveVi524OS5C7M3Ccy9paoi4rrNzJu4ORhE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.canva.editor"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Canva is your easy to use photo editor and video editor in one graphic design app! Create stunning social media posts, videos, cards, flyers, photo collages & more. \n\nNo design experience or expertise? No problem! From photo editor to collage maker, to logo maker – we made Canva really simple & easy for everyone. \n\nSTUNNING TEMPLATES \n• Start inspired with thousands of customizable templates\n• Playful Facebook posts, Insta layouts, Instagram post maker, IG Story, & mood boards\n• Professionally-designed invitations, flyers, gift certificates, etc. to boost your business or event\n• Showcase your product with our logo maker\n• Visualize data with sleek presentation templates and slideshow maker\n\nPHOTO EDITOR – No ads, no watermarks\n• Effortless picture apps to crop, flip, & edit photos\n• Adjust brightness, contrast, saturation, tint, blur, etc.\n• Auto Focus for background blur & sharpen photo subject \n• Apply your style with aesthetic filters & effects (Retro, Pixelate, Liquify, etc.)\n• Fun photo grid & photo collage maker \n\nVIDEO EDITOR – make amazing videos in just a few taps\n• Produce professional videos right on your phone\n• Trim, cut, & split video layout and audio tracks\n• Crop, resize, and flip videos & images to any dimensions\n• Make static images move with one-tap animations & page transitions\n• Overlay multiple audio tracks of music, sound effects, & voiceovers\n• Use the video editor as a video collage maker & slideshow maker too!\n\nSOCIAL MEDIA – hit it big with on-trend content\n• Discover thousands of templates for Instagram, TikTok, Facebook, Twitter, YouTube, Snapchat, LinkedIn etc.\n•  Queue your planned posts on Instagram with Scheduler [Canva Pro]\n• Play with our photo editor for thumb-stopping Instagram layouts\n• Easy collage maker & video editor to create photo grids, collages\n\nEXTENSIVE STOCK LIBRARY – over 2M+ assets for you\n• Complete package: all the elements you need are here\n• 2M+ royalty-free images\n• Thousands of watermark-free stock videos\n• 25K+ pre-licensed audio & music tracks\n\nSMART MOCKUPS – see your designs on a shirt or poster and more\n• Look professional by visualizing your designs on products \n• High-res mockups for phones, laptops, posters & other displays\n• Order printed flyers, mugs, and apparel for gifts or business\n\nREAL-TIME COLLABORATION – with anyone across any device\n• Edit team projects & presentations anytime, anywhere\n• Start a design on mobile & finish on your desktop seamlessly\n• Work with your team in real-time, leave comments & apply changes\n\nCANVA PRO\n• Bring your vision to life with premium templates, images, videos & graphics\n• Save time with tools like Background Remover, Magic Resize, and Content Planner\n• Design and grow an authentic brand with Brand Kit\n• Working with a team? Create faster, together, with Canva for Teams\n\nDESIGN FOR EVERYONE \n• Personal - Layout designs for creative & professional pursuits like Instagram templates, resume, photo collages, etc.\n• Entrepreneurs - Grow your business with our logo creator, video editor, poster maker, etc.\n• Students & Teachers - Engage with beautiful presentations and worksheets\n• Social Media Managers & Content Creators - Use the photo editor and collage maker for consistent \nvisuals.\n\n*Your monthly subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. The  Payment will be charged to your iTunes Account at confirmation of purchase. You can manage app subscriptions in your iTunes Account settings. Any unused portion of a trial period, if offered, will be forfeited when you purchase a paid subscription. No lock-in contract.\n\nhttps://about.canva.com/terms-of-use\nhttps://about.canva.com/privacy-policy \n\nNote: Image pack in-app purchases on the App Store are only available to use on the Canva app for iPhone.\n\nGot questions or comments? Get in touch http://canva.me/ios",
+      "android_package_name": "com.canva.editor",
+      "ios_bundle_id": "com.canva.canvaeditor",
+      "title": "Canva",
+      "domain_name": [
+        "https://www.canva.com/iphone",
+        "https://www.canva.com"
+      ],
+      "website": "https://www.canva.com/iphone",
+      "developer": "Canva Pty Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AZvFkMmN5dAzee-N6UrjRo8nS0eOu28U-sJx_oimuzo_5ZshMBccG1IJkAWzD5XfL2Q",
+      "icon_72": "https://play-lh.googleusercontent.com/AZvFkMmN5dAzee-N6UrjRo8nS0eOu28U-sJx_oimuzo_5ZshMBccG1IJkAWzD5XfL2Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.camerasideas.instashot"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "InShot: Empowering Creators with Advanced Video and Photo Editing. Unlock effortless editing with easy-to-use features and powerful AI tools, elevating your video and photo editing experience to new heights.\n\n[AI Tool]\n- AI Effects. Experience the magic of AI with instant presets that elevate your images and videos in just one tap.\n- Auto Captions. AI-powered speech-to-text tool helps you say goodbye to manual text typing and makes video editing effortless.\n- Auto Remove Background. Remove background of videos/photos at the touch of a button.\n- Smart tracking. Make stickers/text move seamlessly in sync with your tracking object motion, adding dynamic flair to your videos.\n- Smooth slow-mo. Experience seamless slow-motion effects for buttery smooth videos.\n- Auto Adjust. Instantly enhance your images and videos with one-tap.\n- Smart collage. Make photo collages with AI Blend effects and Screenshot Stitch with effortless caption recognition.\n\n[Video editing]\n- Trim/Merge clips.\n- Reverse videos.\n- Add text, emoji and InShot exclusive stickers.\n- Add music, sound effects & voice-overs.\n- Add various-styles voice effects.\n- Speed control. Speed up/slow down video. Add speed ramping.\n- Keyframe editing. Add custome keyframe animations.\n- Chromakey. Easily edit green screen video.\n- Picture-in-Picture. Create multi-layered videos.\n\n[Filters, Effects & Transitions]\n- Lots of cinematic filters.\n- Unique effects such as Glitch, Fade, Noise, Beats, Weather, Retro DV, celebrate, etc.\n- AI effects. Clone, stroke, auto-blur, etc.\n- Combine clips with super transitions.\n\n[Photo Editing]\n- Add text and stickers to photos, make fun story.\n- Add filters and adjust brightness, contrast, curves, etc.\n\n[Photo Collage]\n- Easy-to-use photo grid collage maker.\n- Create seamless collages with AI Blend.\n- AI subtitle detection in Captions stitch mode.\n- High-quality pic stitch in horizontal/vertical way.\n\n[Share]\n- High video output resolution. Now InShot support save in 4K, 60fps.\n- Share to social apps, like YouTube, Twitter, Instagram, WhatsApp, etc.\n\n[InShot Pro Unlimited Subscription]\n- With an InShot Pro Unlimited subscription, you have access to all features and paid editing materials including stickers, filter packages, etc. Watermark and advertisements will be removed automatically.\n- InShot Pro Unlimited subscription is billed monthly or annually at the rate corresponding to the selected plan. In addition, a one-time payment will be offered if needed, which is not one of the subscription plan.\n- Payment will be charged to iTunes Account at confirmation of purchase.\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.\n- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\n[Terms of Use]\nhttps://inshot.cc/terms/terms.pdf\n\n[Privacy Policy]\nhttps://inshot.cc/terms/privacy.pdf\n\nFeel free to contact us: inshot.ios@inshot.com, your feedback and suggestions are important to us! For more InShot news and tutorials, follow us on YouTube @InShot Video Editor.\n\n[Disclaimer]:\nInShot is not affiliated, associated, sponsored, endorsed by, or in any way officially connected with YouTube, Instagram, TikTok, Facebook, Twitter.\n\nAcknowledgements:\nFUGUE Music\nhttps://icons8.com/music/",
+      "android_package_name": "com.camerasideas.instashot",
+      "ios_bundle_id": "com.camerasideas.InstaShot",
+      "title": "InShot",
+      "domain_name": [
+        "http://inshot.cc",
+        "https://inshot.cc"
+      ],
+      "website": "http://inshot.cc",
+      "developer": "SHANTANU PTE. LTD.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/kMTuBBwXZ-zjg_WB-QB4ZfzM4Tv84vJ4iKcrNeUvHDQqImle6XzdRkrQinfrpcBejHs",
+      "icon_72": "https://play-lh.googleusercontent.com/kMTuBBwXZ-zjg_WB-QB4ZfzM4Tv84vJ4iKcrNeUvHDQqImle6XzdRkrQinfrpcBejHs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wondershare.filmorago"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Add background music and sound effects to your short-form videos to make the videos more engaging! Edit videos sound just like a pro. A must-have app for the content creator.\n\nFEATURES\n1. Voice-overs: Record your voice over the video.\n2. Multiple Music Tracks: Add unlimited background audio tracks, music & voice to your video.\n3. Trim Audio: Cut out any unwanted moments from the audio.\n4. Trim Video: Cut out any unwanted moments from the videos.\n5. Positioning Tracks: Position your music tracks for perfect editing!\n6. Share Videos: Share your content on Tiktok, Vine, Snapchat, Instagram & Facebook. \n\nDISCLAIMER: \nYou might be required to sign up for an auto-renewable In-App Purchase to access all features and functionalities of the app. \n\nSUBSCRIPTION INFO: \nSubscribe to take advantage of the features described above.\n• Subscription Length: Weekly, Monthly, and Yearly.\n• Your payment will be charged to your iTunes Account as soon as you confirm your purchase.\n• You can manage your subscriptions and turn off auto-renewal from your Account Settings after the purchase.\n• Your subscription will renew automatically unless you turn off auto-renew at least 24 hours before the end of the current period.\n• The cost of renewal will be charged to your account 24 hours before the end of the current period.\n• When canceling a subscription, your subscription will stay active until the end of the period. Auto-renewal will be disabled, but the current subscription will not be refunded.\n• Any unused portion of a free trial period, if offered, will be forfeited when purchasing a subscription. \n\nTerms of service: http://www.addmusictovideo.com/terms.html\nPrivacy policy: http://www.addmusictovideo.com/privacy.html \n\nCONTACT US\nWe believe your feedback, ideas, or complaints will help us to make the app better. Do not hesitate to contact us about anything. \n\nMail: info.addmusic@gmail.com\nWebsite: http://www.addmusictovideo.com/support.html",
+      "android_package_name": "com.wondershare.filmorago",
+      "ios_bundle_id": "com.tasnim.addmusic",
+      "title": "FilmoraGo",
+      "domain_name": [
+        "http://www.addmusictovideo.com",
+        "https://www.addmusictovideo.com"
+      ],
+      "website": "http://www.addmusictovideo.com",
+      "developer": "Add Music to Video Maker & Editor LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5zRCWW5R_LfHQQRSuQL-SkpdViOCrAoGqraXJUQHUrvE-vCLvhtWJJtPn1sFFUc3kTs",
+      "icon_72": "https://play-lh.googleusercontent.com/5zRCWW5R_LfHQQRSuQL-SkpdViOCrAoGqraXJUQHUrvE-vCLvhtWJJtPn1sFFUc3kTs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.photos"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Google Photos is a smarter home for all your photos and videos, made for the way you take photos today.\n\n“The best photo product on Earth” – The Verge\n“Google Photos is your new essential picture app” – Wired\n“Upload the pictures, and let Google Photos do the rest” – The New York Times\n\n• 15 GB OF CLOUD STORAGE: Every Google Account comes with 15 GB of storage and you can choose to automatically back up all your photos and videos in High quality or Original quality. Your photos are safe, secure, and private to you. All photos and videos you back up in High quality before June 1, 2021 will not count toward your Google Account storage.\n\n• FREE UP SPACE: Never worry about running out of space on your phone again. Photos that are safely backed up can be removed from your device’s storage in just a tap.\n\n• NO ADS: Google Photos doesn't sell your photos, videos, or personal information to anyone and we don't use your photos and videos for advertising.\n\n• FAST AND POWERFUL SEARCH: Your photos are now searchable by the people, places and things in them—no tagging required.\n\n• GOOGLE LENS: Search what you see. This preview enables you to identify text and objects in your photos to learn more and take action.\n\n• SMARTER SHARING: With smart sharing suggestions, giving your friends the photos you took of them is painless. And they can add their photos, too, so you’ll finally get the photos you’re actually in.\n\n• ADVANCED EDITING: Transform photos with a tap. Use intuitive and powerful photo and video editing tools to apply content-aware filters, adjust lighting, and more.\n\n• MOVIES AND GIFS, MADE FOR YOU: Get automatically created movies, collages, GIFs, and more from your photos. Or easily create them yourself.\n\n• LIVE ALBUMS: Share your latest photos with Live Albums. Select the people and pets you want to see and Google Photos will automatically add photos of them as you take them, no manual updates needed.\n\n• SHARED LIBRARIES: Share without sharing. Grant a trusted person access to all of your photos.\n\n• REDISCOVER: Get collages of photos you took a year ago on this day – perfect for #tbt.\n\n• ON YOUR TV: View your photos and videos on your TV with Chromecast and Airplay support.\n\n\nYou can also upgrade storage for your Google Account, used for Original Quality photos and videos, Google Drive and Gmail by subscribing to Google One, an expanded storage plan. Subscriptions start at $1.99/month for 100 GB in the US. Pricing and availability can vary by region.\n\nStorage subscriptions purchased in-app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.\n\nGoogle Privacy Policy: https://google.com/intl/en_US/policies/privacy\nGoogle One Terms of Service: https://one.google.com/terms-of-service\n\nNote: Face grouping is not available in all countries.\n\nFor the latest updates from the team, follow us on Twitter at @googlephotos\n\nUsing GPS in the background can decrease battery life. Google Photos doesn't run GPS in the background unless you turn on optional features.",
+      "android_package_name": "com.google.android.apps.photos",
+      "ios_bundle_id": "com.google.photos",
+      "title": "Google Photos",
+      "domain_name": [
+        "https://www.google.com/photos/about",
+        "https://www.google.com"
+      ],
+      "website": "https://www.google.com/photos/about",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA",
+      "icon_72": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nexstreaming.app.kinemasterfree"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Do more with your videos! Search for and download the newer version of KineMaster on the App Store now!\n\nKineMaster makes it easy to create incredible videos:\n\n• Download and re-edit video templates\n• Tools to cut, crop, and zoom your videos and images\n• Lots of searchable, downloadable transitions, effects, videos & images, stickers, fonts, and animations from the KineMaster Asset Store\n• Save your video in 4K at 60FPS\n• Many, many more features, options, and settings!\n\nWant even more? Just search for the new KineMaster on the App Store!\n\nFind out why creators love KineMaster for YouTube, TikTok, and Instagram and why journalists, educators, marketers, and vloggers use it professionally! Download the new KineMaster to edit and share your own amazing videos!\n\nKineMaster is completely free to use, but you can unlock even more with a KineMaster Premium subscription! A subscription removes the KineMaster watermark, offers an ad-free experience and gives you unlimited access to the entire Asset Store. Learn more by tapping the crown button on the main screen.\n\nSubscriptions to KineMaster Premium automatically renew, unless auto-renew is turned off in Account Settings at least 24 hours before the end of the current payment period.\n\nKineMaster and KineMaster Asset Store Terms of Service: https://www.kinemaster.com/tos/ios\n\nLearn more about the latest version of KineMaster at KineMaster.com!\n\nFor more information, please tap the FAQ button on the KineMaster main screen. If you cannot find the solution you're looking for, contact KineMaster by tapping the E-mail Support button at the bottom of any FAQ article.",
+      "android_package_name": "com.nexstreaming.app.kinemasterfree",
+      "ios_bundle_id": "com.kinemaster.app",
+      "title": "Kinemaster",
+      "domain_name": [
+        "http://www.kinemaster.com",
+        "https://www.kinemaster.com"
+      ],
+      "website": "http://www.kinemaster.com",
+      "developer": "KineMaster, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Jaw57u6LQJNeqKfjJER9MM5On66ZXopBk3rrShag1BBZrX6cZdxxIMGf8nYA_Av0meA",
+      "icon_72": "https://play-lh.googleusercontent.com/Jaw57u6LQJNeqKfjJER9MM5On66ZXopBk3rrShag1BBZrX6cZdxxIMGf8nYA_Av0meA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.lightx"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "LightX's latest update comes with a suite of Free AI-powered tools that empower you to enhance your photos in an instant; including:\n\n\nText to Video AI\nConvert written narratives into video content, complete with visuals, motion automated scene creation, and customizable video styles\n\nImage to Video AI\nThe AI that makes pictures move is here! Breathe life into your static images by animating them.  Simply enter text prompts and the AI adds motions to still images\n\nSketch to Image AI\nTurn Rough Sketches to AI generated Images. Upload your sketches or draw on our canvas, and see your creations transform into stunning visuals.\n\nText to Image AI: Generate AI imagery, Stickers \nExplore your creativity with our AI image generator, generate unique images, png stickers based on your descriptions\n\nAI Image Extender\nExpand your pictures beyond their original borders. LightX AI expander intuitively outpaints the surroundings with details that match the existing elements.\n\nAI Background Remover and Changer\nAn impressive AI background eraser that effortlessly deletes bg from images\n- Make photo transparent\n- Change background/ bg color of an image\n\nAI Background Generator \nGenerate backgrounds through text prompts or access pre made scenes and settings\n\nAI Avatar Generator from Photo \nCreate AI avatars from just one photo using our free AI avatar app. Choose from a variety of styles such as cartoon, anime, muscular, caricature and more to generate AI selfies and multiple unique AI profile pictures\n\n\nAI Portrait Generator and AI Character Generator from Text\nTurn photos to painting or characters, including Marvel, Hollywood, and popular AI Disney characters with the most sophisticated image to image AI tool\n\n\nAI Filters and AI Photo Enhancer for Breathtaking Photos\nAdd Anime, Manga, or retro effects to images for dreamy results\nAI Product Photography and AI Product Shoot\n- Create ecommerce imagery with AI generated product photos\n- Generate AI Flyers, Posters, Product Ads for Instagram with aesthetic bg\n\n\nAI Magic Erase\n- Remove unwanted objects or people from photos seamlessly. \n- Remove watermark, text, glare, blemishes, red eye from image\n\n\nReplace Clothing AI\nAI Clothes Replacer, a tool designed to replace the original outfit in your photos with a brand-new, stylish ensemble\n\nAI Hairstyles\n- Try out new hairstyles and hair colors for free with AI Hairstyles\n\n\nAI Headshots Generator: Create Professional AI generated headshots and pfp for LinkedIn, resumes, and more\n\n\nPhoto and Video Editing Tools\n- LightX's video editor allows users to crop, resize, cut, rotate, and trim videos\n- Adjust picture contrast, white balance, gamma, color correction, and color grading\n- Blur background of images\n- Resize image \n\nGraphics\nExplore a rich library of 3D video elements, animated cliparts and over 10k customizable photo and video templates for every need. Enhance your graphic designs with curved text and circular text on photos.\n\nSubscription Options: Unlock all LightX Photo and Video Editor features with a pro subscription, available in weekly, monthly, or annual plans. Alternatively, purchase AI credits anytime, with no expiration.\nAuto-Renewal: Subscriptions automatically renew at the chosen package price. To avoid renewal charges, cancel at least 24 hours before the current subscription period ends.\nBilling: Subscription fees are charged to your iTunes account at the time of purchase confirmation.\nSubscription Management: You can manage your subscription and disable auto-renewal in your Account Settings post-purchase.\nApple Policy Compliance: According to Apple policy, cancelling a current subscription during its active period is not permitted.\nRefunds: No refunds are provided for any unused portion of the term once the subscription is purchased.\nTerms of use: https://www.lightxeditor.com/terms/\n\nPrivacy policy: https://www.lightxeditor.com/privacy/\n\nNeed a little help?\nWrite to us- ios.support@lightxapp.com",
+      "android_package_name": "com.lightx",
+      "ios_bundle_id": "com.lightx.photoeditor",
+      "title": "LightX",
+      "domain_name": [
+        "https://www.andor.mobi",
+        "https://www.andor.mobi"
+      ],
+      "website": "https://www.andor.mobi",
+      "developer": "Andor Communications Private Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/x0yyAApzXVUjUXg3F3CwS_D4w0nHchntpvK0d_FnhqkkY1u9Wx_Ih8i_T2MLFZXuow",
+      "icon_72": "https://play-lh.googleusercontent.com/x0yyAApzXVUjUXg3F3CwS_D4w0nHchntpvK0d_FnhqkkY1u9Wx_Ih8i_T2MLFZXuow=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.instagram.android"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chats and share unfiltered moments with your Close Friends.\n- Share memories from recent events or trips in Feed.\n- Customize your posts with exclusive templates, music, stickers and filters.\n\nDive into your interests.\n- Watch videos from your favorite creators and discover new content that’s personalized to your interests.\n- Get inspired by photos and videos from new accounts in Explore.\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\n\nSome Instagram features may not be available in your country or region.\n\nTerms and Policies: https://help.instagram.com/581066165581870\n\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+      "android_package_name": "com.instagram.android",
+      "ios_bundle_id": "com.burbn.instagram",
+      "title": "Reels (Instagram)",
+      "domain_name": [
+        "http://instagram.com",
+        "https://instagram.com"
+      ],
+      "website": "http://instagram.com",
+      "developer": "Instagram, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM",
+      "icon_72": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.adobe.premiererush.videoeditor"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Shoot, edit, and share videos anywhere.\n\nFeed your channels a steady stream of awesome with Adobe Premiere Rush, the all-in-one app for creating and sharing videos — fast and easy. Powerful tools let you quickly create videos that look and sound professional, just how you want. Share to your favorite social sites right from the app and work across iPhone and iPad. Use it for free as long as you want with unlimited exports — or upgrade to access all premium features and hundreds of soundtracks, sound effects, loops, animated titles, overlays, and graphics.\n \nPRO-QUALITY VIDEO\nBuilt-in camera functionality lets you capture pro-quality videos right from the app and start editing immediately. \n \nEASY EDITING AND EFFECTS\nArrange videos, audio, graphics, and photos with drag and drop. Easily trim and crop videos, flip and mirror video clips, and add images, stickers and overlays to video clips. Adjust speed and enhance color with intuitive presets and customization tools. Effortlessly create pan and zoom effects for images with one click. Make your videos pop by simply selecting the start and end points on your still images, and changing the scale and position as needed. \n\n\nCUSTOMIZE ANIMATED TITLES\nAccess built-in animated graphics such as titles and overlays. Change the color, size, font, and more to make them your own. \n \nGREAT SOUND\nChoose from thousands of royalty-free, original soundtracks, sound effects, and loops to bring your videos to life.\n \nMULTITRACK TIMELINE\nEnjoy creative flexibility with multiple video tracks. Create impressive effects like picture-in-picture and split-view.\n \nMADE FOR SHARING\nEasily resize videos to different aspect ratios, including landscape, portrait, square, and 4:5 for different channels. All media in a sequence is automatically resized — ideal for Facebook and Instagram. Share your creations with one click to TikTok, Instagram, and Facebook.\n\nPREMIUM USERS\nUpgrade to Rush Premium to access all features and content for iPhone and iPad, including:\n \nADVANCED AUDIO TOOLS\nAdvanced tools powered by Adobe Sensei AI for sound balancing and auto-ducking.\n\nPREMIUM CONTENT LIBRARY\nUnlock hundreds of premium titles, overlays, and animated graphics to elevate your videos.\n\nADDITIONAL PREMIUM FEATURES\nAuto reframe automatically detects and keeps the most important part of your videos in the frame when switching to different aspect ratios – perfect for sharing to social media.\nAdvanced sharing automatically updates edits across all your mobile devices, and exporting in 4K is supported.\n\nQuestions?\n\n• Learn & Support: https://helpx.adobe.com/support/rush.html\n\nPaid Plan (Optional in-app purchase)\n\nUnlock Premium features and add 100GB of cloud storage. The recurring monthly payment is automatically charged to your iTunes account. To stop service, go to your account Settings and turn off auto-renew at least 24-hours before the end of your billing period. Prorating is unavailable – when you turn off auto-renew, service will continue until the end of that month’s billing period.\n\nFree users can trial Premium features in videos but must upgrade to export.\n\nTerms & Conditions: \nYour use of this application is governed by the Adobe General Terms of Use http://www.adobe.com/go/terms_linkfree_en and the Adobe Privacy Policy http://www.adobe.com/go/privacy_policy_linkfree_en\n\nDo Not Sell My Personal Information: www.adobe.com/go/ca-rights-linkfree\n\nUse of Adobe mobile apps and online services requires registration for a free Adobe ID as part of a free, basic level of Creative Cloud membership. Adobe online services require an internet connection, are not available in all countries or languages, and may be subject to change or discontinuation without notice.",
+      "android_package_name": "com.adobe.premiererush.videoeditor",
+      "ios_bundle_id": "com.adobe.rush",
+      "title": "Adobe Premiere Rush",
+      "domain_name": [],
+      "website": "",
+      "developer": "Adobe Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7wSIXATGyxYU_iZNQKOzCJ68ZEiWGFFhte30uzdbdBTjC_Ct-paBW1qsevCeZmS2sXA",
+      "icon_72": "https://play-lh.googleusercontent.com/7wSIXATGyxYU_iZNQKOzCJ68ZEiWGFFhte30uzdbdBTjC_Ct-paBW1qsevCeZmS2sXA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.picsart.animate"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Make awesome animations with the newest cartoon maker from Picsart!\n\nAnimations are made easy with Picsart Animator - the animation creator and cartoon maker that’s designed for ease of use and maximum functionality. Make cartoon videos or animated GIFs in a snap, without any experience, and all right on your phone! Make funny videos and cartoons - no advanced drawing skills required! Animate directly on top of your photos and bring them to life! Just doodle, have fun, and amaze your friends. Get ready to be asked, “How did you do that?!” A lot.\n\nLooking for something a little more advanced? The animator has got all the functionality that the pros use - for free and without the learning curve! Jam-packed with animation features like duplicate frames, layers, fully equipped drawing tools and much more Animator is the only animation and cartoon-making app you’ll ever need. No complicated animation tutorials or cartoon-making steps required. Whether you’re animating selfies or sketching cartoons, Animator will make it awesome.\n\nFEATURES\n• Draw frame by frame animations\n• See animation timeline with play mode\n• Use frames management and duplication\n• Draw on your photos and make animated selfies\n• Get advanced drawing and sketching tools\n• Use multi-layering for complex animations\n• Control Animation length and speed\n• Easily save as video or GIF and share to social networks like YouTube, Facebook, and Instagram\n• Add music to your animations\n\nPicsart Animator is 100% free and without ads!",
+      "android_package_name": "com.picsart.animate",
+      "ios_bundle_id": "com.picsart.animator",
+      "title": "PicsArt Animator",
+      "domain_name": [
+        "https://picsart.com",
+        "https://picsart.com"
+      ],
+      "website": "https://picsart.com",
+      "developer": "PicsArt, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/RfahDEM8-FHHsA065suMW2ARz6GFl5f4T3RMf9QWilqOSnp1X8fVCDhSL-PcgeU4XnOD",
+      "icon_72": "https://play-lh.googleusercontent.com/RfahDEM8-FHHsA065suMW2ARz6GFl5f4T3RMf9QWilqOSnp1X8fVCDhSL-PcgeU4XnOD=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.moonlab.unfold"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "— Stitch video clips together with Reels templates\n— Create with template collections like Film\n— Plan and preview your Instagram Feed\n— Remove any background with our AI editing tool \n— Make a free Bio Site for your new link in bio\n— Edit your content with filters and effects \n\n\nReels Templates: Make trendsetting videos for social media in minutes. Pick an exclusive Reels template, add clips and photos, and let Unfold do the rest.\n\nStory, Post, and Animated Templates: Create beautiful content for social with over 400+ templates to choose from. Add filters and effects to your photos directly within the template. Write your text with unique fonts and use advanced text tools. Select a background color or choose a texture. Then share your story with the world!\n\nAdvanced AI Editing Tools: Edit your photos and videos with our filters and effects. Choose from filters like Tulum and Canarias or effects like VHS and Glitch. Adjust your brightness, contrast, shadows, highlights, saturation, warmth and tint. You can even remove any background from your photos with our AI Background Removal Tool.\n\nFeed Planner: Sign in with your business or creator Instagram to start planning your Feed. Upload your post to make sure it matches your aesthetic before posting.\n\nBio Sites: Make your free Bio Site directly in the app, a beautiful hub for all your links to share in your social bios. You have more than one link, your bio should too.\n\nAbout Unfold+:\n\n· Hundreds of design templates for social\n· Exclusive fonts, stickers, tools & sounds\n· Filters and effects for photos/videos\n· Customize your Bio Site URL\n· Unlimited photos in the Feed Planner\n· AI photo editor\n\n\nAbout Unfold Pro:\n\n· Access all of Unfold+ features \n· Upload custom fonts to use in your stories\n· Add your brand colors to your palette\n· Sync your logos and stickers into the app\n· Share your stories to the web with a stori.es link\n· Remove the watermark from your Bio Site\n\n\nAnnual subscription billing will start after the trial period. After the 7 day free trial, this subscription will automatically auto-renew each year. Or if you choose a monthly subscription, your billing will start immediately and auto-renew each month. Subscriptions will automatically renew unless cancelled at least one day before the renewal date within 24 hours before the end of the current period. Payment will be charged to your Apple ID account at the confirmation of purchase. If you subscribe before a free trial ends, the remainder of the trial period will be forfeited. You can manage and cancel your subscription by going to your account settings in the App Store.\n\n\nPrivacy Policy —\nhttps://squarespace.com/privacy\n\nTerms of Service —\nhttps://squarespace.com/terms-of-service\n\nUnfold from Squarespace —\nhttps://squarespace.com/marketing/unfold\n\n\nThanks for creating with Unfold! We'd love to hear from you. Message us on Instagram at @unfold.",
+      "android_package_name": "com.moonlab.unfold",
+      "ios_bundle_id": "com.moonlab.unfoldstories",
+      "title": "Unfold",
+      "domain_name": [
+        "https://unfold.com",
+        "https://unfold.com"
+      ],
+      "website": "https://unfold.com",
+      "developer": "Squarespace, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ITUxxrfNi_zwVCB-j7znK4hkCT2-7xExx_0CnSfAvM0k2tJyDPnwYdTxVzon2CFfKw",
+      "icon_72": "https://play-lh.googleusercontent.com/ITUxxrfNi_zwVCB-j7znK4hkCT2-7xExx_0CnSfAvM0k2tJyDPnwYdTxVzon2CFfKw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.frontrow.vlog"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Ranked #1 on the App Store in more than 100 countries! \n\nAwesome video editor with great effects and transitions.\n\nFunimate is the best video editing app you can find on mobile! Join millions of Funimate users who create advanced video edits easily. With Funimate, you’ll be able to create PRO edits very quickly with the help of unique and advanced editing features we have. \n \nCreate amazing Fan Edits or spice up your freestyle videos with unique video features like transitions, custom animations, video and text effects and filters. Add stickers, backgrounds and overlays to your video to show off your creativity and amaze your friends from our element library with thousands of options. \n \nYou can share the videos you create on Funimate on TikTok, Instagram, Snapchat, Musically and amaze your friends and  gain followers! Don’t forget to post on Funimate as well to join the Funimate community and even get featured!\n \nP.S: Funimate users get featured more often on social media like TikTok because of creative videos they make by using unique Funimate video effects!\n  \nEven if you are not an expert, Funimate lets you create advanced multi-layered edits that look really PRO just with your mobile phone. \n \nOn Funimate you can find: \n \nFan Edit videos to show their appreciation and love to influencers and celebrities; \n \nLip sync, dance and freestyle videos with awesome text effects, AI effects & video effects;\n \nAwesome anime edits our users make with their favorite anime & manga characters;\n \nGame edits to show off your gaming skills;\n \nAnd MANY MORE...\n  \nTOP VIDEO EDITING FEATURES\n \nTRANSITIONS: Awesome transitions for your edits that you can add with a single tap! We have the best video transitions to wow your followers. Just add your pictures & videos and just by using a few taps you create a cool video with professional looking video transitions.\n \nELEMENT LIBRARY: Video editing is even more fun with overlays, stickers & backgrounds from our element library that has thousands of elements.\n\nKEYFRAMES: You’re not limited to our effects when it comes to making your videos unique. It’s super easy to animate your layers using keyframes! Discover custom animations to show off your creative skills to your followers.\n \nVIDEO MASK & AI EFFECTS:You can change the background of your videos and add cool mask effects to your videos with just a click! To try this out, add a dance/freestyle video, tap AI Effects button and choose the effect you want. \n \nEFFECT MIX: You can try more than 100 advanced video effects on Funimate video editor.\n \nINTRO & OUTRO EFFECTS: Tens of intro and outro animations.\n \nTEXT EFFECTS: Tens of different fonts and styles available !\n \nADD MUSIC TO VIDEOS: Add your favorite music to videos to make short music video clips. \n \nVIDEO MERGE, CUT & TRIM: Besides all the awesome features, you’ll also have classic video editor app features like cropping, merging, cutting, trimming and editing videos. Funimate is the only video editor you need. You can also create reverse videos and slow motion videos just with a tap!  \n \nBE A PART OF FUNIMATE VIDEO EDITING COMMUNITY: Shoot videos for weekly challenges, show your creativity by using video effects, hot music and get featured to grow your fan base on Funimate. Share your creativity on TikTok, Instagram, Youtube and Musically and boost your likes: best way to amaze your friends and get new followers.\n\nPayment for your Funimate Pro subscription will be charged to your iTunes Account at confirmation of purchase. Your subscription will automatically renew and your account will be charged for renewal within 24-hours prior to the end of the current period. You can turn off auto-renew at any time from your iTunes account settings but refunds will not be provided for any unused portion of the term. If you purchase your subscription during the free trial period, any unused portion of the free trial period will be forfeited.\nFunimate privacy policy and terms: http://funimate.com/terms",
+      "android_package_name": "com.frontrow.vlog",
+      "ios_bundle_id": "com.avcr.Funimate",
+      "title": "Funimate",
+      "domain_name": [
+        "http://funimate.com",
+        "https://funimate.com"
+      ],
+      "website": "http://funimate.com",
+      "developer": "PIXERY BILGI TEKNOLOJILERI ANONIM SIRKETI",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0mvy747JRrqlziGtpvii5zKcMgL0AYRjXNRMlBkUbYadBabC1Dg466LsLKFION1vTg",
+      "icon_72": "https://play-lh.googleusercontent.com/0mvy747JRrqlziGtpvii5zKcMgL0AYRjXNRMlBkUbYadBabC1Dg466LsLKFION1vTg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.pixlr.express"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Unleash your creativity with Pixlr AI Photo Editor (formerly Pixlr Express) – a free and easy photo editor with powerful AI capabilities, trusted by more than 18 million creators worldwide!\nCapture any moment and edit with over 2 million combinations of FREE effects, overlays, and filters.\nShare of your photos seamlessly with friends or followers through email, Instagram, Facebook, Twitter, or any social network. \n\nNEW AI Features\n-AI Generative Fill - Mark an are in a picture and generate anything to fill it!\n-AI Remove Object - Remove any object from an image and let AI fill out the blanks\n-AI Remove Background - Pixel-perfect AI background remover\n-AI Face Swap - Swap Faces perfectly in any photo!\n\nPhoto Editing Features\n• Seasonally updated multi-layered Social Media templates!\n• Create photo collages easily with a variety of preset collages, grid style, customized ratio, and background.\n• Instantly adjust the color of your photo in one easy click using Auto Fix.\n• Use Double Exposure to create an array of effects easily with layers and adjustable transparency. \n• Create cool photo effects using Stylize (pencil sketch, poster, watercolor and more).\n• Effortlessly remove blemishes, red-eye, smoothen skin, or whiten teeth with simple tools.\n• Bring out the color with Color Splash effect or add impact with Focal Blur.\n• Choose from a range of effect packs to give your image the look and feel you want.\n• Adjust the tone of the photo with overlays – amplify the tone, cool it down, or add surreal shades.\n• Easily add text to your photos with a variety of fonts to choose from.\n• Finish off your editing process with the right border - pick a style that suits you.\n• Keep things fresh with our growing release of additional effects, overlays, and border packs.\n• Keep track of your favorite effects and overlays with the Favorites button.\n• Crop and resize images quickly and easily before saving.\n\nWe love hearing your ideas and feedback.\nFollow us on Instagram (@pixlr), Twitter (@pixlr) or Facebook (/Pixlr).\nFor support or bug reporting, please reach out to us at info@pixlr.com.\n\nPrivacy Policy: https://pixlr.com/privacy-policy\nTerms of use: https://pixlr.com/terms-of-use",
+      "android_package_name": "com.pixlr.express",
+      "ios_bundle_id": "com.autodesk.ios.pixlrexpressplus",
+      "title": "Pixlr",
+      "domain_name": [
+        "https://pixlr.com",
+        "https://pixlr.com"
+      ],
+      "website": "https://pixlr.com",
+      "developer": "Pixlr Pte Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/HTYVR0TbC2HB15nIMH3pBgPxrJL-X408t1SjyyemJvv5HGhOBYBFpNbVpEt7RBNxEbA",
+      "icon_72": "https://play-lh.googleusercontent.com/HTYVR0TbC2HB15nIMH3pBgPxrJL-X408t1SjyyemJvv5HGhOBYBFpNbVpEt7RBNxEbA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.niksoftware.snapseed"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Snapseed is a complete and professional photo editor developed by Google.\n\n== KEY FEATURES==\n• 29 Tools and Filters, including: Healing, Brush, Structure, HDR, Perspective (see list below)\n• Opens JPG and RAW files\n• Save your personal looks and apply them to new photos later\n• Selective filter brush\n• All styles can be tweaked with fine, precise control\n• Tutorial cards with tips and tricks about Snapseed and general photography\n\n== TOOLS, FILTERS AND FACE ==\n• RAW Develop – open and tweak native camera files; save non-destructively or export as JPG\n• Tune image – adjust exposure and color automatically or manually with fine, precise control\n• Details – magically brings out surface structures in images\n• Crop – crop to standard sizes or freely\n• Rotate – rotate by 90°, or straighten a skewed horizon\n• Perspective – fix skewed lines and perfect the geometry of horizons or buildings\n• White Balance – adjust the colors so that the image looks more natural\n• Brush – selectively retouch exposure, saturation, brightness or warmth\n• Selective – the renown “Control Point” technology: Position up to 8 points on the image and assign enhancements, the algorithm does the rest magically\n• Healing – remove the uninvited neighbor from a group picture\n• Vignette – add a soft darkness around the corners like a beautiful, wide-aperture would do\n• Text – add both stylized or plain text (38 predefined styles)\n• Curves - have precise control over the brightness levels in your photos\n• Expand - increase the size of your canvas and fill up the new space in smart ways with content of your image\n• Lens Blur – add a beautiful Bokeh to images (background softening), ideal for photographic portraits\n• Glamour Glow – add a fine glow to images, great for fashion or portraits\n• Tonal Contrast – boost details selectively in the shadows, midtones and highlights\n• HDR Scape – bring a stunning look to your images by creating the effect of multiple exposures\n• Drama – add a hint of doomsday to your images\n• Grunge – an edgy look with strong styles and texture overlays\n• Grainy Film – get modern film looks with realistic grain\n• Vintage – the style of color film photo from the 50’s, 60’s or 70’s\n• Retrolux – go retro with light leaks, scratches, film styles\n• Noir – Black and White film looks with realistic grain and the “wash” effect\n• Black & White – classic Black and White look straight out of the darkroom\n• Frames – add frames with adjustable size\n• Double Exposure - blend two photos, choosing from blend modes that are inspired by shooting on film and by digital image processing\n• Face Enhance – add focus to the eyes, add face-specific lighting, or smoothen skin\n• Face Pose - correct the pose of portraits based on three dimensional models",
+      "android_package_name": "com.niksoftware.snapseed",
+      "ios_bundle_id": "com.niksoftware.snapseedforipad",
+      "title": "Google Snapseed",
+      "domain_name": [
+        "http://www.snapseed.com",
+        "https://www.snapseed.com"
+      ],
+      "website": "http://www.snapseed.com",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Rilq4obCk7XIl2Pjb8XT-Ydh_aI3hBNeFwro9fFXrIAuC-zPxCZ4feE4rx5fZ3jHNLw",
+      "icon_72": "https://play-lh.googleusercontent.com/Rilq4obCk7XIl2Pjb8XT-Ydh_aI3hBNeFwro9fFXrIAuC-zPxCZ4feE4rx5fZ3jHNLw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.boomerang.video.maker.looper.boomerit"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Create loop videos & GIFs and with a one click share it with your friends on social applications. You can use front camera or back camera to create videos from scratch or you can use already existing videos from your phone.\n\nConvert regular video to boomerang which you can save to your album or share on various social apps.\n\nKey features:\n- Shoot a video and share/save as a gif or video.\n- Make original part slower or faster.\n- Apply various filter to video.\n- Trim or crop the video.\n- Add music/audio.\n- Add text or create memes.\n- Change orientation.\n- Add frames and borders.\n\n Subscription Info:\n\n- Monthly Subscription - $9.99\n- Six month subscription first $19.99 then $24.99.\n\n\nPayment will be charged to iTunes Account at confirmation of purchase\nSubscriptions are automatically renewed unless automatic renewal is turned off at least 24 hours before the end of the current period, user can cancel in account settings.\n\nSupport: https://everfunappsllc.wordpress.com/support/\nPrivacy Policy: https://everfunappsllc.wordpress.com/privacypolicy/\nTerms Of Use:- https://everfunappsllc.wordpress.com/terms/",
+      "android_package_name": "com.boomerang.video.maker.looper.boomerit",
+      "ios_bundle_id": "com.everfunapps.loopvideo",
+      "title": "Boomerang from Instagram",
+      "domain_name": [
+        "http://everfunappsllc.wordpress.com",
+        "https://everfunappsllc.wordpress.com"
+      ],
+      "website": "http://everfunappsllc.wordpress.com",
+      "developer": "Ever Fun Apps LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZXjYsHhp-GFF5_bg6wz8oinJuW1z0oetO_TTJIQw1SbSoBi2PCBmsBepx71B9TeKNiU",
+      "icon_72": "https://play-lh.googleusercontent.com/ZXjYsHhp-GFF5_bg6wz8oinJuW1z0oetO_TTJIQw1SbSoBi2PCBmsBepx71B9TeKNiU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "co.triller.droid"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Triller is an entertainment and music platform. A social video editor built for a community of creators. Where you can show the world who you are by capturing amazing videos and sharing them in seconds.\n\nWhether you need to add music to video, add filters and effects, share your videos to Triller and other platforms, or discover the next big star, Triller is the video app you need!\n\nTrillerTV is live now, too. So you can watch your favourite celebs doing live challenges or just goofing around. \n\nCreate and Share\n\nExpress yourself and connect with the content you love. Create amazing music videos and follow trending challenges with stars like Charli and Dixie D'amelio. Be creative and lead the next dance trend or challenge and become the most viewed. Millions have made Triller videos along with huge global stars such as Eminem, Justin Bieber, Josh Richards, Charli D'amelio, Noah Beck, Tyga, Saweetie, The Weeknd, and more. \n\nJust shoot a few takes, tap the next button, edit, add music and Triller will quickly edit everything together into an impressive, shareable video. \n\nWow the world, get more followers, go viral, and become famous on Triller!\n\nDiscover Trills\n\nFeeling bored and looking for new fun creative content? Discover clash videos, challenge videos, music videos, and similar super-creative Trills on our amazing social video platform. Scroll down to get new Trills endlessly, or go to the “Following” section to see the Trills from content creators you follow.\n\nUse Triller to:\n\n• Create professional videos in minutes with the help of our unique auto-editing algorithm\n• Look your best with 100+ video filters\n• Access the top trending tracks or your own music from your library\n• Watch live video streams from our top creators \n• Share videos via Instagram, Twitter, Facebook, Text, E-mail or save to your camera roll \n\nYou do you, Triller does the rest.\n\nStart creating with Triller now! \n\nQuestions? Feedback? We love it. Please write to us at feedback@triller.co\nFor EULA and more information, see Triller's Terms of Service at https://triller.co/terms/triller_terms.pdf",
+      "android_package_name": "co.triller.droid",
+      "ios_bundle_id": "com.triller.projectx",
+      "title": "Triller",
+      "domain_name": [
+        "http://www.triller.co",
+        "https://www.triller.co"
+      ],
+      "website": "http://www.triller.co",
+      "developer": "Triller LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/R825aQYeAINiu8tv307NNtXkhyJtV7nja-S5So1ckgzmeKdJYoLfPgQ755Yvq2B_K94",
+      "icon_72": "https://play-lh.googleusercontent.com/R825aQYeAINiu8tv307NNtXkhyJtV7nja-S5So1ckgzmeKdJYoLfPgQ755Yvq2B_K94=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.xvideostudio.videoeditor"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "VivaVideo - Powerful and easy-to-use video editing app that helps you easily record and show your life. Amateurs can cut and combine simple and intuitive clips anytime and anywhere, while professionals can have unlimited editing fun with powerful high-end editing functions. Download now and start making amazing videos.\n\n[AI Tools]\n- AI Video Generator: create heartfelt hugs, magical kisses, funny squishes, daring venomous transformations and more\n- Auto Captions: save time with AI-generated captions. Support caption translation\n- AI Auto Cutout: remove backgrounds instantly\n- AI Enhancer: HD enhance your videos in seconds\n- AI Color Adjust: instantly perfect your colors with intelligent adjustments\n- Text Brush: add a personal touch to your photos with customizable text brushes\n- Graffiti Screen Recording: realize shooting while drawing!\n- Voice Changer: Kudo Shinichi, Crayon Shinichi, one click to conversion!\n\n[Video Editing]\n- 0.1 - 10x video speed change\n- Crop, merge and rotate the video area\n- Add music, sound effects & voice-overs\n- Keyframe editing. Add custom keyframe animations\n- PIP: add multiple layers of video, photos, stickers, effects, text, etc\n- Stylish filters, effects and smooth transitions\n- Easily add photos to make cool-short music video slideshow\n\n[Add Music]\n- AI Music: turn your ideas into your own unique song\n- Import music through iTunes, recording & videos\n- Explore more music rhythm changes in 'Audio Separation' and 'Audio Variable Speed'\n\n[Stickers & Texts]\n- Explore our endless library of editing materials, with fresh texts and stickers updated for every holiday and occasion.\n- GIF text styles and themed stickers to match any vibe or celebration.\n\n[Filters & Effects]\n- Professional video effects such as Glitch effect, Transition effects etc\n- Add movie style video filters to video\n- Amazing video editing effects: VHS effects, FX effects. Cool video editing app & PRO video editor with effects & filters\n\n[Keyframe]\n- All tracks such as main track, picture-in-picture, etc., support keyframe transformation of screen drag, rotation, transparency and other operations.\n\n[Save & Share]\n- Support GIF export: popular effects and styles, come and have fun!\n- Support 4K Ultra HD saving\n\n#VivaVideo Subscription:\n- You can subscribe for unlimited access to all features and content offered for purchase within VivaVideo.\n- Subscriptions are billed monthly or annually at the rate selected depending on the subscription plan.\n- Payments will be charged to iTunes Account at the point of purchase confirmation. Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period, and you will be charged according to your payment plan selection. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period will be annulled when the user purchases a subscription to that publication.\n\nTerms of Service: https://rc.veresource.com/web/vivaVideo/TermsPrivacy.html\nPrivacy: https://rc.veresource.com/web/h5template/9b808c1d-df92-4dea-8488-0bcb41c7aca7-language=en/dist/index.html\n\nEmail: support@vivavideo.tv\n\nAcknowledgements:\nFUGUE Music\nhttps://icons8.com/music/\nWe provide computer software design, computer software's update, computer programming and related services to users based on VivaVideo's powerful technical capability.",
+      "android_package_name": "com.xvideostudio.videoeditor",
+      "ios_bundle_id": "com.quvideo.XiaoYing",
+      "title": "VivaVideo",
+      "domain_name": [
+        "http://www.vivavideo.tv",
+        "https://www.vivavideo.tv"
+      ],
+      "website": "http://www.vivavideo.tv",
+      "developer": "Hangzhou Xiaoying Innovation Technology Co., Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/s-OvYqFt2F33nkIThCX0N1DWnWNdwiO_TYZuzYNLpdJytJKAbMJn5_92bS26W-HTImY",
+      "icon_72": "https://play-lh.googleusercontent.com/s-OvYqFt2F33nkIThCX0N1DWnWNdwiO_TYZuzYNLpdJytJKAbMJn5_92bS26W-HTImY=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.magisto"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Get Magisto Video Editor - Music Slideshow, Collage & Movie Maker now to create incredible share-worthy videos in minutes. Join over 120 million people who already make all the videos they need with Magisto's mobile and web apps!\n\n* Apple's Best of 2019: Discover The Storyteller Within *\n* Gartner' Cool Vendor' 2018 *\n* Consumer Reports' 2017 #1 Video Editing app *\n\nMagisto Video Editor - Music Slideshow, Collage & Movie Maker lets you:\n◆ Rise to social-media stardom by turning your photos and clips into eye-catching videos.\n◆ Quickly create professional-looking videos thanks to Magisto's artificial-intelligence driven smart editor. It will edit your media intelligently and add beautiful graphics, effects, filters and music in a way that tells a story.\n◆ Create beautiful moving photo slideshows or video collages even if you don’t have any video clips.\n◆ Use ready-made templates for any occasion: Birthday Wishes, Event Invitations, Anniversary Announcements, and much more.\n◆ Edit your clips: cut, trim, merge and reorder.\n◆ Customize your video by adding text, choosing fonts, changing orientation and using different colors.\n◆ Easily share your scroll-stopping videos on social media, via messaging apps, email, or anywhere else.\n\nWith Magisto Video Editor - Music Slideshow, Collage & Movie Maker, you can make amazing videos in just three easy steps:\n  1. Media - Select photos and video clips from your gallery, Google Photos™ or iStock™ library\n  2. Style - Pick a theme that fits the vibe and look you want to give your video: Celebrate, Love, Memories, Trailer, Extreme, Travel, and more.\n  3. Music - Pick from our vast commercially licensed song library.\n\nAbout the Magisto app:\nMagisto Video Editor - Music Slideshow, Collage & Movie Maker uses advanced Artificial Intelligence technology to find the best parts of your footage and apply video editing techniques including stabilization, object detection, filters and effects. The result is an eye-catching video that outshines the average slideshow or video collage.\n\n● Magisto Premium monthly plan ($6.99) includes:\n◦  Premium styles\n◦ No Magisto watermark\n◦ 10 min movie length\n\n● Magisto Professional monthly plan ($29.99) includes:\n◦ Everything in Premium\n◦ Exclusive styles and templates\n◦ 3+ million full-HD iStock™ video clips and photos\n◦ Customizable colors and fonts\n◦ Free access to 'Vimeo Pro' ($20 monthly value). Get powerful video hosting and sharing tools: password-protected links, customizable player, analytics, cloud storage, and more.\n\n* ‘Premium’ and ‘Professional’ plans are available via an auto-renewing subscription which you can purchase and try for a trial period. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription to that publication, where applicable. Purchase of an additional subscription during the trial period will forfeit the remaining portion of said period.\nSubscriptions will be charged to your credit card through your iTunes account. Your subscription will automatically renew unless canceled at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours before the end of the current period. You will not be able to cancel a subscription during the active period. Manage your subscriptions in your account.\n\nStart creating amazing videos today; get Magisto Video Editor - Music Slideshow, Collage & Movie Maker Now!\n\nMagisto uses FFmpeg licensed under the LGPLv.2.1 or later: (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)\nPrivacy Policy: http://www.magisto.com/privacy\nTerms of Use: https://www.magisto.com/tos",
+      "android_package_name": "com.magisto",
+      "ios_bundle_id": "com.magisto.magisto",
+      "title": "Magisto",
+      "domain_name": [
+        "http://www.magisto.com",
+        "https://www.magisto.com"
+      ],
+      "website": "http://www.magisto.com",
+      "developer": "Vimeo, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VNCyRTLMZCyY3VCJXubSlUZQGzE0N42DqLqphziF4I2pLTKOOpmPl5hjYg0tik83zwk",
+      "icon_72": "https://play-lh.googleusercontent.com/VNCyRTLMZCyY3VCJXubSlUZQGzE0N42DqLqphziF4I2pLTKOOpmPl5hjYg0tik83zwk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "vStudio.Android.Camera360"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Camera360 is a professional but easy-to use App for photo editing and selfie retouching. You can use Camera360 to edit photo with filters, stickers and make-ups.\n\nORIGINAL FACE RETOUCHING\n- Smooth Skin: Swipe over wrinkles, blemishes and smooth skin.\n- Reshape: 21 micro-adjustment, no trace of PS.\n- Face and Body reshape: Manual and auto adjustment. You can protect the parts you don't want to edit.\n- Beautify: One tap and instantly beautify your photo. \n\nFILTERS OF VARIOUS STYLES\n- Magic Sky: Change the sky as you like. Anime Sky, Dreamy Sky.\n- Painting filter:  Make the photo look like a painting. Use “Great Artist” filter. Everybody can be an artist. \n- Anime effect: Try cartoon filter and make a photo nobody else can do!\n- Movie Filter: From cinematic, B&W to color, anything you ask is here. Try our movie filters and be who you wanted to be.\n\nHIGH QUALITY SELFIE\n- High Quality Filter: Over 300 filters, from retro, black and white, HDR, LOMO, to Hong Kong style!\n- Natural and Stylish makeup: Including main and sub, there are over 30 makeup filters! Customize your favorite style and color just the way you like and make your own!\n- Cute AR Sticker: With smart face recognition, not only face but also your expression will be captured! You can also play interactively!\n- Video Selfie: Support videos of 10s to 60s with music. You can freely change your music and enjoy filter and makeup at the same time.\n\nEDIT LIKE A PRO\n- Detailed Color Expressions: It works really well if you just want to change one color! Make the unique colored photo with DSL.\n- Image Correction: Support vertical and horizontal correction. Suitable for photos of buildings. Lines will be straight and balanced.\n- Basic Color Change: 13 basic parameters including saturation level, exposure, highlight, shade, layers, color temperature, hue, etc.\n- Mix Filter: Over 300 filters can be used.\n\n【Camera360 VIP Service Statement】\n1. Service name: \n- Yearly Camera360 VIP；\nHereinafter referred to as VIP.\n\n2. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.After successful deduction, Camera360 will be automatically extended for one subscription period. To cancel renewal, manually turn off automatic renewals in iTunes/AppleID setup 24 hours before the current subscription period expires.\n3. You can suspend or terminate this service by:\nAutomatic renewal for Apple In App Payments (IAP payments, in-app purchases): Goto iPhone \"Settings\" --> Enter \"iTunes Store and App Store\" --> tap \"Apple ID\", select \"View Apple ID\", enter \"Account Settings\" page, tap \"Subscribe\", and select Camera360 VIP to cancel the subscription.\n4. VIP Subscription Notice：\nhttps://www.camera360.com/iap_subscription_en.html\n5. Privacy Policy:\nhttps://www.camera360.com/privacy.html\n6. Terms of Use:\nhttps://www.camera360.com/disclaimer.html\n\n————\n Follow us on:\n Twitter: @Camera360\n Instagram: @Camera360_Official\n Facebook: @camera360official",
+      "android_package_name": "vStudio.Android.Camera360",
+      "ios_bundle_id": "com.vstudio.camera360",
+      "title": "Camera360",
+      "domain_name": [
+        "http://iphone.camera360.com",
+        "https://iphone.camera360.com"
+      ],
+      "website": "http://iphone.camera360.com",
+      "developer": "灏 徐",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/PRaSdJB5Rdiyqec66UW86NagVA-M8KiH7mO26bztmf4DEBaekM6hfpndU6qkjyZlWyM",
+      "icon_72": "https://play-lh.googleusercontent.com/PRaSdJB5Rdiyqec66UW86NagVA-M8KiH7mO26bztmf4DEBaekM6hfpndU6qkjyZlWyM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.flambestudios.picplaypost"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "PICSPLAY™ is the ultimate photo editor, filled with filters and editing features that professional photographers just can't get enough of! Anyone can create gorgeous photos with this powerful photo editor and unleash the potential in each photo to become a work of art using its design tools.\n\nDownload now and be ready to be mind-blown by this photographer favorite photo editor!\n\nPHOTO EFFECTS THEMES\n290+ Filters in 17 themes - photographer favorite!\n- Premium, Standard, Portrait, Food, Classic, Travel, Professional, Vintage, TTV, Film, Grunge, Monotone, Art, Natural, Elegance, Sexy, Chic\n \nFILM: Analog photo effects\nYou can use the analog film effects and disposable camera looks that Instagrammers love.\n- KD.Supreme, FJ.Portrait, CINE.Majestic, JB.Portrait, FJ.Classic, JB.Seattle, KD.Wedding, Red Rose, FJ.Color, Earl Grey, LC.Monochrome\n\nMY PRESETS\nCreate your own presets using the themed filters and various editing tools\n\nTEXTURES, LIGHT LEAKS & VIGNETTING\nTextures that subtly brings all kinds of mood and Light Leaks\nVignetting feature that brings the feel of lomo photography\n\nBASIC EDITING \nCrop, Rotate, Straighten, Skew, Clarity, Exposure(Brightness & Contrast), Color(Hue & Saturation, Vibrance), White Balance(Color Temperature & Tint), Fade, Highlights/Shadows, Highlights Tone, Shadows Tone, Sharpen\n\nPROFESSIONAL EDITING\nHSL, Color Shift, Blur, Selective Color, Dodge/Burn, Curves, Levels(Histogram), Double Exposure\n\nFACE RESHAPE, SKIN SMOOTHING, DETAIL ENHANCE \nMake yourself look your best\nReshape your face and body, get flawless skin\nAuto Skin Smoothing feature based on skin detecting technology\n\nDESIGN TOOLS \nText function with 300+ fonts, 840+ Stickers and Borders, 200+ Shaped frames, Painting, Mosaic, Photo Clipping, Square for Instagram\n\nPRO CAMERA\n290+ Hand-picked quality filters applied in real time\nReal-time Blur effect, Photo Booth\n\nVIDEO CAMERA\nLive video filters\nAmazing motion graphics\n: Bokehs, particle effects, vintage light leak\n: Fun animated stickers, video magazine covers, polaroid layouts\n\nMORE AWESOME FEATURES\nSave Session, Load Saved Session, Undo, Redo, Compare with an original photo anytime, EXIF Data, Today Widget(Camera, Edit, Selfie), iMessage Extension(Mosaic Tool)\n\nSAVE & SHARE \nPhoto sharing to Instagram, Snapchat, Facebook, Twitter, Flickr etc\n\n* Video Review: https://youtu.be/slF-dw-nqo4\n* Best New Apps selected by Apple in over 127 countries \n\n* Don’t forget to Tag #PICSPLAY when posting on Instagram. You may find your photos featured on the @PICSPLAY_Official account!\n\nHave a question or suggestion? We are waiting for your feedback! \nFacebook: facebook.com/PICSPLAY\nInstagram: @PICSPLAY_Official\n\nPICSPLAY Premium Subscription\n- PICSPLAY Premium: You can subscribe for unlimited access to all features and content offered for purchase within PICSPLAY 2.\n- Subscriptions are billed monthly or annually at the rate selected depending on the subscription plan. Alternatively, a one-time payment plan is available (this is not a subscription).\n- Subscriptions auto-renew at the cost of the chosen package, unless canceled 24-hours in advance prior to the end of the current period. The subscription fee is charged to your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. Per Apple policy, no cancellation of the current subscription is allowed during active subscription period. Once purchased, refunds will not be provided for any unused portion of the term.\n\nTerms of Use: https://jellybus.com/terms/\nPrivacy Policy: https://jellybus.com/privacy/",
+      "android_package_name": "com.flambestudios.picplaypost",
+      "ios_bundle_id": "com.jellybus.PicsPlay2",
+      "title": "PicsPlay",
+      "domain_name": [
+        "http://www.jellybus.com",
+        "https://www.jellybus.com"
+      ],
+      "website": "http://www.jellybus.com",
+      "developer": "JellyBus Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mNmhcXkNiRwYaBVFp985kH_0Jha1RxeJJwGtFqiEG6zETLiza71wDVmXr8GerSM-rA",
+      "icon_72": "https://play-lh.googleusercontent.com/mNmhcXkNiRwYaBVFp985kH_0Jha1RxeJJwGtFqiEG6zETLiza71wDVmXr8GerSM-rA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.niksoftware.snapseed"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Snapseed is a complete and professional photo editor developed by Google.\n\n== KEY FEATURES==\n• 29 Tools and Filters, including: Healing, Brush, Structure, HDR, Perspective (see list below)\n• Opens JPG and RAW files\n• Save your personal looks and apply them to new photos later\n• Selective filter brush\n• All styles can be tweaked with fine, precise control\n• Tutorial cards with tips and tricks about Snapseed and general photography\n\n== TOOLS, FILTERS AND FACE ==\n• RAW Develop – open and tweak native camera files; save non-destructively or export as JPG\n• Tune image – adjust exposure and color automatically or manually with fine, precise control\n• Details – magically brings out surface structures in images\n• Crop – crop to standard sizes or freely\n• Rotate – rotate by 90°, or straighten a skewed horizon\n• Perspective – fix skewed lines and perfect the geometry of horizons or buildings\n• White Balance – adjust the colors so that the image looks more natural\n• Brush – selectively retouch exposure, saturation, brightness or warmth\n• Selective – the renown “Control Point” technology: Position up to 8 points on the image and assign enhancements, the algorithm does the rest magically\n• Healing – remove the uninvited neighbor from a group picture\n• Vignette – add a soft darkness around the corners like a beautiful, wide-aperture would do\n• Text – add both stylized or plain text (38 predefined styles)\n• Curves - have precise control over the brightness levels in your photos\n• Expand - increase the size of your canvas and fill up the new space in smart ways with content of your image\n• Lens Blur – add a beautiful Bokeh to images (background softening), ideal for photographic portraits\n• Glamour Glow – add a fine glow to images, great for fashion or portraits\n• Tonal Contrast – boost details selectively in the shadows, midtones and highlights\n• HDR Scape – bring a stunning look to your images by creating the effect of multiple exposures\n• Drama – add a hint of doomsday to your images\n• Grunge – an edgy look with strong styles and texture overlays\n• Grainy Film – get modern film looks with realistic grain\n• Vintage – the style of color film photo from the 50’s, 60’s or 70’s\n• Retrolux – go retro with light leaks, scratches, film styles\n• Noir – Black and White film looks with realistic grain and the “wash” effect\n• Black & White – classic Black and White look straight out of the darkroom\n• Frames – add frames with adjustable size\n• Double Exposure - blend two photos, choosing from blend modes that are inspired by shooting on film and by digital image processing\n• Face Enhance – add focus to the eyes, add face-specific lighting, or smoothen skin\n• Face Pose - correct the pose of portraits based on three dimensional models",
+      "android_package_name": "com.niksoftware.snapseed",
+      "ios_bundle_id": "com.niksoftware.snapseedforipad",
+      "title": "Snapseed",
+      "domain_name": [
+        "http://www.snapseed.com",
+        "https://www.snapseed.com"
+      ],
+      "website": "http://www.snapseed.com",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Rilq4obCk7XIl2Pjb8XT-Ydh_aI3hBNeFwro9fFXrIAuC-zPxCZ4feE4rx5fZ3jHNLw",
+      "icon_72": "https://play-lh.googleusercontent.com/Rilq4obCk7XIl2Pjb8XT-Ydh_aI3hBNeFwro9fFXrIAuC-zPxCZ4feE4rx5fZ3jHNLw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cyberlink.photodirector"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "PhotoDirector is an intuitive AI-powered photo editor that helps users create stunning images with hundreds of styles, effects, templates, and tools. Transform your shots with groundbreaking features like AI Expand, AI Hairstyle, and AI Removal. Add a touch of magic with AI Anime, turning your photos into captivating animations or cartoon-style artwork. With PhotoDirector, your creativity and imagination come to life.\n\n[ Popular AI Tools ]\n• AI Removal: Easily erase unwanted items or wires in photos with auto detection.\n• AI Expand: Turn close-ups into longshots and change aspect ratio with one click.\n• AI Background: Change the sky or image backgrounds to transform the vibe.\n• AI Enhance: Automatically repair low-resolution pictures and say goodbye to blurry images!\n• AI Anime: Spice up your photos or videos with various animation and cartoon styles.\n• AI Face Swap: Mix up your style and become anyone you want.\n• AI Hairstyle: Explore your perfect style and enjoy endless hair inspiration in a virtual salon.\n\n[ Useful Basic Editing Tools ]\n• Collage: Endless supply of ideas and creativity, sharing and saving precious moments.\n• Retouch: Body Reshape, Makeup, Face Retouch tools to create sweet selfies.\n• Color and lighting adjustment: White Balance, HDR, and Vignette tools.\n• Thousands of stickers, filters, frames, and effects!\n\n[ PREMIUM Benefits ]\n• All-you-can-use: more stickers, filters, frames, and effects\n• Save images in Ultra HD 4K camera resolution\n• Ad-free and distraction-free\n\n\n\nFind Inspiration on Instagram: @photodirector_app\nAny questions? Contact us: support.cyberlink.com\n\n––––––\n\nApple will request your permission to comply with the App Store subscription terms and share your information with CyberLink.\n\nBy upgrading to Premium, you confirm your agreement with PhotoDirector's Terms of Use (https://www.cyberlink.com/stat/company/enu/tos.jsp) and Privacy Policy (https://privacy.cyberlink.com/enu/privacy-policy#p11).\n\n*Subscriptions automatically renew at the end of each period (1 month, 3 months, or 1 year) unless canceled at least 24 hours before the end of the current period. The subscription fee will be charged to your iTunes account upon confirmation of purchase. You can manage your subscription and disable auto-renewal in your account settings after purchase. Cancellations of the current subscription are not allowed during the active subscription period.",
+      "android_package_name": "com.cyberlink.photodirector",
+      "ios_bundle_id": "com.cyberlink.photodirector",
+      "title": "PhotoDirector",
+      "domain_name": [],
+      "website": "",
+      "developer": "CyberLink Corp.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/DLuNU_fsxE3TKwa7mNGc5qfy3i-O8MPA5g_i0N9Am07il-sXvkeoeYZqXkzAoIcURfo",
+      "icon_72": "https://play-lh.googleusercontent.com/DLuNU_fsxE3TKwa7mNGc5qfy3i-O8MPA5g_i0N9Am07il-sXvkeoeYZqXkzAoIcURfo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.gopro.smarty"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "With Quik, editing just got easier. Get the most out of your favorite shots with Automatic Highlight videos and a suite of premium tools for custom edits [1]. Everything is backed up to the GoPro cloud so you can access and edit your footage on-the-go [1].\n\n--- Key Features ---\nAutomatic Edits\nThe Quik app finds your best shots, syncs them to music, adds transitions and automatically creates a shareable video. [1]\n\nUnlimited Cloud Storage at 100% Quality\nGet UNLIMITED cloud storage of ALL your GoPro footage and up to 500GB from other cameras with a Premium or Premium+ subscription. All at 100% quality. [2]\n\nAuto Upload + Cross Device Sync\nOnce imported into the Quik app, photos, videos, and edits automatically upload to the cloud for backup and sync across your devices for seamless cross-platform editing and content management. [1]\n\nPremium Editing Tools\nPlay with color and light, trim video length, add stickers and more to take your footage to the next level.\n\nBeat Sync\nSyncs clips, transitions, and effects to the beat of the music. [1]\n\nFrame Grab\nGet high resolution photos by capturing a frame from any video.\n\nThemes\nFind a theme that tells your story with cinematic transitions, filters, and effects. [1]\n\nFilters\nExclusive filters optimized for environments like snow and water.\n\nFrame Adjust\nAdjust the aspect ratio for photos and videos. You can also level the horizon, rotate and flip media.\n\nText Overlays\nAdd text and emojis for another dimension to your story. [1]\n\nTransform 360 into Traditional Video with Reframe\nUse Reframe to experiment with countless views, choose the best shots and instantly create cinematic transitions with the click of a keyframe. Then, export a traditional video or photo you can edit and share.\n\n--- GoPro Camera Owner Features ---\nAuto GoPro Detection + Transfer\nAutomatically detects connected GoPro cameras and transfers footage across a wired USB connection for fast and easy transfers.\n\nPreview Shots + Delete\nCheck out GoPro camera photos and videos on your computer before you transfer them or delete unwanted shots from your camera's SD card.\n\nContent Management\nView and manage both local and cloud media in a single view, while camera media is organized in another view. Easily view and find media in a large, easy-to-read grid with search filters and icon overlays.\n\n--- Footnotes ---\n[1] Premium or Premium+ Subscription required. Available in select countries. Cancel anytime. See terms + conditions at our official website.\n[2] Subscribe to Premium for unlimited cloud storage for footage captured with a GoPro camera plus up to 25GB (or up to 500GB with a Premium+ subscription) of footage captured on non-GoPro cameras or phones. GoPro cloud storage does not support content captured with GoPro Fusion. Cloud storage for footage captured on non-GoPro cameras or phones is limited to supported file types. See supported file types at our official website.",
+      "android_package_name": "com.gopro.smarty",
+      "ios_bundle_id": "com.gopro.GoPro",
+      "title": "Quik",
+      "domain_name": [
+        "http://gopro.com/software-app/gopro-app",
+        "https://gopro.com"
+      ],
+      "website": "http://gopro.com/software-app/gopro-app",
+      "developer": "GoPro, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7lVpNzuOxO-vKwaVylZ_toUV60vhy-vN_vDdMgWq3WmYW1CSPDSWTskvP2r0AlLo8Dyd",
+      "icon_72": "https://play-lh.googleusercontent.com/7lVpNzuOxO-vKwaVylZ_toUV60vhy-vN_vDdMgWq3WmYW1CSPDSWTskvP2r0AlLo8Dyd=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "me.bazaart.app"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Bazaart is an easy-to-use design studio, photo and video editor. No design experience required. From online selling to digital marketing to social media posting, Bazaart is here to help. Get your design superpowers today!\n\nGet Creative\nCreate AI art, Reels, stories, logos, flyers, posters, cards, collages, invitations, memes, profile pics, product photography (white background an option), stop motion videos, GIFs, stickers, and works of art.\n\nPowerful design and editing tools\n• Remove the background from photos and videos\n• Remove objects and people from any photo\n• Save time by instantly editing multiple photos\n• Place products and people in stunning AI-generated backgrounds using the Magic Background tool\n• Turn your text into fantastic images using the AI photo tool\n• Replace anything in a photo with a simple text prompt using the Magic Edit tool\n• Turn blurry photos into HD, boost resolution and quality with the enhance tool\n• Cut out photos and videos like a pro with crop, scissors, eraser and shape cut-out tools\n• Create your own WhatsApp stickers\n• Enhance, adjust, and customize photos and videos: change exposure, contrast, saturation, vibrance, warmth, tint, shadows, highlights, fade, sharpness and blur\n• Add up to 100 photo layers and 5 video layers: each layer is independently editable and all changes reversible\n• Apply fabulous filters on photos and videos to add a “wow” effect\n• Create custom edge styles for photos and videos with the outline and shadow tools\n• Combine photos and videos with mind-blowing blending effects\n• Sketch and draw freely with the draw tool\n• Curve your text to match an arc or a circle\n• Edit and modify text with alignment, letter and line spacing\n• Perfectly align photos, videos, text, and any element with auto-snapping\n• Position elements precisely with the nudge tool\n\nBeautiful content you’ll love\n• Save time with beautiful templates made by designers\n• Choose from thousands of amazing backgrounds, stickers and shapes\n• Engage your audience with awesome animated stickers and GIFs\n• Add stunning photo and video overlays\n• Browse through a great collection of fonts or add your own \n• Use photos and videos from your albums, camera, files, stock or the web\n\nWhen you're ready\n• Save as an image with an opaque (JPG) or transparent background (PNG)\n• Save as video or as animated GIF\n• Share your creations on social media or send as text or email  \n• Organize your design projects into folders\n\nUpgrade to Bazaart Premium\nCreate professional looking designs in seconds with Premium!\n\n• Remove people and objects from your photos\n• Create without limits with a huge collection of templates, graphics and fonts\n• Get full access to all advanced tools and VIP support\n\nBazaart Premium offers two subscription options:\n$11.99 per month\n$71.99 per year\nPrices may vary by location\n\nShould you choose to upgrade to a Premium subscription, payment will be charged to your iTunes account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period.\n\nYou may cancel automatic renewal and manage your subscription by selecting Manage App Subscriptions in your iTunes Account settings and selecting the subscription you want to modify. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a Premium subscription, where applicable.\n\nPrivacy Policy: https://bazaart.com/terms#privacy\nTerms of Service: https://bazaart.com/terms\n\nNeed help? Please email support@bazaart.com and we will get back to you quickly!\n\nBAZAART® is a registered trademark of Bazaart Ltd.",
+      "android_package_name": "me.bazaart.app",
+      "ios_bundle_id": "co.bazaart.app",
+      "title": "Bazaart",
+      "domain_name": [
+        "https://www.bazaart.com",
+        "https://www.bazaart.com"
+      ],
+      "website": "https://www.bazaart.com",
+      "developer": "Bazaart Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/eqljI-Od97IPa2sODpK0mbnVKp1rCW3DRvu6H_KqR0wz_m5SJbmf5mGXHsTSnJk4gug",
+      "icon_72": "https://play-lh.googleusercontent.com/eqljI-Od97IPa2sODpK0mbnVKp1rCW3DRvu6H_KqR0wz_m5SJbmf5mGXHsTSnJk4gug=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wevideo.mobile.android"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Capture, edit and share incredible videos - anywhere, anytime - for your personal life, school work, and your business with WeVideo’s video editor for iOS. \n\nWith WeVideo and your iPhone or iPad, you don’t need to be a professional to create and share compelling, high-quality videos.\n\nEASY-TO-USE VIDEO EDITOR:\n\n• Use videos and photos from your camera roll on your phone, or capture them from your camera\n• Arrange and trim clips \n• Add text titles and captions\n• Change the style of your videos with transitions, filters, animations and more \n• Enhance your video with voiceover and music tracks\n• Share to TikTok, Snapchat, Instagram and other social media channels\n\nFEATURES\n\n• EASY ACCESS AND CAPTURE\nAccess photos and videos from your photo library or capture them from your device’s camera\n• CUT AND TRIM\nTrim video clips and arrange them in the order you want\n• TEXT TITLES AND CAPTIONS\nEmphasize key points by adding text titles and captions\n• AUDIO: MUSIC, SOUND EFFECTS AND VOICEOVER\nEnhance your video with voiceover narration, music tracks and sound effects*\n• EXTENSIVE CONTENT LIBRARY*\nLeverage the WeVideo stock library that includes: \n      ⁃\tRoyalty-free video clips\n      ⁃\tRoyalty-free music tracks\n      ⁃\tRoyalty-free photos and illustrations\n      ⁃\tMotion titles\n      ⁃\tSound effects\n      ⁃\tTransitions\n      ⁃\tFont\n      ⁃\tFilters \n• STUNNING VIDEO EFFECTS\n      ⁃\tPhoto animations - Use the Ken Burns effect to make photos come alive\n      ⁃\tSpeed control - Alter the speed of your video with effects like slow motion\n      ⁃\tBackground blur - Use blurred background to enhance your vertical videos\n      ⁃\tGreen screen - Use Hollywood-style green screen (chroma key) tools to change the   background of your video to give the appearance that you’re anywhere (paid plans)\n      ⁃\tRemove the WeVideo watermark (paid plans)\n\n• EASY TO STORE, EXPORT, PUBLISH AND SHARE\n      ⁃\tPublish your videos in up to 4K Ultra HD* \n      ⁃\tFormat your videos in vertical or landscape (9:16, 1:1, 16:9) for easy viewing on any device\n      ⁃\tSave to your device or store in the cloud*\n      ⁃\tShare directly to social media sites like:\n                 TikTok\n                 Snapchat\n                 Instagram\n                 Facebook\n\n\n* Dependent on your plan type\n\nFLEXIBLE SUBSCRIPTION OPTIONS\n• Free** \n• Mobile Pass ($5.99 month/ $49.99annual) **\n• Power ($9.99 month/ $59.99 annual)***\n• Unlimited ($15.99 month/ $95.99 annual)***\n• Professional ($35.99 month/ $214.99 annual)***\n• Business ($59.99 month/ $349.99 annual)***\n\n** Mobile only\n*** includes WeVideo online video editor\n\nYour iTunes account will be charged once you confirm your purchase. Manage your subscriptions or turn off auto-renew in your Apple ID account settings at any time after purchase.  \n\nYour subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.\n\nLove the WeVideo video editor?\nLike us on Facebook: http/www.facebook.com/wevideo\nFollow us on Twitter: http://twitter.com/wevideo\n\nPrivacy policy: https//www.wevideo.com/privacy\nTerms of use: https://www.wevideo.com/terms-of-use",
+      "android_package_name": "com.wevideo.mobile.android",
+      "ios_bundle_id": "com.wevideo.phone",
+      "title": "WeVideo",
+      "domain_name": [],
+      "website": "",
+      "developer": "Wevideo, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/b5C6zbj0BRHO9gglPyr5hLuWuQ_qUVUfs4W-DSScRyIqf8roPeAidHnDQCrMelI_cvZd",
+      "icon_72": "https://play-lh.googleusercontent.com/b5C6zbj0BRHO9gglPyr5hLuWuQ_qUVUfs4W-DSScRyIqf8roPeAidHnDQCrMelI_cvZd=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.vimage.android"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Turn your videos into Special Vintage VHS Videos, add some aesthetic Glitche filters.\n\nFEATURES\n• Professional digital glitches, 3D wave art transformations, color distortions, crusty VHS looks and more\n• New Glitches and Filters added every month\n• Control each glitch effect during editing \n• Access to millions of HD Stock Videos, updated daily\n• Stunning aesthetic video filters, you can edit each filter \n• Add your own music or use one of or sound tracks \n• Record your own Voice Overs\n• Beautiful simple design\n\nGLITCH UNLIMITED ACCESS SUBSCRIPTION:\n$4.99 per week\n$2.99 per week\n• You can subscribe for unlimited access to all features and content offered for purchases within Memes\n• Subscriptions are billed monthly on the subscription plan\n• Payment will be charged to iTunes Account at confirmation of purchase\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n• Terms of use: https://drive.google.com/open?id=1wNp-NbcbKWl3840hZRDP7TXZ0Mw8KhqB\n• Privacy policy: https://drive.google.com/file/d/1NQJGyQDkxTmEzHDiCCediZuE54DEJFJ5/view\n\nHave trouble or just want to send us some feedback, email us for any support.\nWe are aways listening and actually reply.\n\nThank you so much for your love!",
+      "android_package_name": "com.vimage.android",
+      "ios_bundle_id": "com.dynasty.GlitchFX",
+      "title": "3D Photo Effect",
+      "domain_name": [],
+      "website": "",
+      "developer": "Dynasty Apps LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ImZWLupy7q7SM8UkL1S2o_veLSyE6Avocvbz3COFpr3ugVeKnguas3CZHtmntkIA7Q0",
+      "icon_72": "https://play-lh.googleusercontent.com/ImZWLupy7q7SM8UkL1S2o_veLSyE6Avocvbz3COFpr3ugVeKnguas3CZHtmntkIA7Q0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cardinalblue.piccollage.google"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "PicCollage - the app that lets you create anything to celebrate everything!\n\nWith PicCollage, you can turn your photos and videos into memories you want to save and share. Whether you’re looking to flex your creativity with a freestyle collage, stitch together a photo dump of your adventures, or create a quick card for a birthday. PicCollage is the perfect app for the job. Plus, you can even add videos to your collages and create video collages and slideshows that will make your friends and family say, “OMG, where’d you get that?”\n\nIt's easy, fun, and completely free. Start right now and create your first collage or card!\n\nPicCollage at a glance\n• Create collages, cards and much more\n• Edit photos and videos easily - filter, cutout, retouch\n• Use ready-to-use layouts, grids & animated templates\n• Personalize with fonts, stickers and doodles\n• Get VIP access for unlimited creativity\n\nTry PicCollage now! Our free starter pack is full of new stickers to help you edit photos and videos, create collages and design cards instantly.\n\nCREATE COLLAGES, DESIGN CARDS AND MORE\nYou can let your creativity run wild! Whether you want to make a freestyle collage, create a picture collection, or design a card for a birthday, PicCollage offers you the perfect solution!\n\nEDIT VIDEOS AND PHOTOS - CUT, FILTER, RETOUCH\nYou can personalize any creations to make your photo and video fit perfectly into your collages with features like cutouts, doodles and animations, and even add videos to your collages to create stunning video collages and slideshows. Enhance your creations by adding pages and save them as a video or slideshow.\n\nUSE TEMPLATES OR CREATE FREESTYLE\nYou can use a grid, or animated template to create unique cards for any occasion. Add frames around your photos and spice up your collage with fun animations. Our new AI-powered highlight detection keeps the focus of the photo front and center. Of course, you can also design in freestyle mode.\n\nREMOVE BACKGROUNDS WITH AI\nWith our cutout tool, you can easily remove the background from a photo to isolate people and pets! But our cutout tool isn’t just a background eraser, it also has fun designs that let you cut photos into stars, hearts, squares and more. We’re always updating this feature to give you the sharpest finish possible.\n\nCHOOSE FROM A VARIETY OF FONTS\nAdd more fun to your collage with text! We offer a variety of fonts for you to choose from, from handwritten to formal. If you want something special, explore our curved text editor to effortlessly display your text in a rounded arc, circle, around your photos, or in other creative ways. AI-powered font pairing in our speedy suggested layouts mode will take your designs to the next level.\n\nADD BACKGROUNDS AND STICKERS\nThanks to our worldwide collaboration with famous artists and illustrators, PicCollage offers you thousands of exclusive backgrounds and stickers. Add a background to your photos and collages and embellish everything with trendy stickers!\n\nPERSONALIZE WITH DOODLES\nTo add a personal touch to your collage, card or slideshow, you can create your own drawings and doodles. This is the perfect way to add the finishing touch to your creation.\n\nUSE TEMPLATES FOR YOUR INSTAGRAM STORY\nWhenever you're on Insta and want to create impressive posts, try our templates. Create an Instagram story or reel and share it directly with your followers!\n\nPICCOLLAGE VIP\nPicCollage VIP is a subscription that offers advanced features and removes watermarks and ads. With the 7-day trial version, you can test it for free! As a VIP, you get access to thousands of stickers and backgrounds, as well as exclusive fonts and layouts. \n\nGet the PicCollage photo and video editor and let your memories shine!\n\nPicCollage(TM) and “Pic Collage” are trademarks of Cardinal Blue Software.\nTerms of Service: http://cardinalblue.com/tos\nPrivacy Policy: https://cardinalblue.com/privacy\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "android_package_name": "com.cardinalblue.piccollage.google",
+      "ios_bundle_id": "com.cardinalblue.PicCollage",
+      "title": "PicCollage",
+      "domain_name": [
+        "http://piccollage.com",
+        "https://piccollage.com"
+      ],
+      "website": "http://piccollage.com",
+      "developer": "Cardinal Blue Software, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/MsPs_aAoufSgAnQQCVMkOY0eDFr6IGda6d4ansJxeYq89XPbHh2vc-3afM2rUO9vVcd4",
+      "icon_72": "https://play-lh.googleusercontent.com/MsPs_aAoufSgAnQQCVMkOY0eDFr6IGda6d4ansJxeYq89XPbHh2vc-3afM2rUO9vVcd4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.everimaging.photoeffectstudio"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Fotor is an all-in-one AI photo editing toolbox that makes your photos stand out with just a few simple steps. Whether you're an artist, photography enthusiast, or someone who loves editing, Fotor offers endless creativity for all your photo editing needs.\n\nIn the Fotor App, you can:\n‒ Use the AI Photo Enhancer to instantly clarify blurry photos. Fix grainy, pixelated and low-resolution images Instantly.\n‒ Use the Magic Eraser to quickly remove unwanted elements, such as bystanders, watermarks and buildings, while seamlessly blending with the original background.\n‒ Use the Bg Remover to extract subject from your images with one click, and you can replace the background to create highly personalized photos.\n‒ Use AI Retouch to achieve flawless skin. Enjoy natural and delicate skin smoothing and blemish removal to effortlessly create a refined appearance.\n‒ Use AI Headshot to create PFPs and avatars for LinkedIn and other social media platforms.\n‒ Turn text into stunning images! Just describe what you want, like “a magician baking bread in the kitchen” or “Spider-Man at a bar,” then choose a style, and transform your ideas into reality in seconds. \n‒ Curious about what your future baby with your partner might look like? Just try our Baby Generator, and let AI show you the results.\n‒ Use AI Face Mimic to upload a photo and have your friends sing or make funny faces. You can also animate old photos, bringing black-and-white images to life.\n‒ Use trendy 3D Cartoon and Anime AI art effects to easily transform your selfies into vibrant cartoon comics.\n\nExplore more features of Fotor and unleash your creativity.\n\nAI Tools:\n‒ Instantly change outfits, hairstyles, and colors with AI Replace to find your best style.\n‒ Extend photo subjects and backgrounds with AI Expand to fit different sizes and achieve a balanced effect.\n‒ Generate unique AI avatars from selfies, add luxurious backgrounds, or place yourself in iconic destinations.\n‒ Apply stylized AI filters for stunning photo effects.\n‒ Restore and colorize old family photos, turning them into vibrant, high-definition images.\n‒ Use face swap templates for movie characters or 80s styles to create memorable moments.\n‒ Transform line drawings into digital artworks with AI Sketch.\n‒ Create masterpieces with AI art effects inspired by Van Gogh, Monet, and Picasso.\n\nPhoto Editor:\n‒ Use unique photo filters to set the mood and captivate.\n‒ Adjust brightness, clarity, contrast, saturation, HSL, curves, hue, and grain.\n‒ Auto-focus, blur backgrounds, and sharpen photo subjects.\n‒ Crop images into any shape and experiment with perspectives.\n‒ Layer images or effects with Overlay for added creativity.\n‒ Adjust image size while maintaining aspect ratio.\n‒ Add text and stickers to enhance fun and depth.\n‒ Sharpen blurry portrait photos with one tap.\n\nLayouts:\n‒ Capture and combine moments into vibrant collages with Collage Maker.\n‒ Create professional social media posts, flyers, and posters with design templates.\n‒ Make mood boards and photo frames with grid or freestyle collages.\n‒ Merge multiple images into one with the stitching tool.\n\nAI Cutout:\n‒ Add cinematic effects with double exposure.\n‒ Create stunning backgrounds for product photos with AI Background.\n\nThe Fotor Pro subscription fee is charged monthly or yearly. The fees for the Fotor Pro plan are paid following purchase confirmation. The subscription will automatically renew on expiry unless the automatic renewal is turned off at least 24 hours before the expiry of the current subscription period. Once the subscription is confirmed, your iTunes account will be charged according to the plan you chose. After purchase, you may go to the iTunes Settings to manage your subscription and turn the automatic renewal off. A canceled subscription becomes effective after one month.\n\nTerms of Service:\nhttps://www.fotor.com/service.html?f=iphoneapp&v=1\n\nPrivacy Policy:\nhttps://www.fotor.com/privacy.html",
+      "android_package_name": "com.everimaging.photoeffectstudio",
+      "ios_bundle_id": "com.everimaging.photoeffectstudio",
+      "title": "Fotor",
+      "domain_name": [
+        "https://www.fotor.com",
+        "https://www.fotor.com"
+      ],
+      "website": "https://www.fotor.com",
+      "developer": "Chengdu Everimaging Science and Technology Co., Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/cgpwg8cMfl6B42oZhxlSSvR_MHVuRc4NGh8gfhe0wOdBf9BMdu6PoDpwNxofuzqAIkk",
+      "icon_72": "https://play-lh.googleusercontent.com/cgpwg8cMfl6B42oZhxlSSvR_MHVuRc4NGh8gfhe0wOdBf9BMdu6PoDpwNxofuzqAIkk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.xvideostudio.videoeditor"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "VideoShow AI Video Editor helps you create stunning videos effortlessly. This Valentine's Day, turn sweet moments into romantic videos with photos, music, stickers, filters, and special effects, making your love story truly unforgettable.\n\nkey features:\n- AI Video Editing. Just choose, and let AI seamlessly add effects, filters, and themes, crafting stunning visuals effortlessly.\n- AI Video Generator. Just type your idea, and it’ll automatically generate AI video with visuals, voiceover and subtitles.\n- Over 30 fun filters to create different types of videos.\n- Variety of styles and fonts for subtitles.\n- Best content center: themes / effects / stickers / gif photos / emojis ...\n- Smart Cut-out. Seamlessly remove backgrounds with AI precision, simplifying image editing tasks.\n- Reduce Video Size. Compress and reduce video size in a jiffy!\n- Edit, merge, crop, split, invert, copy, rotate videos.\n- Zoom in or zoom out feature so users can focus on the part where they want!\n- Speed-adjust feature to adjust and control the speed of each part of the video clip.\n- Facility to blur background, enhance voice and adjust speed of voice.\n- AI-Enhanced Photos. Transform your photos with AI-enhanced clarity and detail, bringing every image to life.\n- Colorize B&W Photos. Revitalize your memories with AI-powered colorization, turning black and white photos into vibrant masterpieces.\n- AI Removes Objects. Effortlessly perfect your shots by removing unwanted objects with advanced AI technology.\n- AI Voice Changer. Transform your voice into countless styles – from cute, girlish, mature, to youthful and beyond!\n- Hundreds of different types of background music available, plus it's possible to add local music if you want.\n- There is no restriction on how long the exported video is!\n\n[VideoShow VIP Membership Service]\n1. VideoShow's VIP membership includes the following features: removal of watermarks, HD video export support, scrolling subtitles, adjustable sound changes, long video GIF creation and all paid content/music/subtitles/themes/stickers privileges.\n\n2. Membership Duration: VideoShow VIP offers a free trial (renewed for a monthly fee), an annual fee, and a permanent membership. The price depends on the subscription package you choose, and a subscription fee is charged when you confirm your purchase. Unlimited access to all of VideoShow's paid features and content during the subscription period.\n\n3. Payment is deducted from iTunes account upon confirmation of purchase.\n\n4. The renewal fee will be deducted from the account within 24-hours prior to the end of the current period, and the renewal cost will be recognized. If self-renewal is not turned off at least 24 hours before the end of the current subscription period, the subscription/subscription is automatically renewed for the same price and duration as the \"One Month\" / \"One Year\" Basic Package Is. You can cancel a subscription during the free trial period through your iTunes account by going to Subscription Settings. This must be done 24 hours before the end of the subscription period to avoid charges. You can use your iTunes account settings at any time to manage your subscriptions and turn off automatic renewal. Cancellation of an ongoing subscription is not allowed during the active subscription period. Please visit http://support.apple.com/kb/ht4098 for more information.\n\n5. The unused portion of the free trial period is forfeited when the user purchases a VideoShow VIP subscription.\n\n6. All prices are subject to change without notification. We sometimes provide promotional prices for promotional purposes that are for a specific period of time. Due to the time-sensitivity and promotional nature of these programs, we cannot provide price-saving and in such cases we are unable to offer discounts or refunds on any purchases you have made in the past.\n\n7. Privacy Policy: http://www.enjoy-global.com/privacy.html\nTerms of Use: https://jinshuju.net/f/9Zh7KL",
+      "android_package_name": "com.xvideostudio.videoeditor",
+      "ios_bundle_id": "com.enjoy.VideoShow",
+      "title": "VideoShow",
+      "domain_name": [
+        "http://www.videoshowapps.com",
+        "https://www.videoshowapps.com"
+      ],
+      "website": "http://www.videoshowapps.com",
+      "developer": "VIDEOSHOW PTE. LTD.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/s-OvYqFt2F33nkIThCX0N1DWnWNdwiO_TYZuzYNLpdJytJKAbMJn5_92bS26W-HTImY",
+      "icon_72": "https://play-lh.googleusercontent.com/s-OvYqFt2F33nkIThCX0N1DWnWNdwiO_TYZuzYNLpdJytJKAbMJn5_92bS26W-HTImY=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.layout.collage.inlay"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Photo Layout is an easy to use photo editor for Instagram. It takes your Instagram posts to the next level.\n\nWith Photo Layout, you can:\n\n- Remix photos into collage with a bunch of Layouts.\n- Edit photo like a pro with Crop, Rotate, Flip, Skew tools.\n- Choose from 100 Filters enhance photos.\n- Adjust details with Brightness, Contrast, Grain, HSL, Curves, etc.\n- Frame photo into square post, post no crop image on Instagram.\n- Add your own watermark.\n- Turn filter, adjust, frame, and watermark edits into a Recipe for future use.\n- Add Text on photo.\n- Decorate photo with Stickers.\n- Unleash your creativity with Overlay.\n\n\nAbout Subscription:\n\n1. Unlock Premium Features: Photo Layout Pro offers access to premium filters and advanced editing tools.\n2. Try Before You Commit: Enjoy a 3-day free trial of Photo Layout Pro. After the trial, a yearly subscription fee of $24.99 will be charged.\n3. Auto-Renewal: Your subscription will automatically renew at the end of each period unless canceled at least 24 hours before the current period expires.\n4. Manage Subscriptions: You can manage your subscription by going to \"Settings\" > \"Your Name\" > \"Subscription\" > \"Cancel Subscription.\"\n5. Privacy Policy: https://collage.plus/PrivacyPolicy.html\n6. Terms and Conditions: https://collage.plus/PicsmateTermsAndConditions.html",
+      "android_package_name": "com.layout.collage.inlay",
+      "ios_bundle_id": "photoeditor.filter.photoplus",
+      "title": "Layout from Instagram",
+      "domain_name": [],
+      "website": "",
+      "developer": "Shamble, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2ZNgc6m7nw7-uRCSuEGFDApiNFu2pkTxxqSmsDYFZHqgPQ3S8wXfS4T9m4Ky94J5dng",
+      "icon_72": "https://play-lh.googleusercontent.com/2ZNgc6m7nw7-uRCSuEGFDApiNFu2pkTxxqSmsDYFZHqgPQ3S8wXfS4T9m4Ky94J5dng=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cerdillac.filmmaker"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "FEATURES\n\n- Create and manage unlimited projects\n- Manage, share/export projects' underlaying assets through the File Manager view\n- 4K video support on iPhone SE and later, and iPad Pro\n- Support for unlimited video clips, audio tracks, voiceovers, and text overlays\n- Color coded timeline view makes it easy to distinguish assets and manage the timeline\n- Assets can be easily repositioned using a long press gesture\n- Ability to select the composition’s export frame rate\n- Ability to choose the composition’s aspect ratio\n- Ability to change the composition’s background color\n- Composition fade in / out options\n- Auto save ensures that edits are never lost\n\nVIDEO EDITOR\n\n- 46 professional grade transition options\n- Trim, split, or duplicate video clips\n- Adjust video playback speed for a super slow motion or fast motion effect \n- Volume control\n- Reverse video tool\n- 30 expertly crafted filters\n- Video grading (brightness, contrast, saturation, exposure, and white balance)\n- Realtime filters and effects playback\n- Picture-in-Picture Video\n- Picture-in-Picture Photo\n- Picture-in-Picture GIF\n- Photo motion (Ken Burns)\n- Ken Burns effect for videos\n- Chroma Key (Green Screen)\n- Voice-to-text captions\n- Keyframe animation\n- Motion tracking\n- Audio ducking\n\nAUDIO TRACKS\n\n- 152 royalty-free music tracks\n- Sound Effects Collection \n- Trim audio tracks with a fade in / out option\n- Adjust auto track playback speed\n- Volume control\n- Audiometer assisted voiceovers\n\nTEXT OVERLAYS\n\n- 79 classic fonts\n- Special Fonts Collection - 92 beautiful custom fonts\n- Movie Fonts Collection - 15 fonts inspired by popular Hollywood blockbusters\n- Script Fonts Collection - 16 beautiful script style fonts\n- Retro Fonts Collection - 26 beautiful retro style fonts\n- Graffiti Fonts Collection - 21 beautiful graffiti style fonts \n- Premium Text Animations - 17 advanced text animation options\n- 9 standard text animation options\n- \"Stroke Path\" animation draws text on videos\n- Pan, pinch and rotate gestures to reposition, resize, and rotate text\n- The ability to curve text up to 360 ° / -360 °\n- Adjustable text duration\n- Text stroke option (white / black)\n- Recent font category persistent across projects \n- Foreground and background color adjustment\n- Recent color category persistent across projects \n\nGRAPHICS & STICKERS\n\n- 220 gorgeous graphics and labels\n- 80 custom animated stickers - in-app purchase\n- 9 illustration animation options\n- \"Stroke Path\" animation draws illustrations on videos\n- Pan, pinch and rotate gestures to reposition, resize, and rotate text\n- Adjustable duration\n- Illustrations outline option\n- Foreground and background color adjustment\n- Recent color category persistent across projects \n\nDRAWING TOOL\n- Select brush color, size, and opacity \n- Works great with Apple Pencil on iPad\n\nALL ACCESS SUBSCRIPTION\n\n- You can subscribe for unlimited access to all features and content offered for purchase within Filmmaker Pro. \n- Subscriptions are billed monthly or annually at the rate selected depending on the subscription plan. \n- Subscriptions auto-renew at the cost of the chosen package, unless cancelled 24-hours prior to the end of the current period. The subscription fee is charged to the iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. \n- Once purchased, refunds will not be provided for any unused portion of the term. \n\nPrivacy Policy: http://www.filmmakerproapp.com/privacy-policy\nTerms of Use: http://www.filmmakerproapp.com/terms--conditions",
+      "android_package_name": "com.cerdillac.filmmaker",
+      "ios_bundle_id": "gemini.Filmmaker-Pro",
+      "title": "Movie Maker Filmmaker",
+      "domain_name": [],
+      "website": "",
+      "developer": "Tinkerworks Apps",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/x6e04XkLxys_hZ0ENmupQXMJ6oIoPAp3lU-3H-V2TT7FIDMX56w4Bk0wefurWU2eduQ",
+      "icon_72": "https://play-lh.googleusercontent.com/x6e04XkLxys_hZ0ENmupQXMJ6oIoPAp3lU-3H-V2TT7FIDMX56w4Bk0wefurWU2eduQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mobivio.android.cutecut"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Now, you can DRAW movies, AND you can draw ON movies! Cute CUT’s powerful, easy-to-use editing features put YOU in control, allowing you to make the highest quality movies, DIFFERENT from anything you’ve seen!\n\nDo you want to create your own unique movie? Cute CUT’s robust and intuitive feature set will have you doing so in no time, drawing gorgeous, one-of-a-kind movies and so much more! \n\nBesides providing the utilities of a common video editor, Cute CUT brings to the table exceptionally advanced, Hollywood-style editing functionality! \n\nWe’re continually working to enrich and strengthen Cute CUT’s top-tier functionality, and its refreshingly simple, unique presence in today’s digital market. Are you with us? Join more than one million others who’ve dared to discover the delightful difference that’s Cute CUT!\n\n===================================================================\n\nKey Features:\n\n- User-Friendly UI.\n\n Just drag and drop; you can arrange your media segments easily.\nSleek, bookshelf-style organizer showcases your movies.\nUI supports both portrait and landscape modes.\n \n- Make DIFFERENT movies, make movies DIFFERENT!\n\nSupports SIMULTANEOUS Adding of UP TO SIX different types of media into movie projects: Video, Photo (both from Album or Camera), as well as SELF-DRAW, Text, Music, and Voice. \n \n- Supports various Resolutions and Aspect Ratios, including HD (16:9, 19.5:9 and 21:9), SD (4:3 and 5:4), SQUARE (1:1) and even Portrait Mode!\n\nCreating a PIP (Picture-In-Picture) movie is EASY: Merely place one movie atop another; Cute CUT even supports independent Resizing of each and every video segment! \n\n- Draw directly on movie.\n\n30+ drawing tools. \n \n- 3 Advanced Brushes for pro effects: Texture, Linear Gradient, Radial Gradient, gradients editable.\n\n- Highly customizable transitions.\n\n- 20+ Pre-Defined Transitions.\n\n- Transparency, Border, Corner, Shadow, Transform, and Sound Volume ... ALL Customizable!\n\n- Share Your Movie.\n\nExport to Camera Roll.\nSend to YouTube/Facebook.\nSend via e-mail.\n \n- Multiple Tutorials, and even Full Video Walkthroughs available, easily accessible.\n\n\n===================================================================\n\nYou can upgrade to Pro to obtain the following features.\n\n1. Watermark-free movies.   \n2. Unlimited movie length.\n3. No Ad.\n4. 4K ultra HD movie exporting.\n5. More music tracks.\n6. More stickers.\n\nCute CUT is available BOTH on iPhone and iPad. \n\nHomepage: https://cutecut2.mobivio.com \nFeedback and Support: support@mobivio.com",
+      "android_package_name": "com.mobivio.android.cutecut",
+      "ios_bundle_id": "com.mobivio.cutecut",
+      "title": "Cute CUT",
+      "domain_name": [
+        "https://cutecut2.mobivio.com",
+        "https://cutecut2.mobivio.com"
+      ],
+      "website": "https://cutecut2.mobivio.com",
+      "developer": "波 余",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/BLyBUGeA2gCsDEQDBdA7WTC2yTwVyWr2eSGMA3KSABAHhOjRtn8j3gNG0ugA4zqwF_U",
+      "icon_72": "https://play-lh.googleusercontent.com/BLyBUGeA2gCsDEQDBdA7WTC2yTwVyWr2eSGMA3KSABAHhOjRtn8j3gNG0ugA4zqwF_U=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "mobi.charmer.magovideo"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Video Star is your #1 video editing app — there’s no other app like it!\n\nCreate incredible fan edits and amazing lip-sync music videos with Video Star. There's thousands of effects to color, animate, enhance, warp, combine, and re-time clips ... creating pure magic from photos and videos. Video Star includes TONS of free features or get an All Access Pass to unlock everything, including your mad editing skills!\n\nWe update Video Star regularly with new effects and features. Be sure to join our daily #VideoStarApp community challenges on Instagram and TikTok! \n\nVideo Star Pro Subscription\n- A Pro subscription provides unlimited access to ALL current and future Power Packs in Video Star\n- Payment will be charged to iTunes Account at confirmation of purchase, taxes may also be included in some areas\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n- You can read our privacy policy at: videostarapp.com/privacy.html\n- You can read our terms of service at: videostarapp.com/terms.html",
+      "android_package_name": "mobi.charmer.magovideo",
+      "ios_bundle_id": "com.frontierdesign.videostar",
+      "title": "Video Star",
+      "domain_name": [
+        "http://VideoStarApp.com",
+        "https://VideoStarApp.com"
+      ],
+      "website": "http://VideoStarApp.com",
+      "developer": "Frontier Design Group, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0LzEpgQq1U5S637TgmYyMkjE-KBxMu2C-wxAkQRQMQacmpPZ5nx204a76PT0a5aTb2Y4",
+      "icon_72": "https://play-lh.googleusercontent.com/0LzEpgQq1U5S637TgmYyMkjE-KBxMu2C-wxAkQRQMQacmpPZ5nx204a76PT0a5aTb2Y4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.vsco.cam"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Visual LabX is a unique photo edit application designed to transform your photos into true works of art. Packed with retro filters, aesthetic effects, and a free retouch pro plugin, Visual LabX turns your photo into a masterpiece.\n\nAdd magical touches to your photos with Magic Presets and achieve stunning results with dazzling effects that inspire awe.\n\nSpecifically tailored to portrait, influencer, film, black and white, nature, urban, and travel categories, the color filters of Visual LabX help you capture every moment with the right mood. The extensive filter options of Visual LabX allow you to edit your photos professionally. Highlight your photos with a distinct film-like feel, captivating black and white effects, vibrant color palettes, and natural touches.\n\nPremium-quality filters are among the key features of Visual LabX. Visual LabX has too many free photo editing tools. Free Retouch Pro tool helps you achieve a perfect skin edit. Our retouch tool detects your face and body with the help of AI and you can edit your face and body smoothly.  With this combination, you can professionally edit your photos and leave your signature in every frame.\n\nWith the new FX tool we introduced, you can take your photo editing to the next level by applying multiple effects to the same image. With the effects we offer you within the FX tool, you can add a vintage atmosphere to your photos and create a feeling of a photograph taken with an analog film camera\n\nThanks to its user-friendly interface, Visual LabX appeals to users of all levels. Visual LabX is powered by Apple’s Metal technology. It is an ideal choice for instantly enhancing your photos with its easy-to-use features and impressive results. It is a must-have application for anyone seeking aesthetic photos, retro filters, and a free retouch pro plugin.\n\nDiscover Visual LabX to make your images more attractive and captivating than ever before. Download it now and explore its powerful tools for transforming your photos into art pieces!\n\n\n\nSubscription plans\nVisual LabX offers annual, monthly subscription plans.\n\niTunes Subscription Details\n\n-Subscription includes premium filters and presets usage.\n-Membership periods are 1 month and 1 year.\n-Membership renewals are made on monthly and annual basis.\n-Payment will be credited to your iTunes account once you confirm the subscription purchase.\n-Your subscription will automatically renew unless auto-renew is turned off 24 hours before renewal.\n-Renewal will be credited to your account 24 hours before the end of the subscription period.\n-Remaining parts of the trial membership with the beginning of the membership cannot be requested.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy policy: http://www.visuallabx.com/privacy-policy/",
+      "android_package_name": "com.vsco.cam",
+      "ios_bundle_id": "com.visualLabX.ios",
+      "title": "VSCO X",
+      "domain_name": [
+        "http://www.visuallabx.com",
+        "https://www.visuallabx.com"
+      ],
+      "website": "http://www.visuallabx.com",
+      "developer": "MEHMET ONUR USTUNEL",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/RdCklOFg3SLN5QF8OR7cU-5bs1ESYo_pqGYrK2ena3XZDcrLOpjf7vLtNQELOR7Uo4MH",
+      "icon_72": "https://play-lh.googleusercontent.com/RdCklOFg3SLN5QF8OR7cU-5bs1ESYo_pqGYrK2ena3XZDcrLOpjf7vLtNQELOR7Uo4MH=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cyberlink.actiondirector"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Best App to Add Background Music & Sound Effects on Your Videos. Record your own voice over video.\nCreate slideshow with your moments & add music on it to make it live.\n\n• Add background music to videos.\n• Make your own music videos.\n• Record your own voice over video.\n• Make slideshow with music\n• Make funny Dubsmush videos.\n• Give life to your videos.\n• Get more likes & views on Youtube, Instagram, Facebook or Vine.\n\nKey Features:\n==========\n- Add Music Tracks on Videos.\n- Record Your Own Voice Over Video.\n- Huge Collection of Awesome Music Tracks.\n- Make Slideshow With Your Photos\n- Edit Video: Trim & Cut frame by frame. Remove any unwanted part of your video.\n- Edit Audio: Trim, Fade-in, Fade-out & Loop options.\n- Volume Control For Audios.\n- Video Mute/UnMute.\n- Huge Collection of Slideshow Transitions.\n- Minimum Processing Time.\n- Beautiful Ui With Stunning Design.\n- Very Easy to use.\n\nPremium Features:\n- Premium Music Tracks\n- Add Unlimited Music\n- Select Unlimited Photos\n- Premium Slideshow Styles\n- Premium Filtes\n- Ads Free Version\n- Unlock Everything\n\nFade-in Means: Gradually increase the level of audio volume at the beginning.\nFade-out Means: Gradually decrease the level of audio volume at its end.\nAudio Loop Means: Repeating section of audio at whole video.\n\nPayment & Subscription Terms:\nChoose between the following options for unlimited access to all features:\n• Weekly Subscription with 3-day free trial;\n• Yearly Subscription.\n \nSubscriptions are billed weekly or annually at the rate selected depending on the selected plan.\n\n Subscription automatically renews unless auto-renew is turned off at least 24 - hours before the end of the current period.\n- payment will be charged to iTunes Account at confirmation of purchase.\n- Account will be charged for renewal within 24-hours prior to the end of the current period. \n- No cancellation of the current subscription is allowed during active subscription period. \n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. \n- Any unused portion of a free trail period will forfeited when the user purchases a subscription.\n\n## Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's iTunes Account Settings after purchase.\n## Subscription can be cancelled during its free trial period via the subscription setting through your iTunes account. This must be done 24 hours before the end of the subscription period to avoid being charged. \n\nPrivacy Policy, Terms of Service:\nhttps://braincraftapps.com/apps/i/add-music-to-videos/privacy-policy/\nhttps://braincraftapps.com/apps/i/add-music-to-videos/terms/\n\nFound any bug? or Have any suggestions? or Wanna new features?\nPlease mail me at: support@braincraftapps.com\nKeep in touch to receive all updates. Thank You.",
+      "android_package_name": "com.cyberlink.actiondirector",
+      "ios_bundle_id": "com.braincraft.sa",
+      "title": "ActionDirector",
+      "domain_name": [
+        "http://www.braincraftapps.com",
+        "https://www.braincraftapps.com"
+      ],
+      "website": "http://www.braincraftapps.com",
+      "developer": "Brain Craft Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5hc8rhwWg3hT1e1Nyu79j3n8oF1I4c1_sejZio7LEj8O5PytvxUinzY0ePA8lSsclqum",
+      "icon_72": "https://play-lh.googleusercontent.com/5hc8rhwWg3hT1e1Nyu79j3n8oF1I4c1_sejZio7LEj8O5PytvxUinzY0ePA8lSsclqum=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cateater.stopmotionstudio"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Stop Motion by Life Lapse lets you create your own stop motion movies and animations at home. \n- Create stunning stop motion animations with ease.\n- Download, share, and post to Instagram, TikTok, YouTube and other social media.\n- 4.8/5 from 35,000+ ratings in the App Store, App of the Day in 2024 and 2021. \n\nUnleash your creativity with Life Lapse: the ultimate EASY stop motion maker. Craft captivating animations, from mesmerizing stop motion to engaging social media content that will stop the scroll. Download Life Lapse now and experience stop-motion animation like never before. \n\nOur Features:\n~ Stop Motion Camera: Shoot and film in 4K UHD resolution with our ghost overlay and hands-free tools like an interval timer\n~ Stop Motion Editor: Life Lapse auto-stitches everything for you, making the stop motion process quick and easy\n~ Easy to use + beginning friendly: Intuitive interface for all animators, even a beginner!\n~ Stop Motion tutorials: dozens of tutorials to learn different stop motion techniques\n~ Blend stop motion with live action from a single shot! Select \"Life Lapse\" project to shoot truly magical videos by using layers & masking. \n~ Edit stop motion videos in seconds! 20+ Pro editing on-click stop motion tools (freeze, boomerang, reverse, filters and re-align after you've shot & more)\n~ Easy to animate perfectly with our ghost/onion skin layer in camera. See your previous photo so you know how to move your animation next.\n~ Add music and sound effects: Add and change the music soundtrack and sounds in your video.\n~ Filters to make your video look amazing: Add video filters to control how your video looks and feels.\n~ Easy to share on Social Media: Easily prepare your videos for Instagram or TikTok using our built-in guidelines.\n~ Make your animations looks smooth and professional: Speed controls help make your animations smooth and silky!\n~ Download to your phone: Save videos to your phone so you can send them to friends and family. \n\nTry PRO for Free:\nIf you want to make more professional animations, experience the best stop-motion tool that is made for video content creators for FREE with a 7-day trial. After the 7 days is up, unless canceled before the 7 days, you will get access to Life Lapse with the annual subscription rate.\n\n\nFind us on Instagram/TikTok and share your work!\nSee how others are using Life Lapse on Instagram at @LifeLapse_App or by searching #LifeLapse. We also feature Life Lapse video creators on our Instagram. For a chance to have YOUR stop motion videos featured share your Life Lapse video on Instagram & tag #LifeLapse or @LifeLapse_App.\n\nSend us your Feedback - support@lifelapseapp.com\nHave some feedback for us? Suggestions for new features? Or maybe just some questions on how to use the app? We’d love to hear from you! E-mail us at support@lifelapseapp.com with any questions and feedback you have and we’ll answer within 48 hours.\n\n\n\nPrivacy Policy & Terms & Conditions: https://www.lifelapseapp.com/legal",
+      "android_package_name": "com.cateater.stopmotionstudio",
+      "ios_bundle_id": "com.umbrella-web.LifeLapse",
+      "title": "Lifelapse",
+      "domain_name": [
+        "https://stopmotionapp.com",
+        "https://stopmotionapp.com"
+      ],
+      "website": "https://stopmotionapp.com",
+      "developer": "Bolandia Creative Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AL3EqKySuwbpfiGNPGPL5lg3J8_dV-VfCiHW0XcCjGeYYiGCElmJWeO3jcoOZc5m3Pg",
+      "icon_72": "https://play-lh.googleusercontent.com/AL3EqKySuwbpfiGNPGPL5lg3J8_dV-VfCiHW0XcCjGeYYiGCElmJWeO3jcoOZc5m3Pg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.lightricks.facetune.free"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Welcome to Facetune, the go-to photo editing app for creators, influencers, and selfie enthusiasts! We're all about celebrating you and helping your photos shine like never before. With Facetune, you get powerful tools, a user-friendly interface, and endless creative possibilities to express yourself with confidence.\n\nWhat's Hot in Facetune:\n• Headshots: Transform everyday photos into professional-grade headshots in seconds with AI technology.\n• Filters: Discover a variety of filters to give your photos the perfect mood and aesthetic.\n• Vanish & Remove Objects: Seamlessly remove unwanted objects or people from your background.\n• Blemish Remover: Instantly achieve a flawless complexion by removing blemishes and wrinkles.\n• Video Filters: Retouch skin and enhance your videos with stunning filters to make them pop.\n• Retouch: Fine-tune your selfies with advanced retouching tools to highlight your best features.\n• Teeth Whitening: Brighten your smile (or sneakers!) and make your teeth sparkle with our free teeth whitening feature.\n\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\nKey Features:\n\nAdvanced Retouching Tools:\n• Smooth: Achieve a natural, flawless complexion by removing blemishes and wrinkles instantly.\n• Reshape: Subtly enhance your natural beauty with precise facial adjustments.\n• Whiten: Brighten your smile and make your teeth look their best.\n\nProfessional Editing Tools:\n• Filters: Choose from a variety of filters to give your photos the perfect mood and aesthetic.\n• Light Effects: Adjust brightness, contrast, and highlights to create ideal lighting.\n• Details: Sharpen and enhance details to make your photos pop.\n\nCreative Enhancements:\n• Makeup: Apply virtual makeup to glam up your look without the fuss.\n• Hairstyles: Change your hair color and style with just a few taps.\n• Vanish: Remove unwanted objects or people from your background seamlessly.\n\nOne Tap Magic:\n• AI Enhance: Automatically enhance your photos with our AI technology.\n• Looks Presets: Instantly transform your photos with curated looks and presets.\n• Color Correction: Correct and enhance colors for a vibrant, polished look.\n\nUser-Friendly Interface: Facetune is designed to be intuitive and easy to use, making photo editing a breeze whether you're a beginner or a pro.\n\nSocial Media Ready: Create stunning photos that are ready to share on all your favorite social media platforms. Impress your followers with polished, eye-catching images that highlight your unique style.\n\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nWhy Facetune?\n\n- Authentic: Celebrate your true self with photos that reflect your real beauty.\n- Playful: Experiment with different looks and styles to express your creativity.\n- Sharp & Sassy: Make a statement with bold, confident photos.\n- Encouraging & Confident: Boost your confidence with tools that highlight your best features.\n\nJoin the Facetune Community:\nFacetune is more than just an app; it's a community of creators, influencers, and photo enthusiasts. Share your photos, discover new techniques, and get inspired by others.\nDownload Facetune Today!\n\nReady to turn those pics into pure fire? Get Facetune now and let's make some magic happen! Remember, life's a photoshoot, and you're the star. Now go out there and slay, bestie!\n\nLove, The Facetune Team\n\nP.S. Don't forget to check for updates! We're always cooking up new features to keep your photo editing game fresh and fabulous.\n\nTerms of use: https://static.lightricks.com/legal/terms-of-use.pdf \nPrivacy policy: https://static.lightricks.com/legal/privacy-policy.pdf\n\nTag us in your photos and videos with @Facetune and #facetune for a chance to be featured!",
+      "android_package_name": "com.lightricks.facetune.free",
+      "ios_bundle_id": "com.lightricks.Facetune2",
+      "title": "Facetune",
+      "domain_name": [
+        "http://www.facetuneapp.com",
+        "https://www.facetuneapp.com"
+      ],
+      "website": "http://www.facetuneapp.com",
+      "developer": "Lightricks Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/PZMWnpFtmhKbVl1fm6HJS3Mru4O9_RTtz5LK1dGlFe2cLMJ4QWun1mfQO5GAJWEl8w",
+      "icon_72": "https://play-lh.googleusercontent.com/PZMWnpFtmhKbVl1fm6HJS3Mru4O9_RTtz5LK1dGlFe2cLMJ4QWun1mfQO5GAJWEl8w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bigblueclip.picstitch"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Transform your camera roll into stunning collages with Pic Stitch—the ultimate collage maker that easily stitches photos together for iPhone & iPad. With over 400 collage layouts, 25 filter packs, more than 30 border packs and robust photo & video editing tools, Pic Stitch offers a simple design with a powerful collage editor. Create a before-and-after sequence, combine multiple photos and videos into one beautifully framed collage, or produce a photographic series with music. Then share your masterpiece with friends & family on your favorite social media networks including Facebook, Twitter and Instagram.\n\nPic Stitch is a must-have app for anyone looking to level-up their photography game, whether you're a social media influencer, blogger, content creator, or just looking to make unique collages to share with friends. Create professional-looking collages and make your photos pop with the same powerful tools and templates used by top photographers in the industry. If you have ever wondered how social media influencers combine several images into one glamorous frame, this is the secret tool they all use to make their content a masterpiece! \n\n* One of the Top 7 photo apps & Top 100 apps of ALL TIME according to Mashable *\n \nOverview:\n– Explore iOS Home Screen Widget Wallpapers featuring your most recent collages\n– Discover recent social media Trending Layouts\n– Browse 375+ different layouts\n– Explore 25 filter packs to enhance your photos\n– Design with 30+ border packs & customize layouts\n– Works with photos and videos\n– 15 different photo aspect ratios optimized for sharing (i.e. 9x16 format for social stories)\n– Customize photo borders\n– Easy to use UI\n– Amazing photo FX filters\n– Pan, rotate, flip, mirror and zoom\n– Share to Facebook, Twitter, Instagram and more\n– Save to your photo album\n– High resolution export\n \nPhoto Editing Features:\n– Quick Enhance: hi-definition, scenery, food, portrait, night\n– Filter Packs: food, style, radiant, romance, noir, soleil, toy camera, wonderland, pop art, mystic, nostalgia, subtle, tital, wanderlust, jetset, spring, summer, beach, layer pro, cabin pro, grunge, brushes, visual fx, eeeeeats\n– Effects: exposure, brightness, contrast, structure, warmth, saturation, fade, highlights, shadows, vignette, sharpen\n– Stickers: decorate your photo collage with your favorite stickers powered by Giphy\n– Text Editor: insert text overlays and select your choice of font styles, colors, backgrounds, shadows and more\n– Drawing Editor: add your own touch to each photo by selecting a drawing tool of your choice\n– Meme Editor: turn your photo collage into a meme with a simple template that adds text where it matters most\n– Watermark Editor: add your own brand logos or create custom watermarks with text, date and time stamps\n– Frame Editor: white, black, vertical, horizontal, banners, bars\n– Overlay Editor: circles, pentagons, squares, rectangles, diamonds, grid lines\n– Rotate & Reflect: left, right, horizontal, vertical\n– Portrait Editors: blemish, blur, whiten, redeye, splash, sharpen, focus\n– Crop Tool: 1x1, 1x2, 2x1, 4x6, 6x4, 3x4, 4x3, 5x7, 7x5, 8x10, 10x8, 9x16, 16x9\n\n\nView our Terms of Service at: https://maplemedia.io/terms-of-service/\nView our Privacy Policy at: https://maplemedia.io/privacy/\n\nYour feedback helps us make the app better! If you have comments or suggestions please email us at contact@maplemedia.io\n \n* Mashable Mentions *\nhttp://mashable.com/2015/12/13/best-iphone-photo-apps-of-all-time\nhttp://mashable.com/2015/12/08/100-best-iphone-apps",
+      "android_package_name": "com.bigblueclip.picstitch",
+      "ios_bundle_id": "com.bigblueclip.picstitch",
+      "title": "Pic Stitch",
+      "domain_name": [
+        "http://maplemedia.io",
+        "https://maplemedia.io"
+      ],
+      "website": "http://maplemedia.io",
+      "developer": "Maple Media Apps, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/GXe8yWitsioVu61hcxgDZuISR3kkVmuhKCkHwy4wJX7SZDCXJ94y59-oTF83WoGZGro9",
+      "icon_72": "https://play-lh.googleusercontent.com/GXe8yWitsioVu61hcxgDZuISR3kkVmuhKCkHwy4wJX7SZDCXJ94y59-oTF83WoGZGro9=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wondershare.mobiletrans"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "File Drop for Air Transfer, Drop File brings you secure access to all of your files anytime, anywhere. Easily manage and share files, access documents offline, edit Office documents, and annotate files with built-in editing tools. The app lets you quickly edit, share and view favourite files. \n\nUse File Drop for Air Transfer, Drop File to edit or sign your documents on the go from your iPhone. Import multiple files to the App; draw, edit, and share. Scan your documents and share them with just a few simple taps.\n\n→ Perform all necessary Files tasks:\n\n- Store files in a secured place\n- Create folders to organise your files\n- View and Edit any files\n- Quickly share your files with anyone\n\n→ Scan paper documents:\n\n- Turn your camera into an advanced document scanner\n- Perspective document transformation\n- Annotate and edit\n\n→ Annotate files:\n\n- Comment on files using drawing tools\n- Highlight and mark up text with annotation tools\n- View and respond to annotations in the comments list\n\n→ Sign important documents:\n\n- Quickly mark up and highlight documents and forms with the editing tool\n- Use your finger e-sign any document\n\n→ Create New Documents and Folders:\n\n- Easily add new documents, media, and folders\n- Create new storage by tapping the plus in the bottom right of the App.\n\n→ Full fill all basic file tasks:\n\n- Quickly open and view files\n- Search, scroll, and zoom in and out\n\nAll documents are stored locally on your device and unavailable to third parties or us. You can easily share documents using the export option.\n\nPrivacy Policy: http://www.highteqsolutions.com/policy/privacy_policy.html\n\nTerms of Use: http://www.highteqsolutions.com/policy/terms_of_use.html",
+      "android_package_name": "com.wondershare.mobiletrans",
+      "ios_bundle_id": "com.daudmodan.airshare",
+      "title": "MobiMover",
+      "domain_name": [],
+      "website": "",
+      "developer": "Daud Modan",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3rmt_EXNmf3T0M8F4wUbS7FTGjQznjUN-wJEAwhjvIwSGYi7UWY5HeCB7ACVg9ChsJE",
+      "icon_72": "https://play-lh.googleusercontent.com/3rmt_EXNmf3T0M8F4wUbS7FTGjQznjUN-wJEAwhjvIwSGYi7UWY5HeCB7ACVg9ChsJE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "air.com.befunky.BeFunkyPhotoEditor"
+      },
+      "cat_key": "PHOTO & VIDEO",
+      "cat_keys": [
+        "PHOTO & VIDEO",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Edit photos. Design beautiful collages. Create stunning design layouts.\nWith BeFunky, you can do it all! Our AI-powered one-tap photo editing tools, intelligent auto-collage features, and professionally made design templates take the complexity out of your creative process.\nWith BeFunky, there’s NO ADS or registration necessary!\n\nTURN YOUR PHOTOS INTO PAINTINGS, CARTOONS, SKETCHES, AND MORE\nBeFunky’s Artsy effects are the most unique feature of our Photo Editor. With one tap, your photos will take on stunning, artistic characteristics. With realistic textures & natural-looking brush strokes, these effects will instantly turn your photo into a work of art!\n\nENHANCE IMAGES IN A SINGLE TAP\nWith a single tap, the Image Enhancer intelligently intensify colors, balance exposure, and correct contrast to make your photos stand out. Our Portrait Enhancer does all that AND softens blemishes, whitens teeth, and more.\n\nREMOVE BACKGROUNDS AND ERASE UNWANTED OBJECTS\nEasily remove distracting backgrounds, turn a dreary sky into sunshine, and erase unwanted objects. Our AI-powered tools give you the control to make seamless edits.\n\nRETOUCH AND RELIGHT YOUR PORTRAITS\nWith an entire suite of Touch Up tools, you can make subtle edits to your portrait to bring out their natural beauty. If the lighting isn’t very inspiring, you can re-imagine your scene with the Portrait Relight tool. Go from professional studio lighting to neon glow in a tap.\n\nA FULL SUITE OF PHOTO EDITING TOOLS\nWhile it’s our effects that make headlines, BeFunky is also a full-service photo editor. Crop, Upscale, adjust levels, dodge and burn, and so much more. Everything you need from a photo editor in an easy-to-use package.\n\nADJUST YOUR PHOTOS WITHOUT LOSING A SINGLE PIXEL\nIs your photo slightly crooked or not the right size? Or maybe your subject just needs to be moved a bit to the right. With BeFunky’s Expand, Straighten, and Detach Subject tools, our AI technology fills in the surrounding area, allowing you to keep the entire image intact and make edits with ease.\n\nAPPLY EFFECTS AND FILTERS\nFind new ways to get creative! You’ll find everything from Vintage and Chromatic effects to B&W and Pop Art filters to transform your photo in seconds.\n\nCREATE PHOTO COLLAGES WITH A SINGLE TAP\nOur Collage Wizard generates optimal collage layouts in high resolution without cropping or losing image details. It’s collage technology like no other!\n\nREMOVE BLUR AND IMPROVE SHARPNESS\nBeFunky has all the tools to get your photo looking sharp. Deblur to reduce blurriness. Denoise low-light photos to bring out details. Get clear, sharp images in a single tap!\n\nACCESS HUNDREDS OF FREE FONTS\nOur Text Editor has many fonts and customization options to add text to photos, designs, and collages. Choose from our collection of hand-selected fonts by our graphic designers, or upload your own fonts!\n\nFREE TEMPLATES FOR QUICK AND EASY GRAPHIC DESIGN\nOur design templates are the perfect starting point for any project, offering thousands of professional templates for birthdays, weddings, social media posts, and more.\n\nBEFUNKY ON ALL YOUR DEVICES\nAccess your stored projects and images across our mobile and desktop apps by logging in to your BeFunky account.\n\nACCESS HUNDREDS OF ADDITIONAL PREMIUM FEATURES WITH BEFUNKY PLUS\nSubscribe to BeFunky Plus monthly or yearly to access premium photo editing, collage-making, and graphic design tools. Access our Plus features across our mobile and desktop apps by logging into your BeFunky account. Start your Plus membership with a free trial! Limited to one free trial per Apple ID. When you start a trial, select a monthly or yearly subscription term. Once the trial ends, you’ll be charged a subscription fee for your Plus subscription that is charged to your App Store account. Your Plus subscription will auto-renew until auto-renew is turned off. You can manage your BeFunky Plus subscription in your App Store account settings.\n\nTerms of Use: https://befunky.com/terms",
+      "android_package_name": "air.com.befunky.BeFunkyPhotoEditor",
+      "ios_bundle_id": "com.befunky.BeFunkyPhotoEditor",
+      "title": "BeFunky",
+      "domain_name": [
+        "https://www.befunky.com/features/photo-editor",
+        "https://www.befunky.com"
+      ],
+      "website": "https://www.befunky.com/features/photo-editor",
+      "developer": "BeFunky Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Mu3hWU9vB0tYOd4fcx4GrmwK86vPzIfRPTcZdUniQbbFUp_KnPBm0SSgXWn9r67Zpb4x",
+      "icon_72": "https://play-lh.googleusercontent.com/Mu3hWU9vB0tYOd4fcx4GrmwK86vPzIfRPTcZdUniQbbFUp_KnPBm0SSgXWn9r67Zpb4x=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

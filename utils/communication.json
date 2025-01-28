@@ -1,0 +1,1072 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.skype.raider"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Skype – Connect, Create, Talk & Discover, now with Microsoft Copilot \n\nCOPILOT YOUR WAY THROUGH LIFE\nUse Microsoft Copilot in Skype\nWork smarter, be more productive, boost creativity, and stay connected to the people and things in your life with Copilot — an AI companion that works everywhere you do and on any device.\nWhatever you’re into — browsing the web, searching for answers, exploring your creative potential, or coming up with more useful content, Copilot can help you uncover new possibilities.\n\nSKYPE WITH ANYONE FOR FREE\nSkype is the best way to stay connected with anyone, anywhere, anytime. Whether you want to talk to your family, friends or colleagues. You can make free video calls with up to 100 people, send and receive text messages, use ChatGPT with others, send voice messages, emojis, share your screen to show what you’re working on.\n\nPERSONALIZED NEWS\nWith Skype’s Channels you can get free personalized news. Stay informed, productive, entertained, and inspired with up-to-date news.\n\n• Privacy and Cookies policy: https://go.microsoft.com/fwlink/?LinkID=507539\n• Microsoft Services Agreement: https://go.microsoft.com/fwlink/?LinkID=530144\n• EU Contract Summary: https://go.skype.com/eu.contract.summary\n• Consumer Health Data Privacy Policy: https://go.microsoft.com/fwlink/?linkid=2259814\n\nAccess Permissions:\nAll permissions are optional and require consent (you can continue using Skype without granting these permissions, but certain features may not be available).\n\n• Contacts - Skype can sync and upload your device contacts to Microsoft's servers so that you can easily find and connect with your contacts that already use Skype.\n• Microphone - The microphone is needed for people to hear you during audio or video calls or for you to record audio messages.\n• Camera - The camera is needed for people to see you during video calls, or for you to be able to take photos or videos whilst you’re using Skype.\n• Location - You can share your location with other users or use your location to help find relevant places near you.\n• Photo Library - Storage is needed to be able to store photos or to share your photos with others you may chat with.\n• Notifications - Notifications allow users to know when messages or calls are received even when Skype is not actively being used.\n• Siri - This allows Siri to make calls in Skype.\n• Calendar - Access to the calendar is so that calls can be scheduled and added to the calendar.\n• Motion Usage - Motion usage is used so that Skype can detect when your device is rotated, so that Skype can orientate the camera correctly.",
+      "android_package_name": "com.skype.raider",
+      "ios_bundle_id": "com.skype.skype",
+      "title": "Skype",
+      "domain_name": [
+        "https://www.skype.com/new",
+        "https://www.skype.com"
+      ],
+      "website": "https://www.skype.com/new",
+      "developer": "Skype Communications S.a.r.l",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/-Udh2Qv4FyhP2uLfvNy27jzzXrrIfnDEi9kUqzhy8OQgGUcWXXud6nlg8UywECiRmME",
+      "icon_72": "https://play-lh.googleusercontent.com/-Udh2Qv4FyhP2uLfvNy27jzzXrrIfnDEi9kUqzhy8OQgGUcWXXud6nlg8UywECiRmME=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.viber.voip"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Rakuten Viber is a secure, fun, and exciting messaging and calling app, connecting over a billion people worldwide!\n\nYou can do it all with Rakuten Viber: group chats, disappearing messages, reminders, and more:\n\nSend messages for free\nStaying in touch has never been easier. Send a free text, photo, sticker, GIF, voice or video message, along with many other types of files.\n\nMake free audio and video calls\nEnjoy unlimited Viber-to-Viber calls to anyone in the world for free. You can even call up to 60 people at the same time! Great for connecting with friends, family, and colleagues :)\n\nExperience end-to-end encryption\nOn by default for all 1-on-1 calls, chats, and group chats, end-to-end encryption allows to you to communicate with confidence knowing that all messages will remain private. No one, not even Rakuten Viber, can read your messages.\n\nMake low-cost calls to landlines with Viber Out\nCall any landline or mobile phone with Viber Out’s low-cost international calling service. Get a Viber Out subscription to call a specific destination or keep your options open and buy minutes to call anywhere in the world. \n\nOpen a group chat\nCatch up with friends, family, and colleagues by opening a group chat for up to 250 members. Use polls and quizzes, @mentions and reactions to get the most out of your group!\n\nExpress yourself with lenses, GIFs, and stickers\nPersonalize your chats! Get creative with fun, funny, and beautifying Viber lenses. GIFs and over 55,000 stickers also await you - you can even create your own.\n\nUse disappearing messages\nSend disappearing messages in your 1-on-1 and group chats by setting a timer for each message. You can choose how long the message will be available after it’s opened - 10 seconds, 1 minute, or up to 1 day!\n\nConnect in Communities and Channels\nWhether it's sports, news, cooking, travel or entertainment, get the content you really want and connect with others with similar interests. You can even start your own Community or Channel and gain a global following. \n\nChat with AI bots\nRakuten Viber's AI bots will answer all your questions and turn your words into beautiful art. You can also find verified bots to get the latest news on fashion, book your travel, and even pay your electricity bills!\n\nReact to messages\nReact to messages with emojis to express exactly how you feel in chats!\n\nCreate notes and reminders\nForward interesting messages, keep meaningful links, and add your thoughts to your notes. You can also set reminders to ensure you never forget important tasks and events. \n\nRakuten Viber is part of the Rakuten Group, a world leader in e-commerce and financial services. \n\nTerms & Policies: https://www.viber.com/terms/",
+      "android_package_name": "com.viber.voip",
+      "ios_bundle_id": "com.viber",
+      "title": "Viber",
+      "domain_name": [
+        "http://www.viber.com",
+        "https://www.viber.com"
+      ],
+      "website": "http://www.viber.com",
+      "developer": "Viber Media SARL.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EbQM-vsHv42Hg6qZvuK47q_cK3-KObc9GRlhNBWebX0AWrg5nMD92Kniqz8Z1BFpD3U",
+      "icon_72": "https://play-lh.googleusercontent.com/EbQM-vsHv42Hg6qZvuK47q_cK3-KObc9GRlhNBWebX0AWrg5nMD92Kniqz8Z1BFpD3U=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.tachyon"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Google Meet is a high-quality video calling app designed to help you have meaningful and fun interactions with your friends, family, colleagues, and classmates, wherever they are.\n\nMeet lets you connect in whatever way works for you: Call someone spontaneously, schedule time together, or send a video message that they can watch and respond to later.\n\nMeet also helps you get things done. It integrates with other Google Workspace apps like Gmail, Docs, Slides, and Calendar, and offers a number of features to help you run smooth and engaging meetings, like noise cancellation, in-call chat, recordings, and more.*\n\nFeatures to look forward to:\n\nMake spontaneous calls or host video meetings with your friends and colleagues, all in one app.\n\n\nEnjoy one-on-one video calls for up to 24 hours and host meetings for up to 60 minutes and 100 people at no cost.\n\n\nFollow along in your preferred language with real-time translated captions in over 70 languages.\n\n\nUse in-call chat to share ideas, ask questions, or provide feedback without interrupting the flow of the conversation.\n\n\nMake your calls more engaging with in-call emojis that allow you to express yourself seamlessly without interrupting the conversation.\n\n\nShare visuals like photos, videos, and presentations during your call to collaborate or simply share memories from your recent vacation.\n\n\nMake your calls with family and friends more fun with stackable effects that allow participants to add multiple backgrounds, filters, and animations, to create a personalized experience.\n\n\nUse on-the-go mode for an audio-only experience with larger call controls, making it easier to take calls with fewer distractions while walking, driving, or using public transportation.\n\n\nAccess on any device: Meet works across mobile, tablet, web, and smart devices,** so everyone can join.\n\nHigh quality video: Show up looking your best with up to 4k video quality video***.\n\nLearn more about Google Meet: https://workspace.google.com/products/meet/\n\nFollow us for more:\n\nTwitter: https://twitter.com/googleworkspace\n\nLinkedin: https://www.linkedin.com/showcase/googleworkspace\n\nFacebook: https://www.facebook.com/googleworkspace/\n\n*Meeting recording, noise cancellation are available as premium features. See https://workspace.google.com/pricing.html for more details\n\n**Not available in every language.\n\n***Bandwidth permitting. Google Meet automatically adjusts to the highest video quality possible based on your bandwidth.\n\nData charges may apply. Check your carrier for details.\n\nSpecific feature availability may vary based on device specifications.",
+      "android_package_name": "com.google.android.apps.tachyon",
+      "ios_bundle_id": "com.google.Tachyon",
+      "title": "Google Meet",
+      "domain_name": [
+        "https://meet.google.com",
+        "https://meet.google.com"
+      ],
+      "website": "https://meet.google.com",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A",
+      "icon_72": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.microsoft.teams"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Whether you’re connecting with your community for an upcoming activity or working with teammates on a project, Microsoft Teams helps bring people together so that they can get things done. It’s the only app that has communities, events, chats, channels, meetings, storage, tasks, and calendars in one place—so you can easily connect and manage access to information. Get your community, family, friends, or workmates together to accomplish tasks, share ideas, and make plans. Join audio and video calls in a secure setting, collaborate in documents, and store files and photos with built-in cloud storage. You can do it all in Microsoft Teams. \n\nEasily connect with anyone: \n• Meet securely with communities, teammates, family, or friends.\n• Set up a meeting within seconds and invite anyone by sharing a link or calendar invite. \n• Chat 1-1 or to your entire community, @mention people in chats to get their attention. \n• Create a dedicated community to discuss specific topics and make plans*.\n• Work closely and collaborate by keeping conversations organized by specific topics and projects with teams and channels.\n• Video or audio call anyone directly in Teams or instantly convert a group chat to a call. \n• Use GIFs, emojis, and message animations to express yourself when words aren’t enough.\n \nAccomplish plans and projects together: \n• Send photos and videos in chats to quickly and easily share important moments.\n• Use cloud storage to access shared documents and files on the go. \n• Organize shared content in a community — events, photos, links, files —so you don’t have to waste time searching*. \n• Get the most out of your meetings by using screen share, whiteboard, or breakout in virtual rooms.\n• Manage access to information and ensure the right people have access to the right info, even when people join and leave projects.\n• Use task lists to stay on top of projects and plans - assign tasks, set due dates, and cross off items to keep everyone on the same page. \n\nDesigned to give you peace of mind: \n• Securely collaborate with others while maintaining control over your data.\n• Keep communities safe by allowing owners to remove inappropriate content or members*.\n• Enterprise-level security and compliance you expect from Microsoft 365**. \n\n*Available when using Microsoft Teams with your Microsoft account.\n\n**Commercial features of this app require a paid Microsoft 365 commercial subscription or a trial subscription of Microsoft Teams for work. If you’re not sure about your company’s subscription or the services you have access to, visit Office.com/Teams to learn more or contact your IT department. \n\nBy downloading Teams, you agree to the license (see aka.ms/eulateamsmobile) and privacy terms (see aka.ms/privacy). For support or feedback, email us at mtiosapp@microsoft.com. EU Contract Summary: aka.ms/EUContractSummary\n\nConsumer Health Data Privacy Policy   \nhttps://go.microsoft.com/fwlink/?linkid=2259814",
+      "android_package_name": "com.microsoft.teams",
+      "ios_bundle_id": "com.microsoft.skype.teams",
+      "title": "Microsoft Teams",
+      "domain_name": [
+        "http://aka.ms/microsoftteams",
+        "https://aka.ms"
+      ],
+      "website": "http://aka.ms/microsoftteams",
+      "developer": "Microsoft Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jKU64njy8urP89V1O63eJxMtvWjDGETPlHVIhDv9WZAYzsSxRWyWZkUlBJZj_HbkHA",
+      "icon_72": "https://play-lh.googleusercontent.com/jKU64njy8urP89V1O63eJxMtvWjDGETPlHVIhDv9WZAYzsSxRWyWZkUlBJZj_HbkHA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.thoughtcrime.securesms"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Signal is a messaging app with privacy at its core. It is free and easy to use, with strong end-to-end encryption that keeps your communication completely private.\n\n• Send texts, voice messages, photos, videos, GIFs, and files for free. Signal uses your phone’s data connection, so you avoid SMS and MMS fees.\n\n• Call your friends with crystal-clear encrypted voice and video calls. Group calls supported for up to 40 people.\n\n• Stay connected with group chats up to 1,000 people. Control who can post and manage group members with admin permission settings.\n\n• Share image, text, and video Stories that disappear after 24 hours. Privacy settings keep you in charge of exactly who can see each Story.\n\n• Signal is built for your privacy. We know nothing about you or who you’re talking to. Our open source Signal Protocol means that we can’t read your messages or listen to your calls. Neither can anyone else. No back doors, no data collection, no compromises. \n\n• Signal is independent and not for profit; a different kind of tech from a different kind of organization. As a 501c3 nonprofit we are supported by your donations, not by advertisers or investors. \n\n• For support, questions, or more information please visit https://support.signal.org/\n\nTo check out our source code, visit https://github.com/signalapp \n\nFollow us on Twitter @signalapp and Instagram @signal_app",
+      "android_package_name": "org.thoughtcrime.securesms",
+      "ios_bundle_id": "org.whispersystems.signal",
+      "title": "Signal",
+      "domain_name": [
+        "https://signal.org",
+        "https://signal.org"
+      ],
+      "website": "https://signal.org",
+      "developer": "Signal Messenger, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FtGKSwVtpmMxKoJrJuI837DkYGRsqlMdiVPAd8bomLQZ3_Hc55XokY_dYdXKgGagiYs",
+      "icon_72": "https://play-lh.googleusercontent.com/FtGKSwVtpmMxKoJrJuI837DkYGRsqlMdiVPAd8bomLQZ3_Hc55XokY_dYdXKgGagiYs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.Slack"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Slack brings team communication and collaboration into one place so you can get more work done, whether you belong to a large enterprise or a small business. Check off your to-do list and move your projects forward by bringing the right people, conversations, tools, and information you need together. Slack is available on any device, so you can find and access your team and your work, whether you’re at your desk or on the go. \n\nUse Slack to: \n• Communicate with your team and organize your conversations by topics, projects, or anything else that matters to your work\n• Message or call any person or group within your team\n• Share and edit documents and collaborate with the right people all in Slack \n• Integrate into your workflow, the tools and services you already use including Google Drive, Salesforce, Dropbox, Asana, Twitter, Zendesk, and more \n• Easily search a central knowledge base that automatically indexes and archives your team’s past conversations and files\n• Customize your notifications so you stay focused on what matters\n\nScientifically proven (or at least rumored) to make your working life simpler, more pleasant, and more productive. We hope you’ll give Slack a try.\n\nHaving trouble? Please reach out to feedback@slack.com",
+      "android_package_name": "com.Slack",
+      "ios_bundle_id": "com.tinyspeck.chatlyio",
+      "title": "Slack",
+      "domain_name": [
+        "https://slack.com/is",
+        "https://slack.com"
+      ],
+      "website": "https://slack.com/is",
+      "developer": "SLACK TECHNOLOGIES L.L.C.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mzJpTCsTW_FuR6YqOPaLHrSEVCSJuXzCljdxnCKhVZMcu6EESZBQTCHxMh8slVtnKqo",
+      "icon_72": "https://play-lh.googleusercontent.com/mzJpTCsTW_FuR6YqOPaLHrSEVCSJuXzCljdxnCKhVZMcu6EESZBQTCHxMh8slVtnKqo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.tachyon"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Google Meet is a high-quality video calling app designed to help you have meaningful and fun interactions with your friends, family, colleagues, and classmates, wherever they are.\n\nMeet lets you connect in whatever way works for you: Call someone spontaneously, schedule time together, or send a video message that they can watch and respond to later.\n\nMeet also helps you get things done. It integrates with other Google Workspace apps like Gmail, Docs, Slides, and Calendar, and offers a number of features to help you run smooth and engaging meetings, like noise cancellation, in-call chat, recordings, and more.*\n\nFeatures to look forward to:\n\nMake spontaneous calls or host video meetings with your friends and colleagues, all in one app.\n\n\nEnjoy one-on-one video calls for up to 24 hours and host meetings for up to 60 minutes and 100 people at no cost.\n\n\nFollow along in your preferred language with real-time translated captions in over 70 languages.\n\n\nUse in-call chat to share ideas, ask questions, or provide feedback without interrupting the flow of the conversation.\n\n\nMake your calls more engaging with in-call emojis that allow you to express yourself seamlessly without interrupting the conversation.\n\n\nShare visuals like photos, videos, and presentations during your call to collaborate or simply share memories from your recent vacation.\n\n\nMake your calls with family and friends more fun with stackable effects that allow participants to add multiple backgrounds, filters, and animations, to create a personalized experience.\n\n\nUse on-the-go mode for an audio-only experience with larger call controls, making it easier to take calls with fewer distractions while walking, driving, or using public transportation.\n\n\nAccess on any device: Meet works across mobile, tablet, web, and smart devices,** so everyone can join.\n\nHigh quality video: Show up looking your best with up to 4k video quality video***.\n\nLearn more about Google Meet: https://workspace.google.com/products/meet/\n\nFollow us for more:\n\nTwitter: https://twitter.com/googleworkspace\n\nLinkedin: https://www.linkedin.com/showcase/googleworkspace\n\nFacebook: https://www.facebook.com/googleworkspace/\n\n*Meeting recording, noise cancellation are available as premium features. See https://workspace.google.com/pricing.html for more details\n\n**Not available in every language.\n\n***Bandwidth permitting. Google Meet automatically adjusts to the highest video quality possible based on your bandwidth.\n\nData charges may apply. Check your carrier for details.\n\nSpecific feature availability may vary based on device specifications.",
+      "android_package_name": "com.google.android.apps.tachyon",
+      "ios_bundle_id": "com.google.Tachyon",
+      "title": "Google Duo",
+      "domain_name": [
+        "https://meet.google.com",
+        "https://meet.google.com"
+      ],
+      "website": "https://meet.google.com",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A",
+      "icon_72": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "live.bunch.group.video.chat.party.games"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Bunch is your place to talk, share and play together!\nStay connected with your best friends, and have endless fun even when you’re miles apart!\n\nHOST A HOUSE PARTY - ANYTIME, ANYWHERE!\n\n• Group video chat with up to 8 friends in your house\n• See who is online, and join them instantly\n• Friends of friends? They can join too!\n\nTALK AND PLAY GAMES WITH FRIENDS\n\n• Play instant games: throw hoops, play pool, draw together and more\n• Video chat while playing any game or using any app with friends\n• Explore new worlds from fishing island to Bunch Town\n\nWATCH VIDEOS & SING KARAOKE TOGETHER\n\n• Watch YouTube and vibe to music videos together\n• Sing Karaoke with friends and unleash your inner star!\n\nEXPRESS YOURSELF!\n\n• Create your avatar and show off your unique style\n• Design your dream home, invite your friends over\n\nWith Bunch, your best friends are always just one tap away!",
+      "android_package_name": "live.bunch.group.video.chat.party.games",
+      "ios_bundle_id": "com.z1.rumble",
+      "title": "Houseparty",
+      "domain_name": [
+        "http://www.bunch.live",
+        "https://www.bunch.live"
+      ],
+      "website": "http://www.bunch.live",
+      "developer": "Bunch Live, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/RknUchEM4_UM49VYH5kOaA_Rz8LSv_i6K7Y6LBHuNG3nox2oC4_RpiLe1mLG3UJ3cRzk",
+      "icon_72": "https://play-lh.googleusercontent.com/RknUchEM4_UM49VYH5kOaA_Rz8LSv_i6K7Y6LBHuNG3nox2oC4_RpiLe1mLG3UJ3cRzk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.groupme.android"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "GroupMe - the free, simple way to stay in touch with the people who matter most.\n\nFamily. Roommates. Friends. Coworkers. Teams. Vacations. Greek Life. Bands. Faith Groups. Events. \n\n“Lifechanger.... utterly indispensable”\n-Gizmodo\n\nSTART CHATTING \nAdd anyone to a group via their phone number or email address. If they don’t have the app, they can start chatting over SMS immediately.\n\nCONTROL NOTIFICATIONS \nYou’re in charge! Mute specific chats, or the entire app – you can even leave or end group chats.\n\nSAY MORE THAN WORDS\nWith an extensive set of exclusive emoji, you can express yourself in a whole new way.\n\nTHE WHOLE INTERNET IN YOUR GROUP \nMeme images, search for and send GIFs and videos, and see content shared from URLs displayed in the chat.\n\nSHARE NOW, RELIVE LATER\nThe gallery saves your memories. Easily explore the photos and videos shared in your group now, or later.\n\nLEAVE TEXTING BEHIND\nWith direct messages, you can use all the features you love for group chat, but one-on-one. \n\nCHAT WHEREVER YOU ARE \nIncluding from your computer at groupme.com\n\nStay in touch whether you’re separated by a hallway or a hemisphere.  Get your group together. \n\nWe want to hear your feedback!  \nSupport: https://aka.ms/groupmesupport\nTwitter: @GroupMeSupport\nFacebook: facebook.com/groupme\nInstagram: @GroupMe\n\nLove,\nTeam GroupMe\n\nNOTE: SMS chat currently available in US only. Standard text messaging rates may apply.\n\nPrivacy Policy: https://groupme.com/privacy\n\nMade with love in Seattle",
+      "android_package_name": "com.groupme.android",
+      "ios_bundle_id": "com.groupme.iphone-app",
+      "title": "GroupMe",
+      "domain_name": [
+        "https://groupme.com",
+        "https://groupme.com"
+      ],
+      "website": "https://groupme.com",
+      "developer": "Skype Communications S.a.r.l",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3v5rY1LyfDpINaf1MIQXOE1cwt37Xnwf1h82UQsqsW8RyF6qaJmgOHxjQ3BGU3MS7A",
+      "icon_72": "https://play-lh.googleusercontent.com/3v5rY1LyfDpINaf1MIQXOE1cwt37Xnwf1h82UQsqsW8RyF6qaJmgOHxjQ3BGU3MS7A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.rebelvox.voxer"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Voxer combines the best of voice, text, photo, and video with walkie talkie messaging (Push-to-talk PTT) in one free, secure messaging app. Featured by Apple in 50+ countries, loved by tens of millions of people, and now available on the Apple Watch. \n\nBetter than phone calls, faster than texting. Just push a button, talk and instantly communicate in real-time, live. You can also  listen to saved messages later at your convenience, share text, photos, video, and your location. \n\nVoxer works with other popular smartphones and over any 3G, 4G, or WiFi network in the world.\n\nJoin many who are using Voxer with family, friends, and teams at work to:\n* Instantly communicate through live Walkie Talkie - PTT (Push-To-Talk)\n* Send voice, text, photos, videos, and location messages\n* Play voice messages anytime - they're all recorded\n* Create messages even when offline\n* Send end-to-end encrypted messages (Private chats) using the Signal Protocol\n\nUpgrade to Voxer Pro and get access to the following features:\n- Walkie talkie mode, (instantly receive voice messages even when you’re not in the app)\n- Voice-to-Text transcription,\n- Admin Control\n- Increased storage\n- Hands-free\n- Extreme notifications\n- Dropbox integration and more. \n\nVoxer Pro is built for remote, mobile teams that aren't sitting at a desk and need to communicate quickly. On-demand, delivery, logistics, hotels and hospitality, field service, NGO and education teams all use Voxer Pro. \n\nVoxer Pro subscriptions are $3.99/month or $29.99/year and auto-renew.\n - Payment will be charged to iTunes Account at confirmation of purchase\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n - Your account will be charged for renewal within 24-hours prior to the end of the current period (either $3.99/month or $29.99/year)\n- You can manage your subscriptions and auto-renewal may be turned off by going to the your Account Settings after purchase\n- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to Voxer Pro\nPrivacy Policy: https://www.voxer.com/privacy\nTerms of Service: https://www.voxer.com/tos \n\n\nWe want to hear from you!\n* Like us on Facebook @ fb.com/voxer\n* Follow us on Twitter @ twitter.com/voxer\n* Need help? Check out support.voxer.com",
+      "android_package_name": "com.rebelvox.voxer",
+      "ios_bundle_id": "com.rebelvox.voxer-lite",
+      "title": "Voxer",
+      "domain_name": [
+        "http://www.voxer.com",
+        "https://www.voxer.com"
+      ],
+      "website": "http://www.voxer.com",
+      "developer": "Voxer Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/HKeyX-nFSz8qHl05cmDJl4CGRFouqXFkVctxgWhBCbPCPgZbJ8Q88FHbux7E4dAOxGU",
+      "icon_72": "https://play-lh.googleusercontent.com/HKeyX-nFSz8qHl05cmDJl4CGRFouqXFkVctxgWhBCbPCPgZbJ8Q88FHbux7E4dAOxGU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.paltalk.chat.android"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Paltalk provides free group video chat to connect you to pals, peers, and potential friends around the world. Join one of our thousands of chat rooms to text, voice, and video chat live about music, politics, sports, and more — whatever your interests, there’s a world of friends ready to talk. \n\nCam up for karaoke or meet people internationally from the comfort of your computer or mobile device. Want a private conversation? Message or call your pals directly with our one-to-one messaging capabilities.\n \nWith more than 20 years experience in social technology, Paltalk is ready to help you meet and connect. Download the free app and explore today.\n \nFeatures:\n-FREE: text, voice, and video chat are free with download; upgrade to view more cams and join more rooms simultaneously. Plus, no extra fees for international messaging or calling.\n\n-EXCLUSIVE VIRTUAL STORE: send and receive virtual stickers and gifts exclusive to the Paltalk ecosystem, with special appearances from pop culture characters and brands you love; try sending gifts as an icebreaker with a hello message for a new friend. Each gift sent or received earns points toward special status as a Paltalk Crown member.\n\n-DYNAMIC AND ADAPTABLE: works on desktop, laptop, and mobile devices using 3G, 4G, LTE, or WiFi as available. Paltalk will even run in the background of your device if you want to listen to your favorite room or talk to a friend while you read emails. Never miss a great moment (or international call) again.\n\n-PUBLIC OR PRIVATE: for the social butterfly looking to meet people or talk to a group, join one of our thousands of live rooms and hop on cam; if you want something more private, try text messaging or video or voice calling your pals in a one-to-one conversation. Talking is easy— talking how you like is Paltalk’s specialty.\n\n-INTERNATIONAL COMMUNITY, LOCAL FLAVOR: whether you’re looking to learn a new language, rock out to your favorite song, or examine the social issues in your city elections, Paltalk has a room for you. Can’t find a specific topic? Create a group and host your own room.\n\n-UNLIMITED VIDEO: view an unlimited number of high-quality live cams in groups and rooms that interest you. Camera shy? Socialize via voice and text chat to meet new friends who are live.\n\nIf you like our apps, please take a moment to rate us in the App Store. For bug reports or complaints, email ptmobile@paltalk.com. We read and reply to every message.",
+      "android_package_name": "com.paltalk.chat.android",
+      "ios_bundle_id": "com.paltalk.paltalkvideo",
+      "title": "Paltalk",
+      "domain_name": [
+        "http://www.paltalk.com",
+        "https://www.paltalk.com"
+      ],
+      "website": "http://www.paltalk.com",
+      "developer": "AVM Software, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/G__EbWgggxFojII6xvmXf2Fq4_qGGH1jM2plkrO-TxJHyeLPMOzhmAhKgA27rf0Yxul0",
+      "icon_72": "https://play-lh.googleusercontent.com/G__EbWgggxFojII6xvmXf2Fq4_qGGH1jM2plkrO-TxJHyeLPMOzhmAhKgA27rf0Yxul0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wire"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "PayPal is a smart and secure way to shop in-store and online, earn cash back on brands you love, send money to friends and much more. Get started in the app.\n\nSAVE OFFERS IN THE APP\nGet cash back offers* from brands you love. We’ll automatically apply them at checkout.\n*Eligible items only. Redeem points for cash or other options. Terms and exclusions apply: PayPal.com/rewards-terms\n\nSEND AND REQUEST MONEY FOR FREE\nSecurely send and receive money with just about anyone in 120+ countries\nIt’s free to send and receive with friends & family in the US when funded by a bank account or PayPal balance\n\nGET THE PAYPAL DEBIT CARD AND EARN CASH BACK\nRequest your card right in the app. No credit check required.\nShop with your PayPal balance everywhere Mastercard® is accepted.\nEarn 5% cash back on a category you choose each month*\n \n*5% cash back earned as points you redeem for cash & other options on up to $1000 spend/month. Terms apply: http://paypal.com/rewardspal.\nA PayPal balance account is required to get the card.\nThe PayPal Debit Mastercard® is issued by The Bancorp Bank N.A. (“Bancorp”), pursuant to a license by Mastercard International Incorporated and may be used everywhere Mastercard is accepted. Mastercard and the circles design are registered trademarks of Mastercard International Incorporated. Bancorp is issuer of the Card only and not responsible for the associated accounts or other products, services, or offers from PayPal. PayPal is a financial technology company, not a bank. The Card is linked to your PayPal Balance account. See PayPal Balance Terms and Conditions: https://www.paypal.com/us/legalhub/pp-balance-tnc#holding\n\nCRYPTOCURRENCY\nBuy, sell and hold Bitcoin, Ethereum, PayPal USD, Bitcoin Cash and Litecoin with PayPal*\n\n*PayPal, Inc. is licensed to engage in virtual currency business activity by the NY Dept. of Financial Services. To buy, sell, transfer, and hold crypto is subject to risks, may result in significant losses, and not available where prohibited by law. We do not make recommendations about crypto transactions. Consider seeking advice from a financial and tax advisor. Crypto custody, trades and transfer services are performed for us by Paxos Trust Co. LLC or other appropriately authorized provider. See terms: paypal.com/crypto_terms\n\nGROW YOUR MONEY WITH HIGH-YIELD PAYPAL SAVINGS\nRoll your money into PayPal Savings and earn a competitive APY*\nEasily manage your account right from the app. Transfer money in and out, set individual goals, and track your progress as your savings grows.\n\n*PayPal Savings annual percentage yield (APY) is a variable rate and can change at any time, including after the account is opened. PayPal is a financial technology company, not a bank. Banking service provided by Synchrony Bank, Member FDIC. PayPal Balance account is required to use PayPal Savings. \n\nTRACK YOUR PACKAGES\nView your orders and their delivery status right from the PayPal app–even if you didn’t pay with PayPal. Simply link your Gmail or Outlook to get started.\nGet live updates each step of the way until they arrive safely at your door.\nNot all sellers are participants.\n\nPAY IN 4 WITH NO LATE FEES\nSplit everyday purchases into 4 interest-free payments at millions of online stores.\nNo late fees. No impact to your credit score.\nManage payments right in the app.\n\n*Pay in 4 is available upon approval for purchases of $30 - $1500 and is currently not available to residents of MO or NV. 18 years old or older to apply. PayPal, Inc.: Loans to CA residents are made or arranged pursuant to a CA Financing Law License. GA Installment Lender Licensee, NMLS #910457. RI Small Loan Lender Licensee. NM residents: Go to paypal.com/us/webapps/mpp/campaigns/newmexicodisclosure. Learn more at paypal.com/payin4\n\nAvailability of features varies by market.\u000b\u000b\n\nPayPal\n2211 N 1st St San Jose, CA 95131",
+      "android_package_name": "com.wire",
+      "ios_bundle_id": "com.yourcompany.PPClient",
+      "title": "Wire",
+      "domain_name": [
+        "https://www.paypal.com",
+        "https://www.paypal.com"
+      ],
+      "website": "https://www.paypal.com",
+      "developer": "PayPal, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/626BhIA8sAh3fc5TupUvOSrbAMirQpJmaSKJXdrxEyqr87jj1SBRdaW3N08Du-uM6A",
+      "icon_72": "https://play-lh.googleusercontent.com/626BhIA8sAh3fc5TupUvOSrbAMirQpJmaSKJXdrxEyqr87jj1SBRdaW3N08Du-uM6A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.jiochat.jiochatapp"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Dual Chat is a FREE Video Chat and Messaging App + WiFi Phone App. Live face to face video chat with friends and family for free, even if they are in another country. Get multiple phone numbers for unlimited calling and texting, to any mobile or landline. It's cool and easy, private and secure, reliable and fun.\n\n• Free Video Calls across Any Device\nWork across mobile, tablet or any smart device. Just send an invite link to your friend, then start your free face time video chat. Samsung, LG, Huawei, Xiaomi, Vivo, Oppo, TCL, Micromax, Realme, Motorola, all supported.\n\n• Private Second Phone Numbers\nTired of giving out your real phone number? Tired of carrying multiple phones with multiple SIM cards? Tired of expensive GSM contracts and bills? Download SIMless Dual Chat, say goodbye to old fashion. One App, Multiple Real US/CA/UK phone numbers for your choice.\n\n• Cheap or Free International Calls & Texts\nBeyond free online video chats, wifi phone call & text to any mobile/landline phone numbers in over 200 countries and regions are provided at super low rates. Earn your daily free credits, then enjoy free wifi phone calls, free sms/mms, free txt now. \n\n• Fun Messaging\nFun communication should be without limits! Express yourself with customized emoticons, stickers, GIFs, doodles on duo face, play games together while duo video chat, send pictures, voices, videos or locations messages. Camera shy? Make voice calls to anyone, any number in the world. \n\n• Private and Secure\nAll calls are end-to-end encrypted. And messages are encrypted in-line with international security standards (TLS). Third parties can never access your messages. And Dual Chat does not store your messages. They will be deleted as soon as they are received by the recipient. Delete your account, without leaving a trace. Enjoy your safe and secure dual chat chat.\n\n• Low Data Usage\nSave 40-90% of the vowifi and voip network traffic in real-time calls. Especially on cellular networks, saving your data money a lot.\n\n• Is Dual Chat Really FREE ?\nYes. Free to make video calls and messages. FREE to get credits everyday. Check-in, watch videos to earn free credits, play games to win free credits, complete various reward tasks to get free credits like making calls or sending texts. All paid premium services could be redeemed by free credits. It's totally free as you use it more.\n\n• Amazing Premium Features\nUpgrade to Dual Chat Premium, enjoy all exclusive features including private numbers, ad-free, call recording, monthly free credits bonus, 2x free daily credits tasks, better price of out call/text, special ringtones and themes, etc.\n\nDownload the app and enjoy your dual chat life right now!\n\nMuch More Goodies:\n- Add 2nd, 3rd line to your phone/tablet, turn your devices into real dual mobile phone. Alter the number at any time. Switch a number, switch a life! Dating, deliveries, business, posting online, sales people, business partners, shopping online, selling items on Craigslist, Etsy, Ebay, never embarrassed. Level your living a next plus!\n- Note: If Push notification is not enabled, you may not receive messages and calls. 911 is not supported. If any area rates are too high, contact us. We will work on it. And you might win a support reward!\n\n\nSubscriptions are for premium, which can be purchased in-app and be renewed weekly, monthly or yearly on your choice. Payment will be charged to your iTunes account. Subscription automatically renews within 24-hours prior to the end of the current period, unless auto-renew is turned off at least 24 hours before that. You may manage your subscriptions and turn off auto-renewal by going to your iTunes Account Settings. No cancellation of the current subscription is allowed during active subscription. See More in Terms and Privacy Policy https://www.phoneduo.app/terms.html, https://www.phoneduo.app/privacy.html.\n\nWe are excited to hear your feedback on the app! \nContact Us: support@phoneduo.app",
+      "android_package_name": "com.jiochat.jiochatapp",
+      "ios_bundle_id": "com.juphoon.phoneduo",
+      "title": "JioChat",
+      "domain_name": [
+        "https://www.phoneduo.app",
+        "https://www.phoneduo.app"
+      ],
+      "website": "https://www.phoneduo.app",
+      "developer": "Ningbo Juphoon System Software Co., Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/znsIwt_InAxfoIhNQ4GZxfZsf3f-1FUK5pr1V4CoDNxIuGf_2FJ1HAVsbyy9wVuyxPI",
+      "icon_72": "https://play-lh.googleusercontent.com/znsIwt_InAxfoIhNQ4GZxfZsf3f-1FUK5pr1V4CoDNxIuGf_2FJ1HAVsbyy9wVuyxPI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.whatsapp.w4b"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "About this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business. \n\nYou get  free calls* and free international messaging* plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away messages so you never miss an opportunity. Use labels to quickly organize, filter, and find important conversations. Create a status to share an offer or news, and even take orders and payments** in-app to create a great customer experience. \n\n\n• Build relationships and trust. With a professional business profile on a secure platform,  you build credibility and trust with customers. Use the app to provide more responsive customer support and build long-term loyalty. Subscribe to Meta Verified*** to reinforce your authenticity.\n\n\n• Sell more and grow. Get discovered, advertise, and make more valuable customer connections. Boost sales by sending targeted offers to customers; create ads that click to WhatsApp; showcase your product catalog; and give customers the convenience of in-app orders and payments.**\n\nFAQs\nAre all features free?\nThe app is free to download and use, with a mix of free and paid features.\n\nCan I still use my personal WhatsApp?\nYes! As long as you have two different phone numbers, your business and personal accounts can live together on a single device.  \n\nCan I transfer over my chat history?\nYes. When you set up the WhatsApp Business app, you can restore a backup from your WhatsApp account to transfer your messages, media, and contacts to your business account.\n\nHow many devices can I connect?\nYou can have a total of five web-based devices or mobile phones on your account (up to 10 if you subscribe to Meta Verified***). \n\n*Data charges may apply. Contact your provider for details.\n**Not available in all markets\n***Available soon globally\n\nTerms of Service: https://www.whatsapp.com/legal/terms-of-service\n \n Learn more about messaging privately: https://www.whatsapp.com/privacy\n \n Learn more about WhatsApp safety: https://www.whatsapp.com/security",
+      "android_package_name": "com.whatsapp.w4b",
+      "ios_bundle_id": "net.whatsapp.WhatsAppSMB",
+      "title": "WhatsApp Business",
+      "domain_name": [
+        "https://www.whatsapp.com/business",
+        "https://www.whatsapp.com"
+      ],
+      "website": "https://www.whatsapp.com/business",
+      "developer": "WhatsApp Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ebs6ftYUkOKlDY0M174OpvargwbDyHUVAnO_G5aE0dL5GBQKCtfh3adN5H3ZMThXogDi",
+      "icon_72": "https://play-lh.googleusercontent.com/ebs6ftYUkOKlDY0M174OpvargwbDyHUVAnO_G5aE0dL5GBQKCtfh3adN5H3ZMThXogDi=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.zoho.meeting"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Stay connected on the go! Host or join a secure online meeting with up to 250 participants and collaborate with audio, video and screen sharing. Attend live webinars, participate in polls, interact with organizers using Q&A, and \"raise hand\" and talk during the webinar on organizer's approval.\n\nHost unlimited meetings\n- Schedule online meetings and send email invitation to the participants. When quick decisions and ad hoc collaboration are needed, conduct instant meetings from anywhere, in a matter of seconds.\n- Easily join a meeting using the invitation link, or the meeting ID. Participants do not require an account to join meetings.\n\nSeamless collaboration\n- Collaborate with your team in real-time using video, audio, and screen sharing with our fully featured video conferencing software.\n- Use your front or back camera for video meetings and build consensus through face-to-face collaboration, leaving no space for confusion or ambiguity.\n- View the shared screen or application and collaborate contextually with other meeting participants. Share your mobile screen during meeting.\n\nSecure online meetings\n- Keep your meetings secure using password protection and prevent unwanted visitors or interruptions.\n- Hold organized conversations. Mute individuals or all participants to reduce noise and foster more productive discussion.\n- Maintain your privacy by removing anyone who may have joined inadvertently. You can also remove participants when they're no longer part of the discussion.\n\nShare files and record meeting\nKeep your chat conversations contextual during meeting. Send messages and emojis, share images and files with everyone and reply or react to a message.\n\nScreen, audio and video shared by you can be recorded by the meeting host joined from the computer or on the mobile device. The recorded video can be played online and shared with anyone.\n\n\nWebinar Features:\n\nAttend webinars on the go, view the shared screen/application.\nInteract with the organizer/co-organizer using audio, video, Q&A, polls and \"raise hand\" options.\nCo-organizers can join the webinars even when on the move and engage the attendees through audio/video. \nInteract with the organizers by asking verbal questions if the organizer/co-organizer allows you to talk during the webinar.\n\n\nTestimonials:\n\n\"Very useful meeting tools, as we use for Zoho for our CRM and accounts, it was an easy choice to use Zoho Meeting as well. Very good for remote demo’s.\"\nTolik Rozensteins\nBusiness Development Manager, Security & Vetting Solutions Ltd\n\n“We now have several weekly team meetings that allow everyone to be in sync with each other. And for our customers we have created a series of live webinars and group meetings where they can speak directly with our team and learn about raising solitary bees.”\nKarl Alexander\nMarketing Director, Crown Bees\n\n\nYour invaluable feedback is instrumental in enhancing the user experience. Please share your questions/feedback at meeting@zohomobile.com.",
+      "android_package_name": "com.zoho.meeting",
+      "ios_bundle_id": "com.zoho.meeting",
+      "title": "Zoho Meeting",
+      "domain_name": [
+        "http://zoho.com/meeting",
+        "https://zoho.com"
+      ],
+      "website": "http://zoho.com/meeting",
+      "developer": "Zoho Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ugEiB2IKOedG8gEE5HtJboLAUNcy3Vgc4T0TJJec4-0RT_jGuBdlGkArgFG_Vj-hNo4",
+      "icon_72": "https://play-lh.googleusercontent.com/ugEiB2IKOedG8gEE5HtJboLAUNcy3Vgc4T0TJJec4-0RT_jGuBdlGkArgFG_Vj-hNo4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.pm.fuze"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Power every business conversation with Fuze Mobile on the go. Stay connected to coworkers, customers and partners anywhere, anytime on any device. Seamlessly communicate with one app using voice calling, video meetings, contact center, chat messaging and content sharing.\n\nFeatures include:\n• Calling over Wi-Fi, data or carrier with video and screen share\n• 4-digit extension dialing\n• Ad hoc conference calling\n• Multiple calls simultaneously\n• Visual voicemail with convenient notifications\n• Sending/receiving SMS and MMS text messages\n• Video conferencing with colleagues and external guests\n• Contact center agent queues and calls\n• Chat messaging with colleagues and invited guests\n• Quiet mode to disconnect outside work hours\n• iPad version for mobile only frontline workers\n• Available in multiple languages\n\nFuze is a global cloud communications platform for the enterprise. You require a subscription to activate the mobile app. You may be invited as a guest to collaborate on Fuze for free.\n\nFollow us on:\nTwitter | @fuze | https://twitter.com/fuze\nIG | @fuze_hq | https://www.instagram.com/fuze_hq/\nFacebook | @fuze | https://www.facebook.com/fuze/",
+      "android_package_name": "com.pm.fuze",
+      "ios_bundle_id": "com.fuze.fuzeapp",
+      "title": "Fuze",
+      "domain_name": [
+        "http://www.fuze.com",
+        "https://www.fuze.com"
+      ],
+      "website": "http://www.fuze.com",
+      "developer": "Fuze, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jxq3tinBQk6eKn8g36CKsYhs5uiGmRn-2adOvVS57SNzkOnpId3pXXSXTSkHQCIJyw",
+      "icon_72": "https://play-lh.googleusercontent.com/jxq3tinBQk6eKn8g36CKsYhs5uiGmRn-2adOvVS57SNzkOnpId3pXXSXTSkHQCIJyw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.gogii.textplus"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Make free calls with a real U.S.phone number on the original free calling and texting app. Pinger comes preloaded with free calling minutes that can be used to call anyone in the U.S., Canada, or Mexico. After that, minutes are free to earn or cheap to purchase. SMS messages are also free. On top of free calling and SMS, additional features include voicemail, group chat, MMS picture & video messaging, emoji, ringtones, and more.\n\nWHAT PEOPLE ARE SAYING\n“It’s like having a real phone number from the carrier. Except FREE.” –Nick\n\n“I started using this app back in 2007 on my iPod touch 3rd generation... Works every time, voice calls are clear, and no one knows it’s an app and not an actual phone. Highly recommended.” –Scott\n\n“I have used this app as my main phone number for years. It is just as reliable as an actual phone number.” –Kay\n\n“I’ve tried several, but hands down, Pinger is by far the best. Why? Simple: It works. Period.” –Tuc\n\n“I would rate this like 100,000,000 stars but can’t :/ only 5.” –Molly\n\n“Great to have a backup number especially when you travel abroad.” –Milo\n \n——\n© 2020 Pinger, Inc. All rights reserved. The Pinger name, associated trademarks, and logos are trademarks of Pinger, Inc. or related entities.\nTerms of Service: https://www.pinger.com/privacy-policy/terms-and-conditions/ \nPrivacy Policy: https://www.pinger.com/privacy-policy/\n \nSubscriptions are automatically billed monthly or annually to your iTunes Account and auto-renew unless you turn off auto-renew at least 24-hours before the end of the current period. Payments are charged to your iTunes account upon confirmation of purchase. You can turn off auto-renew or manage subscriptions in your iTunes & App Store account settings. Cancellations take effect at the end of the active subscription period. Any unused portion of a free trial period (where available) is forfeited when purchasing a subscription.",
+      "android_package_name": "com.gogii.textplus",
+      "ios_bundle_id": "com.pinger.pingerphone2",
+      "title": "Pinger",
+      "domain_name": [
+        "http://www.pinger.com",
+        "https://www.pinger.com"
+      ],
+      "website": "http://www.pinger.com",
+      "developer": "Pinger, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/TsoAC0y8wLyWiX19Jh3Q-Fs2EJDHCAxFhGwEsIxjel5AQs73j7g4OdRa6EYx8F2O",
+      "icon_72": "https://play-lh.googleusercontent.com/TsoAC0y8wLyWiX19Jh3Q-Fs2EJDHCAxFhGwEsIxjel5AQs73j7g4OdRa6EYx8F2O=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "jp.ecstudio.chatworkandroid"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Let Chatwork streamline your business.\nChatwork is a free business chat tool that streamlines email, phone calls, meetings, visits, and other internal communication.\nChatwork can be used for telework, remote work, and task management as well.\nIt has been adopted in a number of industries and companies, including KDDI Corporation, GREE, Inc., and Kyoto University.\n\n▼ Main features\nChat\nCommunicate within the company more quickly than by email and improve productivity.\n\nTask management\nTasks can be managed separately from chat communications, preventing oversights and omissions.\n\nVideo calling/voice calling\nVideo calling and voice calling accommodate multiple users, making telework and remote work more trouble-free.\n\nFile sharing\nPhoto and video files taken on mobile devices can be easily shared.\n\nPush notifications\nPush notifications let the content of messages be viewed so important messages are seen quickly.\n\nSecurity\nA chat tool that has obtained certification under the international ISMS standard, Chatwork can be used with confidence even for important work.",
+      "android_package_name": "jp.ecstudio.chatworkandroid",
+      "ios_bundle_id": "com.chatwork",
+      "title": "Chatwork",
+      "domain_name": [
+        "https://go.chatwork.com",
+        "https://go.chatwork.com"
+      ],
+      "website": "https://go.chatwork.com",
+      "developer": "kubell Co., Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/yi-Qum1IASMHGLzw-0rka_D0nhg8CAlq0fcJ56BOH8lGlGKtKbXglJXrkcpKre2PlA8",
+      "icon_72": "https://play-lh.googleusercontent.com/yi-Qum1IASMHGLzw-0rka_D0nhg8CAlq0fcJ56BOH8lGlGKtKbXglJXrkcpKre2PlA8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mattermost.rn"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Requires Mattermost Server v9.11.0+. Older servers may not be able to connect or have unexpected behavior.\n\n-------\n\nMattermost is an open source platform for secure collaboration across the entire software development lifecycle.\n\n- Keep all of your team communications in one place.\n- Orchestrate work across your tools and teams.\n- Plan projects and hit milestones.\n- Unite your entire technology stack through a single point of collaboration.\n- Meet the strictest security, privacy, and compliance requirements.\n\nTo use this app, you need a URL for a Mattermost server.\n\n-------\n\nDeploy your own server: https://docs.mattermost.com/guides/deployment.html\n\nTerms of Service: https://mattermost.com/terms-of-service/\n\nContribute to the project: https://github.com/mattermost/mattermost-mobile",
+      "android_package_name": "com.mattermost.rn",
+      "ios_bundle_id": "com.mattermost.rn",
+      "title": "Mattermost",
+      "domain_name": [
+        "https://about.mattermost.com",
+        "https://about.mattermost.com"
+      ],
+      "website": "https://about.mattermost.com",
+      "developer": "Mattermost, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5_9v9OfYQRSbWbC_PYCpU3A7rqlh4I4A7ZSk8eTP4xH3eduQEJIDv347dzKExTYOng",
+      "icon_72": "https://play-lh.googleusercontent.com/5_9v9OfYQRSbWbC_PYCpU3A7rqlh4I4A7ZSk8eTP4xH3eduQEJIDv347dzKExTYOng=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.truecaller"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "With Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 425 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\n\n#1 CALLER ID & SPAM BLOCKING APP WORLDWIDE\n\n• An all new Caller ID experience on iPhone with iOS 18.2 and above\n• Automatically identify spam, fraud, and robocalls before you pick up\n• View & search previously identified calls in the Phone app\n• Take advantage of the best spam call blocker for iPhone\n• Enable spam identification and blocking by accessing Settings > Apps > Phone > Call Blocking & Identification\n• A paid subscription is required to access this feature\n\nTRUECALLER ASSISTANT: AI-POWERED CALL SCREENING*\n\n• It uses machine learning and speech-to-text technology to ask questions to the caller, helping you find out who they are and the reason for the call\n• Save time and enhance spam detection with the AI-powered Assistant that answers your calls\n• Block the bad guys but take the calls that matter when opportunity rings\n• Assistant performs live call screening, providing real-time information about the caller (personal, spam, robocall, etc), enabling you to make informed decisions\n• Available in US, CA, AU, CL, ZA, SE and IL\n• Supported on all major carriers\n• A paid subscription is required to access this feature\n\nIDENTIFY THE NAME OF ANY CALLER\n\n• Enter any number to look up the name and other contact information. This feature works for both domestic and international numbers\n• Look up phone numbers directly from your iPhone's call history using the action extension (Call Log > Share Contact > Search Truecaller)\n\nTRUECALLER PREMIUM: UPGRADE AND LEVEL UP YOUR APP EXPERIENCE\n\n• Remove all ads\n• Unlimited number lookups\n• Know who viewed your profile\n• Family Plan - share your Premium account with up to 4 members\n• Get the Premium badge on your profile\n• Truecaller Assistant (US, CA, AU, CL, ZA, SE and IL)\n• Auto-renewing subscription with a free trial for new users\n\nTruecaller respects your right to privacy. Your phonebook is never made searchable or public.\n\nOur terms of use: https://www.truecaller.com/terms-of-service\n\nPlease note: Payment for auto-renewing subscription to Truecaller Premium will be charged to your iTunes account upon purchase confirmation. Subscription can be managed and auto-renewal can be turned off by going to the Account Settings on your device. You must cancel at least 24 hours before your subscription ends to avoid renewal. Your account will be charged for renewal within 24 hours before the end of the current period.",
+      "android_package_name": "com.truecaller",
+      "ios_bundle_id": "com.truesoftware.TrueCallerOther",
+      "title": "Truecaller",
+      "domain_name": [
+        "http://www.truecaller.com",
+        "https://www.truecaller.com"
+      ],
+      "website": "http://www.truecaller.com",
+      "developer": "True Software Scandinavia AB",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VtP05VLAW1hdA8fyr5RGktM5LvuyUj4YagaAnfi9c_t3oyVv0iTAaZ1-6oC4za-bBEc",
+      "icon_72": "https://play-lh.googleusercontent.com/VtP05VLAW1hdA8fyr5RGktM5LvuyUj4YagaAnfi9c_t3oyVv0iTAaZ1-6oC4za-bBEc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.yahoo.mobile.client.android.mail"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Meet the mail app designed to simplify your life. The secure, fast, simple Yahoo Mail makes email effortless so you can spend more time enjoying life and less time in your inbox. \n\nDownload now to experience the most efficient features yet.\n\nELIMINATE JUNK\nInstantly declutter your inbox with delete by sender and one-tap unsubscribe shortcuts.\n\nTRACK PACKAGES AND FIND RECEIPTS \nEasily view order status at the top of your inbox and keep track of recent purchases in a single spot.\n\nTAKE ACTION INSTANTLY\nEffortlessly manage tasks—like RSVPing, viewing bills, checking in, managing travel itineraries and accessing verification codes—all from a single tap in your inbox.\n\nGET THE DETAILS FAST\nNever miss a thing with AI-generated summaries that highlight key details and suggest actions, making it quick and easy to move from one email to the next.\n\nWRITE BETTER EMAILS\nSimplify email writing with drafts tailored to your preferred tone—professional, friendly, formal or concise.\n\nSECURE YOUR INBOX\nEnjoy peace of mind with advanced security features like getting warned about suspicious emails.\n\nCONNECT YOUR ACCOUNTS\nAdd your Gmail, Outlook, AOL or Hotmail so you can manage all of your accounts in one app.\n\nSEE IMPORTANT EMAILS TOGETHER\nStay organized with a primary inbox that categorizes your most important messages based on senders, content and topics you choose.\n\nACCESSIBILITY\nDiscover high contrast themes, dynamic text resizing and VoiceOver screen reader compatibility to help users navigate their inboxes effortlessly.\n\nYAHOO MAIL+\nGet ad-free mail, extra organization and privacy features, and 24/7 tech support across your mobile devices.\n\n+ Available as an in-app purchase at $1.99/month charged to your Apple ID account\n+ Subscription will auto-renew each month within 24 hours of your renewal date\n+ Manage or cancel your subscription via Account Settings\n\nTerms of service: https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html \nPrivacy policy: https://legal.yahoo.com/us/en/yahoo/privacy/index.html",
+      "android_package_name": "com.yahoo.mobile.client.android.mail",
+      "ios_bundle_id": "com.yahoo.Aerogram",
+      "title": "Yahoo Mail",
+      "domain_name": [
+        "https://upgrade.mail.yahoo.com",
+        "https://upgrade.mail.yahoo.com"
+      ],
+      "website": "https://upgrade.mail.yahoo.com",
+      "developer": "Yahoo Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/YtGn2T9ADy5Hs4cKVoDgGb7fPuMkdXVcszVE1oiozfE4AxhDNq0RkwajYs1FxcrMDpw",
+      "icon_72": "https://play-lh.googleusercontent.com/YtGn2T9ADy5Hs4cKVoDgGb7fPuMkdXVcszVE1oiozfE4AxhDNq0RkwajYs1FxcrMDpw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.textmeinc.textme"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Call and text for free with TextNow, the free phone service with over 100 million users, now including Free Essential Data.\n \n \n \nStaying connected shouldn’t stress you out. With the TextNow app, you can get nationwide talk, text and data coverage from the nation’s largest 4G LTE & 5G network, without having to worry about bills.\n \n \n \nGet a new phone number free with the US area code of your choice (or use the phone number you already have) and start calling and texting freely to anywhere in the US and Canada.\n \n \n \nFREE TALK & TEXT NATIONWIDE: NO PHONE BILL\n \nStay connected with the TextNow free Wi-Fi calling and texting app, or order a TextNow SIM card to freely call, text, and use some apps without having to connect to Wi-Fi.\n \n \n \nFREE ESSENTIAL DATA\n \nTextNow is the ONLY phone service provider that gives you data completely FREE. With the always-free plan, you can access apps that are essential to keep you connected while on-the-go, including email, maps, and rideshare apps. Check and send emails, get directions, and order an Uber or Lyft from anywhere without paying for a data plan. Simply order a SIM card to get started.\n \n \n \nUNLIMITED DATA PLANS: AFFORDABLE & HIGH-SPEED\n \nWe believe you should only pay for the data you use. That’s why we’re the ONLY provider with super flexible hourly, daily, and monthly plans. Start and stop one of our low-cost options with just a few taps in the app, starting as low as $0.99. No contracts, no commitments, just easily accessible data that you only have to pay for when you want it.\n \n \n \nSECOND PHONE NUMBER: FOR PRIVATE CALLING & TEXTING, A SEPARATE BUSINESS LINE & MORE\n \nUse the TextNow calling and text messaging app as a free second phone line. It’s another extra phone line (business phone or 2nd line) on your device with free calls and free text messages.\n \n \n \nINTERNATIONAL CALLING: 230+ COUNTRIES\n \nAre your friends and family overseas? TextNow offers low-cost international calls to Mexico, Canada and 230+ countries with rates starting at less than $0.01 per minute.\n \n \n \nWHY TEXTNOW?\n \n• Free calling, free texting, and free essential data – always.\n \n• Call and text for free immediately when you download the TextNow app\n \n• Get nationwide coverage with a TextNow SIM card, and talk and text without Wi-Fi\n \n• Get a local phone number or use your existing number. Area codes from most metro areas in the US available.\n \n• Voice call, direct message, SMS message, picture and video messenger to the US or Canada for free.\n \n• Unlimited data plans with hourly, daily, and monthly options give you flexible internet coverage. Only pay when you want it.\n \n• Use across multiple devices including your computer or tablet, and effortlessly access calls and texts whenever you need them.\n \n• International calls with low-cost options to over 230 countries.\n \n• Voicemail to text audio transcription and conference calling.\n \n \n \nHOW IS TEXTNOW FREE?\n \nThere are no yearly or monthly fees to use TextNow. We partner with brands to pay for your phone service (so you don’t have to) with in-app ads. Ads won’t interrupt your experience. If you don't like ads, you can purchase a subscription to remove them.\n \n \n \nMORE FEATURES STANDARD FOR ALL USERS\n \n• Passcode for safe and private texting and calling\n \n• Caller ID\n  \n• Customizable free text tones, call tones, ringtones, vibrations and phone backgrounds\n \n• Quick Reply to speedily respond to friends\n \n• A home screen widget for instant use\n \n• Text from your computer and seamlessly synchronize with your mobile device via textnow.com\n \n \n \nSo, what are you waiting for? Download the app and take control of your phone service, starting today.\n \n \n \nFollow us on social for the latest news and offers:\n \nTikTok - @textnow\n \nFacebook - @textnow\n \nInstagram - @textnow\n \nTwitter - @TextNow\n \n \n \nPrivacy policy: https://www.textnow.com/privacy\n \nTerms of use: https://www.textnow.com/terms",
+      "android_package_name": "com.textmeinc.textme",
+      "ios_bundle_id": "com.tinginteractive.usms",
+      "title": "TextNow",
+      "domain_name": [
+        "http://www.textnow.com",
+        "https://www.textnow.com"
+      ],
+      "website": "http://www.textnow.com",
+      "developer": "TextNow, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/f2Pfhk7Z7CAChknP3_aTvuDKBFouHx-OiWzCMblig-AI9nkfI0EbPmiLREGeLsPAsRA",
+      "icon_72": "https://play-lh.googleusercontent.com/f2Pfhk7Z7CAChknP3_aTvuDKBFouHx-OiWzCMblig-AI9nkfI0EbPmiLREGeLsPAsRA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.glip.mobile"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "AI-Powered Business Communications App for Effortless Productivity\n\nBoost your business efficiency and personal productivity with RingCentral’s AI-powered cloud communications, designed to streamline your connectivity anywhere, anytime.\n\nTHE WORLD’S #1 BUSINESS PHONE SYSTEM, POWERED BY AI.\n-Unlimited US and Canada calling\n-SMS/MMS from your business number\n-Advanced call management with forwarding, auto-attendant, screening, and music\n-AI live transcription\n-AI closed captioning\n-RingSense AI real-time note-taking (in early access preview)\n-RingSense AI personal conversation intelligence (in early access preview)\n-Mobile faxing to send and receive faxes directly from your device\n-Integrations with HubSpot, Zapier, Salesforce, Slack, Google Contacts, and more\n-Record calls automatically or on demand\n-Convert voicemails to text for quicker responses\n-Use auto-replies and text snippets to text faster\n-Set up business hours and phone menus for a professional look\n-Separate address book to sync and separate business contacts from personal contacts\n\nSUPERCHARGE COLLABORATION WITH AI-POWERED VIDEO, WHITEBOARD, AND MESSAGING\n-1:1 and group team messaging and file sharing\n-Easily switch calls to video meetings\n-AI writer and translator for messages (in early access preview)\n-AI-powered video meetings with content sharing, live annotations, and virtual backgrounds\n-Virtual background in meetings\n-Ability to share mobile camera in meetings\n-Interactive whiteboards for effective brainstorming\n-Automatically generated AI-enhanced meeting summaries to capture key points and actions\n\nBOOST MOBILE WORK EFFICIENCY\n-Seamless Device Switching: Effortlessly transfer calls or meetings between devices without missing a beat.\n-Safe Driving Mode: Automatically mutes your microphone to block out noise but lets you easily unmute with an easy-access tap to speak.\n-AI-Powered Background Noise Reduction: Keeps unwanted background noise such as traffic, lawn-mowers, and more so you can have a professional conversation when you’re on-the-go.\n\nNew to RingCentral?\n\nDownload the RingCentral Video Pro mobile app for free. You can create a free account with RingCentral Video Pro, then upgrade to paid plans like RingCentral Video Pro+ and RingEX at any time. \n\nA RingEX™ (formerly known as RingCentral Office® and RingCentral MVP™), or RingCentral Video Pro+™ subscription is required for certain product features. Features will vary by product and plan. A free RingCentral Video Pro subscription is available with limited capabilities.\n\nTransform your team’s communication and productivity, no matter where you are, with RingCentral.",
+      "android_package_name": "com.glip.mobile",
+      "ios_bundle_id": "com.glip.mobile",
+      "title": "RingCentral Video",
+      "domain_name": [
+        "http://www.ringcentral.com/teams/overview.html",
+        "https://www.ringcentral.com"
+      ],
+      "website": "http://www.ringcentral.com/teams/overview.html",
+      "developer": "RingCentral, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/nfbUJ8rg5gi6RkPP6WyZS9041RWBAcWwJbghY6cTBdCSHoMUnNA_3UTjdXZgBMU6Lg",
+      "icon_72": "https://play-lh.googleusercontent.com/nfbUJ8rg5gi6RkPP6WyZS9041RWBAcWwJbghY6cTBdCSHoMUnNA_3UTjdXZgBMU6Lg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.amazon.chime"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Chime is The Most Loved Banking App®. Get Paid When You Say with MyPay™, overdraft fee-free with SpotMe®, and improve your credit with Credit Builder.\n\nChime is a financial technology company, not a bank. Banking services provided by The Bancorp Bank, N.A. or Stride Bank, N.A.; Members FDIC. The Chime® Visa® Debit Card is issued by The Bancorp Bank, N.A. or Stride Bank pursuant to a license from Visa U.S.A. Inc. The secured Chime Credit Builder Visa® Credit Card is issued by The Bancorp Bank, N.A. or Stride Bank pursuant to a license from Visa U.S.A. Inc. May be used everywhere Visa cards are accepted.\n\nSAFE AND SECURE\nStay in control of your money with instant transaction and daily balance alerts. Plus, enable two-factor authentication and block your card in a single tap.\n\nGET PAID WHEN YOU SAY™\nAccess up to $500^ of your pay any day you want with no credit check, no interest~, and no mandatory fees with MyPay. Get it for free within 24 hours, or instantly for only $2 per advance.\n\nOVERDRAFT UP TO $200*\nWhen your balance is running low, the last thing you need is an overdraft fee. Eligible members on Chime can overdraft up to $200* on Chime debit card purchases and in-network ATM withdrawals fee-free.\n\nSAY GOODBYE TO MONTHLY FEES\nYour Money Shouldn’t Cost Money.TM Chime has no monthly fees, minimum balance fees, or foreign transaction fees. Plus, access 50k+ fee-free‡ ATMs at locations like Walgreens, 7-Eleven, CVS, and more.\n\nMEET CREDIT BUILDER, A NEW WAY TO BUILD CREDIT\nUse the  Credit Builder card¹ to increase your FICO® Score by an average of 30 points² with regular on-time payments. No interest**, no annual fees, no credit check to apply.\n\nPAY ANYONE WITH NO TRANSFER FEES\nSend money to friends, family, or roommates as fast as a text – with no transfer fees.\n–––––\n\nMyPay™ line of credit provided by The Bancorp Bank, N.A. or Stride Bank, N.A.\n\n^MyPay is a line of credit. Available limits estimated are based on income and risk-based criteria and range between $20 – $500 per pay period. Chime Checking Account and qualifying direct deposits required to be eligible for MyPay. MyPay is currently only available in certain states. Terms and conditions apply, see www.chime.com/mypay for details.\n\n~Option to get funds instantly for $2 per advance or get funds for free within 24 hours. See Bancorp MyPay Agreement or Stride MyPay Agreement for details to www.chime.com/policies.\n\n+Early access to direct deposit funds depends on the timing of the submission of the payment file from the payer. We generally make these funds available on the day the payment file is received, which may be up to 2 days earlier than the scheduled payment date.\n\n*SpotMe® on Debit eligibility requirements apply. Overdraft with debit card only applies to debit card purchases and cash withdrawals. Limits start at $20 and may be increased up to $200.\n\n‡Out-of-network ATM withdrawal and over the counter advance fees may apply except at MoneyPass ATMs in a 7-Eleven, or any Allpoint or Visa Plus Alliance ATM. \n\n¹Chime Checking Account and $200 qualifying direct deposit required to apply for the secured Chime Credit Builder Visa® Credit Card.\n\n²Avg 30 point FICO® Score 8 increase over time with regular on-time payments. Results may vary, see Chime.com/disclosures for details.\n\n**Out of network ATM withdrawal and OTC advance fees may apply. View the Bancorp agreement or Stride agreement for details; see back of card for issuer\n\nAddress: 101 California Street, Suite 500, San Francisco, CA 94111, United States.\nNo customer support available at HQ. Customer support details available on the website.",
+      "android_package_name": "com.amazon.chime",
+      "ios_bundle_id": "com.1debit.ChimeProdApp",
+      "title": "Chime",
+      "domain_name": [
+        "http://www.chime.com",
+        "https://www.chime.com"
+      ],
+      "website": "http://www.chime.com",
+      "developer": "Chime Financial, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/66d_eWdI2j_6PlnTLWDr4cwD8w8nf_bY1YEvPWRtTSCiWajO24Glv1E24rdLYVYqJrA",
+      "icon_72": "https://play-lh.googleusercontent.com/66d_eWdI2j_6PlnTLWDr4cwD8w8nf_bY1YEvPWRtTSCiWajO24Glv1E24rdLYVYqJrA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.zoho.chat"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Cliq is a team collaboration software designed to bring context to your communications. Optimize your time and resources with this all-in-one business tool that's more than just chat. Enable task automation through handy bots, commands and integrations. Now, you can customize your chat experience for your business.\n\nWe don't claim to be world-changing. No, we are motivated by something far simpler: to change the way you work, one chat at a time. \n\nWith Cliq, you can use:\n\nChannels:Create channels (across your organization, teams, private and external) and chats from your mobile device. \n\nCommands: Use slash commands to perform tasks faster and easier, right from your chat window.\n\nBots: Subscribe to bots and automate your daily tasks.\n\nVoice and video calling: Make audio and video calls seamlessly. \n\nFile Sharing: Share everything you need, including files, location, gifs, and birthdays.\n \n\nStay updated 24/7\n\nUse location-based statuses or share your current location within a chat\n\n\nStay connected, on your time\n\nSend messages even when offline. Your messages will be delivered when you come back online.\n\nQuick access to all your data\n\nView notifications at a glance using widgets for iOS.\n\nSimple task automation\n\nUse Siri to make calls and send custom messages on Cliq.\n\n\nSimplified search solutions\n\nUse the Spotlight search feature to access all your Cliq contacts, chats and channels with ease.",
+      "android_package_name": "com.zoho.chat",
+      "ios_bundle_id": "com.zoho.chat",
+      "title": "Zoho Cliq",
+      "domain_name": [
+        "https://www.zoho.com/chat",
+        "https://www.zoho.com"
+      ],
+      "website": "https://www.zoho.com/chat",
+      "developer": "Zoho Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/LqEBgOywGOcqdRoU5BIBTC_X57i8iLRhS94pBVUsa0MilZN9QKQ4xXSD6rRK8yVpJC4",
+      "icon_72": "https://play-lh.googleusercontent.com/LqEBgOywGOcqdRoU5BIBTC_X57i8iLRhS94pBVUsa0MilZN9QKQ4xXSD6rRK8yVpJC4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ceruleanstudios.trillian.android"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Trillian is both a free instant messenger for individuals and a powerful business and clinical communication platform used by companies and healthcare systems of all sizes.  Here's how we can help you:\n\n• FOR BUSINESSES: Does your business still rely on texting or cumbersome email chains? Let Trillian's modern and secure business instant messaging modernize employee communication without compromising on security or control.\n\n• FOR HEALTHCARE: Your healthcare organization needs secure instant messaging, and Trillian's HIPAA-compliant secure messaging platform has you covered. We help teams of all sizes improve clinical communication without breaking the bank.\n\n• FOR INDIVIDUALS: Stay in touch with family and friends without compromising your privacy.  Your unique Trillian username can be used to send unlimited messages free of charge over your existing data plan and/or WiFi.\n\nWhether you're looking to empower secure employee instant messaging or just to keep in touch with family and friends, Trillian can help.  Thanks for checking us out!",
+      "android_package_name": "com.ceruleanstudios.trillian.android",
+      "ios_bundle_id": "com.ceruleanstudios.trillian.iphone",
+      "title": "Trillian",
+      "domain_name": [
+        "https://www.trillian.im",
+        "https://www.trillian.im"
+      ],
+      "website": "https://www.trillian.im",
+      "developer": "Cerulean Studios, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AVnZiKABkpadMzBa6DMDmJ0NOy59QJJMuBbjNp1YKDkGQCT1f7adtYUmcAHb45fL3w",
+      "icon_72": "https://play-lh.googleusercontent.com/AVnZiKABkpadMzBa6DMDmJ0NOy59QJJMuBbjNp1YKDkGQCT1f7adtYUmcAHb45fL3w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "to.go"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Flock is a powerful business messaging and team collaboration app that brings all your work into one place. \n\nToday, your team’s communication is scattered across emails, ad hoc messages, and multiple tools. With Flock you can quickly bring people together, discuss ideas, share information, assign tasks, and track team progress, so your team can focus on what they do best. Flock effortlessly adapts to your unique needs whether you are a large enterprise, a small business, or a high-growth startup. \n\nWith Flock you can:\n• Communicate with colleagues and entire teams through 1-on-1 chats and group messaging\n• Create different channels for projects, departments, or topics for focused communications\n• Effortlessly search previous conversations and channels\n• Send and share files on-the-go\n• Hold video and audio calls with screen sharing capabilities\n• Use built-in productivity tools such as to-do’s, reminders, and polls\n• Integrate with all your favorite tools and services, including Google \nDrive, Trello, Jira, GitHub, Hubspot, etc.\n• Rest easy because your conversations are private, safe and secure (We are SOC2 and GDPR compliant)\n\nFlock is free to use for as long as you want. You can upgrade to our paid plans for enhanced features and increased user control.",
+      "android_package_name": "to.go",
+      "ios_bundle_id": "to.talk.goto",
+      "title": "Flock",
+      "domain_name": [
+        "http://flock.com",
+        "https://flock.com"
+      ],
+      "website": "http://flock.com",
+      "developer": "Flock FZ-LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Xil0tv493gtQb0YZ_0O1TGfxiphxV9hcMiYwBVRnD_wjZcpkQKszqVn5ZWW9Ehvdqfw",
+      "icon_72": "https://play-lh.googleusercontent.com/Xil0tv493gtQb0YZ_0O1TGfxiphxV9hcMiYwBVRnD_wjZcpkQKszqVn5ZWW9Ehvdqfw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.jitsi.meet"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Jitsi Meet lets you stay in touch with all your teams, be they family, friends, or colleagues. Instant video conferences, efficiently adapting to your scale.\n\n* Unlimited users: There are no artificial restrictions on the number of users or conference participants. Server power and bandwidth are the only limiting factors.\n* No account needed.\n* Lock-protected rooms: Control the access to your conferences with a password.\n* Encrypted by default.\n* High quality: Audio and video are delivered with the clarity and richness of Opus and VP8.\n* Web browser ready: No downloads are required of your friends to join the conversation. Jitsi Meet works directly within their browsers as well. Simply share your conference URL with others to get started.\n* 100% open source: Powered by awesome communities from all over the world. And your friends at 8x8.\n* Invite by pretty URLs: You can meet at the easy to remember https://MySite.com/OurConf of your choice instead of joining the hard to remember rooms with seemingly random sequences of numbers and letters in their names.",
+      "android_package_name": "org.jitsi.meet",
+      "ios_bundle_id": "com.atlassian.JitsiMeet.ios",
+      "title": "Jitsi Meet",
+      "domain_name": [],
+      "website": "",
+      "developer": "8x8, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1ckxjos_oOGSNOFyUE-cp7xSCoKLVgMOEAGVCgb6WDhObTlDDnyLohgtI8o1TI2c7A",
+      "icon_72": "https://play-lh.googleusercontent.com/1ckxjos_oOGSNOFyUE-cp7xSCoKLVgMOEAGVCgb6WDhObTlDDnyLohgtI8o1TI2c7A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "us.zoom.videomeetings"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "◆◆◆ PLAY THE HOTTEST SONGS. NO EXPERIENCE NECESSARY. ◆◆◆\nPlay timeless Piano classics and popular radio hits for free. No prior experience necessary!\n\nYokee’s Piano app is so easy to use, you’ll be playing like a pro within seconds.\nEnjoy a rich songbook of songs across a wide variety of music genres like classical, popular hits, traditional and kids’ songs. With new free songs added daily you can learn new tunes, perfect your favorites, share them with the world and even challenge your friends to see who is the better pianist.\n \nKey Features\n- PLAY: Choose from a huge catalogue of songs and musicals across a variety of genres and themes.\n\n- ACHIEVE: Once you’ve selected a song you can play it at the difficulty level of your choice (beginner, intermediate, advanced), practice the chords and create beautiful music. The better you play the song, the better your score.\n\n- CHALLENGE: Once you achieve your best score, let the games begin by challenging your friends to play the same tune via Whatsapp, Facebook, Twitter, SMS, Email etc. and see who is the better pianist!\n\n- IMPROVE: As you play more songs you progress in game levels. Play more songs and improve the quality of your play to reach top levels. Win coins, songs and game capabilities as you progress. Complete challenges and improve your skills to progress even faster.  \n \nPlus, with our unique “duet style” feature, it’s the ONLY piano app where you can play one part of a tune while the app plays the accompanying melody.\n \nGreat selection of music:\n- Variety of musical genres: Classical, traditional, Rock, Pop, Rap, Classics, Kids, Love songs and more.\n- Pop songs:\n  *Havana by Camila Cabello\n  *Friends by Marshmello & Anne-Marie\n  *Attention by Charlie Puth\n  *Shape of you by Ed Sheeran \n  *Hello by Adele\n  *Let It Go - Disney's Frozen\n  *Love Yourself by Justin Bieber\n  *Paparazzi by Lady Gaga\n  *Rehab by Amy Winhouse\n  *Counting Stars by OneRepublic\n  *Halo by Beyonce\n  *My Heart Will Go On by Celine Dion\n  *Rihanna ft. Mikky Ekko - Stay\n  *One Direction - Drag Me Down\n- Rock songs:\n  *Queen - We Are The Champions\n  *The Cranberries - Zombie\n  *Eric Clapton - Change The World\n  *Janis Joplin - Me & Bobby McGee\n- Country Songs\n  *Florida Georgia Line - H.O.L.Y\n  *Edwin Mccain - I'll Be\n- Classical favorites: \n  *A Little Night Music by W.A. Mozart\n  *Claire De Lune by C. Debussy\n- All time classics:\n  *Dionne Warwick - Walk On By\n  *Andy Williams - Moon River\n  *Joe Cocker - You Are So Beautiful\n  *Etta James - At Last\n\nMore Highlights\n-Easy-to-follow tutorial\n-Select your favorite type of Piano from the collection of instruments\n-More than 190 game levels \n-More than 35 skill challenges\n-Full 88 keys keyboard \n-The more you play the more coins you can earn to unlock even more songs\n-Preview of each song\n-3 levels of difficulty for playing each song (beginner, intermediate, advanced)\n\nUNLIMITED PREMIUM SUBSCRIPTION\n-Subscribe for unlimited access to our VIP song catalog\n-Subscriptions are $2.99 weekly and $7.99 monthly\n-Play any of the songs including VIP songs as much as you like from any Apple device and enjoy an ad-free experience.\n-Payment will be charged to iTunes Account at confirmation of purchase\n-Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n-Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n-Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n-No cancellation of the current subscription is allowed during active subscription period\n-Private Policy - http://www.yokee.tv/privacy\n-Terms of Use - http://www.yokee.tv/terms\n\n*Price are equal to the value that \"Apple's App Store Matrix\" determines is the equivalent of the subscription price in $USD.\n\nFeedback\nWe’re continuously improving our Piano app. Contact us at support@yokee.tv",
+      "android_package_name": "us.zoom.videomeetings",
+      "ios_bundle_id": "com.yokee.piano",
+      "title": "BlueJeans",
+      "domain_name": [
+        "http://www.yokee.tv/piano",
+        "https://www.yokee.tv"
+      ],
+      "website": "http://www.yokee.tv/piano",
+      "developer": "Yokee Music LTD",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA",
+      "icon_72": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.logmein.gotoconnect"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "GoTo is the premier provider of flexible-work software that keeps you connected and engaged with customers and colleagues. From calling and messaging to virtual meetings, trainings, and webinars, it’s the all-in-one mobile app for your essential communications, whether you’re on the road or across the globe.\nHold quick discussions and lead business-critical meetings. Join online events in seconds and take part in activities like polls and surveys. Collaborate with your team and answer customers in a multi-channel inbox. No matter where you go or what you need to communicate, GoTo has you covered.\n\nSimplify your communication:\n- Stay connected from anywhere with customers and colleagues\n- Use your personal device without sharing your private number\n- Get voice, video, and messaging all in one app\n\nEmpower your business calls:\n- Quickly switch between multiple business numbers\n- Route incoming calls to other phones or colleagues\n- Automatically text back to missed calls\n\nElevate your meetings and events:\n- Join virtual meetings, trainings, and webinars from anywhere\n- View slides, participate in breakout rooms, take polls, and more\n- Schedule your own meetings and sync your business calendar\n\nEngage with your customers:\n- Chat with customers as a team in the shared inbox\n- See all your SMS, social media, and web chat conversations in one place\n- Assign, unassign, and resolve conversations on the go",
+      "android_package_name": "com.logmein.gotoconnect",
+      "ios_bundle_id": "com.logmein.gotoconnect",
+      "title": "GoToMeeting",
+      "domain_name": [
+        "https://www.goto.com/connect/?c_name=lmi&c_prod=gotoconnect&c_cmp=products",
+        "https://www.goto.com"
+      ],
+      "website": "https://www.goto.com/connect/?c_name=lmi&c_prod=gotoconnect&c_cmp=products",
+      "developer": "GoTo Group, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/4fgCluZrk7oFiu2LSLRHd_dN4UivadjZb2cNraEyteasJpWwG0UGKXiJB2inltIH1zU",
+      "icon_72": "https://play-lh.googleusercontent.com/4fgCluZrk7oFiu2LSLRHd_dN4UivadjZb2cNraEyteasJpWwG0UGKXiJB2inltIH1zU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "us.zoom.videomeetings"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Reimagine teamwork with Zoom Workplace, an AI-first, open collaboration platform that combines team chat, meetings, phone*, whiteboard, calendar, mail, docs, and more. Use Zoom Workplace for iOS with any free or paid Zoom license.\n\nAnd with your Pro or Business Zoom license you have access to AI Companion woven throughout Zoom Workplace. You can get caught up quickly with a summary and key points from your unread messages, draft new content, and keep conversations focused and impactful. It’s your personal assistant across Zoom Workplace, available at no additional cost with your paid Zoom license, available wherever you are from your mobile device. \n\nBE MORE PRODUCTIVE ON THE GO WITH AI COMPANION* ON YOUR MOBILE DEVICE\nQuickly get prepared for upcoming meetings\nHave AI Companion* generate a first draft of content \nGet a summary of your unread Team Chat messages\n\n\nSTREAMLINE COMMUNICATIONS WITH A SINGLE APP\nSchedule or join a video meeting with one tap\nChat with colleagues and external contacts\nPlace and receive phone calls or send SMS text messages*\n\nIMPROVE PRODUCTIVITY\nOrganize and share information at scale with Zoom Docs \nReceive automated meeting summaries with AI Companion*\nBrainstorm on virtual whiteboards\n\nBOUNCE BETWEEN LOCATIONS\nMove a live meeting or call seamlessly between devices with one tap\nStart a Zoom Rooms meeting and share content*\nMultitask with Picture in Picture on iPhone or Split View on iPad\n\nWORK SAFELY ON THE GO\nStay focused on the road with Apple CarPlay support\nCustomize Siri Shortcuts for hands-free voice commands\nKeep your data secure with enterprise-grade security and SSO*\n\n\n* A paid Zoom Workplace subscription or other license may be required to use certain product features. Upgrade your free account today to start gaining these benefits. AI Companion may not be available for all regions and industry verticals. Some features not currently available across all regions or plans and are subject to change.\n\nUPGRADE YOUR FREE ACCOUNT TO ZOOM WORKPLACE PRO AND GET AI COMPANION INCLUDED \nHost unlimited meetings up to 30 hours each\nRecord meetings to the cloud (up to 5GB)\nAssign meeting co-hosts and schedulers\n\nYour Zoom Workplace Pro subscription will automatically renew unless you cancel at least 24 hours before the end of the free trial or the plan billing period. After you start your subscription, you can manage it from either App Store settings or iOS settings. The amount charged to the payment method in your App Store account will vary by the plan you select and your country. The plan price will be displayed before you start your free trial or confirm your purchase.\n\nWe’d love to hear from you! Join the Zoom community: https://community.zoom.com/\n\nFollow us on social media @zoom\n\nTerms of Service: https://explore.zoom.us/terms/\nPrivacy Statement: https://explore.zoom.us/privacy/\n\nHave a question? Contact us at https://support.zoom.com/hc",
+      "android_package_name": "us.zoom.videomeetings",
+      "ios_bundle_id": "us.zoom.videomeetings",
+      "title": "Zoom",
+      "domain_name": [
+        "http://zoom.us",
+        "https://zoom.us"
+      ],
+      "website": "http://zoom.us",
+      "developer": "Zoom Communications, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA",
+      "icon_72": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "to.go"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Flock is a powerful business messaging and team collaboration app that brings all your work into one place. \n\nToday, your team’s communication is scattered across emails, ad hoc messages, and multiple tools. With Flock you can quickly bring people together, discuss ideas, share information, assign tasks, and track team progress, so your team can focus on what they do best. Flock effortlessly adapts to your unique needs whether you are a large enterprise, a small business, or a high-growth startup. \n\nWith Flock you can:\n• Communicate with colleagues and entire teams through 1-on-1 chats and group messaging\n• Create different channels for projects, departments, or topics for focused communications\n• Effortlessly search previous conversations and channels\n• Send and share files on-the-go\n• Hold video and audio calls with screen sharing capabilities\n• Use built-in productivity tools such as to-do’s, reminders, and polls\n• Integrate with all your favorite tools and services, including Google \nDrive, Trello, Jira, GitHub, Hubspot, etc.\n• Rest easy because your conversations are private, safe and secure (We are SOC2 and GDPR compliant)\n\nFlock is free to use for as long as you want. You can upgrade to our paid plans for enhanced features and increased user control.",
+      "android_package_name": "to.go",
+      "ios_bundle_id": "to.talk.goto",
+      "title": "Flock",
+      "domain_name": [
+        "http://flock.com",
+        "https://flock.com"
+      ],
+      "website": "http://flock.com",
+      "developer": "Flock FZ-LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Xil0tv493gtQb0YZ_0O1TGfxiphxV9hcMiYwBVRnD_wjZcpkQKszqVn5ZWW9Ehvdqfw",
+      "icon_72": "https://play-lh.googleusercontent.com/Xil0tv493gtQb0YZ_0O1TGfxiphxV9hcMiYwBVRnD_wjZcpkQKszqVn5ZWW9Ehvdqfw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.Slack"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Slack brings team communication and collaboration into one place so you can get more work done, whether you belong to a large enterprise or a small business. Check off your to-do list and move your projects forward by bringing the right people, conversations, tools, and information you need together. Slack is available on any device, so you can find and access your team and your work, whether you’re at your desk or on the go. \n\nUse Slack to: \n• Communicate with your team and organize your conversations by topics, projects, or anything else that matters to your work\n• Message or call any person or group within your team\n• Share and edit documents and collaborate with the right people all in Slack \n• Integrate into your workflow, the tools and services you already use including Google Drive, Salesforce, Dropbox, Asana, Twitter, Zendesk, and more \n• Easily search a central knowledge base that automatically indexes and archives your team’s past conversations and files\n• Customize your notifications so you stay focused on what matters\n\nScientifically proven (or at least rumored) to make your working life simpler, more pleasant, and more productive. We hope you’ll give Slack a try.\n\nHaving trouble? Please reach out to feedback@slack.com",
+      "android_package_name": "com.Slack",
+      "ios_bundle_id": "com.tinyspeck.chatlyio",
+      "title": "Slack",
+      "domain_name": [
+        "https://slack.com/is",
+        "https://slack.com"
+      ],
+      "website": "https://slack.com/is",
+      "developer": "SLACK TECHNOLOGIES L.L.C.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mzJpTCsTW_FuR6YqOPaLHrSEVCSJuXzCljdxnCKhVZMcu6EESZBQTCHxMh8slVtnKqo",
+      "icon_72": "https://play-lh.googleusercontent.com/mzJpTCsTW_FuR6YqOPaLHrSEVCSJuXzCljdxnCKhVZMcu6EESZBQTCHxMh8slVtnKqo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.thoughtcrime.securesms"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Signal is a messaging app with privacy at its core. It is free and easy to use, with strong end-to-end encryption that keeps your communication completely private.\n\n• Send texts, voice messages, photos, videos, GIFs, and files for free. Signal uses your phone’s data connection, so you avoid SMS and MMS fees.\n\n• Call your friends with crystal-clear encrypted voice and video calls. Group calls supported for up to 40 people.\n\n• Stay connected with group chats up to 1,000 people. Control who can post and manage group members with admin permission settings.\n\n• Share image, text, and video Stories that disappear after 24 hours. Privacy settings keep you in charge of exactly who can see each Story.\n\n• Signal is built for your privacy. We know nothing about you or who you’re talking to. Our open source Signal Protocol means that we can’t read your messages or listen to your calls. Neither can anyone else. No back doors, no data collection, no compromises. \n\n• Signal is independent and not for profit; a different kind of tech from a different kind of organization. As a 501c3 nonprofit we are supported by your donations, not by advertisers or investors. \n\n• For support, questions, or more information please visit https://support.signal.org/\n\nTo check out our source code, visit https://github.com/signalapp \n\nFollow us on Twitter @signalapp and Instagram @signal_app",
+      "android_package_name": "org.thoughtcrime.securesms",
+      "ios_bundle_id": "org.whispersystems.signal",
+      "title": "Signal Private Messenger",
+      "domain_name": [
+        "https://signal.org",
+        "https://signal.org"
+      ],
+      "website": "https://signal.org",
+      "developer": "Signal Messenger, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FtGKSwVtpmMxKoJrJuI837DkYGRsqlMdiVPAd8bomLQZ3_Hc55XokY_dYdXKgGagiYs",
+      "icon_72": "https://play-lh.googleusercontent.com/FtGKSwVtpmMxKoJrJuI837DkYGRsqlMdiVPAd8bomLQZ3_Hc55XokY_dYdXKgGagiYs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.logmein.gotoconnect"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "GoTo is the premier provider of flexible-work software that keeps you connected and engaged with customers and colleagues. From calling and messaging to virtual meetings, trainings, and webinars, it’s the all-in-one mobile app for your essential communications, whether you’re on the road or across the globe.\nHold quick discussions and lead business-critical meetings. Join online events in seconds and take part in activities like polls and surveys. Collaborate with your team and answer customers in a multi-channel inbox. No matter where you go or what you need to communicate, GoTo has you covered.\n\nSimplify your communication:\n- Stay connected from anywhere with customers and colleagues\n- Use your personal device without sharing your private number\n- Get voice, video, and messaging all in one app\n\nEmpower your business calls:\n- Quickly switch between multiple business numbers\n- Route incoming calls to other phones or colleagues\n- Automatically text back to missed calls\n\nElevate your meetings and events:\n- Join virtual meetings, trainings, and webinars from anywhere\n- View slides, participate in breakout rooms, take polls, and more\n- Schedule your own meetings and sync your business calendar\n\nEngage with your customers:\n- Chat with customers as a team in the shared inbox\n- See all your SMS, social media, and web chat conversations in one place\n- Assign, unassign, and resolve conversations on the go",
+      "android_package_name": "com.logmein.gotoconnect",
+      "ios_bundle_id": "com.logmein.gotoconnect",
+      "title": "GoToConnect",
+      "domain_name": [
+        "https://www.goto.com/connect/?c_name=lmi&c_prod=gotoconnect&c_cmp=products",
+        "https://www.goto.com"
+      ],
+      "website": "https://www.goto.com/connect/?c_name=lmi&c_prod=gotoconnect&c_cmp=products",
+      "developer": "GoTo Group, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/4fgCluZrk7oFiu2LSLRHd_dN4UivadjZb2cNraEyteasJpWwG0UGKXiJB2inltIH1zU",
+      "icon_72": "https://play-lh.googleusercontent.com/4fgCluZrk7oFiu2LSLRHd_dN4UivadjZb2cNraEyteasJpWwG0UGKXiJB2inltIH1zU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.truecaller"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "With Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 425 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\n\n#1 CALLER ID & SPAM BLOCKING APP WORLDWIDE\n\n• An all new Caller ID experience on iPhone with iOS 18.2 and above\n• Automatically identify spam, fraud, and robocalls before you pick up\n• View & search previously identified calls in the Phone app\n• Take advantage of the best spam call blocker for iPhone\n• Enable spam identification and blocking by accessing Settings > Apps > Phone > Call Blocking & Identification\n• A paid subscription is required to access this feature\n\nTRUECALLER ASSISTANT: AI-POWERED CALL SCREENING*\n\n• It uses machine learning and speech-to-text technology to ask questions to the caller, helping you find out who they are and the reason for the call\n• Save time and enhance spam detection with the AI-powered Assistant that answers your calls\n• Block the bad guys but take the calls that matter when opportunity rings\n• Assistant performs live call screening, providing real-time information about the caller (personal, spam, robocall, etc), enabling you to make informed decisions\n• Available in US, CA, AU, CL, ZA, SE and IL\n• Supported on all major carriers\n• A paid subscription is required to access this feature\n\nIDENTIFY THE NAME OF ANY CALLER\n\n• Enter any number to look up the name and other contact information. This feature works for both domestic and international numbers\n• Look up phone numbers directly from your iPhone's call history using the action extension (Call Log > Share Contact > Search Truecaller)\n\nTRUECALLER PREMIUM: UPGRADE AND LEVEL UP YOUR APP EXPERIENCE\n\n• Remove all ads\n• Unlimited number lookups\n• Know who viewed your profile\n• Family Plan - share your Premium account with up to 4 members\n• Get the Premium badge on your profile\n• Truecaller Assistant (US, CA, AU, CL, ZA, SE and IL)\n• Auto-renewing subscription with a free trial for new users\n\nTruecaller respects your right to privacy. Your phonebook is never made searchable or public.\n\nOur terms of use: https://www.truecaller.com/terms-of-service\n\nPlease note: Payment for auto-renewing subscription to Truecaller Premium will be charged to your iTunes account upon purchase confirmation. Subscription can be managed and auto-renewal can be turned off by going to the Account Settings on your device. You must cancel at least 24 hours before your subscription ends to avoid renewal. Your account will be charged for renewal within 24 hours before the end of the current period.",
+      "android_package_name": "com.truecaller",
+      "ios_bundle_id": "com.truesoftware.TrueCallerOther",
+      "title": "Truecaller Caller ID",
+      "domain_name": [
+        "http://www.truecaller.com",
+        "https://www.truecaller.com"
+      ],
+      "website": "http://www.truecaller.com",
+      "developer": "True Software Scandinavia AB",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VtP05VLAW1hdA8fyr5RGktM5LvuyUj4YagaAnfi9c_t3oyVv0iTAaZ1-6oC4za-bBEc",
+      "icon_72": "https://play-lh.googleusercontent.com/VtP05VLAW1hdA8fyr5RGktM5LvuyUj4YagaAnfi9c_t3oyVv0iTAaZ1-6oC4za-bBEc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.microsoft.office.lync15"
+      },
+      "cat_key": "COMMUNICATION",
+      "cat_keys": [
+        "COMMUNICATION",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Skype for Business, formerly Lync 2013 for iOS, extends the power of Lync and Skype to your favorite mobile device: voice & video over wireless, rich presence, instant messaging, conferencing, and calling features from a single, easy-to-use interface.\n\nKey Features:\nInitiate a group IM or video conversation and invite additional participants\nJoin, rejoin and initiate a Skype for Business Meeting to communicate and collaborate on amazing ideas\nSimultaneously view shared content and speaker's video during a conference\nControl the meeting (mute or remove attendees) and know more about participants’ modalities\nLook at your upcoming meetings and join via one click\nFind your recent conversations and pick them up from where you left off\nSearch your contacts by name, email, or phone number\nEnhanced security via Active Directory Authentication Library \n\nAnyone can use the Skype for Business for iOS app when invited to a Skype for Business or Lync 2013 meeting. However, you must have a Skype for Business or Lync account in order to use (and enjoy) the full capability of the Skype for Business app. Also, some functionality might require an update to Lync or Skype for Business Server or might not be available to all users. If you’re not sure about your account status, please contact your IT department.\n\nIMPORTANT: THIS SOFTWARE REQUIRES CONNECTIVITY TO VALIDLY LICENSED COPIES OF MICROSOFT LYNC OR SKYPE FOR BUSINESS SERVER OR OFFICE 365 / LYNC ONLINE / SKYPE FOR BUSINESS ONLINE AND WILL NOT WORK WITHOUT IT. UPDATES TO MICROSOFT LYNC SERVER OR SKYPE FOR BUSINESS MAY BE REQUIRED FOR PROPER PERFORMANCE. SOME FUNCTIONALITY MAY NOT BE AVAILABLE IN ALL COUNTRIES. IF YOU ARE UNSURE ABOUT YOUR COMPANY’S LICENSE TO AND/OR DEPLOYMENT OF LYNC OR SKYPE FOR BUSINESS, PLEASE CONTACT YOUR IT DEPARTMENT. SKYPE FOR BUSINESS APP IS ONLY AVAILBLE FOR iOS 8.0 OR GREATER.",
+      "android_package_name": "com.microsoft.office.lync15",
+      "ios_bundle_id": "com.microsoft.lync2013.iphone",
+      "title": "Skype for Business",
+      "domain_name": [
+        "http://www.microsoft.com/lync",
+        "https://www.microsoft.com"
+      ],
+      "website": "http://www.microsoft.com/lync",
+      "developer": "Microsoft Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5hqcg29p7TkwDWchqG41kMDgoa_IXSUgt9ilfft3ZF2scKW_9Jz5511HPAAqVbVKRQ",
+      "icon_72": "https://play-lh.googleusercontent.com/5hqcg29p7TkwDWchqG41kMDgoa_IXSUgt9ilfft3ZF2scKW_9Jz5511HPAAqVbVKRQ=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

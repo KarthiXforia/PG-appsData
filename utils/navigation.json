@@ -1,0 +1,1257 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.maps"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and find what you need by getting the latest information on businesses, including grocery stores, pharmacies and other important places.\n\nGet where you need to go efficiently:\n• Find the best route with automatic rerouting based on live traffic, incidents, and road closure\n\nFind important businesses:\n• Know what’s open in your area and their latest business hours\n• Find local restaurants offering delivery and takeout\n• Create lists of your important places \n\nGet there faster with real-time updates\n• Beat traffic with real-time ETAs and traffic conditions\n• Catch your bus, train, or ride-share with real-time transit info\n• Save time with automatic rerouting based on live traffic, incidents, and road closure\n• With Live View in Google Maps, see the way you need to go with arrows and directions placed right on top of your world. There’s no second guessing or missing another turn.\n\nMore experiences on Google Maps\n• Offline maps to search and navigate without an internet connection\n• Street View and indoor imagery for restaurants, shops, museums and more\n• Indoor maps to quickly find your way inside big places like airports, malls and stadiums\n\nSome features not available in all countries\n\nNavigation isn't intended to be used by oversized or emergency vehicles",
+      "android_package_name": "com.google.android.apps.maps",
+      "ios_bundle_id": "com.google.Maps",
+      "title": "Google Maps",
+      "domain_name": [
+        "http://maps.google.com/about",
+        "https://maps.google.com"
+      ],
+      "website": "http://maps.google.com/about",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
+      "icon_72": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.waze"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Know what's ahead on the road with the help from other drivers. Waze is a live map that harnesses the local knowledge of tens of millions of drivers around the world. Drivers safely and confidently reach their everyday destinations thanks to Waze map’s GPS navigation, live traffic updates, real-time safety alerts (including construction, accidents, crashes, police, potholes, and more), and accurate ETAs.\n\n\nMake your next drive more predictable and stress-free:\n• Get there faster with real-time directions, accurate ETAs, and automatic rerouting based on live traffic, incidents, and road closures\n• Even if you know the way, avoid surprises on the road ahead with safety alerts for accidents, crashes, construction, objects on the road, potholes, speed bumps, sharp curves, bad weather, emergency vehicles, railroad crossings, and more\n• Steer clear of tickets by knowing where police and red light & speed cameras are located\n• Share what’s happening on the road with other drivers by reporting live incidents and hazards\n• Stay informed of upcoming speed limit changes, and keep your speedometer in check\n• Know which lane to be in with multi-lane guidance\n• See toll pricing and choose to avoid tolls along your routes\n• Add road passes and vignettes for HOV lanes and restricted traffic zones\n• Find gas / fuel stations & prices and EV charging stations along your route\n• Locate and compare parking lots and their prices near your destination\n• Use voice-guided turn-by-turn navigation from a variety of languages, local accents, and your favorite celebrities\n• Plan your next drive by checking ETAs by future departure or arrival times\n• Use your favorite audio apps (for podcasts, music, news, audiobooks) directly within Waze\n• Sync Waze to your car’s built-in display through Apple CarPlay\n\n\n* Some features are not available in all countries\n\n\n* Waze navigation is not intended for emergency or oversized vehicles\n\n\nYou can manage your in-app Waze Privacy Settings at any time. Learn more about the Waze privacy policy here, www.waze.com/legal/privacy.",
+      "android_package_name": "com.waze",
+      "ios_bundle_id": "com.waze.iphone",
+      "title": "Waze",
+      "domain_name": [
+        "http://www.waze.com",
+        "https://www.waze.com"
+      ],
+      "website": "http://www.waze.com",
+      "developer": "waze",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/r7XL36PVNtnidqy6ikRiW1AHEIsjhePrZ8W5M4cNTQy5ViF3-lIDY47hpvxc84kJ7lw",
+      "icon_72": "https://play-lh.googleusercontent.com/r7XL36PVNtnidqy6ikRiW1AHEIsjhePrZ8W5M4cNTQy5ViF3-lIDY47hpvxc84kJ7lw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.maps"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Apple Maps is the best way to navigate and explore the world - all with your privacy protected.\n\nWhat's new:\n• Topographic maps with stunning details like contour lines, hill shading, hiking trail information and more.\n• Hikes across U.S. national parks — with details like route type, length, and elevation — can be saved to your device for access offline. \n• Custom walking and hiking routes can be created and saved for easy access — even while offline.\n• Turn-by-turn navigation for hikes and custom walking routes helps you stay on track.\n• Search allows you to quickly discover and compare places by browsing photos, ratings, price level and more, all without leaving search.\n• An all-new Places Library allows you to easily save places and add a personal note about them. \n• Offline maps sync directly to your Watch for offline use, even when your phone isn’t nearby or powered on.\n\nGet around with ease.\n• Use voice-guided turn-by-turn navigation for driving, cycling, or walking.\n• Download offline maps to your iPhone or Watch and explore them while offline. View place information like hours and ratings and get turn-by-turn directions for driving, walking, cycling, or transit.\n• Get real-time transit schedules and directions via subways, buses, trains, and ferries.\n• Check real-time traffic conditions, incidents, and road closures.\n• See speed limits for the road you’re driving on and get guidance on which lane you should be in before your next move.\n• Report incidents in the Maps app and see incidents reported by other users, including accidents, hazards, and speed checks.\n• See when you’re approaching speed and red-light cameras along your route.\n• Get cycling directions to route along bike lanes, paths, and roads while taking elevation and busy streets into account.\n• Plan your drive or transit journey by choosing a future departure or arrival time.\n• Immersive walking directions show step-by-step guidance in augmented reality.\n• Glance at the Lock screen for turn-by-turn navigation, transit directions, and Time to Leave notifications.\n• Find your parked car and get directions to it.\n\nDiscover and interact with places.\n• Look up information about places, including hours, photos, ratings, reviews, and support for Apple Pay.\n• Rate and add photos to places you’ve visited.\n• Discover great places to eat, shop, and explore with curated Guides from trusted brands and experts.\n• Make restaurant reservations, view menus, or place an order right within Maps.\n• Browse detailed indoor maps for hundreds of malls and airports worldwide.\n• Ask Siri to find places you’d like to go.\n\nVisit new places without leaving home.\n• Detailed city maps display elevation, landmarks, crosswalks and turn lanes, 3D views to navigate complex interchanges, and more in San Francisco, Los Angeles, New York, Paris, London, Toronto, Las Vegas, Sydney, and more.\n• Interactive 3D globe shows enhanced details for mountain ranges, deserts, forests, and oceans.\n• Explore cities with Look Around, which offers a ground-level, high-resolution, interactive 3D experience.\n• View major cities around the world from the air with photo-realistic, interactive 3D views using Flyover.\n\nUse any of your devices.\n• Access your saved places from your iPhone, iPad, Mac, or Apple Watch using iCloud.\n• Use Maps with your car’s display in your CarPlay-equipped vehicle.\n• Use Maps with your Apple Watch to get taps on your wrist when it’s time to make a turn.\n• Plan trips on your Mac and share them with Maps on your iOS device.\n\nAvailability and features may vary by country or region.\n\nApple Business Connect\nBusiness owners can use Apple Business Connect to take control of how their business is seen across Apple. Claim a location and add crucial information like business hours or address, and useful details including photos, a logo and cover image, limited time special offers and events, Good to Know information, and more. Visit businessconnect.apple.com for more details.",
+      "android_package_name": "com.google.android.apps.maps",
+      "ios_bundle_id": "com.apple.Maps",
+      "title": "Apple Maps",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
+      "icon_72": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.here.app.maps"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Welcome to the new HERE WeGo! \n\nHERE WeGo is a free navigation app that guides local and global travelers on journeys both familiar and foreign. The app now has a fresh, new design and clearer, easier to use navigation. \n\nEnjoy a more carefree journey and reach your destination effortlessly, however you need to get there. Get there on foot with easy-to-follow walk guidance. Take public transport in more than 1,900 cities around the world. Or use turn-by-turn voice guidance with accurate driving directions and go by car. You can even find parking at your destination and get guided directly to it.\n\nVisit the same places often? Save them in a collection to stay organized and find them easier. Or use shortcuts to get directions to them in one click. \n\nNeed to make an extra stop or want to go a specific way? Simply add waypoints to your routes and HERE WeGo guides you there.\n\nWant to save your mobile data and stay on course even without an internet connection when travelling? Download a map of a region, country or continent and complete your journey while staying totally offline. \n\nHERE WeGo also works with Apple CarPlay® so you can enjoy world-class navigation in your car's built-in display. \n\nAnd what's next? \n\n-\tMore ways to get around, such as bike and car-sharing\n-\tServices you can enjoy on the go, such as hotel booking and parking \n-\tA way to find places of common interest and organize trips with others\n-\tAnd much more!\n\nStay tuned, and don't forget to send your feedback to appsupport@here.com. We hope you enjoy your journey with HERE WeGo!",
+      "android_package_name": "com.here.app.maps",
+      "ios_bundle_id": "com.here.app.HERESuite",
+      "title": "HERE WeGo",
+      "domain_name": [
+        "https://www.here.com?cid=WeGo-AppStore-MM-0-Here&utm_source=AppStore&utm_medium=referral&utm_campaign=Online_WeGo_2021",
+        "https://www.here.com?cid=WeGo-AppStore-MM-0-Here&utm_source=AppStore&utm_medium=referral&utm_campaign=Online_WeGo_2021"
+      ],
+      "website": "https://www.here.com?cid=WeGo-AppStore-MM-0-Here&utm_source=AppStore&utm_medium=referral&utm_campaign=Online_WeGo_2021",
+      "developer": "HERE Europe B.V.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/-bhi_ljcXMvf3lKXcma-Ho1D9Ck9Fu2Cf1KXC5mwW4gJFG8SAFt1KCD8ctodcnlpi00",
+      "icon_72": "https://play-lh.googleusercontent.com/-bhi_ljcXMvf3lKXcma-Ho1D9Ck9Fu2Cf1KXC5mwW4gJFG8SAFt1KCD8ctodcnlpi00=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.maps"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Get where you need to go with the MapQuest turn-by-turn GPS Navigation app. Whether it’s using voice navigation for walking or driving directions or exploring points of interests on the map, MapQuest has the tools you need to navigate the United States and Canada.\n\nMap and Navigation Features:\n• Hands-free driving directions with Apple CarPlay Connectivity \n• Up-to-date satellite imagery \n• Turn-by-turn voice navigation for walking and driving directions \n• Real-time traffic updates to help you find alternate ways to your destination\n• Routes designed to help save you time, gas and money\n• A speedometer so you compare your current speed to the speed limit along your route\n• Favorites so you can store locations, like your home and work addresses, for quick-and-easy maps and directions\n• Route choices so you have more suggestions to get where you need to go faster\n• Route options that help you avoid things like highways and toll roads\n• Multipoint routes so you can include more than just one stop\n• Planning: create routes starting from somewhere other than your current location\n\nDo More than Get Directions:\n• Search and explore nearby points of interest like restaurants, bars, gas stations and hotels, with our layers bar\n• Find great hotel deals and book them directly from within the MapQuest: Maps & GPS Navigation app\n• Feed your inner foodie and discover new places to eat: browse menus, make reservations and order food through OpenTable and GrubHub points of interest\n• Save money by comparing prices of nearby gas stations\n• View local weather so you can plan ahead\n\nPlease Note: Continued use of GPS running in the background can dramatically decrease battery life.",
+      "android_package_name": "com.google.android.apps.maps",
+      "ios_bundle_id": "com.aol.mapquest",
+      "title": "MapQuest",
+      "domain_name": [
+        "http://hello.mapquest.com",
+        "https://hello.mapquest.com"
+      ],
+      "website": "http://hello.mapquest.com",
+      "developer": "MapQuest Holdings LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
+      "icon_72": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.generalmagic.magicearth"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Sygic GPS Navigation & Maps is innovative  GPS navigation app with monthly-updated offline maps and with precise live traffic & speed camera alerts, both updated in real-time. It‘s trusted by more than 200 million drivers worldwide. Offline 3D maps are stored on your phone for GPS navigation without an internet connection. We update the maps multiple times per year for free, so that you can always rely on Sygic GPS Navigation.\n\nNAVIGATE ANYWHERE, EVEN WITHOUT AN INTERNET CONNECTION\n• 3D Offline maps of all countries in the world, from TomTom and other providers\n• Free map updates multiple times per year\n• Voice-guided GPS navigation with precise directions and spoken street names\n• Millions of interesting Places (POI)\n• Pedestrian GPS navigation with walking directions and tourist attractions (POI)\n• Customize your navigation arrow. Try everyday car, van or even formula.\n\nESCAPE THE TRAFFIC\n• Avoid traffic jams with the most accurate real-time traffic information with data collected from more than 200 million users worldwide*\n\nSTAY SAFE\n• Advanced safety features make driving in unfamiliar territories easier\n• Speed limit warnings show you the current speed limit and the upcoming speed limit changes\n• Dynamic Lane Assistant guides you into the correct lane\n• Head-up Display (HUD) projects navigation onto the windshield of your car, making driving at night safer\n• Dashcam records the road ahead and automatically saves a video in case of an accident\n• Real View Navigation is an augmented reality feature for even better and safer driving experience\n• Real-time route sharing lets you share your estimated time of arrival & current position on a map*\n• Apple CarPlay Connectivity - all navigation features on your car’s built-in display.\n• Cockpit shows you the real-time performance of your car. \n• Wrong-way warning (in partnership with Bosch)**. If you are driving in the wrong way or someone is driving in the opposite direction, we will warn you.*\n\nSAVE MONEY ALONG YOUR ROUTE\n• Park easily with parking place suggestions and live info about prices and availability*\n• Set your fuel type and fill up for the best price with live information about fuel prices*\n• Avoid speeding tickets with Speed camera warnings*\n• Save money on roaming charges with offline maps\n\nDo you want to find out how it feels to have Premium+? Try our 7-day trial for free and discover all Premium+ features. After that, you can decide if you want to prolong your subscription or use basic features only.\n\nSubscriptions will be charged to your credit card through your iTunes account. Your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. You will not be able to cancel the subscription once activated. Manage your subscriptions in Account Settings after purchase.\n\nShould you have any questions, please visit sygic.com/support. We are here for you 7 days a week. \nIf you like our app, please leave a review or spread the word at sygic.com/love. Thank you for your support.\n\n*Please note that this feature requires the internet connection.\n\nPrivacy Policy: www.sygic.com/company/privacy-policy\nTerms of Use:  www.sygic.com/company/terms-of-use\n\nNote: Sharing videos from Dashcam is forbidden by law in these countries: Austria, Belgium, Luxembourg, Switzerland, Slovakia, Spain.\n\nNote 2: Dashcam, Traffic Sign Recognition, and Real View are part of the new feature SmartCam. SmartCam merge all camera features into one. The SmartCam is a part of our Premium+ subscription.\n\n**Wrong-way driver feature is available in Sygic GPS Navigation for iOS, version 22.2. or higher.\n\nMore information about features can be find in glossary: https://www.sygic.com/what-is\n\nBy installing, copying or using all or any portion of this software you accept all the terms and conditions of this agreement: https://www.sygic.com/company/eula",
+      "android_package_name": "com.generalmagic.magicearth",
+      "ios_bundle_id": "com.sygic.world",
+      "title": "Sygic GPS Navigation & Maps",
+      "domain_name": [
+        "http://www.sygic.com",
+        "https://www.sygic.com"
+      ],
+      "website": "http://www.sygic.com",
+      "developer": "Sygic a. s.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bC8jeHkkhk10Z8SwJVoAMZknCV18fffxZe2DIelQvdLnUnY6HE2V2o3uimZcuN3r3A",
+      "icon_72": "https://play-lh.googleusercontent.com/bC8jeHkkhk10Z8SwJVoAMZknCV18fffxZe2DIelQvdLnUnY6HE2V2o3uimZcuN3r3A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tomtom.gplay.navapp.gofleet"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Join +10 million drivers to get a tailored GPS navigation experience with TomTom GO Navigation. Enjoy a reliable sat nav app for both cars and trucks with regular updated maps stored on your phone. Choose the subscription plan that fits your needs and start your FREE TRIAL today\n\nTOMTOM GO NAVIGATION: ESCAPE TRAFFIC, SAVE TIME & SAVE MONEY\n- Steer clear of traffic and blocked roads in REAL-TIME\n- Drive hassle-free with SPEED ALERTS and warnings for fixed and mobile speed cameras\n- Compatible with APPLE CARPLAY – Get directions and real-time info on a bigger screen and in surround sound\n- NO ADS, no distractions, and data PRIVACY at its best. See only what is essential on the road\n- Know exactly which lane to take with LANE GUIDANCE, never miss a turn with easy turn-by-turn directions\n- TomTom ROUTEBAR always shows you all relevant warnings and notifications along your route\n- Smarter journeys for both cars and trucks, enter your vehicle's dimensions to get personalised guidance\n- Save your mobile data and battery using OFFLINE MAPS, while driving with up-to-date GPS navigation\n\nDriving a TRUCK? This app offers you all you need:\n- Enter your vehicle's dimensions to get personalised guidance\n- Easily find truck rest-stops\n- Enter your dangerous cargo information to avoid certain roads\n- Define your desired maximum speed and get an adjusted ETA\n\nTry our 7-day trial for free, discover all our premium features, and decide to prolong with one of the following auto-renewing subscription plans: \n\nCar:\n1 month - £3.99\n12 months - £19.99\n\nTruck:\n1 month - £24.99\n12 months - £79.99\nCancel or change your plan anytime. \n\nAre you one of the happy 10M+ TomTom GO Navigation app users? Please leave a review and spread the word. Thank you for your support\n\n\n- The use of this app is governed by the Terms and Conditions at tomtom.com/legal/.\n- Additional laws, regulations, and local restrictions may apply. You use this app at your own risk.\n*The Speed Camera Services must only be used in accordance with laws and regulations of the country where you are driving. This functionality is specifically prohibited in some jurisdictions. It is your responsibility to comply with such laws before activating the services. You can enable and disable Speed Camera warnings on TomTom GO Navigation. Learn more at: tomtom.com/en_eu/navigation/mobile-apps/go-navigation-app/disclaimer/\n**Offer limited to one free trial period per user.\n- Apple CarPlay is a trademark of Apple Inc",
+      "android_package_name": "com.tomtom.gplay.navapp.gofleet",
+      "ios_bundle_id": "com.tomtom.itunes.navapp",
+      "title": "TomTom GO Navigation",
+      "domain_name": [
+        "https://www.tomtom.com/navigation-apps/go-navigation-app",
+        "https://www.tomtom.com"
+      ],
+      "website": "https://www.tomtom.com/navigation-apps/go-navigation-app",
+      "developer": "TomTom",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3Q6i8aIT42VEZP1OgDa74ls4WLFaMAMB6V7ECWAWsMX_E2_FouKRLBcoI2ortH6eAfwT",
+      "icon_72": "https://play-lh.googleusercontent.com/3Q6i8aIT42VEZP1OgDa74ls4WLFaMAMB6V7ECWAWsMX_E2_FouKRLBcoI2ortH6eAfwT=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.citymapper.app.release"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Instantly compare your travel options in real-time across all transport modes globally! \n\nEasily navigate your city with turn-by-turn directions for all your public transportation, walking, cycling and scooter trips.\n\nTHOUSANDS OF 5 STAR REVIEWS\n\n* \"This is my favorite transit app. Full-featured and a breeze to use. I really appreciate the Uber integration.\"\n\n* \"Only way to get around NYC and Chicago. Easy and accurate. Download this one NOW\"\n\n* \"I love it. It’s the best thing since zippers, peanut and jelly and 1 TB thumb drives\"\n\n* \"Support for the SF Bay Area is particularly impressive because it aggregates all transit systems imaginable (BART, Caltrain, MUNI, VTA, etc.) into one seamless app\"\n\nFIND THE BEST ROUTE ► Simple trip planning combining all transport modes: bus, subway, train, ferry, cabs, ride share, car share, bike share, e-scooters and walking. Discover routes you never knew existed\n\nHIT THE GO BUTTON FOR STEP-BY-STEP DIRECTIONS ► Turn-by-turn navigation for all your transit, walking, personal cycling, bike shares and scooter trips. Choose between 3 different map views, see the charge levels of e-scooters and e-bikes around you, we even help you avoid no-parking zones. We take care of the logistical thinking so you are free to enjoy the ride\n\nEXPERIENCE ONE-STOP-SHOP MOBILITY ► Compare cab fares, hail a ride, hop on a shared bike or find the nearest e-scooter all from within the app. Our partners include: Uber, Lyft, JUMP, Lime, Bird, Spin, Skip, Scoot, Citi Bike, JerseryBike, Bluebikes, Indego, CaBi, Divvy, Metro Bike, Breeze, Bay Wheels, Healthy Ride, Relay, BCycle, SA Bike Share, GREENbike, Grid, RTC Bike, BIKETOWN, Biki \n\nBEAT THE RUSH HOUR CROWD ► Live wait times and ETA so you'll never miss a bus, train or ferry again. Follow your bus / train as it's approaching on a real-time map, see the best train car to board, get alerted when it's time to get off, and get in and out from the best exit at any subway / train station \n\nPERSONALIZE YOUR CITY ► Save Home, Work and your go-to stops or stations for lightning fast trip planning. Subscribe to your favorite subway, train, bus or ferry line for automatic disruption, delay, and status alerts\n\nGET SOCIAL ► Share your live trip: let friends follow your live trip to know when you'll arrive. Share any location or address: one tap for others to get directions\n\nTRAVEL OFFLINE ► Access offline the official NYC subway map, Manhattan bus map, Brooklyn bus map, Queens bus map, DC metro map, Muni Metro map, and more\n\nCITY COVERAGE ► New York City | Chicago | Los Angeles | San Francisco | Washington DC | Boston | Philadelphia | Seattle | Miami | Atlanta | Portland | Denver | Baltimore | San Diego | Minneapolis | Houston | Phoenix | Dallas | Las Vegas | Pittsburgh | Honolulu | Salt Lake City | San Antonio | St. Louis |  Cleveland | Austin   \n\n+ Many more worldwide! See the full list and vote for the next one in the app or at https://citymapper.com/cities\n\nTRANSIT AGENCIES ► We use open data from transit agencies in the cities we cover, including: MTA | CTA | LA Metro | MBTA | WMATA | SEPTA | NJ Transit | Muni | BART | King Bus | MARTA | LIRR | RTD | TriMet | Metro-North Railroad | PATH | Houston METRO | San Diego MTS | Miami-Dade Transit | Metro Transit | METRA | RTC Bus | TheBus | Port Authority | DART | AC Transit | Sound Transit | UTA | OCTA | VIA | PTD | Metro Transit | RTA | Capital Metro | Broward County Transit Division | NY Waterway Ferries | Washington State Ferries | LBT | Nassau Inter County Express (NICE)| Valley Metro | Metrolink | Santa Monica Big Blue Bus (BBB)\n\nKEEP IN TOUCH ► If you have questions or feedback or something we may have missed in your city email us at support@citymapper.com\n\n\nFollow us on Twitter: http://twitter.com/Citymapper\n\nPrivacy Policy: https://citymapper.com/privacy\nTerms of Service: https://citymapper.com/terms",
+      "android_package_name": "com.citymapper.app.release",
+      "ios_bundle_id": "azdev.citymapper",
+      "title": "Citymapper",
+      "domain_name": [
+        "https://citymapper.com",
+        "https://citymapper.com"
+      ],
+      "website": "https://citymapper.com",
+      "developer": "Citymapper Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/vi-NYlyPamuq8frdW7sQR9YPxOKaUyPPe3y3OeJk6tuCZfQQGa-g_dShVXBn4YnzPr69",
+      "icon_72": "https://play-lh.googleusercontent.com/vi-NYlyPamuq8frdW7sQR9YPxOKaUyPPe3y3OeJk6tuCZfQQGa-g_dShVXBn4YnzPr69=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "de.komoot.android"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Turn your next ride, hike, or run into an adventure with komoot. Get inspired by tapping into shared community knowledge and recommendations, then bring your adventures to life with the easy route planner.\n\nPLAN YOUR PERFECT HIKING, MOUNTAIN BIKING OR ROAD CYCLING ADVENTURE\nGet the route perfect for your sport—be it smooth asphalt for your road bike, singletracks for your mountain bike, silent cycling paths for touring or natural trails for your hikes. Plan down to the last detail with at-your-fingertips info like surface, difficulty, distance and elevation profile.\n\nTURN-BY-TURN VOICE NAVIGATION\nNever take your eyes off the road with turn-by-turn voice navigation: your precise, down-to-the-inch verbal navigator that doesn’t distract you from your surroundings. Keep your eyes firmly on the adventure in front of you and navigate with ease, even on small trails or in the woods.\n\nOFFLINE MAPS FOR OUTDOOR ADVENTURES\nDownload your planned outdoor adventures and save topographic maps with one tap. Navigate the outdoors even when the internet is down or unreliable. Differentiate hiking paths, MTB singletracks or paved roads, terrain and land cover at a glance.\n\nBROWSE HIGHLIGHTS: THE KOMOOT COMMUNITY’S FAVOURITE PLACES\nSo you can decide on the destination of your next adventure at a glance, see Highlights on the map. From peaks, parks, and points of interest, to singletracks and sandwich shops, these places or segments, showing up as red dots in the planner, are the spots other users think you should check out. And if you’re in the know, you can recommend your own to the community in turn and inspire others to visit your favourite places, too.\n\nTELL YOUR STORY\nTrack your rides and hikes with GPS. Add photos, Highlights and tips and build your own personal adventure log that’ll store your favourite experiences—forever. Save them for private use or share them with the komoot community to receive likes and comments and to inspire fellow outdoor folks. Follow your friends and like-minded explorers to keep up with their outdoor adventures.\n\nBE A LOCAL EXPERT. BECOME A PIONEER.\nContribute photos, tips and Highlights to the community and show you’re a local Expert. Earn more upvotes than in any else for your sport in your region and become the Pioneer!\n\nSEAMLESS SYNC ACROSS EVERY DEVICE\nWhether you prep like a pro on your desktop or plan a route on the go, komoot automatically syncs your routes, tracked adventures and photos across all devices, including your smartphone, desktop, iPad and Apple Watch. Use a Garmin or a Wahoo? Simply download the komoot for Garmin app in the IQ Store and sync your profiles via Garmin Connect, or connect your komoot and Wahoo accounts to share Tours with the ELEMNT and ELEMNT BOLT.\n\nEXPERIENCE KOMOOT FOR FREE\nWhen you download komoot, your first region is free—forever. To expand the areas in which komoot has your back, conveniently choose between single regions, region bundles or the World Pack to access offline maps and turn-by-turn voice navigation wherever you go.\n\nAPPLE WATCH\nTake a quick glance at your Apple Watch to get directions, distance, and speed in real-time—right on your wrist.\n\nAPPLE HEALTH\nYou can connect komoot to Health to ensure your data is always up-to-date. Automatically share your time and distance data for komoot hiking, cycling, and running activities with Health.\n\n\n“Komoot does for hiking and biking what Apple does for hardware: makes it easily accessible and fun to use.”  \n— Cult of Mac\n\n\nFor support and tips, please visit help.komoot.de\n\n\nMORE INFORMATION\nKomoot uses background audio service for voice navigation messages.\nKomoot requires a GPS signal for directions, Tour recording and speed in real-time.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "android_package_name": "de.komoot.android",
+      "ios_bundle_id": "de.komoot.berlinbikeapp",
+      "title": "Komoot",
+      "domain_name": [
+        "https://www.komoot.com",
+        "https://www.komoot.com"
+      ],
+      "website": "https://www.komoot.com",
+      "developer": "komoot GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Pbr3n81ImNUpAwhWBWQ_eytF26cNMoMF0b4YwroXGk7xyB_Ur-DsNibiukTVCIBi9ic",
+      "icon_72": "https://play-lh.googleusercontent.com/Pbr3n81ImNUpAwhWBWQ_eytF26cNMoMF0b4YwroXGk7xyB_Ur-DsNibiukTVCIBi9ic=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.roadtrippers"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "DISCOVER THE OPEN ROAD AND THE GREAT OUTDOORS WITH EASE\nRoadtrippers, the #1 road trip planning app in the USA and Canada, now includes the patent-pending AI-powered trip wizard: Roadtrippers Autopilot™.  Whether you’re RVing on your annual campground trip, or planning a weekend trip at a boutique hotel, Roadtrippers Autopilot™ uses the knowledge of over 38 million trips to help get you there. And, with the newly added features from Campendium, Roadtrippers will be your go-to app for planning epic road trips and finding the perfect camping spots. \n\nENHANCED CAMPING AND RV FEATURES\n∙ Campground Reviews and Insights: Dive into over 150,000 campground reviews, offering perspectives for RVers and campers alike. Discover the best spots, from swanky RV parks to serene, free remote destinations.\n∙ Comprehensive Map Overlays: Find the perfect campgrounds with ease using overlays for public land, cell coverage, and wildfire smoke, ensuring you’re always informed and prepared.\n∙ Advanced Filtering Options: Tailor your search with new filtering capabilities, including cell service and elevation, to find your ideal campsite every time.\n\nEXPLORE AND PLAN WITH EASE\n∙ Epic Routes and Places: Uncover millions of unique places, from quirky roadside attractions to breathtaking national parks. Get inspired by pre-made trip guides for once-in-a-lifetime routes.\n∙ Customizable Planning: Start with up to three stops or upgrade to add up to 150 stops per trip with our Premium membership. Enjoy RV-friendly GPS navigation, offline maps, trip collaboration, and more.\n∙ Seamless Syncing and Navigation: Your saved trips and favorite places sync across devices. Hit the road with confidence using CarPlay for easy navigation.\n\nJOIN THE ROADTRIPPERS COMMUNITY\nMerging the spirit of Campendium with Roadtrippers, we invite you to embark on road trips and camping adventures that you’ll cherish forever. Whether you’re mapping out a weekend getaway or a cross-country journey, Roadtrippers is here to guide you every mile and every campsite along the way.\n\nDownload Roadtrippers today and transform your travel dreams into reality. Your next epic adventure awaits!\n\nTerms of use: https://roadtrippers.com/tos\nPrivacy policy: https://roadtrippers.com/privacy-policy\n\nNote: Designed for discovering and planning road trips in the USA and Canada only.",
+      "android_package_name": "com.roadtrippers",
+      "ios_bundle_id": "com.roadtrippers.roadtrippersinc",
+      "title": "Roadtrippers",
+      "domain_name": [
+        "https://roadtrippers.com",
+        "https://roadtrippers.com"
+      ],
+      "website": "https://roadtrippers.com",
+      "developer": "Roadtrippers Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gw8yvnJYkEbJrmY74zv7UZuinvB3FAUZDapM1HjqWAczOpbCQCN87aurE5CZEBI48w",
+      "icon_72": "https://play-lh.googleusercontent.com/gw8yvnJYkEbJrmY74zv7UZuinvB3FAUZDapM1HjqWAczOpbCQCN87aurE5CZEBI48w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.maps"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Fast, detailed and entirely offline maps with turn-by-turn navigation – trusted by over 140 million travelers worldwide.\n\nOFFLINE MAPS\nSave mobile data; no internet is required.\n\nNAVIGATION\nUse driving, walking and cycle navigation anywhere in the world.\n\nTRAVEL GUIDES\nSave you time planning the trip and never miss an interesting place with our ready-made travel guides. We've partnered with the best travel content creators to build travel guide catalog for hunderds of destinations around the world. Whether you prefer city travel, car trips or outdoor activities you will find a great choice of guides for a perfect journey.\n\nINCREDIBLY DETAILED\nDirections to points of interest (POIs), hiking trails and places missing from other maps.\n\nUP-TO-DATE\nMaps are updated by millions of OpenStreetMap contributors daily. OSM is an open-source alternative to Google Maps and Apple Maps.\n\nFAST AND RELIABLE\nOffline search, GPS navigation along with optimized maps to effectively save memory space.\n\nBOOKMARKS\nSave locations you love and share them with your friends.\n\nAVAILABLE WORLDWIDE\nEssential for home and travel. \n\nMAPS.ME is free to download and use.\n\nAND MORE!\n– Search through different categories, e.g. restaurants, cafes, tourist attractions, hotels, ATMs and public transport (metro, bus, etc).\n– Make hotel bookings via Booking.com directly from the app.\n– Share your location via text message or social media.\n– When cycling or walking, the app shows whether the way is uphill or downhill.\n\nContinued use of GPS running in the background can dramatically decrease battery life.\nIf you have any questions, visit our Help Center: support.maps.me.\nIf you are unable to find the answer to your question, contact us at: ios@maps.me.\nFollow us on FB: http://www.facebook.com/mapswithme | Twitter: @MAPS_ME\n\nPrivacy Policy: https://maps.me/policy/\nTerms of Use: https://maps.me/terms/",
+      "android_package_name": "com.google.android.apps.maps",
+      "ios_bundle_id": "com.mapswithme.full",
+      "title": "Maps.me",
+      "domain_name": [
+        "https://maps.me",
+        "https://maps.me"
+      ],
+      "website": "https://maps.me",
+      "developer": "MAPS.ME (CYPRUS) LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
+      "icon_72": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.alk.copilot.mapviewer"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Built for you, the driver. Whether you are behind the wheel of a car, a professional truck driver with profits tied to your time on the road or an RVer exploring the country - CoPilot has got you covered. \n\nTrusted by millions of drivers globally and many of the world’s leading delivery fleets, CoPilot GPS is designed to meet the needs of all driver and vehicle types to help you safely navigate the roads. Let us help make it productive and enjoyable. \n\nIncludes 14 days FREE voice-guided offline navigation, route planning and traffic. Try the app without any commitment and if you like it, you can subscribe at anytime. \n\nTRUCK NAVIGATION & TRAFFIC***\n•  Keep out of trouble by avoiding low bridges and truck-restricted roads with PC*MILER routing\n•  Driver-friendly non-distracting guidance in cab, so you can concentrate on the road\n•  Plan trips that are optimized for your vehicle and load \n•  Save money avoiding fines, out-of-route mileage and reduce fuel usage  \n•  Deliver on time and get precise ETAs with real-time traffic \n\nCAR NAVIGATION & TRAFFIC\n•  Find your best way with a choice of up to 3 routes\n•  Drive confidently without a mobile signal with automotive-grade offline maps\n•  Discover what’s around you with millions of pre-loaded Places \n•  Avoid delays with real-time traffic and automatic rerouting around congestion*\n•  Explore any place, anywhere, in any way with maps of the world**\n\nRV NAVIGATION & TRAFFIC***\n•  Routes and directions designed for RVs based on your vehicle size\n•  Never get stranded again with reliable offline maps\n•  Search millions of preloaded Places including campgrounds and rest areas \n•  Know your turn ahead of time with lane indicator arrows & exit sign information\n\nFor detailed map coverage, check out copilotgps.com/map-coverage\n\nSTAY CONNECTED\nfacebook.com/copilotgps | Twitter: @copilotgps\n\nNOTES\n*Requires a mobile internet connection\n**Requires additional map upgrade\n***Not available in all regions\n\nTo find out more about the maximum dimensions for your RV navigation, visit our support center support.copilotgps.com (height 14ft, width 102in, total length 45ft, weight 26,000lbs).\n\nContinued use of GPS running in the background can dramatically decrease battery life\n\nFor full details of our terms of use please visit https://copilotgps.com/eula/",
+      "android_package_name": "com.alk.copilot.mapviewer",
+      "ios_bundle_id": "com.alk.copilot9namapviewer",
+      "title": "CoPilot GPS",
+      "domain_name": [
+        "https://copilotgps.com",
+        "https://copilotgps.com"
+      ],
+      "website": "https://copilotgps.com",
+      "developer": "Trimble Maps Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/fNUdEPwmznbGHgLcaEbL2Dvwbko9joLQu5_P5Lh3jpMHq_R4V5t73sHCpcN6lgVnIvk",
+      "icon_72": "https://play-lh.googleusercontent.com/fNUdEPwmznbGHgLcaEbL2Dvwbko9joLQu5_P5Lh3jpMHq_R4V5t73sHCpcN6lgVnIvk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.maps"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "신입간호사를 위한 교육자료를 제공합니다.\n간호정보이므로 일반인에게는 제공되지 않습니다.",
+      "android_package_name": "com.google.android.apps.maps",
+      "ios_bundle_id": "kr.mapsco.nurseedu",
+      "title": "Mapsco",
+      "domain_name": [],
+      "website": "",
+      "developer": "mapsco",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
+      "icon_72": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "net.osmand"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Fast, detailed and entirely offline maps with turn-by-turn navigation – trusted by over 140 million travelers worldwide.\n\nOFFLINE MAPS\nSave mobile data; no internet is required.\n\nNAVIGATION\nUse driving, walking and cycle navigation anywhere in the world.\n\nTRAVEL GUIDES\nSave you time planning the trip and never miss an interesting place with our ready-made travel guides. We've partnered with the best travel content creators to build travel guide catalog for hunderds of destinations around the world. Whether you prefer city travel, car trips or outdoor activities you will find a great choice of guides for a perfect journey.\n\nINCREDIBLY DETAILED\nDirections to points of interest (POIs), hiking trails and places missing from other maps.\n\nUP-TO-DATE\nMaps are updated by millions of OpenStreetMap contributors daily. OSM is an open-source alternative to Google Maps and Apple Maps.\n\nFAST AND RELIABLE\nOffline search, GPS navigation along with optimized maps to effectively save memory space.\n\nBOOKMARKS\nSave locations you love and share them with your friends.\n\nAVAILABLE WORLDWIDE\nEssential for home and travel. \n\nMAPS.ME is free to download and use.\n\nAND MORE!\n– Search through different categories, e.g. restaurants, cafes, tourist attractions, hotels, ATMs and public transport (metro, bus, etc).\n– Make hotel bookings via Booking.com directly from the app.\n– Share your location via text message or social media.\n– When cycling or walking, the app shows whether the way is uphill or downhill.\n\nContinued use of GPS running in the background can dramatically decrease battery life.\nIf you have any questions, visit our Help Center: support.maps.me.\nIf you are unable to find the answer to your question, contact us at: ios@maps.me.\nFollow us on FB: http://www.facebook.com/mapswithme | Twitter: @MAPS_ME\n\nPrivacy Policy: https://maps.me/policy/\nTerms of Use: https://maps.me/terms/",
+      "android_package_name": "net.osmand",
+      "ios_bundle_id": "com.mapswithme.full",
+      "title": "Offline Maps & Navigation",
+      "domain_name": [
+        "https://maps.me",
+        "https://maps.me"
+      ],
+      "website": "https://maps.me",
+      "developer": "MAPS.ME (CYPRUS) LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FSmpbc9ugImmneiJac8ffLvHrkgZ19xZJCjJVgrlTMpFRUn1XB0dkpP90iVePSvC9vc",
+      "icon_72": "https://play-lh.googleusercontent.com/FSmpbc9ugImmneiJac8ffLvHrkgZ19xZJCjJVgrlTMpFRUn1XB0dkpP90iVePSvC9vc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.maps"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Fast, detailed and entirely offline maps with turn-by-turn navigation – trusted by over 140 million travelers worldwide.\n\nOFFLINE MAPS\nSave mobile data; no internet is required.\n\nNAVIGATION\nUse driving, walking and cycle navigation anywhere in the world.\n\nTRAVEL GUIDES\nSave you time planning the trip and never miss an interesting place with our ready-made travel guides. We've partnered with the best travel content creators to build travel guide catalog for hunderds of destinations around the world. Whether you prefer city travel, car trips or outdoor activities you will find a great choice of guides for a perfect journey.\n\nINCREDIBLY DETAILED\nDirections to points of interest (POIs), hiking trails and places missing from other maps.\n\nUP-TO-DATE\nMaps are updated by millions of OpenStreetMap contributors daily. OSM is an open-source alternative to Google Maps and Apple Maps.\n\nFAST AND RELIABLE\nOffline search, GPS navigation along with optimized maps to effectively save memory space.\n\nBOOKMARKS\nSave locations you love and share them with your friends.\n\nAVAILABLE WORLDWIDE\nEssential for home and travel. \n\nMAPS.ME is free to download and use.\n\nAND MORE!\n– Search through different categories, e.g. restaurants, cafes, tourist attractions, hotels, ATMs and public transport (metro, bus, etc).\n– Make hotel bookings via Booking.com directly from the app.\n– Share your location via text message or social media.\n– When cycling or walking, the app shows whether the way is uphill or downhill.\n\nContinued use of GPS running in the background can dramatically decrease battery life.\nIf you have any questions, visit our Help Center: support.maps.me.\nIf you are unable to find the answer to your question, contact us at: ios@maps.me.\nFollow us on FB: http://www.facebook.com/mapswithme | Twitter: @MAPS_ME\n\nPrivacy Policy: https://maps.me/policy/\nTerms of Use: https://maps.me/terms/",
+      "android_package_name": "com.google.android.apps.maps",
+      "ios_bundle_id": "com.mapswithme.full",
+      "title": "GPS Navigation & Maps",
+      "domain_name": [
+        "https://maps.me",
+        "https://maps.me"
+      ],
+      "website": "https://maps.me",
+      "developer": "MAPS.ME (CYPRUS) LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
+      "icon_72": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.microsoft.bing"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Take your travel planning on the go with the Tripadvisor app. Discover tons of things to do, places to stay, and spots to eat, whether you’re mapping out your trip from your hotel room or looking for a quick rec in between tours. We’re here to guide you every step of the way. Whatever trip you’re planning, we’ve been there. \n\nPlan your travel in one place\n - Create an itinerary with Trips\n - Save your favorite hotels, restaurants, and experiences\n - Get custom recs based on your saves with our AI trip builder \n - See all your saves on your map\n - Share and collaborate with your travel crew\n\nGet traveler guidance\n - Vet your picks with over one billion traveler reviews and opinions\n - Check the reviews before you go or while you’re on the go\n - Save time with AI summaries, which gives you a quick overview of what travelers are saying\n\nFind nearby recs\n - Get personalized picks just for you\n - Check the map to discover top-rated spots near you\n\nWrite reviews wherever\n - Share your guidance and photos on the go\n - Help guide travelers with recent reviews of your experience\n\nBook with confidence\n - Find traveler-favorite hotels around the world\n - Score tickets for popular tours and experiences\n - Get access to app-only deals",
+      "android_package_name": "com.microsoft.bing",
+      "ios_bundle_id": "com.tripadvisor.LocalPicks",
+      "title": "Bing Maps",
+      "domain_name": [
+        "https://www.tripadvisor.com",
+        "https://www.tripadvisor.com"
+      ],
+      "website": "https://www.tripadvisor.com",
+      "developer": "Tripadvisor",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/kmxAt02yG8Hp-TzZHDoRGFtB70QFz7njpWQzQp8KANztd-DozlJipu8tprSn80Q8pw",
+      "icon_72": "https://play-lh.googleusercontent.com/kmxAt02yG8Hp-TzZHDoRGFtB70QFz7njpWQzQp8KANztd-DozlJipu8tprSn80Q8pw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.maps"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and find what you need by getting the latest information on businesses, including grocery stores, pharmacies and other important places.\n\nGet where you need to go efficiently:\n• Find the best route with automatic rerouting based on live traffic, incidents, and road closure\n\nFind important businesses:\n• Know what’s open in your area and their latest business hours\n• Find local restaurants offering delivery and takeout\n• Create lists of your important places \n\nGet there faster with real-time updates\n• Beat traffic with real-time ETAs and traffic conditions\n• Catch your bus, train, or ride-share with real-time transit info\n• Save time with automatic rerouting based on live traffic, incidents, and road closure\n• With Live View in Google Maps, see the way you need to go with arrows and directions placed right on top of your world. There’s no second guessing or missing another turn.\n\nMore experiences on Google Maps\n• Offline maps to search and navigate without an internet connection\n• Street View and indoor imagery for restaurants, shops, museums and more\n• Indoor maps to quickly find your way inside big places like airports, malls and stadiums\n\nSome features not available in all countries\n\nNavigation isn't intended to be used by oversized or emergency vehicles",
+      "android_package_name": "com.google.android.apps.maps",
+      "ios_bundle_id": "com.google.Maps",
+      "title": "Rmaps",
+      "domain_name": [
+        "http://maps.google.com/about",
+        "https://maps.google.com"
+      ],
+      "website": "http://maps.google.com/about",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
+      "icon_72": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "menion.android.locus"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Welcome to Locus Map Lite for iOS, your new companion for all your outdoor adventures! Whether you're a seasoned hiker, a weekend cyclist, or just someone who loves exploring the great outdoors, Locus Map Lite is designed to enhance your experience by providing user-friendly mapping tools right at your fingertips.\n\nKey features:\n- GLOBAL MAPS FOR HIKING AND BIKING: No matter where you are in the world, Locus Map Lite can display your location on a detailed hiking and biking map. For a true view of the landscape, there is the satellite map. Easily navigate your surroundings and discover new trails and paths.\n\n- ACTIVITY RECORDING: Capture every moment of your adventures with track recording. Whether you're cycling, hiking, or enjoying a leisurely trip, Locus Map Lite keeps track of your rides, workouts, and journeys.\n\n- POINTS OF INTERESTS: Enhance your exploration with a rich display of points of interest right on your map. Each one includes useful information, attractive landmarks are depicted on Wikipedia photos, and you can even add your photos so everybody always knows the current state of the place. From scenic overlooks to tourist attractions and facilities, Locus Map Lite helps you discover more.\n\n- SYNC ACROSS DEVICES: Seamlessly sync your data — tracks, routes, points — with other devices running Locus Map, even cross-platform, or with your web library. Your adventures are always accessible, no matter where you are or what device you use.\n\n- LOCAL LIBRARY MANAGEMENT: Manage your tracks, routes, and points with ease. Our local library management tools allow you to sort, move, and delete your data, making it easy to organize your outdoor activities. You can import or export any data via GPX files and also share your activities and interesting places with others.\n\n- SEARCH WORLDWIDE: Looking for a specific place or point of interest? Our global search capability lets you find locations anywhere in the world, enhancing your planning and on-the-go decisions.\n\n- INTEGRATION WITH APPLE HEALTH AND WATCHES: Keep track of your health and fitness goals. Locus Map Lite integrates with Apple Health so that you can download your activities from your watch to the library for in-app analysis or further planning.  \n\nJoin us in shaping the future:\n\nLocus Map Lite is just at the beginning and your input and support are invaluable as we continue to improve and expand its capabilities. We invite you to join us on our journey by sharing your feedback and suggestions for the development. Help us tailor Locus Map Lite to better meet the needs of our adventurous community.\n\nWhether you're trekking through mountains, cycling through the countryside, or exploring urban landscapes, Locus Map Lite is here to guide you every step of the way. Try it today and see where it takes you!",
+      "android_package_name": "menion.android.locus",
+      "ios_bundle_id": "com.asamm.locusmap",
+      "title": "Locus Map",
+      "domain_name": [
+        "https://www.locusmap.app/ios",
+        "https://www.locusmap.app"
+      ],
+      "website": "https://www.locusmap.app/ios",
+      "developer": "Asamm Software, s. r. o.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/uM-rjZJRTNqLpvMIVjkeRJzDn8Os4gnVdqYtkP5ve2FqvyLQEzNx2A2epS0vQ5nzCbk",
+      "icon_72": "https://play-lh.googleusercontent.com/uM-rjZJRTNqLpvMIVjkeRJzDn8Os4gnVdqYtkP5ve2FqvyLQEzNx2A2epS0vQ5nzCbk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.outdooractive.Outdooractive"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Whether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trail-goers like you. We’ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It’s built on the idea that the outside isn’t a place to seek, but rather a part of us all. Custom route planning helps you search for dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more.\n\n◆ Discover trails: Search over 450,000 trails around the world by location, interest, skill level, and more.\n◆ Plan your next adventure: Get in-depth trail info, from reviews to conditions to GPS driving directions — and save your favorite trails for later.\n◆ Stay on course: Stick to your planned route or chart your own course with confidence when you navigate on the trail.\n◆ Grow your community: Celebrate outdoor adventures and find inspiration by connecting with trail-goers like you.\n◆ Share your outdoor adventures: Easily post trails and activities on Facebook, Instagram, or WhatsApp.\n\nDiscover trails that fit your nature. Trails for workout planners, hikers, walkers, mountain bikers, trail runners, and casual cyclists. Whether you’re pushing your limits or pushing a stroller, there’s something out there for everyone. Let AllTrails help you find it.\n\n► Do more outdoors with AllTrails+ ►\nSpend less time figuring out where you want to be, and more time enjoying where you are. With offline maps, wrong-turn alerts, and extra safety and planning features, your annual subscription gives you more tools for more adventures.\n\n◆ Search by distance from you to find the closest trails.\n◆ Stay informed with live route planner details like air quality, pollen, and light pollution.\n◆ Unplug completely or pack a backup with printed maps.\n◆ Download offline maps ahead of time and track your GPS location, even with no cell service.\n◆ Keep loved ones in the loop with Live Share.\n◆ Prepare for the hills ahead: Follow topo maps and trail maps in 3D.\n◆ Focus on the view, not the map, with wrong-turn alerts.\n◆ Get satellite weather with real-time map details.\n◆ Record your activity with stats and photos of your favorite hiking trails.\n◆ Stay on track: Automatically export your records to the Apple Health app.\n◆ Give back: AllTrails donates a portion of every subscription to 1% for the Planet.\n◆ Explore ad-free: Remove occasional ads by subscribing.\n\nWhether you’re geocaching in a national park, browsing bucket-list mountain bike routes, or planning a trail run to clear your head, AllTrails+ makes the great outdoors even greater.",
+      "android_package_name": "com.outdooractive.Outdooractive",
+      "ios_bundle_id": "com.alltrails.AllTrails",
+      "title": "ViewRanger",
+      "domain_name": [
+        "https://www.alltrails.com",
+        "https://www.alltrails.com"
+      ],
+      "website": "https://www.alltrails.com",
+      "developer": "AllTrails, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zykBMnBm66Da5zhW5bwOvnKkC5HHtijjc4l9Iu2Y25vaWamn7nlhNWg6LmLPji-9bdkQ",
+      "icon_72": "https://play-lh.googleusercontent.com/zykBMnBm66Da5zhW5bwOvnKkC5HHtijjc4l9Iu2Y25vaWamn7nlhNWg6LmLPji-9bdkQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.trailbehind.android.gaiagps.pro"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Whether you’re out in the snow or exploring scenic hiking trails and amazing offroad routes, Gaia GPS has you covered. Spend less time looking at your phone and more time taking in the snowy landscapes with the newly redesigned app. Backpack, overland, discover campgrounds and skiing routes, or explore breathtaking hike trails thanks to Gaia GPS.\n\nMake the wilderness your backyard with Gaia GPS. Enjoy the best hiking app, road trip planner, and backcountry navigator – all in one. Reach your next summit out on the snow with offline maps, GPS coordinates, and distance tracker features to help you explore the world around you.\n\nCruise through popular ski tracks or hike trails confidently with GPS navigation tools to guide you through national parks and nature routes. Download the premier outdoor activity app featured in publications like the New York Times, Washington Post, and GearJunkie.\n\nBACKPACK OR HIKE\n• Hike trails and running routes are available on Gaia Topo, the ultimate backcountry navigator.\n• National parks or backcountry trails – Pave your path out on the snow with nature routes waiting to be explored\n• Access the full NatGeo map collection\n• Backpack along offroad hiking trails & back to base camp with breadcrumbs\n• Distance tracker with altitude and elevation monitoring for each activity\n\nBE READY FOR SNOW SEASON\n• The Gaia Winter base map is designed for winter activities and works well with other winter layers\n• Know current conditions with ski resort information and Nordic trails from OnTheSnow\n• Skiing, snowboarding, and more – chase the snow with curated snow mobile trails\n• Find the perfect snow with Snow Station and Snow Forecast map layers\n• Ski reports help tackle any adventure safely with Slope Angle and Avalanche Forecast layers\n\nROAD TRIP PLANNER MADE FOR YOU\n• Offroad travel is easy with GPS coordinates\n• Offline maps: RV travel is easy with offline maps that track your location, even when far from cell service\n• Road trippers can prepare with available parks, route conditions, and activity tracker features\n\nOFFROAD ACTIVITY PLANNING\n• 4x4 & overlanding adventures are easy to record on Gaia GPS\n• Activity tracker and route planner make navigating trails offroad simple\n• Follow ski tracks or create your own routes on the fly with snap-to-trail route building\n• Maps, routes, and waypoints displayed directly on Apple CarPlay\n\nEXPLORE THE WORLD LIKE A PROFESSIONAL\n• GPS coordinates help explore the wilderness while creating routes and tracking progress\n• Mark ski tracks, hike trails, routes, & campgrounds\n• Share your data with clients & fellow guides to improve Gaia GPS\n\nELEVATE YOUR OUTDOOR ADVENTURES WITH GAIA GPS PREMIUM WITH OUTSIDE+\n• Access 300+ maps including NatGeo Trails Illustrated, Private Lands, weather forecasts, and more\n• Offline maps to download anytime.\n• Weather, terrain, and safety features\n• Access the Trailforks GPS biking app\n• Expert-led online courses on Outside Learn\n• Premium access to award-winning films, shows, and live TV on Outside Watch\n• Unlimited digital access to Outside Network's 15 iconic brands including Outside, Backpacker and National Park Trips.\n\nExplore the world with Gaia GPS to guide all of your wintry adventures. Enjoy GPS navigation, skiing features, and countless hike trails with Gaia GPS – your perfect outdoor companion.\n\nSIGNUP\n• Gaia GPS is part of the Outside Network. Create an Outside account to access the app.\n\nTO MANAGE YOUR SUBSCRIPTION:\n• TURN OFF auto-renewal: https://support.apple.com/kb/ht4098\n• Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You will be charged for renewal within 24 hours of the end of the current period.\n• Your Apple App Store Account will be charged at confirmation of purchase.\n• Privacy Policy: https://www.gaiagps.com/company/privacy\n• Terms of use: https://www.gaiagps.com/company/terms_of_use",
+      "android_package_name": "com.trailbehind.android.gaiagps.pro",
+      "ios_bundle_id": "com.trailbehind.GaiaGPS.ng",
+      "title": "Gaia GPS",
+      "domain_name": [
+        "http://www.gaiagps.com",
+        "https://www.gaiagps.com"
+      ],
+      "website": "http://www.gaiagps.com",
+      "developer": "Trailbehind, INC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/s6pHmiQZL7sSISU8A67xQ8dA5xhK2GhLkCO8ul6Ow0IrLUXGb_BjQP-4uaXA3ZsavbI",
+      "icon_72": "https://play-lh.googleusercontent.com/s6pHmiQZL7sSISU8A67xQ8dA5xhK2GhLkCO8ul6Ow0IrLUXGb_BjQP-4uaXA3ZsavbI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "net.osmand"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "OsmAnd is an offline world map application based on OpenStreetMap (OSM), which allows you to navigate taking into account the preferred roads and vehicle dimensions. Plan routes based on inclines and record GPX tracks without an internet connection.\nOsmAnd is an open source app. We do not collect user data and you decide what data the app will have access to.\n\nMain features:\n\nMap view\n• Choice of places to be displayed on the map: attractions, food, health and more;\n• Search for places by address, name, coordinates, or category;\n• Map styles for the convenience of different activities: touring view, nautical map, winter and ski, topographic, desert, off-road, and others;\n• Shading relief and plug-in contour lines;\n• Ability to overlay different sources of maps on top of each other;\n\nGPS Navigation\n• Plotting a route to a place without an Internet connection;\n• Customizable navigation profiles for different vehicles: cars, motorcycles, bicycles, 4x4, pedestrians, boats, public transport, and more;\n• Change the constructed route, taking into account the exclusion of certain roads or road surfaces;\n• Customizable information widgets about the route: distance, speed, remaining travel time, distance to turn, and more;\n\nRoute Planning and Recording\n• Plotting a route point by point using one or multiple navigation profiles;\n• Route recording using GPX tracks;\n• Manage GPX tracks: displaying your own or imported GPX tracks on the map, navigating through them;\n• Visual data about the route - descents/ascents, distances;\n• Ability to share GPX track in OpenStreetMap;\n\nCreation of points with different functionality\n• Favourites;\n• Markers;\n\nOpenStreetMap\n• Making edits to OSM;\n• Updating maps with a frequency of up to one hour;\n\nAdditional features\n• Compass and radius ruler;\n• Mapillary interface;\n• Night theme;\n• Large community of users around the world, documentation, and support;\n\n\nPaid features:\n\n\nOsmAnd Maps+ (in-app or subscription):\n• Unlimited map downloads;\n• Topo data (Contour lines and Terrain);\n• Nautical depths;\n• Offline Wikipedia;\n• Apple CarPlay support;\n\nOsmAnd Pro (subscription):\n• All Maps+ features;\n• Weather forecast on the map online/offline;\n• OsmAnd Cloud (backup and restore);\n• Customize Route line;\n• Hourly map updates.",
+      "android_package_name": "net.osmand",
+      "ios_bundle_id": "net.osmand.maps",
+      "title": "Osmand Maps & Navigation",
+      "domain_name": [
+        "http://osmand.net",
+        "https://osmand.net"
+      ],
+      "website": "http://osmand.net",
+      "developer": "OsmAND B.V.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FSmpbc9ugImmneiJac8ffLvHrkgZ19xZJCjJVgrlTMpFRUn1XB0dkpP90iVePSvC9vc",
+      "icon_72": "https://play-lh.googleusercontent.com/FSmpbc9ugImmneiJac8ffLvHrkgZ19xZJCjJVgrlTMpFRUn1XB0dkpP90iVePSvC9vc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nng.igo.primong.igoworld"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Join millions of travelers around the world and take the journeys that matter. Using half the storage space of many other navigation apps, iGO Navigation is an offline app that guides you on adventures around the world. \n\nIncluding only the features that help you the most, we do away with distractions – just you and the world around you, because we believe that travel should be experienced between the traveler and the world, not the traveler and their phone.\n\nThe iGO Navigation app is for those who believe in a purer form of discovery, but want a helpful guide to push them in the right direction, whether you’re traveling in your hometown, a new country, or across a continent. The award-winning, full-service app now has improved visualization, accelerated route calculation, reduced storage space requirements, and advanced offline features, making it the best copilot to help you experience the world around you. \n\nFind your inner explorer, and hit the road like a pro. No more getting lost, no more wasting time, no more clogging your phone, no more searching for WiFi, and no more distractions. iGO Navigation: for the journeys that matter.\n\n\n************************************\n\nWhat does iGO Navigation offer?\n-\tOver 100 countries, including the U.S., Canada, Mexico, Brazil, Argentina, Germany, Italy, France, Australia, Russia, Turkey, and more\n-\tHalf the storage space compared to many other navigation apps, saving room for more important travel necessities, such as photos, videos, and music \n-\tFast and diverse route calculation options to find the best route possible\n-\tPOIs to help you find restaurants, bars, landmarks, malls, stores, and more\n-\t3D landmarks and 3D city maps for clarity and easy-to-process visualization\n-\tOffline reliability to keep you on track, be it in a crowded city or remote backcountry\n-\tPoint addressing to accurately pinpoint hard-to-find locations and to navigate in places that follow non-sequential numbering or don’t have address numbering at all\n-\tJunction view to prevent confusion when entering and exiting major roadways\n-\tAdvanced Text-To-Speech for hands-free and turn-by-turn directions \n\n\n\n************************************\n\nIMPORTANT TECHNICAL INFORMATION\nInstallation and setup\nPlease note that since iPod touch and iPad (WiFi only) do not have built-in GPS-receivers, an external GPS-receiver is required. Only those receivers are compatible, which are officially supported by Apple. Due to the size of the package and certain In-App items, we recommend purchasing and downloading the application, In-App items or updates through WiFi or fixed line Internet access via the iTunes software installed on a personal computer.\n\nNote: Continued use of GPS running in the background can dramatically decrease battery life. Background navigation has to be turned on while using the application; you can do this under \"Settings / Advanced settings\" in iOS 7.",
+      "android_package_name": "com.nng.igo.primong.igoworld",
+      "ios_bundle_id": "com.nng.igo.primong.igoworld",
+      "title": "iGO Navigation",
+      "domain_name": [],
+      "website": "",
+      "developer": "NNG LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/t6WwwwFsWszc4_W8ckhcVAZwQ86N5TAN_9BBGDb9JdMZTGZyWSZlP3PHDQ6SopbdbkFx",
+      "icon_72": "https://play-lh.googleusercontent.com/t6WwwwFsWszc4_W8ckhcVAZwQ86N5TAN_9BBGDb9JdMZTGZyWSZlP3PHDQ6SopbdbkFx=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.takteck.navitruck"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "TruckMap is the best free mobile app built for Truck Drivers. The only app with truck optimized GPS routes for commercial vehicles, turn-by-turn routing, diesel fuel, weigh stations, overnight parking, Walmart, and Rest Areas.\n\nTruck Optimized GPS Routes\n- Routes and directions for Trucks, not cars\n- Turn-by-turn routing and navigation\n- Commercial vehicle restrictions for truck weight, low clearance, and HAZMAT\n- Customize truck height, weight, and avoid Toll Roads\n- Route around truck-forbidden roads and highways\n- Find trucking locations along the way and never miss a stop\n\nOver 600,000 Truck Facilities\n- Walmart, Pilot / Flying J, Petro, Love's, Roady's, AM Best, TA TravelerCenters of America\n- Thousands of other trucker stops with laundry, showers, and truck washes\n- Thousands of Weigh Stations, DOT Inspection Sites, and Rest Areas\n- Shipping facility reviews and driver feedback\n- Over 400,000 truck parking spots\n\nFreight Broker Marketplace\n- Over $4.5B worth of freight listed per year from our freight broker, 3PL, and logistics partners\n- Book-it-now loads with bidding and carrier onboarding\n- Find headhaul, backhaul, and highest rate-per-mile freight\n\nFilter Locations With: Parking (Daytime, Overnight, HAZMAT), Truck Washes, Convenience and Grocery Stores, Diesel Fuel, Biodiesel, Propane, DEF Lines, CAT Scales, Air Hoses, ATM, Restrooms, Showers, Laundry, Wi-Fi, RV Dump Stations, and Open 24/7\n\nTruck Services: Truck Washes, Oil Changes, Tire Service, Truck Mechanics, Truck Dealers, Roadside Assistance, Towing.\n\nMade in Chicago, USA",
+      "android_package_name": "com.takteck.navitruck",
+      "ios_bundle_id": "com.truckmap.truckmap",
+      "title": "TruckMap",
+      "domain_name": [
+        "https://truckmap.com",
+        "https://truckmap.com"
+      ],
+      "website": "https://truckmap.com",
+      "developer": "Tenstreet LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/YNF3Bphys3ARF-Ef4pB_RkU8TxmoBClD--zSgivPJMTKLbKnHwihDferpUS3ywpZwA",
+      "icon_72": "https://play-lh.googleusercontent.com/YNF3Bphys3ARF-Ef4pB_RkU8TxmoBClD--zSgivPJMTKLbKnHwihDferpUS3ywpZwA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.grumsendev.find_my_car"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Find My Car application has been featured in The Sunday Telegraph among the best gadgets for you car.\n\nThe Wall Street Journal has selected this application in its Top 10 Apps That Will Change Your Life.\n\n\"Wondering around helplessly trying to find your parked car is a common recurring mid-life frustration dream, but it need never again be a reality with this inspired application. Find My Car puts an end to the ignominy of misplacing your car.\" - The Wall Street Journal.\n\nFind My Car is a simple application that uses GPS location services to help you find your car. You will never forget where you parked!\n\nNEW : The Augmented Reality feature is now available. You can now search your car using Augmented Reality technology.\n\nHow to use :\n\n1. Open Find My Car application and save your car position on the map. You can also take a picture and associate a short description to help fully document the parking spot.\n\n2. To find your car again, open the application and locate your last car position on the map (different zoom levels available). The distance to your car is displayed in real time as you walk down the street! You can also see the best walking direction from your current position to your parked car.\n\nIMPORTANT : This application requires an active Internet connection to retrieve data. You also need to turn on \"Location Services\" option in the settings of your iPhone.\n\nThank you for taking the time to report any bugs or to request an enhancement to Find My Car application. Feedback is very important to us. We will do our best to answer queries. Email us at support@presselite.com",
+      "android_package_name": "com.grumsendev.find_my_car",
+      "ios_bundle_id": "com.presselite.park",
+      "title": "Find My Car",
+      "domain_name": [
+        "http://www.presselite.com",
+        "https://www.presselite.com"
+      ],
+      "website": "http://www.presselite.com",
+      "developer": "Alexandre Morcos",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/UF6EDak0fpnrdTmx1uEURelC-gYz__JpK9Qqj56F9Ewa9kG_HsM9rTPDMXfRiT-Ax_yS",
+      "icon_72": "https://play-lh.googleusercontent.com/UF6EDak0fpnrdTmx1uEURelC-gYz__JpK9Qqj56F9Ewa9kG_HsM9rTPDMXfRiT-Ax_yS=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "gps.speedometer.hud.odometer.mph.tracker"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "GPS Speedometer and Odometer app is used to measure car, bike, walk, run, boat, bus, train, bicycle and aeroplane speed. \n\n\n\nGPS Speedometer and Odometer app is used to measure the speed of cars, bicycles, walks, races or even boats, buses, trains, bicycles and planes.\n\nFeature:\n\n- It shows the current speed, average speed, moving speed, maximum speed, distance, odometer, stopwatch, clock, movement time, idle time, pause time, latitude, longitude, altitude, GPS connectivity and direction of movement.\n\n- Pedometer helps you count steps, see calories burnt, miles tracked and elapsed time, all the data is saved in list and you can get an idea of all records in just 1 click. \n\n- The speed accuracy is close to 99%.\n\n- It can even work offline.\n\n- It has 5 portrait and 5 landscape modes, including HUD (Head-up Display).\n\n- You can change the colors of the display.\n\n- This speedometer app has 4 speed units - MPH, km/h, m/s and knots.\n\n- You can set both the minimum and maximum speed limits to make sure you do not get too fast. Else the app starts vibrating, sounding, and changes the display color to red.\n\n- All trips are automatically saved and can be viewed at any time.\n\n- You can set 5 different speed limits at the same time.\n\n- You can set the maximum speed separately.\n\n- It is very helpful for those who have a broken speedometer or odometer in their car, bike or other vehicle.\n\n- It tracks your route on the map and keeps track of every detail, including speed, accuracy, altitude, latitude and longitude.\n\n- It has a compass function that lets you see where you are pointing at.\n\n- You can view the speed in 1/100 decimal point.\n\n- It can be used to measure your walking speed.\n\n- You can view all statistics with a tap.\n\n\nIf you have questions or doubts, our customer support team is extremely responsive. Feel free to contact us at TeamCoolNiks@gmail.com.\n\n\nImportant: The app may not work in devices which don''t have GPS receiver like iPad with WiFi only.",
+      "android_package_name": "gps.speedometer.hud.odometer.mph.tracker",
+      "ios_bundle_id": "com.coolniks.niksgps",
+      "title": "GPS Speedometer & Odometer",
+      "domain_name": [],
+      "website": "",
+      "developer": "Nikhil Kumar",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/d_HkPsjj5RQDKE4OkbC-EFR4xabEKrXqm6NX5AiZ9GwVRLaMrkC2YnxAuQGYhpw6idMC",
+      "icon_72": "https://play-lh.googleusercontent.com/d_HkPsjj5RQDKE4OkbC-EFR4xabEKrXqm6NX5AiZ9GwVRLaMrkC2YnxAuQGYhpw6idMC=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mapfactor.navigator"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "MapFactor Navigator is a free GPS navigation app with free offline maps from OpenStreetMaps (incl. free monthly maps update). You can navigate without an internet connection in 200+ countries. Intuitive voice turn-by-turn navigation in different languages, speed limits, camera warnings and many other useful features.\n\nKey features of the MapFactor GPS Navigation app:\n- voice navigation in various languages\n- door-to-door route planning\n- overview of the upcoming manoeuvre and distance shown on the screen\n- free offline maps with postcodes (full GB postcodes) installed on your device\n- points of interest\n- speed limit and camera warnings \n- favourite routes and places\n- 2D/3D mode allows realistic visual maps display\n- day/night map mode\n- routing modes for car, bus, pedestrian, bicycle, motocycle\n- route avoidance - block certain road from your route\n- maps rotate in driving direction, or north up\n- blue motorway signs\n- CarPlay connectivity (beta)\n\nPremium Features:\n- Head-Up Display\n- Alternative Routes\n- Remote commands\n- No Ads\n\nLive HD Traffic:\n- reach your destination stress free, avoid any traffic problem\n- all traffic problems at a glance on the map or in a table\n\nOSM maps are created and updated by the community of volunteers at www.osm.org. OSM maps are updated every month for FREE.\n\nOptional professional TomTom navigation maps with UK postcodes available - more reliable and accurate for vehicles navigation. Car version or Truck version with enhanced information for large vehicles.\n\nIf you wish to get help or provide feedback to our GPS navigation app, please email ios@mapfactor.com.\n\n---   OpenStreetMap: Available free GPS maps: ---\n= EUROPE:\nAlbania\nAndorra\nArmenia\nAzerbaijan\nAustria\nBelarus\nBelgium\nBosnia And Herzegovina\nBulgaria\nCroatia\nCyprus\nCzechia\nDenmark\nEstonia\nFaroe Islands\nFinland\nFrance\nGeorgia\nGermany\nGibraltar\nGreece\nGuernsey\nHungary\nIceland\nIreland\nIsle Of Man\nItaly\nJan Mayen\nJersey\nKosovo\nLatvia\nLiechtenstein\nLithuania\nLuxembourg\nMacedonia\nMalta\nMoldova\nMonaco\nMontenegro\nNetherlands\nNorway\nPoland\nPortugal\nRomania\nRussian Federation\nSan Marino\nSerbia\nSlovakia\nSlovenia\nSpain\nSweden\nSwitzerland\nUkraine\nUnited Kingdom\nUK Postcode - Ordnance Survey \nVatican City\n\n= AMERICA:\nAntigua And Barbuda\nArgentina\nAruba\nBarbados\nBelize\nBolivia\nBrazil\nBritish Virgin Islands\nCanada\nCaribbean Netherlands\nChile\nColombia\nCosta Rica\nCrozet Islands\nCuba\nCuracao\nDominica\nDominican Republic\nEcuador\nEl Salvador\nFrench Guiana\nGrenada\nGuadeloupe\nGuatemala\nGuyana\nHaiti\nHonduras\nJamaica\nMartinique\nMexico\nMontserrat\nNicaragua\nPanama\nParaguay\nPeru\nPuerto Rico\nSaint Kitts And Nevis\nSaint Lucia\nSaint Martin\nSaint Vincent And The Grenadines\nSt Pierre And Miquelon\nSuriname\nThe Bahamas\nTurks And Caicos Islands\nTrinidad And Tobago\nUruguay\nUSA\nVirgin Islands\nVenezuela\nWallis And Futuna\n\n= ASIA:\nAfghanistan\nBahrain\nBangladesh\nBhutan\nBrunei\nCambodia\nD.Rep. of Timor Leste\nGaza Strip\nChina\nIndia\nIndonesia\nIran\nIraq\nIsrael\nJapan\nJordan\nKazakhstan\nKuwait\nKyrgyzstan\nLaos\nLebanon\nMalaysia\nMaldives\nMongolia\nNepal\nNorth Korea\nOman\nPakistan\nPalestine\nQatar\nPhilippines\nSaudi Arabia\nSingapore\nSouth Korea\nSri Lanka\nSyria\nTaiwan\nTajikistan\nThailand\nTurkey\nTurkmenistan\nUnion Of Myanmar\nUnited Arab Emirates\nUzbekistan\nVietnam\nYemen\n\n= AUSTRALIA:\nAustralia\nFed. States Of Micronesia\nFiji\nGuam\nKiribati\nMarshall Islands\nNauru\nNew Caledonia\nNew Zealand\nNorthern Mariana Islands\nPalau\nPapua New Guinea\n\n= AFRICA:\nAlgeria\nAngola\nBenin\nBotswana\nBurkina Faso\nBurundi\nCameroon\nCape Verde\nCentral African Republic\nChad\nComoros\nCongo\nD.Rep. of The Congo\nDjibouti\nEgypt\nEquatorial Guinea\nEritrea\nEthiopia\nGabon\nGambia\nGhana\nGuinea Bissau\nGuinea\nIvory Coast\nKenya\nLesotho\nLiberia\nLibya\nMadagascar\nMalawi\nMali\nMauritania\nMauritius\nMorocco\nMozambique\nNamibia\nNiger\nNigeria\nRwanda\nSao Tome And Principe\nSenegal\nSeychelles\nSierra Leone\nSomalia\nSouth Africa\nSudan\nSwaziland\nTogo\nTunisia\nUganda\nTanzania\nWestern Sahara\nZambia\nZimbabwe\n\nTerms of Use: http://bit.ly/MFTermsOfUse",
+      "android_package_name": "com.mapfactor.navigator",
+      "ios_bundle_id": "ios.com.mapfactor.navigator",
+      "title": "MapFactor Navigator",
+      "domain_name": [
+        "https://navigatorfree.mapfactor.com",
+        "https://navigatorfree.mapfactor.com"
+      ],
+      "website": "https://navigatorfree.mapfactor.com",
+      "developer": "MAPFACTOR, s.r.o.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/WdwGZHXxxNaN_Ars_5xlCWp4wq_DpuxSKIV6qA2vK2iXFpiBo-pJZXCt91p_tD8J-IJU",
+      "icon_72": "https://play-lh.googleusercontent.com/WdwGZHXxxNaN_Ars_5xlCWp4wq_DpuxSKIV6qA2vK2iXFpiBo-pJZXCt91p_tD8J-IJU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.alltrails.alltrails"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Whether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trail-goers like you. We’ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It’s built on the idea that the outside isn’t a place to seek, but rather a part of us all. Custom route planning helps you search for dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more.\n\n◆ Discover trails: Search over 450,000 trails around the world by location, interest, skill level, and more.\n◆ Plan your next adventure: Get in-depth trail info, from reviews to conditions to GPS driving directions — and save your favorite trails for later.\n◆ Stay on course: Stick to your planned route or chart your own course with confidence when you navigate on the trail.\n◆ Grow your community: Celebrate outdoor adventures and find inspiration by connecting with trail-goers like you.\n◆ Share your outdoor adventures: Easily post trails and activities on Facebook, Instagram, or WhatsApp.\n\nDiscover trails that fit your nature. Trails for workout planners, hikers, walkers, mountain bikers, trail runners, and casual cyclists. Whether you’re pushing your limits or pushing a stroller, there’s something out there for everyone. Let AllTrails help you find it.\n\n► Do more outdoors with AllTrails+ ►\nSpend less time figuring out where you want to be, and more time enjoying where you are. With offline maps, wrong-turn alerts, and extra safety and planning features, your annual subscription gives you more tools for more adventures.\n\n◆ Search by distance from you to find the closest trails.\n◆ Stay informed with live route planner details like air quality, pollen, and light pollution.\n◆ Unplug completely or pack a backup with printed maps.\n◆ Download offline maps ahead of time and track your GPS location, even with no cell service.\n◆ Keep loved ones in the loop with Live Share.\n◆ Prepare for the hills ahead: Follow topo maps and trail maps in 3D.\n◆ Focus on the view, not the map, with wrong-turn alerts.\n◆ Get satellite weather with real-time map details.\n◆ Record your activity with stats and photos of your favorite hiking trails.\n◆ Stay on track: Automatically export your records to the Apple Health app.\n◆ Give back: AllTrails donates a portion of every subscription to 1% for the Planet.\n◆ Explore ad-free: Remove occasional ads by subscribing.\n\nWhether you’re geocaching in a national park, browsing bucket-list mountain bike routes, or planning a trail run to clear your head, AllTrails+ makes the great outdoors even greater.",
+      "android_package_name": "com.alltrails.alltrails",
+      "ios_bundle_id": "com.alltrails.AllTrails",
+      "title": "AllTrails",
+      "domain_name": [
+        "https://www.alltrails.com",
+        "https://www.alltrails.com"
+      ],
+      "website": "https://www.alltrails.com",
+      "developer": "AllTrails, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/u9GH1z_4T_YrQFA8OcgTUqUeaRU9Sh99i2ptfrpwTvEhvw3etf7L0MGzABgjJ_b4U9o",
+      "icon_72": "https://play-lh.googleusercontent.com/u9GH1z_4T_YrQFA8OcgTUqUeaRU9Sh99i2ptfrpwTvEhvw3etf7L0MGzABgjJ_b4U9o=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.crittermap.backcountrynavigator.xe"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Explore the outdoors on your own terms with BackCountry Navigator XE. Choose and download maps for offline use. Use your iOS device as a handheld GPS. \n\nChoose from over 50 worldwide and country specific map sources. App makes suggestions based on where the map is centered. The worldwide sources are often the best. Some countries with specific content to consider are Spain, UK, Australia, New Zealand, and Canada. \n\nWith membership, save maps for offline use. An easy grid interface lets you choose blocks for download, and see those you have already downloaded. Switch to offline maps to see what you have downloaded when out in the backcountry.\n\nA worldwide vector map, known as the BackCountry World Map, allows for quick download of large blocks. Small size with splendid detail even when zoomed in.  \n\nNavigate in the wild with GPS \n\nRecord your path as a track, seeing a customized set of stats as you progress. \n\nSet waypoints by tapping the screen or at the current GPS Location. \n\nUpload or download trips from the cloud on demand.\n\nSee the trips on your desktop browser. Import or export GPX or KML. Updated UI for this website is coming soon. \n\nOptional overlays enhance map with boundaries, parcel data, or trail maps. BLM boundaries show limits of various types of federal lands within the western United States. Most US States have parcel data and wildlife management boundaries. \n\nUse is subject to license agreement at https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "android_package_name": "com.crittermap.backcountrynavigator.xe",
+      "ios_bundle_id": "com.crittermap.backcountrynavigator.xe",
+      "title": "BackCountry Navigator",
+      "domain_name": [
+        "https://bcnavxe.com",
+        "https://bcnavxe.com"
+      ],
+      "website": "https://bcnavxe.com",
+      "developer": "CritterMap Software LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/w6GIXRtco7iKXIh8lOgJF75pLQycBZv4zwGiBCkQmXfaRpf07_HIU95WEFkMEk6LvQ",
+      "icon_72": "https://play-lh.googleusercontent.com/w6GIXRtco7iKXIh8lOgJF75pLQycBZv4zwGiBCkQmXfaRpf07_HIU95WEFkMEk6LvQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wanderlog.android"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "MyWay Route Planner is an app that builds the most efficient routes. MyWay app helps you save up to 30% of your time and money on fuel by providing an optimized stop sequence.\n\nMyWay Route Planner solves all your routing problems and uses the best route optimization algorithms. The app combines the most up-to-date maps, addresses, and places databases from Google Maps, Mapbox, Here, TomTom, ArcGis, and OpenStreetMap into one route planner. MyWay Route Planner is suitable for individuals, small businesses, and enterprises. MyWay app can work as a delivery route planner, sales route planner, property management route planner, telco route planner, and healthcare route planner, and it has features that will work for every industry.\n\nMyWay Route Planner features:\n- Optimise routes up to 200 stops.\n- Optimise routes up to 10000 miles.\n- Easy to import your addresses (by Photo, Voice, Excel, CSV, from Phonebook, by Web-Link, from other MyWay users, etc.)\n- Every Stop has Priority, Time Window, Time at Stop, Tracking ID, Color, Stop Type, and many other parameters that help you manage and prioritize them.\n- Routes sharing and tracking.\n- Support car, van, small truck (lorry), truck, motorcycle, bicycle, and walking routes.\n- Live traffic and historic traffic. Other route conditions (like weather) are also taken into account.\n- Circuit routes, one-way routes, pickup/delivery routes, and all route scenarios.\n- Delivery-specific features like proof of delivery (photo, signature, notes, etc.).\n- Sales-specific features like favourites and connection to your Phonebook.\n- Route history with all information about every route (routes export and reports).\n- Route building settings (allow u-turns, side of the road, access points, etc.)\n- One-click navigation to every stop with your favourite navigation app like Google Maps, Apple Maps, Waze, MapsMe, Here WeGo, Organic Maps, etc.\n- Forever Ad-free.\n\nMyWay Route Planner app optimizes every aspect of route planning, from address input to navigation. Our app is optimized for user experience and simplicity.\n\nMyWay Free Route Planner allows you to optimize an unlimited number of routes, up to 20 stops per route, with all features available.\nMyWay Premium Route Planner allows you to optimize an unlimited number of routes, up to 200 stops per route, with all features available.\n\nTerms of Service: https://apps.proalab.com/policies/myway-terms.html\nPrivacy Policy: https://apps.proalab.com/policies/myway-privacy.html\n\nIf you have a support query, please get in touch with us by email: support@mywayroute.com\n\nMyWay Route Planner is the Route Planner you have always been looking for. Install it today!",
+      "android_package_name": "com.wanderlog.android",
+      "ios_bundle_id": "com.proalab.routeoptimizer",
+      "title": "Furkot",
+      "domain_name": [
+        "https://mywayroute.com",
+        "https://mywayroute.com"
+      ],
+      "website": "https://mywayroute.com",
+      "developer": "Proalab Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/UPCPofy2GzRCOSvrJh1Vf03KJ-yoZlzPn9F8X3wmZ3Q8Ja2cFSgMVTW9RzISEKLJ9us",
+      "icon_72": "https://play-lh.googleusercontent.com/UPCPofy2GzRCOSvrJh1Vf03KJ-yoZlzPn9F8X3wmZ3Q8Ja2cFSgMVTW9RzISEKLJ9us=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.outdooractive.Outdooractive"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Confidently explore the great outdoors with Outdooractive - Hike and Ride: The most reliable outdoor navigation app, as trusted by thousands of trail wardens, mountain guides and outdoor industry professionals worldwide. \n\nThe Outdooractive - Hike and Ride app helps you find officially approved routes near you and around the world, with suggestions for dozens of sports including: hiking paths, trekking trails, mountain biking routes, trail running paths, ski touring routes and more. \n\nOr plan your own routes using the deepest catalog of official maps to take adventures into your own hands with our map route planner. \n\nFind routes you can rely on: Browse thousands of officially-approved routes near you and across the world, including routes for hiking, road cycling, bike touring, ski touring, gravel riding, trail running, horseback riding, mountaineering and more. \n\nPlan your own routes with tools trusted by professionals: Easily plot your own outdoor routes in the route planner in just a few taps, and see all need to know distance, elevation and terrain info.\n\nSave everything offline: Save individual plans or entire areas offline for reliable navigation when you don't have a phone signal. \n\nBrowse the deepest collection of different map types to track or plan your adventures with confidence: Simply switch between different layers to get a clearer picture of the terrain you're planning to visit, and get the most reliable understanding of conditions on the ground. Outdooractive's map catalog currently includes:\nOfficial topo maps in 25 countries, including:\nOrdnance Survey (Landranger & Explorer) in the United Kingdom, New Zealand Land Information in NZ, USGS in the USA, BKG in Germany, BEV in Austria, Swisstopo in Switzerland, IGN in France, PDOK in the Netherlands, Kartverket in Norway, Lantmäteriet in Sweden, Finland National Land Survey in Finland, Harvey Maps in the UK, the official Alpine Club maps for climbing in the Alps\n\nAs well as the specially-designed Outdooractive map across France, Germany, Austria and Switzerland.\n\nShare your live location with family and friends: Give yourself and your loved ones complete peace of mind when you're out in the great outdoors thanks to BuddyBeacon.\n\nJoin a global community of outdoor tourists and adventurers: Share your activities with the community, join challenges to stay motivated, and get inspired by officially-approved content from our thousands of industry partners.\n\nRecorded tracks can be saved as workouts in Apple Health. Your heart rate and biometric data from Apple Health can be used to calculate calories spent during the track recording. No Health data is used for marketing or advertising purposes\n\nFAQs:\nCan Outdooractive find walking trails near me? \nOutdooractive helps you find walking, hiking, cycling and many more types of trails both in your area, and around the world. You're able to filter and view multiple types of activities in an area of your choosing, created and shared by outdoor experts. \n\nHow can I find hiking trails near me?:\nUsing Outdooractive, you're able to find hiking trails in your local area by opening our app and browsing the map. You'll be able to see hiking trails with a range of distances, difficulties and distance from your location.\n\nYour iTunes account will be charged to the amount of the subscription fee after your purchase has been confirmed and after the trial period has expired. The subscription renews annually unless the automatic renewal is deactivated at least 24 hours before the end of the current billing cycle or during the trial period. Costs for any unused periods of the term will not be reimbursed. The option to deactivate can be found in your iTunes account settings. Your account will be charged for the renewal amount within the 24-hour period before the end of the current billing cycle. www.outdooractive.com/en/terms-and-conditions.html",
+      "android_package_name": "com.outdooractive.Outdooractive",
+      "ios_bundle_id": "com.outdooractive.Outdooractive",
+      "title": "Outdooractive",
+      "domain_name": [
+        "https://www.outdooractive.com/en-app.html",
+        "https://www.outdooractive.com"
+      ],
+      "website": "https://www.outdooractive.com/en-app.html",
+      "developer": "Outdooractive AG",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zykBMnBm66Da5zhW5bwOvnKkC5HHtijjc4l9Iu2Y25vaWamn7nlhNWg6LmLPji-9bdkQ",
+      "icon_72": "https://play-lh.googleusercontent.com/zykBMnBm66Da5zhW5bwOvnKkC5HHtijjc4l9Iu2Y25vaWamn7nlhNWg6LmLPji-9bdkQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mmi.maps"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Games",
+      "description": "Discover Happy Color®: a calming paint by numbers game. Relax by painting digital art, with exclusive nature, fashion, Disney art templates and much more - whether you’re looking for a fun, creative moment or for anxiety relief, Happy Color® is the coloring app you need.\n\nExperience everyday well-being with our coloring book. Bring color into your life with Happy Color®, for a calming and easy experience designed for people of all ages and lifestyles.\n\n5 reasons to download Happy Color®:\n\n- Painting made easy: just tap on the pic you like and start coloring. Simple, creative and deeply satisfying.\n- Exclusive pictures: our partnership with Disney allows you to color by number unique art featuring your favorite superheroes and characters.\n- Paint for a good cause: Happy Color® is a partner of several charities around the world. Paint your way through pictures that support children’s charities and environmental protection organizations.\n- Varied and inclusive art: our art templates are the work of artists from all over the world. Immerse yourself into happy, positive pictures and color art coming from all cultures.\n- Relaxing: paint your way through our templates and enjoy the relaxing effect of coloring. With true antistress effects, our paint by number game will allow you to express yourself creatively and bring anxiety relief into your life.\n\nGive yourself a chance to relax or just entertain yourself while having a 5-minute break with the Happy Color® coloring book app.\n\n\nWe are constantly working to make our coloring book better. Please, share your feedback at support.happycolor@x-flow.app\n\nJoin our supportive and friendly online community on Facebook and Instagram, share the pictures you color with your friends and family.\n\nhttps://mobile.facebook.com/happycolorbynumber/\nhttps://instagram.com/happycolor_official\n\nTerms of Use: https://xflowgames.com/terms-of-use.html\nPrivacy Policy: https://xflowgames.com/privacy-policy.html\n\nHappy Color® has a lot of unique pictures hand drawn by professional artists, as well as pics of famous characters, comics, cartoons etc. owned by well-known studios.\n\nDISNEY (© 2024 DISNEY)",
+      "android_package_name": "com.mmi.maps",
+      "ios_bundle_id": "com.coloring.color.number.ios",
+      "title": "Mappy",
+      "domain_name": [
+        "https://xflowgames.com",
+        "https://xflowgames.com"
+      ],
+      "website": "https://xflowgames.com",
+      "developer": "X-FLOW LTD",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/01m5YSLauiGMh4MJm3AtCLmS7KQNfUOjisGTCHuEVYySmevnE7qWkHGsWSB8zLV0RPA",
+      "icon_72": "https://play-lh.googleusercontent.com/01m5YSLauiGMh4MJm3AtCLmS7KQNfUOjisGTCHuEVYySmevnE7qWkHGsWSB8zLV0RPA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tomtom.gplay.navapp.gofleet"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Games",
+      "description": "Get ready to race jetskis with Talking Tom and Friends! Explore the tropical islands as you race your rivals. Dodge obstacles and collect all the coins! Go super fast on your very own jetski and build the perfect beach house. What are you waiting for? Let's go! RACING IS FUN!\n\n***ENJOY THE RUSH OF TALKING TOM JETSKI 2***\n\n- CHOOSE FROM FIVE FREE RIDERS: Talking Tom, Talking Angela, Talking Hank, Talking Ben and Talking Ginger. The whole gang’s here and ready to race!\n- COLLECT 25 UNIQUE JETSKIS: Ranging from the fast ‘n’ fierce Tiger Rider to the fabulously pink Sparkle, the unicorn jetski! Choose your very own and be the best rider!\n- BOOSTER UPGRADES: Customize your jetski with special parts to compete against opponents who’ll do anything to win.\n- RACE IN FIVE DIFFERENT WORLDS: See the spectacular sights by racing in Angela’s Beach Resort, Ben’s Science Lab, Ginger’s Sandcastle, Hank’s Surf Shack, and Tom’s Treasure Island.\n- WIN CHESTS: Every victory earns you a chest packed with mystery items. Will you get the prize you want?\n- BUILD YOUR OWN BEACH RESORT: Spend your race money on building a unique luxury beach house for each character.\n- ANYONE CAN PLAY: The simple control system lets players of all skill levels enjoy the thrill of being a jetski racer.\n\nTalking Tom Jetski 2 is a brand new free game. It’s the sequel to the smash hit racing game, Talking Tom Jetski!\n\nThis game gives you more of the jetski action you love, but with better graphics, upgradable jetskis, and exciting rewards to win with every victory. So download it for FREE now!\n\nJUMP ON YOUR JETSKI AND LET’S RACE!\n\nThis app contains:\n- Promotion of Outfit7's products and third-party advertising\n- Links that direct users to other apps and Outfit7's websites\n- Personalization of content to entice users to play the app again\n- The option to make in-app purchases\n- Items are available for different prices in virtual currency, depending on the current level reached by the player\n- Alternative options to access all functionalities of the app without making any in-app purchase using real money (level progress, games, in-game functionalities, ads)\n\nTerms of use: http://outfit7.com/eula/\nPrivacy policy: http://outfit7.com/privacy-policy/\nCustomer Support: support@outfit7.com",
+      "android_package_name": "com.tomtom.gplay.navapp.gofleet",
+      "ios_bundle_id": "com.outfit7.tomsjetski2",
+      "title": "TomTom Sports",
+      "domain_name": [
+        "http://outfit7.com",
+        "https://outfit7.com"
+      ],
+      "website": "http://outfit7.com",
+      "developer": "Outfit7 Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3Q6i8aIT42VEZP1OgDa74ls4WLFaMAMB6V7ECWAWsMX_E2_FouKRLBcoI2ortH6eAfwT",
+      "icon_72": "https://play-lh.googleusercontent.com/3Q6i8aIT42VEZP1OgDa74ls4WLFaMAMB6V7ECWAWsMX_E2_FouKRLBcoI2ortH6eAfwT=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.runtastic.android"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "\"Staywalk\" is a new awesome adaptive music app which generate the music for your motion activity: for walking, running, cycle, car and more!\n\nDuring a run, you may feel like a secret agent, shaking off a pursuer. Constantly change your speed and make stops — it will all be vibrantly accompanied by your adaptive music. It's amazing!\n\nDuring a stop, you will hear an intense solo without drums, while the maximal speed will be accompanied by all instruments playing in full force.\n\nOr right at home, your may feel like a composer. Download an app and give rhythm shakes to the phone.\n\nEach music theme has its own atmosphere and spirit.\n\nHow about, while driving to work, feeling like you have such courage and energy, as if your place of work were at the other end of the galaxy and you were flying to it through a wormhole? Our fantastic music will help you feel this as well.\n\nPull a prank on your friends while driving a car. How quickly will they guess that the music is accompanying your movements? This is very cool!\n\nAnd finally adjust the speed to yourself and go for a walk!\n\nIf you have questions/offers, please write us by:\n\nstaywalk.com \n\nTechnical support:\nsupport@staywalk.com \n\nRegarding the cooperation:\ngo@staywalk.com",
+      "android_package_name": "com.runtastic.android",
+      "ios_bundle_id": "com.smirnov.staywalk",
+      "title": "Runtastic GPS Running & Cycling",
+      "domain_name": [
+        "http://staywalk.com",
+        "https://staywalk.com"
+      ],
+      "website": "http://staywalk.com",
+      "developer": "Dmitry Smirnov",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/sy5wgliAHslI69mAbhIUzZerj-SaxyMKKNNJH8PEUFNhgidZ9O3lSpS98_Gwjc4uMT8",
+      "icon_72": "https://play-lh.googleusercontent.com/sy5wgliAHslI69mAbhIUzZerj-SaxyMKKNNJH8PEUFNhgidZ9O3lSpS98_Gwjc4uMT8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "de.komoot.android"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Whether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trail-goers like you. We’ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It’s built on the idea that the outside isn’t a place to seek, but rather a part of us all. Custom route planning helps you search for dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more.\n\n◆ Discover trails: Search over 450,000 trails around the world by location, interest, skill level, and more.\n◆ Plan your next adventure: Get in-depth trail info, from reviews to conditions to GPS driving directions — and save your favorite trails for later.\n◆ Stay on course: Stick to your planned route or chart your own course with confidence when you navigate on the trail.\n◆ Grow your community: Celebrate outdoor adventures and find inspiration by connecting with trail-goers like you.\n◆ Share your outdoor adventures: Easily post trails and activities on Facebook, Instagram, or WhatsApp.\n\nDiscover trails that fit your nature. Trails for workout planners, hikers, walkers, mountain bikers, trail runners, and casual cyclists. Whether you’re pushing your limits or pushing a stroller, there’s something out there for everyone. Let AllTrails help you find it.\n\n► Do more outdoors with AllTrails+ ►\nSpend less time figuring out where you want to be, and more time enjoying where you are. With offline maps, wrong-turn alerts, and extra safety and planning features, your annual subscription gives you more tools for more adventures.\n\n◆ Search by distance from you to find the closest trails.\n◆ Stay informed with live route planner details like air quality, pollen, and light pollution.\n◆ Unplug completely or pack a backup with printed maps.\n◆ Download offline maps ahead of time and track your GPS location, even with no cell service.\n◆ Keep loved ones in the loop with Live Share.\n◆ Prepare for the hills ahead: Follow topo maps and trail maps in 3D.\n◆ Focus on the view, not the map, with wrong-turn alerts.\n◆ Get satellite weather with real-time map details.\n◆ Record your activity with stats and photos of your favorite hiking trails.\n◆ Stay on track: Automatically export your records to the Apple Health app.\n◆ Give back: AllTrails donates a portion of every subscription to 1% for the Planet.\n◆ Explore ad-free: Remove occasional ads by subscribing.\n\nWhether you’re geocaching in a national park, browsing bucket-list mountain bike routes, or planning a trail run to clear your head, AllTrails+ makes the great outdoors even greater.",
+      "android_package_name": "de.komoot.android",
+      "ios_bundle_id": "com.alltrails.AllTrails",
+      "title": "Komoot - Hiking, Cycling & Running Routes",
+      "domain_name": [
+        "https://www.alltrails.com",
+        "https://www.alltrails.com"
+      ],
+      "website": "https://www.alltrails.com",
+      "developer": "AllTrails, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Pbr3n81ImNUpAwhWBWQ_eytF26cNMoMF0b4YwroXGk7xyB_Ur-DsNibiukTVCIBi9ic",
+      "icon_72": "https://play-lh.googleusercontent.com/Pbr3n81ImNUpAwhWBWQ_eytF26cNMoMF0b4YwroXGk7xyB_Ur-DsNibiukTVCIBi9ic=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mobile.hs.hyperware"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Thanks to everyone for making MyRadar so successful, with over 50 million downloads!\n\nMyRadar is a fast, powerful, easy-to-use weather app that displays animated weather radar around your current location and to quickly show what weather is coming your way. Just start the app; your location pops up with animated live radar, with radar loop lengths of up to two hours. This basic functionality provides the quickest way to get a snapshot of the weather on-the-go, and it's what has made MyRadar so successful over the years. Check your phone and get an instant assessment of the weather that will impact your day.\n\nOne of the most useful features in MyRadar is the ability to provide advanced rain alerts; our patent-pending process for predicting hyper-local rainfall is the most accurate in the industry. Instead of having to check the app all the time, MyRadar will send you an alert up to an hour in advance as to when the rain will arrive at your current location, down to the minute, including details on intensity and duration. These alerts can be a life saver when you're on-the-go and don't always have time to check the weather - our systems will proactively do the work for you and let you know in advance before the rain hits.\n\nIn addition to the live radar, MyRadar has an ever-increasing list of weather and environmentally-related data layers that you can overlay on top of the map;  our animated winds layer shows a breathtaking visual representation of both surface winds and winds at the jetstream level; the frontal boundaries layer shows high and low pressure systems as well as frontal boundaries themselves; the earthquakes layer is a great way to stay on top of the latest reports on seismic activity, completely customizable as to severity and time; our hurricane layer allows users to stay on top of the latest tropical storm and hurricane activity throughout the world; the aviation layer overlays AIRMETs, SIGMETs and other aviation-related data, including the ability to track flights and display their IFR flight plans and paths, and the \"wildfires\" layer allows users to stay abreast of the latest fire activity around the United States.\n\nMyRadar also has the ability to send weather and environmental alerts, including alerts from the National Weather Service, such as Tornado and Severe Weather alerts. A new feature introduced in this version of MyRadar includes the ability to receive alerts based off of Tropical  Storm and Hurricane activity;  you can configure the app to send you an alert any time a tropical storm or hurricane forms, or is upgraded or downgraded.\n\nIn addition to the free features of the app, additional upgrades are available, including real-time hurricane tracking - great for the start of hurricane season. The hurricane tracker provides additional data above and beyond the free version, including the cone of probability for tropical storm/hurricane forecast tracks, and it also includes a detailed synopsis from the National Hurricane Center. The premium upgrades also include the professional radar pack, which allows greater detail of radar from individual stations. Users can select individual radar stations around the US, select the radar tilt angle, and also change the radar product being displayed, including base reflectivity and wind velocity - great for experienced weather buffs looks to stay on top of possible tornado formation.\n\nDownload MyRadar today and try it out!\n* Aviation Charts subscription (not required in order to use MyRadar) ($24.99 USD per YEAR)\n* Payments will be charged to your iTunes account\n* Account will be charged for renewal within 24-hours prior to the end of the current period\n* Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase.\n\nMyRadar's Privacy Policy, visit: https://myradar.com/privacy\nFull terms of service: https://myradar.com/terms",
+      "android_package_name": "com.mobile.hs.hyperware",
+      "ios_bundle_id": "com.fboweb.MyRadar",
+      "title": "MyRadar",
+      "domain_name": [
+        "https://myradar.com",
+        "https://myradar.com"
+      ],
+      "website": "https://myradar.com",
+      "developer": "Aviation Data Systems, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/TFMjfG3adcX3AAB2TbQ5gywoO814e53MGSqqZ0SYgMoSZMBWM2qhfiwIkC_Cd_Ew2kU",
+      "icon_72": "https://play-lh.googleusercontent.com/TFMjfG3adcX3AAB2TbQ5gywoO814e53MGSqqZ0SYgMoSZMBWM2qhfiwIkC_Cd_Ew2kU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.atlogis.northamerica.free"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Download and view topographic maps covering the United States.\n\nTopographic maps are useful for recreational activities such as hiking, canoeing, camping, fishing, mountain biking, geocaching, and exploring.\n\nMAPS\nChoose from 2 map sources: USGS standard topographic or USGS hybrid topographic.\n\nOFFLINE\nDownload maps for areas of interest to view them later when you don't have Internet access or you don't want to use cell data.\n\nTRACKING\nUse location tracking to show where you are on the map, your elevation, and the accuracy of the GPS signal.\n\nFLAGS\nFlags are included with map downloads. Add flags (waypoints) to the map to mark your current location or other locations. Import flags from other sources using GPX files and geocache LOC files. Share flags with others using email or AirDrop. Organize your flag types by color, for example, geocaches, trailheads, and summits.\n\nTRAILS\nTrails are included with map downloads. Import trails (tracks) using GPX files you find on the Internet or from your personal GPS track collection. Share trails with others using email or AirDrop. Organize your trail types by color, for example, mountain bike trails, hiking trails, and OHV trails.\n\nTRAIL RECORDING\nRecord your own trails to show where you've been on the map, follow them later, and share with others.\n\nELEVATION PROFILE\nRecorded trails include an elevation profile (distance/elevation chart).\n\nNAVIGATION\nNavigate to a flag by following the direction arrow that uses your compass heading. Useful for geocaching.\n\nMEASURE\nMeasure the distance between points on the map.\n\nNote: Continued use of GPS running in the background can dramatically decrease battery life.",
+      "android_package_name": "com.atlogis.northamerica.free",
+      "ios_bundle_id": "topomaps-usa",
+      "title": "US Topo Maps",
+      "domain_name": [],
+      "website": "",
+      "developer": "DC Cloud Apps, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qJaitdHzmmIC2CPgKcZQ9WqmiYkFMoFv759UQI9dhkh9CAF71xhgh6v6LVepIPsjovRH",
+      "icon_72": "https://play-lh.googleusercontent.com/qJaitdHzmmIC2CPgKcZQ9WqmiYkFMoFv759UQI9dhkh9CAF71xhgh6v6LVepIPsjovRH=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.alltrails.alltrails"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "TrailLink is the ultimate trail-finder app to help you stay active and get outdoors. Enjoy full-length trail descriptions, reviews, photos, and detailed trail maps not found anywhere else!\n\nDiscover amazing trails near you that are perfect for cycling, jogging, walking, workouts and more. Explore over 40,000 miles of multi-use trails in the US, all carefully curated for quality.\n\nWant to get started biking, walking trails or jogging? Subscribe to TrailLink Unlimited for detailed offline trail maps, plus tens of thousands of trail amenity waypoints.\n\nFind walking trails with exercise stations, biking trails with great views and much more. Find fitness anywhere you walk or ride with the best trails near you.\n\nEmpower your next on-the-trail adventures, whether you’re hiking, biking, jogging or walking.\n\nTrailLink is powered by Rails-to-Trails Conservancy (RTC) expert trails database which offers unique trail-finder functionality. Plus, TrailLink Unlimited lets you search Google Places for easy access to trail-side businesses.\n\nRails-to-Trails Conservancy's GIS mapping initiatives have produced more than 40,000 miles of highly accurate trail maps. Download trail maps and access them any time, then share your trail photos and trips with friends.\n\nTake TrailLink with you today and let Rails-to-Trails Conservancy be your expert guide out on the trail. Try it out today and register to get your first map for free!\n\nDownload TrailLink today for:\n\nOUTDOOR EXERCISE\n• Discover the joys out the outdoors with scenic walking and biking trails near you.\n• Get outside and get in shape whether you’re a beginner or an outdoor enthusiast.\n\nFIND TRAILS\n• Search for trails near you or by location\n• Search for trails on the map\n• Search for Google Places on the map\n• Download trail maps for offline use\n• Find the best trails for jogging, walking or biking\n\nTRAILS FOR ALL TRIPS\n• Find trails for jogging\n• Biking routes\n• Walking trails\n• Hiking trails\n• And more!\n\nTRAIL REVIEWS\n• Read RTC's expert trail descriptions\n• Read and write trail reviews\n• Save your trail favorites\n\nSHARE YOUR ROUTES\n• Upload trail photos\n• Share trails with friends\n\nTRAIL DIRECTIONS & INFORMATION\n• See your location on the trail\n• Generate driving directions\n• Amenity waypoints like exercise stations, trailheads, tunnels and drinking fountains\n• Find restrooms, parking & much more\n\nRAILS-TO-TRAILS CONNECTION\n• Sync your account with TrailLink's website\n• Support the mission of Rails-to-Trails Conservancy!\n\nDownload the TrailLink app today and let RTC guide your way!\n\n\nThe TrailLink app offers the Unlimited subscription in the app directly through your iTunes Account for only $29.99 for 12 months of unlimited offline map downloads. The TrailLink Unlimited subscription will automatically renew for $29.99 after 12 months unless you cancel your subscription at least 24hrs before the end of the current subscription period. You can cancel at any time and manage your subscription, including turning off auto-renewal, in your Account Settings.\n\nTo view TrailLink Terms of Use policy, please visit: https://www.traillink.com/terms-of-use/\n\nTo view Rails-to-Trails Conservancy's Privacy Policy, please visit: https://www.railstotrails.org/privacy/",
+      "android_package_name": "com.alltrails.alltrails",
+      "ios_bundle_id": "org.railstotrails.traillink",
+      "title": "TrailLink",
+      "domain_name": [],
+      "website": "",
+      "developer": "Rails-to-Trails Conservancy",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/u9GH1z_4T_YrQFA8OcgTUqUeaRU9Sh99i2ptfrpwTvEhvw3etf7L0MGzABgjJ_b4U9o",
+      "icon_72": "https://play-lh.googleusercontent.com/u9GH1z_4T_YrQFA8OcgTUqUeaRU9Sh99i2ptfrpwTvEhvw3etf7L0MGzABgjJ_b4U9o=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mapillary.app"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Mapillary is the street-level imagery platform that scales and automates mapping using collaboration, cameras, and computer vision.\n\nAnyone can capture images of any place, as often as needed, with any camera—including smartphones. Mapillary combines all images into a collaborative street-level view of the world that’s available for anyone to explore and use for improving maps, cities, and mobility. Computer vision technology provides a smooth viewing experience and speeds up mapping through machine-extracted map data.\n\nCapturing with the Mapillary mobile app is the easiest way to join our contributor network. Let’s get started!\n\nCREATE YOUR OWN STREET-LEVEL VIEWS\nYou control when and where to capture to create the freshest street-level imagery. Mapillary’s technology combines all images into a navigable view and blurs faces and license plates for privacy.\n\nACCESS AND OPEN UP DATA\nMapillary contributors are people, organizations, companies, and governments in 190 countries. Millions of images are added to the dataset every week, which you can explore right here in the mobile app.\n\nMAKE BETTER MAPS\nUse imagery and machine-extracted data to add details to maps and geospatial datasets. Mapillary integrates with tools like OpenStreetMap iD editor and JOSM, HERE Map Creator, and ArcGIS. To access the available map data, go to mapillary.com/app.",
+      "android_package_name": "com.mapillary.app",
+      "ios_bundle_id": "com.mapillary.app",
+      "title": "Mapillary",
+      "domain_name": [
+        "http://www.mapillary.com",
+        "https://www.mapillary.com"
+      ],
+      "website": "http://www.mapillary.com",
+      "developer": "Mapillary AB",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/z3qzEc13E2sDWky9LgqADojcdy8hrX_szuAAeX21k_dFe7GNXLIYXJtOu5RcE3_5Jz8",
+      "icon_72": "https://play-lh.googleusercontent.com/z3qzEc13E2sDWky9LgqADojcdy8hrX_szuAAeX21k_dFe7GNXLIYXJtOu5RcE3_5Jz8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mobirate.rovercraft.gplay"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Rover is the #1 pet sitting and dog walking app. Get trusted pet care in your neighborhood. \n\n\nThe Rover app was created for dog people by The Dog PeopleTM. Through the app, get adorable photo updates, GPS tracking of your dog’s walk, an easy way to message sitters or manage your business, and a secure way to book and pay.\n\n\nWith over 200,000 pet sitters and dog walkers in the U.S. and Canada, Rover makes it easy to book pet care you can trust.\n\n\nPEACE OF MIND\n\n95% of reviewed services receive a perfect 5-star rating.\n\nEvery service booked on Rover is backed by the Rover Guarantee and 24/7 support.\n\n\nFAST & EASY\n\nContact and message sitters and dog walkers, right from the app. Receive messages from sitters when you're on the go.\n\nHassle-free and secure payments, every time.\n\nGet a map of your dog's walk, pee/poo and food/water alerts, and a personalized note from your sitter or dog walker.\n\n\nFOR PET SITTERS AND DOG WALKERS, TOO\n\nSend photos, videos, and messages to pet owners with just a few taps.\n\nGet paid on the go—it’s simple and secure with the Rover app.\n\nSeamlessly manage your business, even if you're at the dog park.\n\nEnable push notifications to respond faster than ever to booking requests.\n\nCreate Rover Cards to seamlessly share information with your clients.\n\n\nIN THE PRESS\n\nRover has appeared in:\n\nThe New York Times\n\nThe Today Show\n\nThe Wall Street Journal\n\nUSA Today\n\nABC News\n\nAnd many more!\n\n\nNote: Rover uses location information in the background for tracking active services. Continued use of GPS running in the background can dramatically decrease battery life.",
+      "android_package_name": "com.mobirate.rovercraft.gplay",
+      "ios_bundle_id": "com.rover.Rover-com",
+      "title": "Rover",
+      "domain_name": [
+        "http://www.rover.com",
+        "https://www.rover.com"
+      ],
+      "website": "http://www.rover.com",
+      "developer": "A Place for Rover, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/LGuUAXCtrFlqeBzScjLT4n7W1Gz4B3fxKzLiWFn0Ijv_p2P1JEOKutn6_xCO79UZzQ",
+      "icon_72": "https://play-lh.googleusercontent.com/LGuUAXCtrFlqeBzScjLT4n7W1Gz4B3fxKzLiWFn0Ijv_p2P1JEOKutn6_xCO79UZzQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.parkopedia"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Who we are\n\nUse Parkopedia to access information on over 70 million parking spaces in 15,000 cities around the world – and counting – thanks to contributions from drivers like you.\n\nEvery driver has suffered parking anxiety – usually when running late and there’s not a minute to lose. It’s a familiar frustration that’s inspired us to map and list parking spaces across the world so you can find (and pay for) one that’s just right for you.\n\nWith Parkopedia you can:\n\n• Find parking using your current location or by entering an address\n• Get directions straight to the space\n• See parking space availability in real-time (where available, Premium account required)\n• Find opening hours, up to date prices, payment methods and more\n• Quickly narrow down parking choices using filters such as free, credit cards accepted, covered, etc.\n\nHelp boost our coverage\n\nIf we don’t yet have coverage in your area, drop us an email and we’ll keep you updated on progress. Adding a space you think others would find helpful is easy. Simply upload a photo of a parking sign or price list and we’ll do the rest.\n\nFor updates, support or to get in touch about anything else please visit http://twitter.com/parkopedia or email support.lx@parkopedia.com\n\nInternet connection required.",
+      "android_package_name": "com.parkopedia",
+      "ios_bundle_id": "com.parkopedia.parkopediaworldwide",
+      "title": "Parkopedia Parking",
+      "domain_name": [
+        "https://www.parkopedia.com",
+        "https://www.parkopedia.com"
+      ],
+      "website": "https://www.parkopedia.com",
+      "developer": "Parkopedia",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/_7MROF0-eGaeFlCAM-YtdsAZRm1ESmSd1yJfQUR5-6rfg0E4LRXUd47QCY0nQ_DarMtO",
+      "icon_72": "https://play-lh.googleusercontent.com/_7MROF0-eGaeFlCAM-YtdsAZRm1ESmSd1yJfQUR5-6rfg0E4LRXUd47QCY0nQ_DarMtO=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.adm"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Have you ever misplaced your headphones, smartwatch, or earbuds and struggled to locate them? This app is here to help! With our powerful tracking and locating technology, finding your devices is faster, easier, and more accurate. Whether your device is right under the couch or left behind at a friend’s house, application is your ultimate companion for keeping track of what matters most.\n\nDevice  uses advanced real-time tracking technology to give you peace of mind by helping you locate lost devices in seconds. With one tap, the app will detect all nearby devices within Bluetooth range, letting you reconnect with your device instantly. This feature is perfect for quickly finding small items like Bluetooth headphones, fitness trackers, or smartwatches that might be hiding nearby. \n\nFor those times when your lost device is a bit farther away, application can show you the last known location, helping you retrace your steps. By providing this location history, the app gives you a much better chance of finding items even if they aren’t nearby. \n\nThe Application is designed for everyone, whether you have multiple gadgets or just a single phone. With its clean and user-friendly interface, locating lost devices has never been simpler. You can easily manage and track multiple devices in one convenient place, making it ideal for families or individuals with multiple gadgets. Our app is a one-stop solution for staying organized and preventing the frustration of lost devices.\n\n* Premium Subscription:\nUse our premium features:\nWeekly subscription\nMonthly subscription\nAnnual subscription\n\n* Unlock access to all functions: tracking, favorites, location\n\n*** All subscriptions may include a 3-day trial. Your iTunes account will be charged after purchase confirmation. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period. Manage subscriptions and auto-renewal settings easily in Account Settings.\n\n* Your privacy is our top priority.  \n** Privacy and Support:Review our privacy policy:https://workdrive.zohopublic.eu/writer/open/hrh0f16376564e80a418ba738a6f7c330a4a7\n** Check our Terms of Use to understand how we protect your data:https://workdrive.zohopublic.eu/writer/open/hrh0f5055998831ac44649e561960f7a15f4e\n** For assistance, contact our support service:isaiahlpsantaana3876@gmail.com\n\n\nWhether you’re at home, work, or on the go, application is designed to keep you connected to your important devices. Download today and enjoy peace of mind knowing that your devices are just a tap away!",
+      "android_package_name": "com.google.android.apps.adm",
+      "ios_bundle_id": "com.claudine.airfinder",
+      "title": "Find My Device",
+      "domain_name": [],
+      "website": "",
+      "developer": "Dela Cruz Claudine",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/GCsSBgR93cedwf2weP7s6VPsBitwir9ioOO0DYjLydIjdCkfQEv0GQzK34ky96L6XMc",
+      "icon_72": "https://play-lh.googleusercontent.com/GCsSBgR93cedwf2weP7s6VPsBitwir9ioOO0DYjLydIjdCkfQEv0GQzK34ky96L6XMc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.glympse.android.glympse"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Navigation",
+      "description": "Glympse is an app that lets you temporarily share your real-time location with family, friends, co-workers and more. It visually answers the question, “Where are you?” Glympse gives people and businesses power to share real-time locations safely, securely and temporarily, regardless of what type of mobile device they all have.\n \nThe app uses the GPS capability in your mobile phone to let you share your location in one of two ways:\nVia a web-based map for a predetermined period with anyone you choose who does not have the Glympse app\nWithin the Glympse app for a predetermined period for those who, like you, have the Glympe app downloaded. \n\nSharing your location with someone is referred to as \"sending a Glympse.\" A Glympse goes out as a link via text message. When recipients click on the Glympse link they can view your location on a map in real-time using any web-enabled device for as long as you choose to share with them.\n \nSend a Glympse to let friends know you are on your way to meet them. Request a Glympse from a colleague who is running late to a meeting. Set up a Glympse Tag with your biking club. Create a Glympse Premium Tag for an upcoming local Santa parade. Those you share with can view your Glympse from any web-enabled device, no sign-up or app required.\n \nGlympse is the pioneer of location-sharing. Since 2008, we have been providing solutions that offer communication between the right people at the right time when it matters most. Our solutions operate successfully with minimal data retention, and by default, we do not keep data, nor do we harvest or sell it. \n\nDownload Glympse for free today.\n\nFeatures\nGlympse Private Groups\nGlympse Private Groups is a feature in Glympse that creates a private, invite-only Group. You give members control over who can be a member. All members of a Group can share their location and request the location of other members – all visible only to those in the Group. Private Groups are ideal for sharing with family, carpools, sporting teams, groups of friends and more.\n\nGlympse Public Tags\nGlympse Tags is a feature in Glympse that allows you to quickly view and share location with multiple friends on a single, shared Glympse map. Glympse Tags are public spaces (similar to Twitter/X hash tags) where anyone who knows the Tag name can view the tag map and add themselves to that map. When you view a tag map, what you are seeing is a map of people who have chosen to join the tag map (example:  !SmithFamilyReunion or !SeattleCyclingClub).\n           \nGlympse Premium Tags\nGlympse Premium Tags is our premium offering in Glympse that provides customization options to personalize and brand the Glympse experience. You can create a one-of-a-kind experience by uploading your logo and branding, map out certain routes you plan to make stops at, as well as other branding elements. Glympse Premium Tags is ideal for events such as community parades, Santa parades, food trucks, marathons, and so much more. \n\nGlympse Premium Shares\nGlympse Premium Shares is a premium feature in Glympse that allows businesses to create a branded, professional experience for sharing and requesting locations. With Premium Shares, you can customize the app with your logo, colors, and other branding elements, making it a seamless extension of your business. It's perfect for industries like home services, HVAC, limo services, and more, enabling clear and efficient communication with clients. Whether you're coordinating appointments, deliveries, or service visits, Premium Shares ensure your business stays connected and informed, reducing the need for phone calls and texts.\n\n\nThe browser map viewer for non-app users may not be entirely accurate in regions such as Japan, China, and South Korea. Various factors, including mapping data limitations and regional restrictions, may result in imprecise displayed information in these areas.\n\nThis limitation does not affects in app users\n\nTerms of Use: https://corp.glympse.com/terms/",
+      "android_package_name": "com.glympse.android.glympse",
+      "ios_bundle_id": "com.glympse.iphone.glympse",
+      "title": "Glympse",
+      "domain_name": [
+        "http://glympse.com",
+        "https://glympse.com"
+      ],
+      "website": "http://glympse.com",
+      "developer": "Glympse Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/BuFobQLJQNlMSl-g5dB9Nn_qsgvl6nwGAzXq7z0y3z0n-1nVJWCIGbUo62E79NFkGEw",
+      "icon_72": "https://play-lh.googleusercontent.com/BuFobQLJQNlMSl-g5dB9Nn_qsgvl6nwGAzXq7z0y3z0n-1nVJWCIGbUo62E79NFkGEw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tripadvisor.tripadvisor"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Food & Drink",
+      "description": "Yelp has over 199 million reviews of businesses worldwide. Whether you’re looking for a new pizza place to try, a great coffee shop nearby, or need to book a haircut, Yelp is your local guide for finding the perfect place to eat, shop, drink, explore, and relax. The Yelp app is available for iPhone, iPad, and Apple Watch.\n\nYelp features:\n\nFood Near You - Find Restaurants\n• Find the newest and hottest restaurants in your area\n• Make reservations, order delivery or pickup—all from your phone\n• Filter restaurant search results by price, location, open now, and more\n\nSearch for Nearby Businesses, Services, & Professionals\n• Discover great local businesses, from hair salons to trusted doctors and movers\n• Read millions of reviews by the Yelp community\n• Home need repairs? Find the best rated contractors and handymen\n• Find great deals offered by local businesses, get quotes instantly, and book appointments\n\nBeauty - Pamper Yourself \n• Find highly-rated salons, spas, massage therapists, and more\n• Book appointments through Yelp at the most relaxing staycation destinations\n\nSearch Filters \n• Filter your search results by neighborhood, distance, rating, price, and hours of operation\n• Look up addresses and phone numbers, call a business, or make reservations directly from the app\n\nOther Features\n• Read expert user reviews and browse through beautiful photos of each business\n• Write and read reviews, check-in to local businesses, upload photos and add tips for other Yelp users\n\nFind local restaurants, read expert customer reviews, and start searching for businesses near you with Yelp. \n\nNeed Help? Contact Yelp at https://www.yelp.com/support\nNote: Continued use of GPS running can dramatically decrease battery life.",
+      "android_package_name": "com.tripadvisor.tripadvisor",
+      "ios_bundle_id": "com.yelp.yelpiphone",
+      "title": "Yelp",
+      "domain_name": [
+        "http://www.yelp.com",
+        "https://www.yelp.com"
+      ],
+      "website": "http://www.yelp.com",
+      "developer": "Yelp, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jCZdEodOVc6iLH8OOedEhiESFQeILGz1zySd10vpdsYhLE1pFUkfGpL2zmBgtWZ7Ffs",
+      "icon_72": "https://play-lh.googleusercontent.com/jCZdEodOVc6iLH8OOedEhiESFQeILGz1zySd10vpdsYhLE1pFUkfGpL2zmBgtWZ7Ffs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tripadvisor.tripadvisor"
+      },
+      "cat_key": "NAVIGATION",
+      "cat_keys": [
+        "NAVIGATION",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "Take your travel planning on the go with the Tripadvisor app. Discover tons of things to do, places to stay, and spots to eat, whether you’re mapping out your trip from your hotel room or looking for a quick rec in between tours. We’re here to guide you every step of the way. Whatever trip you’re planning, we’ve been there. \n\nPlan your travel in one place\n - Create an itinerary with Trips\n - Save your favorite hotels, restaurants, and experiences\n - Get custom recs based on your saves with our AI trip builder \n - See all your saves on your map\n - Share and collaborate with your travel crew\n\nGet traveler guidance\n - Vet your picks with over one billion traveler reviews and opinions\n - Check the reviews before you go or while you’re on the go\n - Save time with AI summaries, which gives you a quick overview of what travelers are saying\n\nFind nearby recs\n - Get personalized picks just for you\n - Check the map to discover top-rated spots near you\n\nWrite reviews wherever\n - Share your guidance and photos on the go\n - Help guide travelers with recent reviews of your experience\n\nBook with confidence\n - Find traveler-favorite hotels around the world\n - Score tickets for popular tours and experiences\n - Get access to app-only deals",
+      "android_package_name": "com.tripadvisor.tripadvisor",
+      "ios_bundle_id": "com.tripadvisor.LocalPicks",
+      "title": "TripAdvisor",
+      "domain_name": [
+        "https://www.tripadvisor.com",
+        "https://www.tripadvisor.com"
+      ],
+      "website": "https://www.tripadvisor.com",
+      "developer": "Tripadvisor",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jCZdEodOVc6iLH8OOedEhiESFQeILGz1zySd10vpdsYhLE1pFUkfGpL2zmBgtWZ7Ffs",
+      "icon_72": "https://play-lh.googleusercontent.com/jCZdEodOVc6iLH8OOedEhiESFQeILGz1zySd10vpdsYhLE1pFUkfGpL2zmBgtWZ7Ffs=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

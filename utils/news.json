@@ -1,0 +1,1434 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "flipboard.app"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Go beyond the headlines and hot takes, and dive deeper into the stories that matter to you with the award-winning Flipboard app. Flipboard is made for and by enthusiasts, with content curated on thousands of topics from world renown publishers, local outlets and the community.\n\nPersonalize Flipboard to get just the content you care about. Follow business, health, tech, sports, cooking, travel and more to stay up-to-date, dive deeper into the things you love or discover something new. You can even follow local news and events. Just enable location services to get a list of towns and cities near you.\n\nCollect stories you like into your own Flipboard Magazine. Use the + (plus) button on any story in Flipboard to add it to your own Magazine. Make your Magazine public to share ideas and insights with an ever-growing community of enthusiasts curating on Flipboard.\n\nUSE FLIPBOARD TO:\n- Keep up on all your interests with the latest stories from leading national publishers including Associate Press, The Washington Post, ESPN, National Geographic, NPR, TIME, The Atlantic, BBC, CBS, NBC and thousands more. \n- Follow your city for local updates, regional news, weather, commute, sports, and dining.\n- Curate stories you find informative or inspiring and share with others: Use the + (plus) button on any article to save it to your own Flipboard Magazine.\n- Follow other experts and enthusiasts who are curating about topics you love.\n- Turn on notifications and use the Flipboard widget to get stories delivered to you everyday.\n\nGET FLIPBOARD IN YOUR INBOX:\nNow get the amazing content and curation on Flipboard delivered to your Inbox. There’s a Flipboard Newsletter for our most popular topics. Sign up for The Tastiest for foodies, the Tech Briefing for tech enthusiasts, the Climate Briefing for environmental news, Wanderlust for travelers, The Shot for photographers and many more. \nVisit flipboard.com/newsletters to view and subscribe to all of the Flipboard Newsletters.\n\nKEEP UP WITH FLIPBOARD:\nFor product updates, the latest from our blog, and tips on how to use Flipboard, follow us on Flipboard and other social platforms:\nhttps://flipboard.com/@flipboard\nwww.twitter.com/@flipboard\nwww.facebook.com/Flipboard\nhttps://www.instagram.com/flipboard/\n\nWe’d love to hear what you think! Reach out to our support team under Settings > Help & Feedback. For any other technical issues or questions, contact us at http://flip.it/support.",
+      "android_package_name": "flipboard.app",
+      "ios_bundle_id": "com.flipboard.flipboard-ipad",
+      "title": "Flipboard",
+      "domain_name": [
+        "http://flipboard.com",
+        "https://flipboard.com"
+      ],
+      "website": "http://flipboard.com",
+      "developer": "Flipboard, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Z5WroTW4KmTB3mvUhZMLwgFD2VymNypnEVVxoueXPPCKEFrnUAiZVl0684t1RFEOPqzB",
+      "icon_72": "https://play-lh.googleusercontent.com/Z5WroTW4KmTB3mvUhZMLwgFD2VymNypnEVVxoueXPPCKEFrnUAiZVl0684t1RFEOPqzB=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.magazines"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Google News is a personalized news aggregator that organizes and highlights what’s happening in the world so you can quickly catch up and discover more about the stories that matter to you.\n\nWith Google News, you’ll find:\n\nYOUR BRIEFING: It can be nearly impossible to keep up with every story you care about, Your Briefing makes it easy to stay in the know about what’s important and relevant in your world. It updates throughout the day to bring you the top local, national, and world headlines, plus personalized news tailored to your interests.\n\nLOCAL NEWS: Explore your community through stories and articles from news outlets in your local area. Customize and choose multiple locations so you can know what’s happening near you or wherever home is.\n\nFULL COVERAGE: Dive deeper into a story with multiple perspectives. The Full Coverage feature organizes everything online about a story, surfacing and highlighting coverage from different outlets and mediums. With just a tap, you’ll uncover how the story is unfolding and how everyone is reporting on it.\n\nSTORIES FOR YOU: The For You section delivers personalized news related to your interests. Take control and customize the articles you see by following the topics and sources you care about.\n\nACCESS FROM ANY DEVICE: Stay up to date on the news no matter where you are. Pair the Google News mobile app with our Desktop website, news.google.com, and enjoy your personalized content across all your devices.",
+      "android_package_name": "com.google.android.apps.magazines",
+      "ios_bundle_id": "com.google.GoogleDigitalEditions",
+      "title": "Google News",
+      "domain_name": [
+        "https://news.google.com/about",
+        "https://news.google.com"
+      ],
+      "website": "https://news.google.com/about",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/b3MqZswO8F7j3lcdH01kxzaeHa7vUndy7ma_JwdM_j_Vpj8LKZcKt0HmpORQ7CKF2A",
+      "icon_72": "https://play-lh.googleusercontent.com/b3MqZswO8F7j3lcdH01kxzaeHa7vUndy7ma_JwdM_j_Vpj8LKZcKt0HmpORQ7CKF2A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "bbc.mobile.news.ww"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "THE BBC APP: News, stories, videos and live coverage from our trusted global network of journalists.\n\nBBC STORIES: The latest, breaking news headlines, articles and videos, including coverage of world News, UK News, elections, BBC Verify, and more. More stories and videos covering business, innovation, culture, travel, Earth, and much more.\n\nLIVE COVERAGE: Follow live news updates and live global sport in our Live section.\n\nBBC VIDEOS: Watch BBC News videos, BBC Sport videos, and video stories about climate, sustainability, science, health, technology, entertainment, and history.\n\nBREAKING NEWS ALERTS: Sign up for breaking news notification alerts from BBC News, delivered straight to your mobile device.\n\nFEATURES:\n• Log into your BBC Account to save articles and videos for later on the app and BBC.com\n• Watch videos over both cellular and wifi\n• Increase your font size for readability\n• Choose dark mode for a dark-background reading experience\n• Share stories and videos to social platforms like Facebook and WhatsApp, and send to friends via SMS and email\n• Opt-in or opt-out of breaking news push notifications, you decide\n\nADDITIONAL INFO:\nIf you choose to receive push notifications, a unique identifier relating to your device will be stored by Airship on behalf of the BBC to provide you with the service. You can choose to unsubscribe from push notifications from BBC in your device’s ‘Notifications’ screen.\n\nOur data processor AppsFlyer collects information on behalf of the BBC for attribution and analysis purposes. You can opt out from AppsFlyer tracking by filling out their ‘Forget My Device’ form: https://www.appsflyer.com/optout\n\nThe BBC will keep your information secure and not share it with anyone else in accordance with the BBC’s Privacy and Cookies Policy. To read BBC’s Privacy Policy go to https://www.bbc.com/usingthebbc/privacy/\n\nIf you install this app you accept the BBC Terms of Use at https://www.bbc.co.uk/usingthebbc/terms",
+      "android_package_name": "bbc.mobile.news.ww",
+      "ios_bundle_id": "uk.co.bbc.news",
+      "title": "BBC News",
+      "domain_name": [
+        "http://www.bbc.com",
+        "https://www.bbc.com"
+      ],
+      "website": "http://www.bbc.com",
+      "developer": "BBC Studios Distribution Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/kT9VQDuQbsMbVyXnd2xLljzz8wN0kdcZNglIW0_W8C_TCltYRczC4j3v33_ePzuPvKM",
+      "icon_72": "https://play-lh.googleusercontent.com/kT9VQDuQbsMbVyXnd2xLljzz8wN0kdcZNglIW0_W8C_TCltYRczC4j3v33_ePzuPvKM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cnn.mobile.android.phone"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Stay informed on breaking news with the global newsgathering power of CNN.\n\nCNN has correspondents and bureaus reporting from across the world to keep you updated and informed on what matters most.\n\nNever miss a breaking news story or important update again. Personalize your experience and choose the news you want by category: Politics, Business, Health, Entertainment and more. Get the news you want, the way you want.\n\nStay informed with CNN:\n• Get daily news, in-depth reporting, expert commentary and more.\n• Get real-time election results and explore the interactive map with the Magic Wall.\n• Read articles and save them for later.\n• Set custom alerts and notifications for news updates.\n• Listen to CNN Live audio.\n• Watch exclusive news programs from the anchors you trust.\n• U.S. and Canada: Watch CNN, CNN International and HLN live coverage with your TV provider.\n• U.S. and Canada: Watch CNN Original Series and Films on-demand with your TV provider.\n• Enjoy a 10-minute preview of live CNN coverage each day. Log in with your TV provider for unlimited viewing.",
+      "android_package_name": "com.cnn.mobile.android.phone",
+      "ios_bundle_id": "com.cnn.iphone",
+      "title": "CNN",
+      "domain_name": [
+        "http://cnn.com/MagicWall",
+        "https://cnn.com"
+      ],
+      "website": "http://cnn.com/MagicWall",
+      "developer": "CNN Interactive Group, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/375NW5yL8owK_hW9igW9sh-YJbda9ZcygpDXuVvK_R7l-yJp-fuhb4qvUw_FE4XW4ms",
+      "icon_72": "https://play-lh.googleusercontent.com/375NW5yL8owK_hW9igW9sh-YJbda9ZcygpDXuVvK_R7l-yJp-fuhb4qvUw_FE4XW4ms=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nytimes.android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "From breaking news and live updates to investigations, cultural commentary and analysis, The New York Times app helps you understand the events shaping the world.\n\nOur original, independent reporting goes beyond daily news to bring you a range of topics that enrich your life. Easily swipe through opinion, arts and culture, recipes and sports coverage, and explore business, tech, wellness and more.  The app is free to download.\n\nFollow Today.\nRead, watch and listen to in-depth reporting from 1,700 journalists in over 160 countries, and get live updates on developing stories. \n\nExplore Today. \nDiscover our lifestyle coverage, including arts and culture, fashion, travel and more. \n\nListen Today. \nListen to Times podcasts like “The Daily” and more of our audio journalism. \n\nPersonalize Today. \nFollow your interests with customized recommendations, alerts for topics you care about and more.\n\nPlay Today. \nUnwind with free daily puzzles like Wordle, Connections, Sudoku and The Mini.\n\nTaste Today. \nExplore our latest recipes, including inspiration for easy weeknight dinners and more.\n\nUnderstand Today. \nAdd The New York Times widget to your home screen and keep the latest headlines close by. Top stories will automatically refresh, helping you stay in the know throughout your day.\n\nShare Today. \nEngage with Times reporters and readers in our moderated comments section, and share articles with your community. Subscribers have 10 gift articles per month to send to anyone.\n\nLearn Today. \nImmerse yourself in Great Reads — exceptional storytelling handpicked by Times editors.\n\nDIGITAL SUBSCRIPTIONS\nEnjoy everything we offer with a New York Times All Access subscription, which includes unlimited access to:\n\n— Investigations, culture and analysis from News\n— Word, visual and number puzzles from Games\n— Recipes, videos, advice and inspiration from Cooking\n— Independent product reviews from Wirecutter\n— In-depth, personalized sports coverage from The Athletic\n\nSee our subscription offers for further details.\n\n\nPAYMENT AND AUTOMATIC RENEWAL TERMS:\nIF YOU SUBSCRIBE TO THE NEW YORK TIMES VIA THIS APP, PAYMENT WILL BE CHARGED BY APPLE TO YOUR APPLE ID ACCOUNT AT CONFIRMATION OF PURCHASE. YOUR APPLE ID ACCOUNT WILL BE AUTOMATICALLY CHARGED FOR RENEWAL AT THE APPLICABLE RATE SHOWN TO YOU AT THE TIME OF SUBSCRIPTION EVERY CALENDAR MONTH (FOR MONTHLY SUBSCRIPTIONS) OR EVERY YEAR (FOR ANNUAL SUBSCRIPTIONS) WITHIN 24 HOURS PRIOR TO THE END OF THE CURRENT BILLING PERIOD. YOU WILL BE CHARGED IN ADVANCE. YOUR SUBSCRIPTION WILL AUTOMATICALLY RENEW EACH MONTH OR YEAR UNLESS IT IS CANCELED AT LEAST 24 HOURS BEFORE THE END OF THE CURRENT PERIOD. TO CANCEL, PLEASE TURN OFF AUTO-RENEW AT LEAST 24 HOURS BEFORE THE END OF THE CURRENT PERIOD. YOU CAN TURN OFF AUTO-RENEW AT ANY TIME FROM YOUR ITUNES ACCOUNT SETTINGS. CANCELLATION TAKES EFFECT AT THE END OF THE CURRENT BILLING PERIOD.\n\n\nBY DOWNLOADING THE NEW YORK TIMES APP, you agree to:\n• The automatic renewal terms stated above.\n• The New York Times Privacy Policy: https://www.nytimes.com/privacy/privacy-policy\n• The New York Times Cookie Policy: https://www.nytimes.com/privacy/cookie-policy\n• The New York Times California Privacy Notices: http://www.nytimes.com/privacy/california-notice\n• The New York Times Terms of Service: https://www.nytimes.com/content/help/rights/terms/terms-of-service.html\n• Apple Terms of Sale: https://www.apple.com/legal/internet-services/itunes/us/terms.html\n\n\n* Promotional offers for new subscribers only. Prices shown are in U.S. dollars. Other restrictions apply.",
+      "android_package_name": "com.nytimes.android",
+      "ios_bundle_id": "com.nytimes.NYTimes",
+      "title": "The New York Times",
+      "domain_name": [
+        "http://www.nytimes.com/services/apps",
+        "https://www.nytimes.com"
+      ],
+      "website": "http://www.nytimes.com/services/apps",
+      "developer": "The New York Times Company",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gfmioo4VBEtPucdVNIYAyaqruXFRWDCc0nsBLORfOS0_s9r5r00Bn_IpjhCumkEusg",
+      "icon_72": "https://play-lh.googleusercontent.com/gfmioo4VBEtPucdVNIYAyaqruXFRWDCc0nsBLORfOS0_s9r5r00Bn_IpjhCumkEusg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.thomsonreuters.reuters"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Welcome to the Reuters News App!\n\n\nStay informed with the latest global news and personalize your experience with our comprehensive features, all designed with your feedback in mind. Whether you're in a subscription country or enjoying access through our free registration process, we’re committed to delivering fast, reliable news from around the globe.\n\nModern Design\n•\tEnjoy a sleek, intuitive interface with enhanced readability, featuring “Today,” your new hub for news.\n\nEnhanced Article Experience\n•\tImmerse yourself in news stories with a visually engaging layout, interactive graphics, and related content.\n\nMy News\n•\tCustomize your Reuters experience with a personalized feed based on your interests. Save articles to read later and easily manage your preferences.\n\nBreaking Markets Updates\n•\tKeep track of the latest market trends with our detailed Markets section. Create a personalized Watchlist and follow companies for breaking news.\n\nMedia Hub\n•\tExplore our rich library of videos, podcasts, and photo galleries, including our popular podcast, Reuters Econ World.\n\nCustomizable Push Notifications\n•\tStay updated with personalized breaking news alerts and opt-in to podcast notifications.\n\nSupport Quality Journalism\n•\tSubscriptions help us invest in broader coverage, deeper investigations, more innovative products, and exclusive subscriber experiences. Users in other countries will continue to receive access through our free registration process.\n\nWe Value Your Feedback!\n•\tLeave us a review or contact Reuters Customer Support. Thank you for being part of our journey. Happy reading!\n\n\nACCESS:\n\nThe Reuters app is free to download. In order to gain full access to the Reuters app, you will need to sign-in / register and complete the subscription process within the app. Subscriptions are not available in certain territories. For these territories, users will continue to receive access via our free registration process.\n\n\nSUBSCRIPTION AND AUTOMATIC RENEWALS:\n\nYour subscription plan renews automatically unless cancelled at least 24 hours before the end of the current period. \n\nPayment will be charged by Apple at confirmation of your subscription purchase. \n\nYour account will be charged (in advance) automatically for renewal at the applicable price and at the selected frequency (whether monthly, annually or another period) within 24 hours prior to the end of the current period.\n\nYou can manage your subscription and disable auto-renewal by accessing your Apple Account Settings after purchase (at least 24 hours before the end of your current billing period). Cancellation takes effect at the end of your current billing period.\n\nTERMS & CONDITIONS:\n\nIn addition to the applicable Apple subscription terms and conditions (including the auto-renewal terms above), by downloading the Reuters app, you agree to:\n\n-\tReuters Terms and Conditions: https://www.reuters.com/info-pages/terms-of-use/.\n-\tReuters Privacy Statement: https://www.thomsonreuters.com/en/privacy-statement.html.\n-\tReuters Cookie Policy: https://www.thomsonreuters.com/en/privacy-statement.html#cookies.\n-\tDo Not Sell: https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html",
+      "android_package_name": "com.thomsonreuters.reuters",
+      "ios_bundle_id": "com.thomsonreuters.Reuters",
+      "title": "Reuters",
+      "domain_name": [
+        "http://www.reuters.com",
+        "https://www.reuters.com"
+      ],
+      "website": "http://www.reuters.com",
+      "developer": "Thomson Reuters Enterprise Centre GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/e3hfjEHccWi9ueEozWn0gPxahFh773eHSWEa_SovF24me6GMcYvKYcGkY7SbP-bd4A",
+      "icon_72": "https://play-lh.googleusercontent.com/e3hfjEHccWi9ueEozWn0gPxahFh773eHSWEa_SovF24me6GMcYvKYcGkY7SbP-bd4A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.foxnews.android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Stay informed with 24/7 access to the latest headlines and expert analysis on today’s stories with the FOX News App, your leading source for breaking national and international stories. Get coverage and live updates on politics, business, tech, health, and more with expert perspectives and in-depth reporting.\n\nWATCH LIVE STREAM OR ON-DEMAND VIDEOS. Enjoy your favorite FOX News shows while browsing the app, with picture-in-picture viewing. Your world, reported\nlive—with all your favorite shows:\n- FOX & Friends—the #1 morning show on cable\n- Special Report\n- America’s Newsroom\n- FOX News Sunday\n\nGET BREAKING NEWS WITH ALERTS. Receive real-time notifications about today’s hottest topics, including the election.\n\nSHARE, SAVE, & COMMENT ON ARTICLES. Read, save, share, and comment on the news articles that matter most to you, with on-demand slideshows, vibrant photo\ngalleries, and more. Search for topics, including:\n- U.S.\n- Politics\n- Opinion\n- Entertainment\n- Sports\n- Lifestyle\n- World\n- Science\n- Tech\n- Media\n- Health\n\nLISTEN TO YOUR NEWS. Listen to, share, and save podcasts from FOX News. Plus, check out “Recommended Stories” based on your listening history.\n- FOX Across America\n- Hourly Newscast\n- FOX News Rundown\n- FOX News Radio\n- Listen live with “Who’s on Now”\n\nPLAY GAMES. Take a break from your day with quick puzzles and games including the Mini Crossword, 5 Across, Stack and Match, and the Crazy Crystals Game. Or, put your\nvocabulary to the test with the Daily Crossword and Word Scramble.\n\nKEEP UP WITH YOUR FAVORITE PERSONALITIES.\n- Steve Doocy\n- Ainsley Earhardt\n- Brian Kilmeade\n- Lawrence Jones\n- Bret Baier\n- Bill Hemmer\n- Dana Perino\n- Shannon Bream\n- Jimmy Failla\n- Martha MacCallum\n- Jesse Watters\n- Laura Ingraham\n- Guy Benson\n\nFOLLOW US ON SOCIAL MEDIA. The FOX News App connects you directly to trending stories, your favorite shows, and top personalities on X, Facebook, Instagram, and more.\nWe may work with mobile advertising companies and other similar entities that help deliver advertisements tailored to your interests. For more information about such advertising practices, and to opt out in mobile apps, see http://www.aboutads.info/choices/. You may also download the App Choices app at http://www.aboutads.info/appchoices\n\nPrivacy: https://www.foxnews.com/privacy-policy",
+      "android_package_name": "com.foxnews.android",
+      "ios_bundle_id": "com.foxnews.foxnews",
+      "title": "Fox News",
+      "domain_name": [
+        "https://www.foxnews.com",
+        "https://www.foxnews.com"
+      ],
+      "website": "https://www.foxnews.com",
+      "developer": "Fox News Network, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/TA1fIRwGKyTlAc3tpu_nPKZnwr5u1PN3W1glmtJzm1dCR-pzjXiqCEhC2QkLgGx9LW8",
+      "icon_72": "https://play-lh.googleusercontent.com/TA1fIRwGKyTlAc3tpu_nPKZnwr5u1PN3W1glmtJzm1dCR-pzjXiqCEhC2QkLgGx9LW8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.guardian"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Lifestyle",
+      "description": "Rave Guardian is the best way to improve your personal safety by leveraging those you trust to be your own private safety network. Rave Guardian provides rapid and proactive communication with your organization. Guardian is completely configured by the organization(s) you are associated with to make connecting in times of crisis or just plain confusion simple and easy. \n\nEasy 2 field sign-up process for most people.\n\nRave Guardian allows you to do the following(depending on what your participating organization allows):\n• Text with your organization in real time\n• Send in anonymous tips   \n• Deliver a rich profile of information to safety officials\n• Share location information with safety official during an emergency call\n• Quick access to safety or important phone numbers\n• Robust resources selected by your organization for convenience\n• If you allow Guardian, you can receive important notification based on your location. \n\nIf you allow Rave Guardian, you can received push notifications related to on-going events in your area.\n\n  \nIf you wish to customize Rave Guardian for your campus or workplace, contact us at demos@ravemobilesafety.com\n\nNotes: \n    • Rave Guardian requires a connection to a mobile network data connection.\n    • Continued use of GPS running in the background can decrease battery life.",
+      "android_package_name": "com.guardian",
+      "ios_bundle_id": "com.ravemobilesafety.raveguardian",
+      "title": "The Guardian",
+      "domain_name": [
+        "http://www.raveguardian.com",
+        "https://www.raveguardian.com"
+      ],
+      "website": "http://www.raveguardian.com",
+      "developer": "Rave Wireless, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0IoGNBJeaga47hJgxtTzXXlPQmZYGjrzghS1NLoCrtjJTkm_GSRs5e44FmrXxxCUYJs",
+      "icon_72": "https://play-lh.googleusercontent.com/0IoGNBJeaga47hJgxtTzXXlPQmZYGjrzghS1NLoCrtjJTkm_GSRs5e44FmrXxxCUYJs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.aljazeera.mobile"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Thank you for your interest in Al Jazeera! We are excited to let you know that we launched a brand new app and this app will no longer be supported.\nVisit the App Store and search for 'Al Jazeera' or visit http://ajmn.tv/mobileapp  to download the new app.",
+      "android_package_name": "com.aljazeera.mobile",
+      "ios_bundle_id": "ajenglishiphone",
+      "title": "Al Jazeera English",
+      "domain_name": [
+        "http://www.aljazeera.com/connect",
+        "https://www.aljazeera.com"
+      ],
+      "website": "http://www.aljazeera.com/connect",
+      "developer": "Al Jazeera Network",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/cH7bE7urEYRSpR0mFQbNP4ZZ0ecmfYH6tDLaCu_Z5OH6EUAsQ3e8Ml58Ebm8VcmMCI8",
+      "icon_72": "https://play-lh.googleusercontent.com/cH7bE7urEYRSpR0mFQbNP4ZZ0ecmfYH6tDLaCu_Z5OH6EUAsQ3e8Ml58Ebm8VcmMCI8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.washingtonpost.android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Get award-winning global reporting from The Washington Post. The app is free to download and keeps you informed with expert coverage from Post journalists.\n\nPRODUCT FEATURES\n• Stay informed with the 24/7 feed of today’s news.\n• Wake up with The 7, a better morning briefing on the day’s most important and interesting stories.\n• Customize your alerts to be the first to know when news is breaking.\n• Catch up with today’s stories by listening to original podcasts and audio articles.\n• Discover something new in My Post, a curated feed with recommendations just for you.\n• Dive deeper into Post journalism with innovative graphics, video, and augmented reality exclusives.\n\nSUBSCRIPTION DETAILS\n• Options: Download the free app and enjoy a limited number of complimentary stories each month. Get your first month of unlimited access for free, and only $11.99/month thereafter for your digital subscription.\n• Extras: Your subscription to The Washington Post lets you access The Post from all your devices, on the web and in the app. Premium subscribers also enjoy a bonus subscription to share and exclusive eBooks written by our journalists.\n• Payment: Payment will be charged to your iTunes account with the confirmation of your purchase.\n• Auto-renewal: Your subscription will auto-renew for $11.99 each month unless you cancel 24 hours before the end of the current subscription period. The auto-renewal can be turned off at any time in the Account Settings section of the App Store. Please note, you will be unable to cancel your current subscription during an active subscription period.\n• Free trial: Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n• Privacy policy: https://www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html\n• App Privacy information displayed below applies to users on iOS 14.5 or higher\n• Terms of service: https://www.washingtonpost.com/terms-of-service/2011/11/18/gIQAldiYiN_story.html\n• CA notice of collection: https://www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html#CALIFORNIA\n• Do not sell my info (CA residents): https://www.washingtonpost.com/my-post/privacy-settings/",
+      "android_package_name": "com.washingtonpost.android",
+      "ios_bundle_id": "com.pointabout.washingtonpost",
+      "title": "The Washington Post",
+      "domain_name": [
+        "https://www.washingtonpost.com",
+        "https://www.washingtonpost.com"
+      ],
+      "website": "https://www.washingtonpost.com",
+      "developer": "The Washington Post Company",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/JDrO88srYGmqrOeyqtT1al3JQD0IKRS-OO7PDMjETiPuDNgCC45wJF8LIBH-QOcTMTE",
+      "icon_72": "https://play-lh.googleusercontent.com/JDrO88srYGmqrOeyqtT1al3JQD0IKRS-OO7PDMjETiPuDNgCC45wJF8LIBH-QOcTMTE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "mnn.Android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Stay informed with breaking local, national and global headlines directly from the world’s definitive source for news. Available on the iPhone, iPad and Apple Watch, AP News by The Associated Press features a personalized experience containing:\n \n* A feed with developing stories from your followed topics.\n* Customized news alerts tailored to your interests.\n* Curated content hubs for deeper insights into major news events and story lines.\n* Award-winning photos, videos and articles from around the world.\n* Local-interest stories from newspapers and broadcasters.",
+      "android_package_name": "mnn.Android",
+      "ios_bundle_id": "com.apnews.ipad.mobilenewsdevel",
+      "title": "Associated Press",
+      "domain_name": [
+        "https://apnews.com",
+        "https://apnews.com"
+      ],
+      "website": "https://apnews.com",
+      "developer": "The Associated Press",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NsMkpLUpmJtO9wSCJTpVqT6jgZPnPGmE5kNY_-dgLaomklowOyU8-IP0tZ93J-SquNI",
+      "icon_72": "https://play-lh.googleusercontent.com/NsMkpLUpmJtO9wSCJTpVqT6jgZPnPGmE5kNY_-dgLaomklowOyU8-IP0tZ93J-SquNI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "org.npr.android.news"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "The NPR app is the best way to listen to stories, shows, and podcasts from NPR and your local public radio station.\n\nIt’s public radio made personal.\n\n*A handcrafted experience + your personal radio station*\nNPR starts with the latest headlines then moves to a flow of stories that matter - narratives that increase your understanding, create connections, enrich your life and enliven your mind. All thoughtfully curated by hand, every day. Just tap on the big play button in the Home screen, and NPR One gets to know you. Skip what you don't want, or mark a story as interesting. Though your mix is personalized to deliver the stories you want, you’ll still hear the top news of the day and the stories you had no idea would captivate you.\n\n*Connected locally*\nEven with the breadth of public radio at your fingertips, you won’t lose touch at home. Local news and podcast episodes are woven seamlessly into your listening experience. Local stories, locally reported, are delivered daily. Community is everything.\n\n*Listen everywhere*\nLove to listen on the go? Get the most out of NPR with CarPlay and Apple Watch. Skip, pause, and search at a glance without even touching your phone.\n\n*Features*\n* A personalized mix of stories from NPR and local station \n* Stream your local radio station from wherever you are\n* Easy access to the full catalog of NPR and local station shows and podcasts\n\nData Protection Choices\n\nAt NPR, we understand how important privacy is to you, and we are committed to transparency about how we collect, use and share your information. Please take a moment to read our privacy policy: https://n.pr/privacypolicy.\n\nBy downloading this app:\n\n° You agree to NPR’s terms of use, available at https://n.pr/termsofuse.\n° You acknowledge that NPR may process your personal data as described in NPR’s privacy policy, available at https://n.pr/privacypolicy.\n° You agree that NPR uses devices identifiers, tracking technologies, and information about the device you use to access NPR’s apps to enhance your viewing, listening, and user experience, personalize content, personalize messages from NPR’s sponsors, provide social media features, and analyze NPR’s traffic. This information is shared with social media services, sponsorship, analytics, and other third-party service providers. See details in NPR’s privacy policy.",
+      "android_package_name": "org.npr.android.news",
+      "ios_bundle_id": "org.npr.nprnews",
+      "title": "NPR News",
+      "domain_name": [
+        "https://www.npr.org/app",
+        "https://www.npr.org"
+      ],
+      "website": "https://www.npr.org/app",
+      "developer": "NPR",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QtnQuvpJHb-iliHAx5FaYMpLEtbLoeGO7o5k7-d8CpFrbkyzsJYWQHanHYSNJysGwGMo",
+      "icon_72": "https://play-lh.googleusercontent.com/QtnQuvpJHb-iliHAx5FaYMpLEtbLoeGO7o5k7-d8CpFrbkyzsJYWQHanHYSNJysGwGMo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bloomberg.android.plus"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Breaking news on world finance, business, stock market and investments. Access award-winning journalism to help you understand the economics and financial news that’s shaping tomorrow, today.\n\nBefore you change the world. Bloomberg.\nCustomize the app to monitor the stock market and your investment portfolio. Stay up-to-date on trending topics like the US economy, oil prices, Dow Jones, NASDAQ and more.\n\nBloomberg delivers critical business news for modern business leaders and financial professionals. Whether you need to monitor your stock portfolio, or understand the latest world news, Bloomberg provides data-driven insights and analysis, whenever and wherever you need it. \n\nFEATURES:\n- News: Browse featured and trending stories in Business, Markets, Industries, Technology, Politics, Foreign Affairs, Personal Finance, Opinion and more from our 120+ global newsrooms.\n- Market Data: Get the latest financial data to enable fundamental analysis, including stock prices, equity indexes, futures, bonds, commodities & foreign currencies.\n- Alerts: Receive push notification alerts on the latest briefings on the financial economy and the biggest business headlines.\n- Watchlist: Easily track your portfolio’s performance by adding stocks, mutual funds, ETFs or currencies to your personal Watchlist, and get the latest news related to your investments.\n- Video & Audio: Stream Bloomberg TV and Bloomberg Radio live to get insights from the smartest names in Global Finance, Business, Economics & Investing, plus discover our catalog of podcasts.\n- Offline Reading: Download the latest issue of Businessweek to read offline, wherever you are. \n- On the move updates: The Bloomberg App now has Apple CarPlay, so you can get Bloomberg radio, podcasts and audio articles when you’re on the road.\n\nA subscription to the Bloomberg app gets you unlimited access to all Bloomberg content within the app and on the website (after linking your account). \nStart with a special 3 month introductory offer (subscription regularly $34.99/month or $329.99/year).\n\nYour payment will be charged to your iTunes Account at confirmation of purchase. Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. You may manage your subscription and auto-renew may be turned off by going to Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nTerms of Use: https://www.bloomberg.com/notices/tos\nPrivacy Policy: https://www.bloomberg.com/notices/privacy",
+      "android_package_name": "com.bloomberg.android.plus",
+      "ios_bundle_id": "com.bloomberg.Bloomberg",
+      "title": "Bloomberg",
+      "domain_name": [
+        "http://www.bloomberg.com",
+        "https://www.bloomberg.com"
+      ],
+      "website": "http://www.bloomberg.com",
+      "developer": "Bloomberg Finance LP",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/WYBbOFxImmxXuQ-OQGT2ANSg8Hc7GuxCnYCpvXe8JeVnVOiPlwGr7yfpISlp7HvQcS8",
+      "icon_72": "https://play-lh.googleusercontent.com/WYBbOFxImmxXuQ-OQGT2ANSg8Hc7GuxCnYCpvXe8JeVnVOiPlwGr7yfpISlp7HvQcS8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.usatoday.android.news"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "The USA TODAY news app gets you to the heart of the matter — fast. Whether it's money, sports, entertainment, or breaking news, get succinct, personalized coverage along with award-winning videos, captivating photography, and interactive user features. The point is — get major news coverage all in a compact device that fits right in the palm of your hand.  \n  \nAPP FEATURES  \n• National and breaking news, including access to 200+ local publications.  \n• News to the point: Easily keep up with news, sports, money, entertainment, health, and more with quick reads.  \n• A personalized feed: Pick your favorite subjects in My Topics and receive a curated feed on the For You page.  \n• eNewspaper: Just like our print edition but accessible on your mobile devices. And access to 200+ local eNewspapers.  \n• Puzzles: Play Crossword, QuickCross, and Sudoku (tablet only) to keep your mind sharp.  \n• Award-winning podcasts: Listen to your favorite USA TODAY NETWORK podcasts on demand.  \n• Stay up-to-date with election news, analysis, and results. \n  \nSubscription Information: \n• The USA TODAY app is free to download and all users can access a sampling of free articles every month.  \n• Subscriptions are charged to your iTunes account at confirmation of purchase and automatically renew each month or year, unless turned off in your iTunes account settings at least 24 hours before the end of the current period. See \"Subscription Support\" in the app's Settings for more details and customer service contact information.   \n  \nMore Information:  \n• Privacy Policy: https://cm.usatoday.com/privacy/ \n• Terms of Service:  https://cm.usatoday.com/terms/ \n• Questions or comments? Visit  http://www.usatoday.com/mobile-apps or email: mobilesupport@gannett.com",
+      "android_package_name": "com.usatoday.android.news",
+      "ios_bundle_id": "com.usatoday.iPhone20",
+      "title": "USA Today",
+      "domain_name": [
+        "http://www.usatoday.com",
+        "https://www.usatoday.com"
+      ],
+      "website": "http://www.usatoday.com",
+      "developer": "USA TODAY",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/aaMI1sQacFxeudBB81-fPIkpiu4M1fXpRX4FMPwWOJ8yuhk8t4cvzu65r7VrFrd9bg",
+      "icon_72": "https://play-lh.googleusercontent.com/aaMI1sQacFxeudBB81-fPIkpiu4M1fXpRX4FMPwWOJ8yuhk8t4cvzu65r7VrFrd9bg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nytimes.crossword"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Games",
+      "description": "Challenge yourself, have fun, and keep your mind sharp—all at once.\n\nEvery day brings a new crossword with a new theme. Our themes are diverse and wide ranging so there's always something new to look forward to. Grab a coffee, sit back, relax, and get ready to solve. It's crossword time!\n\nNew Crosswords Every Single Day\nWake up to two brand new crosswords every morning on a unique theme. Our daily crosswords are based on themes never before seen in the app and are a perfect way to add some stimulating fun to your day.\n\nNot Too Hard, Not Too Easy\nOur crossword puzzles are carefully crafted to provide a fun and engaging experience for solvers of all abilities. So whether you're a crossword pro or just starting out, our puzzles are the perfect way to keep your mind sharp and entertained.\n\nThousands of Themed Crosswords\nWith themes ranging from Trivia Delights to Hollywood Hits to Tasty Treats, our crosswords cover a diverse range of topics that’ll keep you entertained for hours on end. And with over 3000 puzzles in our ever expanding archive, the fun never has to stop!\n\nTools To Help You Solve\nNeed a little help? We’ve got you covered with our helpful tools to aid you in your solving. Our ‘AutoCheck’ feature will automatically check your answers as you type them, and our ‘Reveal’ feature will letters or answers when you get totally stuck.\n\n100% Ad-Free. Promise.\nStay focused and never be distracted by annoying ads while solving our crosswords.\n\nJoin Thousands of Happy Solvers\nWith over 500,000 downloads worldwide, you’ll be in good company when you play The Daily Crossword!\n\nOur Daily Crossword Themes and Example Crosswords:\n- Music Monday (e.g.  80s Hits, 2020s Singers, String Instruments)\n- Tasty Tuesday (e.g. Desserts, Asian Cuisine, Bananas)\n- Wonder Wednesday (e.g. Countries, Famous Landmarks, Capital Cities)\n- Fiction Thursday (e.g. Book Characters, Literary Detectives, Famous Authors)\n- Film Friday (e.g. Oscar Winners, Hollywood Hits, Romance Movies)\n- Sporting Saturday (e.g. Olympics, Winter Sports, Sports Beginning with D)\n- Super Sunday (e.g. Puzzles, Shoes, Famous Mothers)\n\nFeatures\n- Brand new daily crossword every day, 365 days a year\n- Brand new daily mini crossword every day, 365 days a year\n- AutoCheck feature highlights wrong answers as you type\n- Reveal letters and answers when you get stuck\n- Crosswords for all abilities\n- Delightful solving experience\n- Play offline\n- Easy to use\n- Play on all your devices\n\nSubscription Pricing & Terms\nThis app requires a subscription purchase to access the crosswords. All customers are welcome to try the app out for a free 7 day trial before purchasing.\n\nThe Daily Crossword is free to download. All customers are welcome to try a free 7 day trial period. If you choose to continue using the app, you can choose between the auto renewing subscriptions:\n\nMonthly subscription: $9.99 USD\nYearly subscription: $39.99 USD\n\nThe subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. The account will be charged for renewal within 24-hours prior to the end of the current period, at the same price that you initially secured.\n\nYou may cancel automatic renewal by selecting Manage App Subscriptions in your iTunes Account settings and selecting the subscription you want to modify. Alternatively you can tap on Manage Subscription in the Settings section of the app.\n\nTerms & Conditions can be found at http://wubuapps.com/terms",
+      "android_package_name": "com.nytimes.crossword",
+      "ios_bundle_id": "com.crossword.crossword",
+      "title": "New York Times Crossword",
+      "domain_name": [
+        "https://wubuapps.com",
+        "https://wubuapps.com"
+      ],
+      "website": "https://wubuapps.com",
+      "developer": "PuzzleStar Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QXDGA4zkli9V9-xPs3fT6qRjG7zSLpS0JlBWtvUP-ZxRHy7tmlIrzvzgAqgLru_brQ",
+      "icon_72": "https://play-lh.googleusercontent.com/QXDGA4zkli9V9-xPs3fT6qRjG7zSLpS0JlBWtvUP-ZxRHy7tmlIrzvzgAqgLru_brQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.opera.app.news"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Get daily news and events sent straight to your phone, because small news makes a big difference to communities! Keep up to date with current events, live local news, business news and more!\n\nSmall news makes a big difference! NewsBreak is your #1 local news app for current events, free live news, business news, and more. Download today to stay up to date on all things local!\n\nLocal news is different. NewsBreak believes that local news helps bring neighborhoods together around the unique stories they share in common. And only local, small news has the unique ability to meaningfully inform the decisions we make throughout the day.\n\nWhat’s the weather like in my area? What about traffic? What important events are happening nearby? Join NewsBreak’s growing local news community and see why over 45M people across the U.S. have helped make us the nation’s #1 local news app!\n\nAnd remember - we don’t just do local! Local breaking news, sports news, trending national & international news – NewsBreak’s got it all. Get everything from sports updates to national news headlines sent straight to your phone while coming together with your neighborhood to share in interesting conversations related to local news in your area.\n\nJoin the 45M+ locals across the U.S. that trust NewsBreak as their #1 local news app!\n\nNewsBreak Features:\n\nLocal News Highlights\n• Get a curated daily briefing on local news, traffic, events, local weather, and more.\n• Live stream news on local channels: follow local news, events, and activities.\n• Get local weather reports and traffic updates at a glance.\n\nBreaking News, National and Local\n• Both small news and breaking news, stay up to date with our current news coverage\n• Daily news highlights delivered straight to your device\n• Browse national news headlines and read comprehensive, in-depth stories.\n• Use the discovery engine to discover stories from over 10,000 trusted sources.\n\nPersonalized News Feed\n• Get the stories that matter to you with a highly personalized feed, relevant to your likes and dislikes.\n• Get coverage on the news that matters most to you, including sports news, business news, tech news, and more\n• Keep up with the latest coverage of important news and events, nationally and locally.!\n• Our news aggregator collects and delivers the news that matters to you.\n• Get news alerts customized to your tastes.\n\nYour Community News\n• Find local eats, small news updates, deals, shop openings, and more ahead of time.\n• Read personal and vivid stories from our local news writers and content creators.\n• Treat us as your personal newsstand, magazine collector, restaurant reviewer, and more.\n\nCreate Civic Value - Support the Cause\n• Use NewsBreak to revive the local news ecosystem and support small publishers.\n• Increase local story volume and geographic coverage to stimulate local storytelling and community power.\n\nFollow or Block the Trend - It’s Up to You\n• It’s totally cool to stay on top of some topics, or totally hate them!\n• NewsBreak allows you to follow what is trending, or completely block some topics you don’t appreciate.\n• You can laugh, share, think, cry, upvote, downvote, comment, reply...\n• NewsBreak is a free ground that welcomes you to express emotions & opinions.\n\nDownload NewsBreak today to stay informed on local news, national headlines, and world news!\n\nBetter informed, better life.",
+      "android_package_name": "com.opera.app.news",
+      "ios_bundle_id": "com.particlenews.newsbreak",
+      "title": "News Break",
+      "domain_name": [
+        "https://www.newsbreak.com",
+        "https://www.newsbreak.com"
+      ],
+      "website": "https://www.newsbreak.com",
+      "developer": "Particle Media Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/BpWNBTxd93tikjrnK_lGEl9BBmTMjRSP7ItEMZk3_miE27W65WX_Hm31KMFLH6z8oqc",
+      "icon_72": "https://play-lh.googleusercontent.com/BpWNBTxd93tikjrnK_lGEl9BBmTMjRSP7ItEMZk3_miE27W65WX_Hm31KMFLH6z8oqc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.zumobi.msnbc"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "MSNBC app brings you the latest breaking news and in-depth analysis of daily news headlines. Watch MSNBC live, listen to live audio 24/7 or catch up on full episodes of your favorite MSNBC shows. Understand today’s news with insightful commentary and informed perspectives from award-winning journalists and trusted experts. Keep up with the latest news in politics and government – including the 2024 presidential election – as well as topics spanning pop culture, current events and the trends that shape our world.\n\nStream the latest TV shows from MSNBC including:\n\n\nThe Rachel Maddow Show\nMorning Joe\nInside with Jen Psaki\nDeadline: White House with Nicolle Wallace\nAll In with Chris Hayes\nThe Beat with Ari Melber\nThe Reidout with Joy Reid\nThe Last Word with Lawrence O’Donnell\nThe 11th Hour with Stephanie Ruhle\nWay Too Early with Jonathan Lemire\nAlex Wagner Tonight\n\n\n\nMSNBC app features:\nWatch MSNBC live and stream MSNBC shows on demand when signed in with your TV provider\nRead top perspectives and analysis from MSNBC experts and columnists\nView breaking news headlines and daily news stories at a glance from your home screen\nListen to live streaming audio including the MSNBC live broadcast, NBC News NOW, CNBC and more on-the-go\nWatch top moments and video clips from MSNBC shows\n\nAdditional Information\nPlease note that use of the MSNBC app is limited to the United States and its territories\nVideo is accessible via 3G, 4G, LTE and Wi-Fi networks – data charges may apply\n\nPrivacy Policy: https://www.nbcuniversal.com/privacy?brandA=MSNBC&intake=MSNBC\nYour Privacy Choices: https://www.nbcuniversal.com/privacy/notrtoo?brandA=MSNBC&intake=MSNBC\nCA Notice: https://www.nbcuniversal.com/privacy/california-consumer-privacy-act?intake=MSNBC\n\nThis app features Nielsen proprietary measurement software which will allow you to contribute to market research, like Nielsen’s TV Ratings.\nTo learn more about our digital measurement products and your choices in regard to them, please visit http://www.nielsen.com/digitalprivacy for more information.",
+      "android_package_name": "com.zumobi.msnbc",
+      "ios_bundle_id": "com.msnbc.rachelmaddow.ipad",
+      "title": "MSNBC",
+      "domain_name": [
+        "http://www.msnbc.com",
+        "https://www.msnbc.com"
+      ],
+      "website": "http://www.msnbc.com",
+      "developer": "NBC News Digital, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/XLhuzFwYYbTQeQMPXgXco9HiRXb7pryJYRQvdI3I7P6Q7o5eEjTanSOjcKMWYWAUWgc",
+      "icon_72": "https://play-lh.googleusercontent.com/XLhuzFwYYbTQeQMPXgXco9HiRXb7pryJYRQvdI3I7P6Q7o5eEjTanSOjcKMWYWAUWgc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "wsj.reader_sp"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "WALL STREET JOURNAL (iOS)\n\nDownload the WSJ App Today\n\nStaying ahead of the competition means staying up to date with the facts. Get the trusted insights, in-depth analysis and real-time updates you need from the WSJ App.\n\nDownload the app today and subscribe to receive instant access to WSJ’s unrivaled journalism covering today’s top stories across finance, politics, business, tech, the economy and more. Enjoy exclusive newsletters and videos that dive deeper into the stories that matter.\n\nKey benefits include:\n\nCustomizable App Experience\n(+) Follow your your favorite WSJ journalists\n(+) Access interactive charts to follow the latest market trends\n(+) Create personalized stock watch lists \n(+) Get content relevant to your job title and industry\n\nAward-winning Journalism Delivered To Your Mobile Device\n(+) A real-time news feed, curated by WSJ’s award-winning journalists throughout the day\n(+) Up to date global coverage on the news that matters \n(+) Access to curated CFO, CIO, and CMO article feeds\n\nFull Access to WSJ, Anywhere, Anytime\n(+) Full access to WSJ on any device\n(+) Ability to listen to WSJ articles on your commute, hands-free\n(+) Offline reading, enabling you to remain informed, wherever you are\n\nReal Time Market News - Never Miss a Critical Development\n(+) Up to the minute stock market quotes\n(+) Alerts and notifications for breaking news and updates on the stories, companies and industries that matter most to you\n(+) Articles relevant to your personalized stock list\n\nThe WSJ App provides comprehensive access that will help you better understand and navigate the complexities of today’s financial world. Regardless of your investing experience, download the app to make more sound financial decisions. \n\nStay ahead, stay informed – with The Wall Street Journal App.\n\n\nYour subscription will renew automatically each month and payment will be charged to your iTunes Account within 24-hours prior to the end of the current period. You can turn off auto-renewal by going to your Account Settings after purchase. No cancellation of your subscription is allowed during the active subscription period. Any unused portion of a free trial or introductory period, if offered, will be forfeited when you purchase a subscription to WSJ, where applicable.\n\nBy downloading the app you agree to the Dow Jones Terms of Use, Privacy Notice, and Cookie Notice.\n\nTerms of Use [Updated]:\nhttps://www.dowjones.com/terms-of-use/\n\nPrivacy Notice:\nhttps://www.dowjones.com/privacy-notice/\n\nCookie Notice:\nhttps://www.dowjones.com/cookie-notice/",
+      "android_package_name": "wsj.reader_sp",
+      "ios_bundle_id": "com.dowjones.WSJ.ipad",
+      "title": "The Wall Street Journal",
+      "domain_name": [
+        "https://platforms.wsj.com",
+        "https://platforms.wsj.com"
+      ],
+      "website": "https://platforms.wsj.com",
+      "developer": "Dow Jones & Company, Inc., publisher of The Wall Street Journal.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/eksxaPfxbTVb6VTl5aj1sXLpKc_N9Z6AZ3_5Oq6JhTXmgEQza-1v58a66p_ID0phE2Zv",
+      "icon_72": "https://play-lh.googleusercontent.com/eksxaPfxbTVb6VTl5aj1sXLpKc_N9Z6AZ3_5Oq6JhTXmgEQza-1v58a66p_ID0phE2Zv=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.guardian"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Get daily news and events sent straight to your phone, because small news makes a big difference to communities! Keep up to date with current events, live local news, business news and more!\n\nSmall news makes a big difference! NewsBreak is your #1 local news app for current events, free live news, business news, and more. Download today to stay up to date on all things local!\n\nLocal news is different. NewsBreak believes that local news helps bring neighborhoods together around the unique stories they share in common. And only local, small news has the unique ability to meaningfully inform the decisions we make throughout the day.\n\nWhat’s the weather like in my area? What about traffic? What important events are happening nearby? Join NewsBreak’s growing local news community and see why over 45M people across the U.S. have helped make us the nation’s #1 local news app!\n\nAnd remember - we don’t just do local! Local breaking news, sports news, trending national & international news – NewsBreak’s got it all. Get everything from sports updates to national news headlines sent straight to your phone while coming together with your neighborhood to share in interesting conversations related to local news in your area.\n\nJoin the 45M+ locals across the U.S. that trust NewsBreak as their #1 local news app!\n\nNewsBreak Features:\n\nLocal News Highlights\n• Get a curated daily briefing on local news, traffic, events, local weather, and more.\n• Live stream news on local channels: follow local news, events, and activities.\n• Get local weather reports and traffic updates at a glance.\n\nBreaking News, National and Local\n• Both small news and breaking news, stay up to date with our current news coverage\n• Daily news highlights delivered straight to your device\n• Browse national news headlines and read comprehensive, in-depth stories.\n• Use the discovery engine to discover stories from over 10,000 trusted sources.\n\nPersonalized News Feed\n• Get the stories that matter to you with a highly personalized feed, relevant to your likes and dislikes.\n• Get coverage on the news that matters most to you, including sports news, business news, tech news, and more\n• Keep up with the latest coverage of important news and events, nationally and locally.!\n• Our news aggregator collects and delivers the news that matters to you.\n• Get news alerts customized to your tastes.\n\nYour Community News\n• Find local eats, small news updates, deals, shop openings, and more ahead of time.\n• Read personal and vivid stories from our local news writers and content creators.\n• Treat us as your personal newsstand, magazine collector, restaurant reviewer, and more.\n\nCreate Civic Value - Support the Cause\n• Use NewsBreak to revive the local news ecosystem and support small publishers.\n• Increase local story volume and geographic coverage to stimulate local storytelling and community power.\n\nFollow or Block the Trend - It’s Up to You\n• It’s totally cool to stay on top of some topics, or totally hate them!\n• NewsBreak allows you to follow what is trending, or completely block some topics you don’t appreciate.\n• You can laugh, share, think, cry, upvote, downvote, comment, reply...\n• NewsBreak is a free ground that welcomes you to express emotions & opinions.\n\nDownload NewsBreak today to stay informed on local news, national headlines, and world news!\n\nBetter informed, better life.",
+      "android_package_name": "com.guardian",
+      "ios_bundle_id": "com.particlenews.newsbreak",
+      "title": "Guardian News & Media",
+      "domain_name": [
+        "https://www.newsbreak.com",
+        "https://www.newsbreak.com"
+      ],
+      "website": "https://www.newsbreak.com",
+      "developer": "Particle Media Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0IoGNBJeaga47hJgxtTzXXlPQmZYGjrzghS1NLoCrtjJTkm_GSRs5e44FmrXxxCUYJs",
+      "icon_72": "https://play-lh.googleusercontent.com/0IoGNBJeaga47hJgxtTzXXlPQmZYGjrzghS1NLoCrtjJTkm_GSRs5e44FmrXxxCUYJs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.magazines"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Apple News brings you the world’s best journalism, all in one place. Top stories chosen by editors, personalized for you; In-depth sports coverage with scores, standings, and highlights; local news sources in all 50 states; and more. An Apple News+ subscription makes Apple News even better with access to hundreds of premium magazines and leading newspapers, exclusive daily puzzles, audio stories, Offline Mode, Family Sharing for up to six, and more.\n\nCURATED & PERSONALIZED\nApple News delivers Top Stories throughout the day. Editors spotlight well-sourced, fact-based stories to provide you reliable news from a wide range of publishers. The more you read, the more personalized your Apple News gets.\n\nPUZZLES\nA News+ subscription includes access to exclusive puzzles: a full-size crossword, crossword mini, Quartiles, and Sudoku. New puzzles are added daily, and you can dip into the archive to play more anytime. Track your stats and streaks in the Scoreboard and see how you rank among friends and other solvers in Game Center.\n\nIN-DEPTH SPORTS COVERAGE\nFollow your favorite teams and leagues to get highlights, live scores, schedules, standings, and stats for professional and college teams. Plus, get the latest stories from top sports publishers. Apple News+ unlocks full-access to The Athletic, premium local newspapers, and more.\n\nYOUR LOCAL NEWS\nThe most useful and informative stories on local news, sports, real estate, dining, weather, and more from a diverse list of publishers, right in your Today feed. With Apple News+, you'll gain even more access to the award-winning, essential work being done by local newspapers every day.\n\nSTORIES YOU NEED TO HEAR\nTune in to hear host Shumita Basu discuss the day’s top stories and how the world’s best journalists are covering them on Apple News Today, a free podcast available weekday mornings, and join Shumita on weekends for interviews with journalists and experts on stories that impact our lives on Apple News In Conversation. Apple News+ subscribers can also listen to audio stories, narrated versions of some of the best journalism from Apple News+.\n\nTHE BEST STORIES ONLINE, OFFLINE\nAn Apple News+ subscription enables Offline Mode, which automatically downloads stories, puzzles, audio, and more within your feeds so they’re available when you’re on a plane, in the subway, or wherever you don’t have service.\n\nCOMMITTED TO YOUR PRIVACY\nApple News only uses on-device intelligence to recommend stories and doesn’t access your information without your permission. We never share it with others or allow advertisers to track you.\n\nAPPLE NEWS+ DELIVERS EVEN MORE\n• International, national, and local newspapers such as The Wall Street Journal, San Francisco Chronicle, The Times & The Sunday Time of London, and more\n• Leading magazines such as People, The Athletic, Vogue, Prevention, TIME, Bon Appétit, WIRED, and 400+ more\n• Fun daily puzzles including crosswords, Quartiles, and Sudoku\n• Offline Mode on your iPhone and iPad\n• Family Sharing for up to six\n• Audio stories on your iPhone\n• And more\n\nIf you subscribe to Apple News+, payment will be charged to your Apple Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. 1-month free trial for new customers only. See https://www.apple.com/legal/privacy/en-ww for the Privacy Policy. Apple News+ Terms and Conditions can be found at https://www.apple.com/legal/internet-services/itunes/us/terms.html.",
+      "android_package_name": "com.google.android.apps.magazines",
+      "ios_bundle_id": "com.apple.news",
+      "title": "Apple News",
+      "domain_name": [
+        "https://www.apple.com/apple-news",
+        "https://www.apple.com"
+      ],
+      "website": "https://www.apple.com/apple-news",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/b3MqZswO8F7j3lcdH01kxzaeHa7vUndy7ma_JwdM_j_Vpj8LKZcKt0HmpORQ7CKF2A",
+      "icon_72": "https://play-lh.googleusercontent.com/b3MqZswO8F7j3lcdH01kxzaeHa7vUndy7ma_JwdM_j_Vpj8LKZcKt0HmpORQ7CKF2A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.economist.lamarr"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "The Economist news app offers fact checked, data driven, unbiased journalism covering daily news.\n\nChoose from a variety of news topics: Politics, Business, Technology, Science and more. Find thorough reporting, analysis and informed opinion from our correspondents around the world.\n\nDownload The Economist news app today and join the people who know. \n\nKey subscriber benefits\n- Full access to The Economist app and economist.com - global and local news updated daily\n- The World in Brief - a faster way to understand the stories behind the news\n- Economist Podcasts+ - award-winning, noise-cancelling podcasts on a variety of global issues and news events\n- Weekly edition - read online, listen to narrated articles or download to enjoy offline \n- Audio queue to create a custom listening list of the news \n- Bookmarks to save articles to read later\n- Easy reading with adjustable text size and dark mode\n\nFull terms of use can be found at https://www.economist.com/legal/terms-of-use\nOur privacy policy can be found at https://www.economist.com/privacy",
+      "android_package_name": "com.economist.lamarr",
+      "ios_bundle_id": "com.economist.lamarr",
+      "title": "The Economist",
+      "domain_name": [
+        "https://www.economist.com",
+        "https://www.economist.com"
+      ],
+      "website": "https://www.economist.com",
+      "developer": "The Economist Newspaper Group Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/v0mG0DW6yEJ1fnNqNLIcfVhyZah-WzMlkPZeNLTlMD6shNuIFP102fORwbFKo6fGifM",
+      "icon_72": "https://play-lh.googleusercontent.com/v0mG0DW6yEJ1fnNqNLIcfVhyZah-WzMlkPZeNLTlMD6shNuIFP102fORwbFKo6fGifM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.yahoo.mobile.client.android.finance"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Yahoo News gives you news that is on point! with free, unlimited access to the stories and topics that matter most to you. Aggregating news from premium publishers, you can keep up with your world through a feed personalized to your interests and preferences. Never miss out on breaking world, national or local news updates, plus read about entertainment, lifestyle and more.\n\nYahoo News has been bringing readers the latest headlines and hottest trends from trusted sources for over 20 years. Join the millions of people who get personalized news updates from Yahoo News, and access the following benefits.\n\nYahoo News Features: \n\nPERSONALIZATION: Keep up with the news you care about through a personalized feed that adapts to your interests, while helping you stay informed with the most important breaking headlines. Instantly access the stories, topics and publishers that matter most to you, and adjust your preferences at any time to improve your feed and notifications. Block any keywords or specific publishers you don’t want to hear from, and make your news feed uniquely yours. \n\nCHOOSE FROM MANY PREMIUM NEWS SOURCES: Yahoo News aggregates content from the best global publishers — from CNN and Time to Business Insider, People and Esquire — so you can feel confident that you have access to the best, and most comprehensive news providers out there. Get perspectives from a broad range of publishers, and opt into updates from your favorites.\n\nBREAKING NEWS FROM AROUND THE WORLD: Get global breaking news headlines that matter to you, wherever you are. Yahoo News partners with international news organizations like Associated Press, Reuters and The Washington Post, that report on the biggest world stories and current events. You’ll never miss a beat.\n\nLOCAL NEWS: We know how important it is to keep up with local news, which is why we’ve partnered with an array of local publishers like the Miami Herald, Charlotte Observer, NY Post and more, so you can stay on top of local politics, news, events, weather updates, crime and other important conversations in your neighborhood.\n\nNO PAYWALLS: Yahoo News is completely free to use. Access unlimited stories from premium publishers, so you can always stay on top of the topics you care about.\n\nDIVERSE RANGE OF TOPICS: Yahoo News is proud to aggregate content from a vast range of publishers. In addition to our proprietary Yahoo coverage of News, Entertainment, and Lifestyle content, you will also get access to the other topics you love like: celebrity, sports, movies & television, music, technology, health & wellness, parenting, style & beauty, travel, home & garden, autos, shopping, horoscope, science, weather and more.\n\nQUICK AI TAKEAWAYS: AI-generated, scannable, bulleted takeaways for articles make it easy to get the most important elements of a story in an instant. Harnessing the power of AI, users can quickly browse the key points of stories and stay in the know.",
+      "android_package_name": "com.yahoo.mobile.client.android.finance",
+      "ios_bundle_id": "com.yahoo.frontpage",
+      "title": "Yahoo News",
+      "domain_name": [
+        "https://yahoo.com",
+        "https://yahoo.com"
+      ],
+      "website": "https://yahoo.com",
+      "developer": "Yahoo Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jQVXIz4MbsuOJSzoeFsTeL2gHoaZTlBtz2JbyG9JAuhsrTPB2vSvsRqsINWYVUr3Xw",
+      "icon_72": "https://play-lh.googleusercontent.com/jQVXIz4MbsuOJSzoeFsTeL2gHoaZTlBtz2JbyG9JAuhsrTPB2vSvsRqsINWYVUr3Xw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.huffingtonpost.android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "HuffPost is a Pulitzer Prize-winning digital source of news. We report with empathy and put people at the heart of every story, whether it's about news, politics, lifestyle or entertainment. We believe news is personal and real life is news. If something matters to our readers, it matters to us.\n\n• Stay informed with breaking news alerts and top story digests.\n• Browse articles, videos, podcasts and interactive content about a diverse range of topics and perspectives\n• Hear from voices that are not always part of the conversation\n• Enjoy all of HuffPost's editions in one app. (HuffPost is truly both global and local, with locally staffed newsrooms and editions around the world.)",
+      "android_package_name": "com.huffingtonpost.android",
+      "ios_bundle_id": "com.huffingtonpost.HuffingtonPost",
+      "title": "HuffPost",
+      "domain_name": [
+        "https://www.huffpost.com",
+        "https://www.huffpost.com"
+      ],
+      "website": "https://www.huffpost.com",
+      "developer": "The Huffington Post",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3J0L5T-1reAMYIUkNag-LJ0Ptt-jScq5-Og-h9imMqmoUmteLFzWe0xy57v-npqCHXg",
+      "icon_72": "https://play-lh.googleusercontent.com/3J0L5T-1reAMYIUkNag-LJ0Ptt-jScq5-Og-h9imMqmoUmteLFzWe0xy57v-npqCHXg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.freerange360.mpp.indy"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Trusted by millions, the only Bitcoin and crypto wallet app you need. Trade any token, earn yield while you sleep, and enjoy full control over all your crypto assets in one secure and powerful digital wallet app.\n\nHere's a rundown of the key features:\n\n> Buy Bitcoin (BTC), Bitcoin Cash (BCH), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), BNB, and a wide range of the most popular tokens quickly and easily with credit card, Apple Pay, and more.\n\n> Cash out with ease! Sell cryptocurrencies into your local currency. \n\n> Send, receive, and swap between any cryptocurrency.\n\n> Access DeFi apps and dApps that enable earning interest on your crypto, borrowing and lending, participating in NFT marketplaces, synthetic assets, and much more.\n\nOther key features:\n\nSELF-CUSTODIAL\n\nYour crypto is ultra-secure because only you can access it. Self-custodial means not even Bitcoin.com has access to your funds, and you can easily port your assets to another crypto wallet whenever you want. No lock-ins, no third-party risk, no exposure to bankruptcy, and you'll never again ask for permission to use your money.\n\nDEFI READY\n\nConnect to Ethereum, Avalanche, Polygon, and BNB Smart Chain dApps effortlessly via WalletConnect (v2). That means you can earn interest on your crypto, trade using decentralized exchanges, participate in NFT marketplaces, access lending markets and much, much more.\n\nQUICK & SECURE ACCESS\n\nUnlock your Wallet app with biometrics or PIN.\n\nAUTOMATED BACKUP\n\nAutomatically back up all your wallets to the cloud and decrypt them with a single master password. Replace the hassle of managing numerous secret phrases with the convenience and security of a single custom password. (You can still opt to manually manage your individual seed phrases).\n\nCUSTOMIZABLE FEES\n\nYou decide the network fee. Up the fee for faster network confirmations. Lower it when you're not in a rush.\n\nLOW-FEE CHAINS\n\nThe multichain Bitcoin.com Wallet app is committed to giving you access to low-fee blockchains so that you can use peer-to-peer cash as it was intended AND make the most of the opportunities available in DeFi and Web3.\n\nAVALANCHE SUPPORT\n\nBuy, sell, swap, hold and manage AVAX, the native token of the Avalanche blockchain. You can also manage tokens and use DApps on the Avalanche network.\n\nPOLYGON SUPPORT\n\nBuy, sell, swap, hold and manage MATIC, the native token of the Polygon blockchain. You can also manage tokens and use DApps on the Polygon network.\n\nBNB SMART CHAIN SUPPORT\n\nBuy, sell, swap, hold and manage BNB, the native token of BNB Smart Chain. You can also use DApps on the network.\n\nSHARED WALLETS (MULTI-SIG)\n\nCreate multi-signature wallets to manage funds with your team or friends and family.\n\nWIDGETS\n\nInstall live market-data widgets on your home screen. Track your favorite cryptocurrencies throughout your day.\n\nMARKETS VIEW\n\nTrack the price action and get key info on the top cryptocurrencies.\n\nPERSONAL NOTES\n\nAdd text to your transactions to remind you who sent what, when, and where.\n\nSEND VIA SOCIAL\n\nSend a payment link to anyone using any messaging app. Funds are received/claimed instantly with just one click.\n\nDISCOVER\n\nUse the Discover section in the app to locate merchants near you who accept cryptocurrency payments in-store. Browse websites where you can pay with crypto and find other cool features like games, gift cards, and more.\n\nCUSTOMIZABLE DISPLAY CURRENCY\n\nChoose your preferred display currency alongside your crypto (eg. USD, EUR, GBP, JPY, CAD, AUD, and more).\n\nAUDITED BY KUDELSKI SECURITY\n\nA comprehensive audit from the cybersecurity experts proved there is no real-world scenario in which an attacker would be able to compromise a user’s private keys.\n\nTHE BITCOIN & CRYPTOCURRENCY WALLET THAT PUTS YOU IN FULL CONTROL\n\nBuy, sell, swap, trade, invest, earn, & use cryptocurrency like Bitcoin (BTC), Bitcoin Cash (BCH), Ethereum (ETH) & many more in the self-custody Bitcoin and Crypto DeFi Wallet trusted by millions.",
+      "android_package_name": "com.freerange360.mpp.indy",
+      "ios_bundle_id": "com.bitcoin.mwallet",
+      "title": "The Independent",
+      "domain_name": [
+        "https://wallet.bitcoin.com",
+        "https://wallet.bitcoin.com"
+      ],
+      "website": "https://wallet.bitcoin.com",
+      "developer": "Saint Bitts LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3h2UG_pG4yRF71ObS22wlkndwDSfwYy6N2yUHHEOoozCUzAIGZmc76iFoTSnyRb1rOwI",
+      "icon_72": "https://play-lh.googleusercontent.com/3h2UG_pG4yRF71ObS22wlkndwDSfwYy6N2yUHHEOoozCUzAIGZmc76iFoTSnyRb1rOwI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cdtech.edigitalNews"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Welcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, and engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where members post and comment) dedicated to specific topics. Some of the most popular communities are:\n• r/AskReddit, where users can ask and answer questions\n• r/funny, which is full of humorous content\n• r/science, for scientific discussions and news\n• r/gifs, with funny animated gifs for your viewing pleasure\n\nOn Reddit you’ll find:\n• Thousands of community groups\nBreaking news, social media trends, sports highlights, TV fan theories, open AI discussions and personalized content, there's a community for everyone.\n\n• Loads of laughs\nFind memes, oddly satisfying videos, funny cat videos, and more to help you lose track of time.\n\n• AMAs, or \"Ask Me Anything\"\nCelebrities, politicians, and experts answer questions from users.\n\n• The best discussions on any topic\nReddit’s discussion threads are where community members jump in with humor and insights for just about anything; pop culture, sports, entertainment, or financial advice.\n\n• Get answers to anonymous questions \nAsk communities anything you want. Ask questions on relationships, mental health, parenting, career help, fitness plans, and more.\n\n• Anonymous profiles so you can do YOU\nConnect with people about any topic, join interactive community groups or threads, and chat with other redditors, all anonymously.\n\nVoting and Karma:\n\nInstead of likes and hearts, Reddit’s social network runs on upvotes or downvotes. Voting on posts and comments increase or decrease the creator’s karma, and helps popular and relevant posts rise to the top, while filtering out low-quality or irrelevant posts.\n\nWhile karma doesn't directly impact your ability to use Reddit, more karma can increase posts’ visibility and help you get noticed. Some communities require karma to post or comment, which helps prevent spam or low-quality content.\n\nReddit Premium:\n\nPurchase Reddit Premium to enjoy an ads-free experience and access to premium avatar gear, r/lounge, custom app icons, and more.\n\nPayment will be charged on a recurring monthly or annual basis to your Apple account. Your monthly or annual Premium subscription will automatically renew unless you cancel at least 24 hours before your subscription ends. Cancel anytime in your device’s Account Settings. No partial refunds.\n\nPrivacy Policy: https://www.redditinc.com/policies/privacy-policy \nUser Agreement: https://www.redditinc.com/policies/user-agreement \nReddit Rules: https://www.redditinc.com/policies/content-policy \n\nIf you have any problems with the app, get support at RedditHelp.com",
+      "android_package_name": "com.cdtech.edigitalNews",
+      "ios_bundle_id": "com.reddit.Reddit",
+      "title": "E! News",
+      "domain_name": [
+        "https://www.reddit.com/download",
+        "https://www.reddit.com"
+      ],
+      "website": "https://www.reddit.com/download",
+      "developer": "REDDIT, INC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/xCtv-OH5ZPwOfQswD_mnVxbnauENIaBmzoGjrXDLBftQxyJ8Pn8dri1ELt-tAJX6yk8",
+      "icon_72": "https://play-lh.googleusercontent.com/xCtv-OH5ZPwOfQswD_mnVxbnauENIaBmzoGjrXDLBftQxyJ8Pn8dri1ELt-tAJX6yk8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "mnn.Android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Stay informed with breaking local, national and global headlines directly from the world’s definitive source for news. Available on the iPhone, iPad and Apple Watch, AP News by The Associated Press features a personalized experience containing:\n \n* A feed with developing stories from your followed topics.\n* Customized news alerts tailored to your interests.\n* Curated content hubs for deeper insights into major news events and story lines.\n* Award-winning photos, videos and articles from around the world.\n* Local-interest stories from newspapers and broadcasters.",
+      "android_package_name": "mnn.Android",
+      "ios_bundle_id": "com.apnews.ipad.mobilenewsdevel",
+      "title": "AP News",
+      "domain_name": [
+        "https://apnews.com",
+        "https://apnews.com"
+      ],
+      "website": "https://apnews.com",
+      "developer": "The Associated Press",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NsMkpLUpmJtO9wSCJTpVqT6jgZPnPGmE5kNY_-dgLaomklowOyU8-IP0tZ93J-SquNI",
+      "icon_72": "https://play-lh.googleusercontent.com/NsMkpLUpmJtO9wSCJTpVqT6jgZPnPGmE5kNY_-dgLaomklowOyU8-IP0tZ93J-SquNI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bskyb.skynews.android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Get daily news and events sent straight to your phone, because small news makes a big difference to communities! Keep up to date with current events, live local news, business news and more!\n\nSmall news makes a big difference! NewsBreak is your #1 local news app for current events, free live news, business news, and more. Download today to stay up to date on all things local!\n\nLocal news is different. NewsBreak believes that local news helps bring neighborhoods together around the unique stories they share in common. And only local, small news has the unique ability to meaningfully inform the decisions we make throughout the day.\n\nWhat’s the weather like in my area? What about traffic? What important events are happening nearby? Join NewsBreak’s growing local news community and see why over 45M people across the U.S. have helped make us the nation’s #1 local news app!\n\nAnd remember - we don’t just do local! Local breaking news, sports news, trending national & international news – NewsBreak’s got it all. Get everything from sports updates to national news headlines sent straight to your phone while coming together with your neighborhood to share in interesting conversations related to local news in your area.\n\nJoin the 45M+ locals across the U.S. that trust NewsBreak as their #1 local news app!\n\nNewsBreak Features:\n\nLocal News Highlights\n• Get a curated daily briefing on local news, traffic, events, local weather, and more.\n• Live stream news on local channels: follow local news, events, and activities.\n• Get local weather reports and traffic updates at a glance.\n\nBreaking News, National and Local\n• Both small news and breaking news, stay up to date with our current news coverage\n• Daily news highlights delivered straight to your device\n• Browse national news headlines and read comprehensive, in-depth stories.\n• Use the discovery engine to discover stories from over 10,000 trusted sources.\n\nPersonalized News Feed\n• Get the stories that matter to you with a highly personalized feed, relevant to your likes and dislikes.\n• Get coverage on the news that matters most to you, including sports news, business news, tech news, and more\n• Keep up with the latest coverage of important news and events, nationally and locally.!\n• Our news aggregator collects and delivers the news that matters to you.\n• Get news alerts customized to your tastes.\n\nYour Community News\n• Find local eats, small news updates, deals, shop openings, and more ahead of time.\n• Read personal and vivid stories from our local news writers and content creators.\n• Treat us as your personal newsstand, magazine collector, restaurant reviewer, and more.\n\nCreate Civic Value - Support the Cause\n• Use NewsBreak to revive the local news ecosystem and support small publishers.\n• Increase local story volume and geographic coverage to stimulate local storytelling and community power.\n\nFollow or Block the Trend - It’s Up to You\n• It’s totally cool to stay on top of some topics, or totally hate them!\n• NewsBreak allows you to follow what is trending, or completely block some topics you don’t appreciate.\n• You can laugh, share, think, cry, upvote, downvote, comment, reply...\n• NewsBreak is a free ground that welcomes you to express emotions & opinions.\n\nDownload NewsBreak today to stay informed on local news, national headlines, and world news!\n\nBetter informed, better life.",
+      "android_package_name": "com.bskyb.skynews.android",
+      "ios_bundle_id": "com.particlenews.newsbreak",
+      "title": "Sky News",
+      "domain_name": [
+        "https://www.newsbreak.com",
+        "https://www.newsbreak.com"
+      ],
+      "website": "https://www.newsbreak.com",
+      "developer": "Particle Media Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pHkMbBQj7MnKj7SYhVMan82alGvqDODnzO_sEeDiM91UfH4_mc05KtcXA4_ujSe-ag",
+      "icon_72": "https://play-lh.googleusercontent.com/pHkMbBQj7MnKj7SYhVMan82alGvqDODnzO_sEeDiM91UfH4_mc05KtcXA4_ujSe-ag=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.newsweekeurope.newsweek"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Newsweek has been bringing trustworthy, high-quality journalism to readers around the globe since 1933. More than 50 million people each month enjoy Newsweek’s website, podcasts, videos, magazines & newsletters\n \nDon’t miss it – This version is a special edition of the app, free to download, providing unlimited access to Newsweek content.\n \nTop Features of Newsweek app:\n \n1. Live & Breaking news: live coverage of the most important stories of the day\n2. In-depth Analysis: articles and deeper analysis of what’s trending in Politics, Business, Tech, World, Sports and more\n3. Podcasts: from debates to political analysis, including shows about business, culture,  entertainment and the royal family\n4. The Bulletin: an in depth briefing with everything you need to know to start the day\n5. Videos: a special selection of videos related to the most important stories of the day\n6. Magazine: access to the weekly edition of Newsweek magazine, including an archive with issues from recent years\n7. Newsletters: access to our preferences page where you can subscribe to our newsletters.\n8. Notifications: Get Notified for all the important news and articles via notifications",
+      "android_package_name": "com.newsweekeurope.newsweek",
+      "ios_bundle_id": "com.pointabout.newsweek.ipad",
+      "title": "Newsweek",
+      "domain_name": [
+        "https://www.newsweek.com/advertise",
+        "https://www.newsweek.com"
+      ],
+      "website": "https://www.newsweek.com/advertise",
+      "developer": "Newsweek Publishing LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/_jzqkijJ5qcpMEL4XSdpsOh5zs-G3Y8qKf38kmlnsh_nWlfcTlGObz6LruEf2T60qA",
+      "icon_72": "https://play-lh.googleusercontent.com/_jzqkijJ5qcpMEL4XSdpsOh5zs-G3Y8qKf38kmlnsh_nWlfcTlGObz6LruEf2T60qA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.politico.android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Stay up to speed on the political news driving the day with the POLITICO iPhone app, featuring up-to-the-minute insight and analysis delivered straight to your phone. The sleek and navigable design offers a convenient way to access POLITICO's dynamic stories and breaking news alerts.",
+      "android_package_name": "com.politico.android",
+      "ios_bundle_id": "com.politico.politicoapp",
+      "title": "Politico",
+      "domain_name": [
+        "https://www.politico.comapp",
+        "https://www.politico.comapp"
+      ],
+      "website": "https://www.politico.comapp",
+      "developer": "POLITICO, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/G1D8XVOhCOy8KnVReqbxAPit5Saa-EVUOqVfkV6hJVwM1MOaGrgc0UmjOOzQaVwFr-s",
+      "icon_72": "https://play-lh.googleusercontent.com/G1D8XVOhCOy8KnVReqbxAPit5Saa-EVUOqVfkV6hJVwM1MOaGrgc0UmjOOzQaVwFr-s=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.freerange360.mpp.businessinsider"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "The Business Insider app provides you with a fast and convenient way to read business news on the go. \n\nStay up-to-date with the latest news, sharp analyses and insightful commentaries from around the world and across a variety of topics like tech, finance, real estate, and more.\n\nKey Features:\n\n+ Receive breaking news alerts and follow developing stories\n+ Follow the topics that matter to you with Shortcuts and access your favorite categories faster\n+ Search through Insider's extensive news archives\n+ Get full coverage on the latest and trending topics with our new, curated Discover feed\n+ Save interesting articles for later reading\n+ Share articles directly to your email or favorite supported social media apps (Facebook, Twitter, Pocket, Pinterest, WhatsApp, etc.)\n+ Use summary mode to skim the key details of every article without leaving your home feed. This is a subscriber-exclusive feature.\n\nWe are always working to improve the overall app experience and welcome your feedback.\n• Feedback about the app: mobile@insider.com\n• Contact Insider subscriptions: subscriptions@insider.com\n• Contact our editors: feedback@insider.com\n\nThank you for reading!\n\n\nBusiness Insider Subscription Agreement:\n\nYou are agreeing to purchase a subscription that includes access to articles and e-newsletter. Once purchase is complete, payment will be charged to your iTunes account upon confirmation of your subscription selection at the below prices (subject to change at a future time):\n• Monthly subscription - $11.99/month\n• Quarterly subscription - $27.99/Quarter\n• Annual subscription - $99.99/year\n\n* For non-US app stores, the equivalent currency charges will apply.\n\nAll subscriptions are set to renew automatically unless auto-renew is turned off at least 24 hours prior to the next billing date.Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.\nTerms of Sale: https://www.insider-inc.com/terms-of-sale\n\nUPDATED PRIVACY POLICY:\n\nWe have updated our Privacy Policy to reflect global privacy standards. We encourage you to read the updated policy in full. By continuing to this app after April 13th, 2023, you agree to these updated terms. Privacy Policy is available at https://www.insider-inc.com/privacy-policy.\n\nAdditional Subscription Information:\n• Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal.\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.\n• No cancellation of the current subscription is allowed during the active subscription period.\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nTerms of Service - https://www.insider-inc.com/terms/",
+      "android_package_name": "com.freerange360.mpp.businessinsider",
+      "ios_bundle_id": "com.businessinsider.iphone",
+      "title": "Business Insider",
+      "domain_name": [
+        "https://www.businessinsider.com",
+        "https://www.businessinsider.com"
+      ],
+      "website": "https://www.businessinsider.com",
+      "developer": "Insider, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/rT_YtsKZEiH079xJnuq40Vb_EcejRWskCTkR9uDJKaPliY7gLCkiFRVUfd-bZT0slkcd",
+      "icon_72": "https://play-lh.googleusercontent.com/rT_YtsKZEiH079xJnuq40Vb_EcejRWskCTkR9uDJKaPliY7gLCkiFRVUfd-bZT0slkcd=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.radio.pocketfm"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "KEEP UP WITH WHAT YOU CARE ABOUT.\nUse Pocket to stay on top of your interests, and curate your own space filled with only the topics you care about. Discover and save the latest stories, articles, news and videos from any device, and any publisher or app. Then fuel your mind with a reading, watching and listening experience designed for calm eyes, free hands and fresh focus.\n\nDISCOVER MORE OF WHAT YOU LOVE.\nFind articles you’ll love on the Home tab. Pocket surfaces 'best of the web' content discovered by our readers, verified by our curators and approved by our editors. Find all kinds of topics from all kinds of publishers, including quality magazines and news sources like Fast Company, Rolling Stone, Slate, The Atlantic, Atlas Obscura, Harvard Business Review and more.\n\nSAVE FROM ANYWHERE.\nTap the Pocket button in your iPhone’s share menu while you’re in any app to save the latest news, magazine articles, videos, recipes, how-tos — anything you come across online from any publisher — right to your saves. Frequently-saved publications include: New York Times, The Guardian, Washington Post, The Atlantic, Lifehacker, Business Insider, The Verge, Google News, Buzzfeed, Vox, Medium, Twitter, and Youtube.\n\nLISTEN TO ARTICLES.\nPocket's listen feature turns any news story, article, or blog post into a hands-free, eyes-free learning experience. Now you can keep up with your articles while you cook, commute, work out, walk, or just relax and listen.\n\nREST YOUR EYES. FIND YOUR FOCUS.\nPocket's clean layout and customizable display make for a relaxing reading experience that clears out the visual clutter, gives your eyes a rest and lets your mind focus on the information at hand. Love long reads? Pocket's elegant typography and minimal layout keep reading comfortable for longer stretches. \n\nREAD EVERYWHERE.\nIf it's in your Pocket, it's on your phone, tablet and computer — even when you're offline. Whether you're taking a news break, reading from bed, or breezing through articles on your commute, Pocket makes the most of your time by getting you straight to the newsfeeds, magazine articles, stories, information, news, and sports that are compelling to you. And estimated reading times help you turn any time into quality time.\n\nMAKE IT PREMIUM. AND PERMANENT.\nPower users can upgrade anytime to Pocket Premium for features like advanced search, unlimited highlights and automatic article backups.\n\nPocket is available for iPhone, iPad, iPod Touch, the web, and any other phone or tablet.\n\nYou can also save to Pocket with our browser extensions for Chrome, Firefox, or Safari\nLearn more at https://getpocket.com/.\n\n••••••\n\nUpgrade to Pocket Premium for a more powerful Pocket experience ($4.99 monthly, $44.99 annually):\n\n• Permanent Library to keep a personal backup of what you save\n• Full-Text searching to find anything in your list\n• Suggested Tags to get organized fast.\n\nPrice may vary by location. Subscriptions will be charged to your credit card through your iTunes account. Your account will be charged $4.99 (monthly) or $44.99 (yearly) for renewal within 24 hours prior to the end of the current period. Subscriptions will automatically renew unless canceled at least 24 hours before the end of the current period. It will not be possible to immediately cancel a subscription. You can manage subscriptions and turn off auto-renewal by going to your Account Settings after purchase. Refunds are not available for unused portions of a subscription.\n\nPocket Privacy Policy: https://getpocket.com/privacy\nPocket Terms of Service: https://getpocket.com/tos",
+      "android_package_name": "com.radio.pocketfm",
+      "ios_bundle_id": "com.ideashower.ReadItLaterPro",
+      "title": "Pocket",
+      "domain_name": [
+        "http://getpocket.com",
+        "https://getpocket.com"
+      ],
+      "website": "http://getpocket.com",
+      "developer": "Mozilla Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/kweybiMo_yZEBNmGCmh3fyRVXQQ5lIJQB4z_jaECV_tpqEW8GqhFjEFmxbtRL8TrFic",
+      "icon_72": "https://play-lh.googleusercontent.com/kweybiMo_yZEBNmGCmh3fyRVXQQ5lIJQB4z_jaECV_tpqEW8GqhFjEFmxbtRL8TrFic=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.buzzfeed.android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "BuzzFeed is the place for celebrity buzz, trivia, quizzes, shopping, games, and trending news that matters!\n\nThe BuzzFeed app has it all:\n• Catch up on pop culture, trending entertainment and celebrity news\n• Read the funniest and wildest tweets and stories from across the Internet\n• Shop smarter with our Shopping recommendations to buy gifts for friends — or yourself!\n• Play word, trivia, and AI games in our Games Tab\n• Test your trivia knowledge or take a quiz that reveals something about you in the Quiz tab\n\nMore on quizzes:\n• Find out who you are with our personality quizzes! Whether it’s a Disney princess, Gilmore Girls character, or one of Marvel’s Avengers, our quizzes are eerily accurate! See if we can guess your age too!\n• Take a trivia quiz to see how your trivia knowledge compares to other BuzzFeed quiz takers, and share your trivia results with friends! We let you know if you’re a trivia star by quizzing you on if you really are smarter than a fifth grader or know as much trivia as Jeopardy contestants.\n\nMore on shopping:\n• Can’t find the perfect gift, or the perfect item for yourself? Our shopping recommendations provide ideas for beauty products, technology, apparel, household supplies, and more! \n• Not ready to buy? Save your favorite items for later in our shopping Wish List!\n\nMore on news and entertainment:\n• Catch up with your favorite celebrities and pop culture moments.\n• Find all the coverage you want of your favorite TV and movies, from hot trending series on Disney+ and Netflix to your old favorites like the Office and Friends!\n• Take a news break and enjoy our social media roundups of the best posts from Twitter and Reddit!\n\nMore on app features:\n• Bookmark your favorite trivia quizzes or news articles to return to later!\n• Join the BuzzFeed community to comment on what’s buzzing in the celebrity and pop culture world.\n• Get push notifications for breaking news or the big story that everyone’s ready.\n\nReviews:\n\n“One site with just about EVERYTHING. No joke. News, trivia, fun videos, dating/health tips, recipes, and fact-filled articles you never knew you needed to read.” - DannyA3579\n\n“It is the young people's New York Times, I love it.” - *-Clay-* \n\n“It's both entertaining and informative, and probably has better news credibility than both Fox and CNN combined.” - ​​vertrell\n\n“Combines CNN and E! News and more. I get all my news here.” - lolaw1225\n\n“It's my morning routine… almost a combination of TMZ and the news all in one app.” - margaretwp\n\nIf you have any trouble with your app please email us at support@buzzfeed.com so we can help!\n\nIf you'd like to delete your buzzfeed.com account, log in on desktop and go to the user settings menu, then tap Delete My Account.  Deleting your account will irreversibly delete your account details.  Your posts will be removed from public view (we will keep an internal copy for compliance purposes), and your username will be removed from your comments (but your comments will remain visible, so you should edit/delete them before deleting your account).  Deleting your account will not unsubscribe you from any email lists you’ve signed up for (see the emails for unsubscribe instructions) and will not delete your account on other BuzzFeed platforms (please log into your account on that platform).\n\nThis app may contain contextually-served ads, which are targeted based on the subject matter of the content, where they are placed, and are not based on user behavior data.\n\nNote: Our properties may also feature Nielsen's proprietary measurement software which may contribute to market research, like Nielsen's TV Ratings. Nielsen's software may collect your choices with regards to it.\n\nPrivacy Policy: https://www.buzzfeed.com/about/privacy\nUser Agreement: https://www.buzzfeed.com/about/useragreement",
+      "android_package_name": "com.buzzfeed.android",
+      "ios_bundle_id": "com.buzzfeed.buzzfeed",
+      "title": "BuzzFeed News",
+      "domain_name": [
+        "https://www.buzzfeed.com",
+        "https://www.buzzfeed.com"
+      ],
+      "website": "https://www.buzzfeed.com",
+      "developer": "BuzzFeed",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/BaaIfoR6ZCqccqiE8OwRtXIhiM6Yyj6sut6ZFCuo7spKBfsEZbJE8r2dHBtwSEGSXpc",
+      "icon_72": "https://play-lh.googleusercontent.com/BaaIfoR6ZCqccqiE8OwRtXIhiM6Yyj6sut6ZFCuo7spKBfsEZbJE8r2dHBtwSEGSXpc=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "uk.co.thesun.mobile"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "\"signNow\" is a mobile app for e-signing PDF documents and other formats by one or multiple signers. \n\nUpload files, create templates, and autofill forms with information. \n\nGet a comprehensive e-signature solution to simplify the signing and management of documents online.\n\n• Key Features: •\n- E-sign documents and send documents for signing without any limits or charges.\n- Create unique e-signatures using the signature maker. Type to sign, draw to sign for a legally-binding signature.\n- Access your account and manage your documentation from the mobile app or the web app anywhere, anytime.\n\n• Get a PDF maker in signNow: •\n- Upload and fill out PDF, impost Word or text docs online. \n- Customize documents and add text, dropdowns, stamps, attachments, and/or electronic signature fields to documents.\n- Convert JPEG to PDF, PNG to PDF, BMP to PDF, etc.\n\n• Get a document editor in signNow: •\n- Annotate PDFs in seconds.\n- Create unlimited reusable document templates.\n- Upload documents from your email, Dropbox, Google Drive, and more.\n\n• Use signNow to collect signatures and share documents: •\n- Invite one or multiple signers by sending them a document link.\n- Create a team so that multiple users can collaboratively manage and sign documents.\n- View a document's detailed history and all actions to it. \n\n• Benefit from global compliance with the signNow signature app: •\n- Archive and store completed documents into folders for easy access and safekeeping.\n- Ensure data is protected inside the signing app with advanced encryption in transit and at rest.\n- Generate and insert legally-binding electronic signatures for all digital contracts and documents needs.\n- Fill and sign documents while offline, and all updates will automatically update and sync when reconnected. \n\n• More benefits of signNow’s e-signature app: •\n- Sign and send documents using signNow: PDF document signer from any device. \n- Sign up and sign in with one click using your Google or Facebook account.\n- Fill out PDFs, download documents, and store or print them.\n- Keep your data secure with MobileIron AppConnect technology.\n- E-sign documents on an iPad with Kiosk Mode. Collect e-signatures at events, in waiting rooms, and at front desks; automatically generate a new file for every new signer. \n- Get every Signature Field in a contract or invoice completed with signer notifications and reminders. \n- Move to iOS effortlessly and enjoy the signNow online signature app no matter what platform you used before.\n\n• Subscription information • \nPayment will be charged to your iTunes account upon confirmation. The subscription automatically renews and charges your account unless auto-renewal is turned off at least 24 hours before the end of the current billing period. Users can manage their subscription and turn off auto-renewal by going to their Account Settings after completing the purchase. A user cannot cancel a subscription for an active billing period.\n\nPrivacy Policy: https://www.signnow.com/privacy_policy\n\nTerms of Service: https://www.signnow.com/terms",
+      "android_package_name": "uk.co.thesun.mobile",
+      "ios_bundle_id": "com.signnow.signnow",
+      "title": "The Sun",
+      "domain_name": [
+        "https://www.signnow.com",
+        "https://www.signnow.com"
+      ],
+      "website": "https://www.signnow.com",
+      "developer": "SignNow Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AUhxscpXne8U6QtZhmTLa9lM470Shuo9JD3nZaT3Abj-fy5GkY8kHgR0edJIrJO6g6Ma",
+      "icon_72": "https://play-lh.googleusercontent.com/AUhxscpXne8U6QtZhmTLa9lM470Shuo9JD3nZaT3Abj-fy5GkY8kHgR0edJIrJO6g6Ma=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.toi.reader.activities"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "The official Times of India news app brings you the latest news-reading experience on the go. Keeping you informed on breaking news & events like T20 World Cup from India & around the World.\n \nDownload the TOI app on your device & read the news, watch live TV, check out photos, trending videos & more from across the globe - anywhere, anytime!\n\nThe TOI App offers the latest news from India & World in 14 languages including English, Hindi, Telugu, Tamil, Malayalam, Bengali, Gujarati, Kannada, Punjabi, Nepali & more. The TOI app presents everything that an avid news reader is looking for – breaking news, latest headlines, trending stories, & in-depth coverage of sports, entertainment, business, & technology. From India to the World news, Political to Sports news, Technology to Bollywood news & movie reviews, your daily hunt for all kinds of news at one place ends with us. No more FOMO with trending celebrity gossip with the dedicated Entertainment news section. TOI app presents news available in shorts as photo gallery, visual stories, photo story of famous Bollywood celebrities, industrialists, politicians, sportspersons & events/parties that are trending. Also catch the live news coverage of all the trending headlines on Times Now Live TV & Times Now Live Audio.\n\nIntroducing TOI+ subscription-\n\n• With the TOI+ subscription you get a premium reading experience with daily exclusive stories, and expert opinions.\n \n• Get unlimited access to well-researched and exclusive stories for 1 year as a paid auto-renewing subscription through an In-App Purchase.\n \n• Your subscription will be charged to your iTunes account at confirmation of purchase and will automatically renew each year, unless auto-renew is turned off at least 24 hours before the end of the current period.\n \n• Your current subscription may not be canceled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase.\n\n• Privacy policy: https://www.indiatimes.com/privacypolicy\n\n• Terms & Conditions - https://www.indiatimes.com/termsandcondition\n\nQUICK GLANCE AT THE FEATURES OF TOI APP\n\n• Briefs – For those who read the news in a hurry, enjoy their news to be in short and crisp format and stay updated with the latest news on the go, quick!\n\n• Morning and Evening Updates – Get updates every morning & evening and catch up on the latest news and trending headlines with our smart updates feature.\n\n• Live TV – Watch as it happens! Catch the live coverage of all kinds of breaking news- business, Bollywood news on Times Now, ET Now, Zoom Live TV and Mirror Now TV along with audio, right in the app!\nPlease note Live TV channels are geocentric and may not be available across all countries.\n\n\n• My Feed – Receive customised feeds as per language preference from The Times of India & other regional publishers \n\n\n• Personalize your App with Manage home tabs, create your own news reading experience according to your preferences.\n\n\n• Customize Notifications – You can not only choose to control the time and frequency of your notifications but also receive them based on your interests!\n\n\n• Night Mode Reading – Don’t stress your eyes anymore! Use the Black theme built in the app to have a pleasant reading experience even in poor lighting conditions.\n\n\n• Fonts – Choose a font size that enhance and ensures seamless news reading experience.\n\n\n• Share – Like a story? Share it with your friends and loved ones using Facebook, Twitter, Whatsapp, Email & more!\n\nWe always love to hear from our readers! \nShare your love with comments and suggestions to toi.iphone@timesinternet.in",
+      "android_package_name": "com.toi.reader.activities",
+      "ios_bundle_id": "com.2ergoTOI.jayant",
+      "title": "The Times of India",
+      "domain_name": [
+        "https://timesofindia.indiatimes.com",
+        "https://timesofindia.indiatimes.com"
+      ],
+      "website": "https://timesofindia.indiatimes.com",
+      "developer": "Times Internet Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AS0Z1xkuhveb3IXzYASn52nhlFDIwcEmu1XmewVDZ39R8fZrQ13wldCy2nbjx9Aa1WCS",
+      "icon_72": "https://play-lh.googleusercontent.com/AS0Z1xkuhveb3IXzYASn52nhlFDIwcEmu1XmewVDZ39R8fZrQ13wldCy2nbjx9Aa1WCS=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.thetelegraph"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Travel",
+      "description": "The Telegraph Historical Walking Tour app is an essential companion for your visit to Telegraph Avenue. Through an interactive 3D neighborhood map, you are guided through events that have an impact even today… From student protests and disabled rights, to anti-discrimination work–even the birth of social media. Eleven eyewitnesses describe their experiences and how their lives were changed. You’ll hear these stories available exclusively through the app. \n\n• Pinpoints your location to help you navigate the neighborhood\n• Highlights narrative, historical, and architectural points of interest \n• Indicates locations of transit stops, parking lots, and bike share stations\n• Can be used with or without headphones \n\n__\n\nAbout the Telegraph Business Improvement District:\n\nTelegraph Berkeley is a community of 10,000 on the edge of the UC Berkeley campus. We are merchants, street vendors, citizens, visitors, walkers, bicyclists, and drivers. We are people who sleep, eat, talk, pray, read, and make music. \n\n__\n\n*GPS usage: Continued use of GPS running in the background can dramatically decrease battery life. This app is optimized to conserve as much battery life as possible.",
+      "android_package_name": "com.thetelegraph",
+      "ios_bundle_id": "com.guidekickinc.tbidapp",
+      "title": "The Telegraph",
+      "domain_name": [
+        "http://www.guidekick.co",
+        "https://www.guidekick.co"
+      ],
+      "website": "http://www.guidekick.co",
+      "developer": "Guidekick, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2Y7su4Fbjg06CU3jevvgoZmz3UopQCO1eDhWocwnOGOwWTDMPAJ8xed2UMHn7RB-3j0",
+      "icon_72": "https://play-lh.googleusercontent.com/2Y7su4Fbjg06CU3jevvgoZmz3UopQCO1eDhWocwnOGOwWTDMPAJ8xed2UMHn7RB-3j0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cbsinteractive.cnet"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "CNET, the #1 source for tech news and reviews, puts the biggest stories of the day and expert advice on the products you need to own, right in the palm of your hand.\n\nEverything in the new CNET app (designed for both iPhone and iPad) is focused on the areas that you -- as a tech fan -- care the most about: staying up-to-date with the news and making informed product purchases.\n\nSTAY UP-TO-DATE WITH TECH NEWS:\n- FEATURED STORIES: Don’t have much time but need to stay in the know? CNET combines editorial picks with popular and trending news to feature the most important stories in the tech world.\n- LATEST STORIES: Never miss a beat with our broad coverage. Nearly 100 new items published daily! Topics include:\n     - Technology industry and companies (Apple, Google, Microsoft, Facebook, Amazon, Uber, and more)\n     - Key technology categories such as mobile, computers, internet, and security\n     - Related topics such as culture, science, and entertainment (yes, CNET does talk about Star Trek occasionally)\n- STUNNING GALLERIES: Easily view CNET’s beautiful photography within galleries on a single page.\n- BREAKING NEWS ALERTS: Get timely notifications on CNET’s exclusive scoops and in-depth features.\n\nMAKE INFORMED PRODUCT PURCHASE DECISIONS:\n- HUGE PRODUCT BREADTH: Whatever type of product you’re interested in (phones, headphones, smart home devices, and more), CNET helps you find the best, at the best price. The independent reviews team spends countless hours putting everything through the ringer so you don’t have to! If it has an “on” button, odds are CNET reviews it.\n- FIND THE BEST: Want the best wireless headphones, but don’t have time to wade through every single product review? That’s understandable -- CNET has written literally thousands of them. With that in mind, CNET’s made recommendations for the best of the best just a quick tap away.\n- SEARCH ANY PRODUCT: If the best lists don’t have it, CNET’s search definitely does. It’s anchored by the largest tech product review catalog in the world. If that’s not enough, how about lightning-fast autosuggestions powered by natural language processing (NLP), artificial intelligence (AI) and machine learning (ML). Fancy tech words FTW! OMGLOLBBQ!\n- IMMERSIVE VIDEO: Quickly learn about a product with CNET’s premium video reviews, which accompany nearly all of CNET’s reviews (in case you forgot by now, there are *thousands* of these).\n- IN-DEPTH REVIEWS: Need to know more than the highlights? No problem. CNET’s high-quality reviews are done with hours of research and testing, and our reviews provide you with all that data and analysis, along with clear recommendations with our signature “Good, Bad, and Bottom Line” and rating summary. CNET saves you time and money by helping you find the right product quickly.\n- FAST-TRACK PURCHASE: You’ve read the review, compared it against a few others, and you’re ready to buy - nice. You’re a tap away from buying it, and at the best price.\n\nDownload CNET today to keep up with the #1 source for news you care about!\n_______________\n\nCNET is a collection of self-described tech-savvy and tech-obsessed people, not dissimilar to yourself. Alongside the world’s largest volume of high-quality unbiased product reviews, CNET is the go-to source for news and recommendations about the latest tech and consumer electronics.\n\n\nWebsite: https://www.cnet.com/\nFacebook: https://www.facebook.com/cnet/\nYouTube:https://www.youtube.com/user/cnetenespanol\nTwitter: https://twitter.com/CNET_ES\nLinkedin: https://www.linkedin.com/company/cnet/\n\nDo Not Sell My Information: https://tinyurl.com/y4teo56m",
+      "android_package_name": "com.cbsinteractive.cnet",
+      "ios_bundle_id": "com.cnet",
+      "title": "CNET",
+      "domain_name": [
+        "https://www.cnet.com",
+        "https://www.cnet.com"
+      ],
+      "website": "https://www.cnet.com",
+      "developer": "CNET Media, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/wuNRQMK2kEODC5t5fbg-NlEbZvimWNOz2xNr2FkrYLxqg47qXPgi01LE6iT7RowDN0E",
+      "icon_72": "https://play-lh.googleusercontent.com/wuNRQMK2kEODC5t5fbg-NlEbZvimWNOz2xNr2FkrYLxqg47qXPgi01LE6iT7RowDN0E=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.seabirdapps.techcrunch"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "TC上海2017-TechCrunch国际创新峰会 2017上海，本次盛会将于2017年11月25日至11月28日（星期六至星期二）在上海万象城（上海市吴中路1799号）举办。至今，TechCrunch 国际创新峰会已经在中国举办7届，从2013年到2017年上半年总计参会人数超过50000人。活动行提供大会App技术支持\n主要功能：\n1.动态查询&发布\n2.议程查看&订阅\n3.嘉宾查看&沟通\n4.展商信息线上浏览\n5.会议高效社交",
+      "android_package_name": "com.seabirdapps.techcrunch",
+      "ios_bundle_id": "com.huodongxing.conferencing.Techcrunch",
+      "title": "TechCrunch",
+      "domain_name": [],
+      "website": "",
+      "developer": "Accuvally Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ldWMA2jRGcZ5MtY0wKmXhyoVNoGdeB8chn_am-He75GApPJMWJO_lcajU69sJO3PxSY",
+      "icon_72": "https://play-lh.googleusercontent.com/ldWMA2jRGcZ5MtY0wKmXhyoVNoGdeB8chn_am-He75GApPJMWJO_lcajU69sJO3PxSY=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cnipmmr.techradar"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Bringing you the latest breaking news, videos and stories from all leading gadget news sources.\n\nGet all the new and cool device release news the moment they come out!\n\nAll the news, videos, updates, reviews, new releases, rumors and much more in one app!\n\nFeatures\n- A news summary covering gadget stories from all prominent sources ! Clean feed with no repetitions - see all sources that covered it with a simple tap\n\n- Push notifications for prominent stories and/or your chosen gadgets/topics\n\n- Videos, product reviews, demonstrations, news releases and much more - brought to you from the leading video channels\n\n- Customize your news feed - choose topics you want to follow and topics you want blocked\n\n-  In-app commenting system lets you start discussions on any article you want\n\n- Social News - see what the people you follow on Twitter have to say on various stories\n\n- Built in Read-it-later - mark stories for later reading inside the app\n\n- Block source - filter out of your feed any sources you don't like\n\n- Suggest your favorite sources directly to our dev team!\n\n- Collapsed mode - skim through the news and decide what you want to read, save or share\n\nLove the app? Give us a five star rating, write a review and share the app with your friends! \n\nNeed Help? Let us know here: https://loyalfoundry.atlassian.net/servicedesk/customer/portal/1\n\nPrivacy Policy and Terms of Use: https://www.loyal.app/privacy-policy",
+      "android_package_name": "com.cnipmmr.techradar",
+      "ios_bundle_id": "briox.riversip.tech.gadgets",
+      "title": "TechRadar",
+      "domain_name": [
+        "https://www.loyal.app",
+        "https://www.loyal.app"
+      ],
+      "website": "https://www.loyal.app",
+      "developer": "Loyal Foundry, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/J3cNfp1N3vR9XKi5ugKXtZxki36ZKcJcXlrEf3HZFeM-ehFsb74FFVWjjA5lXQavF2U",
+      "icon_72": "https://play-lh.googleusercontent.com/J3cNfp1N3vR9XKi5ugKXtZxki36ZKcJcXlrEf3HZFeM-ehFsb74FFVWjjA5lXQavF2U=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.fastrack.reflex.vox"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Entertainment",
+      "description": "Fancy watching a movie? Download the new VOX Cinemas app to book ahead of time and beat that ticket queue! We've made browsing and booking movies easier than ever —right from your iPhone or iPad. Check movie showtimes, book tickets, and discover more about the latest movies showing at our locations across UAE, Oman, Bahrain, Qatar, Saudi Arabia, Kuwait, Egypt and Lebanon.\n\n\nWhether you're shopping at the mall or planning a movie night, check which movies are on and avoid the ticket queues by booking on our app.\n\n\nYour VOX Cinemas app lets you…\n• Save your favourite cinemas and book movies\n• Skip the ticket queue – just scan your e-ticket at the cinema\n• Save your e-ticket using Apple Wallet\n• Purchase tickets using Apple Pay\n• Pre-order your food & drinks before you arrive at the cinema\n• Discover movie information with trailers, cast credits, synopsis & more\n• Search for your favourite cinema locations or VOX Experience\n• Available for download on Apple App Store for IOS Mobile Devices\n\nFor the movie-goer who knows what they want...\n\n\nThe hassle-free way to browse and book your favourite film genres from your iPhone or iPad. It’s a quicker way to find out what’s on at your nearest VOX Cinemas. Know what you're in the mood to watch for? Use the VOX Cinemas app to find out in seconds where and when you can watch the movie genre that'll make your day.\n\nFeel like scaring yourself with a horror movie? Craving for the adrenaline rush of an action or thriller movie? Or perhaps you want to end a stressful day with a light-hearted comedy? The VOX Cinemas app makes movie ticket booking simple.\n\nWe’ll help you find the best of current movie releases including:\n• Hindi movies\n• Tamil movies\n• English movies\n• Arabic movies and many more\n\nWith a quick search, you can conveniently find and book. \n\nDiscover our signature VOX Cinemas experiences with our ‘Ways to Watch’, including:\n• MAX - Find your favourite films on the MAX mega-screens. Why not use the VOX Cinemas app to grab a spacious premium view seat?\n• IMAX - Book tickets for these massive, state-of-the-art movie theatres where the curved screens offer an immersive movie experience.\n• THEATRE & GOLD Experiences - Offering the most luxurious and lavish cinema experience in the region, indulge in fine dining while watching your favourite movies on the big screen.\n• 3D and 4DX - Perfect for those who want to live the movie and not just watch it, find and book a 3D film or an exhilarating 4DX movie.    \n• KIDS – Family day at the movies? Keep the little ones entertained with an animation or family movie at our kid-friendly big screens.\n\n\nPick and book the latest movies at the most exciting cinemas across the Middle East. Check out the latest Dubai cinema offerings at the popular Samsung Onyx, or grab a ticket to a traditional Arabic movie at our Zeman Awwal cinema. Looking for an easy way to find new movies at Doha cinemas, or planning your next Abu Dhabi cinema trip? Wherever you are, let the VOX Cinemas app make movie booking an effortless experience.\n\nWith the VOX Cinemas app, you can elevate your entire Middle East movie experience to the next level. Find the movies you love, when you want them, where you want them, with minimum effort and maximum enjoyment.\n\nBy downloading this App, you agree to the VOX Cinemas Privacy Policy (http://uae.voxcinemas.com/privacy)",
+      "android_package_name": "com.fastrack.reflex.vox",
+      "ios_bundle_id": "com.voxcinemas.voxcinemasdev",
+      "title": "Vox",
+      "domain_name": [],
+      "website": "",
+      "developer": "Majid Al Futtaim Cinemas LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/XKYOHrr4R2HryJN4Ufg4bFmlWK2VTgNvQX8vq8WZMMOqlCzjexBZFavHegduBg3Jiw",
+      "icon_72": "https://play-lh.googleusercontent.com/XKYOHrr4R2HryJN4Ufg4bFmlWK2VTgNvQX8vq8WZMMOqlCzjexBZFavHegduBg3Jiw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.quartzcomponents.app"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Medical",
+      "description": "The Quartz MyChart app allows you to view your health insurance information at your fingertips. Log in with your MyChart account for instant access when and where you need it.\nWith the Quartz MyChart app you can –\n•\tReview Claims and Explanation of Benefits\n•\tView your digital ID card\n•\tAccess your Healthy Path wellness portal app\n•\tSecurely contact Quartz Customer Service\n•\tAnd more!\n\nYou must be a Quartz member and have an active MyChart account to use the app. To set up an account, visit QuartzBenefits.com/MyChart and click “Sign Up Now” or choose \"Sign Up Now\" after downloading this app. If you already have a MyChart account, you’re all set!\n\nPlease note: The Quartz MyChart app does have the capability to integrate with the Health app which you will need to activate if prompted. At this time, we do not have any features which will utilize this integration.",
+      "android_package_name": "com.quartzcomponents.app",
+      "ios_bundle_id": "com.mychartquartz",
+      "title": "Quartz",
+      "domain_name": [],
+      "website": "",
+      "developer": "Quartz Health Solutions, INC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/71JqExOc165HLna5qbvqpnFneJzFfh0cPhqMNb_ApI7LGXMnjc20b1WYKJwwy088N68",
+      "icon_72": "https://play-lh.googleusercontent.com/71JqExOc165HLna5qbvqpnFneJzFfh0cPhqMNb_ApI7LGXMnjc20b1WYKJwwy088N68=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ft.news"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Stay informed with the Financial Times app, bringing you unbiased insights and real-time updates on essential economic, finance, and business news to help you get ahead.\n\nWhether you're an economist, business leader, or global decision maker, FT provides comprehensive reporting on stocks, markets, culture, and world events on your iPhone and iPad.\n\n\n\nKey features:\n\n•Essential alerts: Stay updated on breaking news, global events, and key briefings\n•Market Insights: Monitor real-time stock prices, charts, equities screeners, and global markets\n•Unbiased reporting: Comprehensive analysis on world news, business, politics, economics, finance, and more\n•Offline Access: Save articles for offline reading anywhere, anytime\n•Personalized News: Follow topics important to you\n•News on the go: Listen to articles and Podcasts, including News Briefing and FT Weekend, now available through Apple CarPlay\n•Watch videos: Browse and watch news from across the world\n•Engage and Share: Join the conversation in the comments, or share and gift news stories\n•Premium features: Access our archives and unlock premium content, including curated newsletters, through in-app purchases.\n\n\nDownload the FT app to enjoy content from one of the world's most respected and trusted news brands, known for its accurate, independent, and insightful journalism since 1888.\n\n\nPricing & Access:\nThe app is free to download. For full access, sign in with your Financial Times account or subscribe in-app.\n\n\nTerms: https://help.ft.com/legal-privacy/terms-and-conditions\nPrivacy: https://help.ft.com/legal-privacy/privacy-policy",
+      "android_package_name": "com.ft.news",
+      "ios_bundle_id": "com.ft.ft-app-ios",
+      "title": "The Financial Times",
+      "domain_name": [
+        "https://www.ft.com/tour/apps",
+        "https://www.ft.com"
+      ],
+      "website": "https://www.ft.com/tour/apps",
+      "developer": "Financial Times Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/K9G2Yd-uT_ThzxXkUsR4jEGIw_P1enRMwgpO_KetgeY1ONcqspkRyw1DlNI6VVOm-zs",
+      "icon_72": "https://play-lh.googleusercontent.com/K9G2Yd-uT_ThzxXkUsR4jEGIw_P1enRMwgpO_KetgeY1ONcqspkRyw1DlNI6VVOm-zs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nytimes.android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Stay up-to-date with the latest news from around the world with TIME Magazine!\n\n  Stay informed with award-winning articles and eye-opening photography. Learn about global issues from the experts and get the breaking new details. Meet the people who are changing the world and shaping social change. Experience news events firsthand through personal accounts and inspiring features. Plus discover new health breakthroughs, political analyses, the latest tech advances – and so much more!\n\nDownload the app and receive a FREE ISSUE when you say yes to a monthly or annual subscription. TIME publishes 50 issues per year, including 16 double issues.\n TIME® Magazine Subscriptions Available:  \n• 1-month subscription - $2.99, automatically renewed until canceled \n• 1-year subscription - $29.99, automatically renewed until canceled\n\n SUBSCRIBERS’ AUTOMATIC-RENEWAL FEATURE: \nYour subscription will be charged to your iTunes account at confirmation of purchase and will automatically renew  unless auto-renew is turned off at least 24-hours before the end of the current period.  Your iTunes account will automatically be charged at the same price for renewal, as stated above, within 24-hours prior to the end of the current period.\n\nCurrent subscriptions may not be cancelled during the active subscription period, but you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase.\n\nNOTE: WHEN PURCHASING A SUBSCRIPTION OR SINGLE-COPY OF THIS TITLE, YOU AGREE TO THE PRIVACY POLICY AND TERMS OF SERVICE WHICH CAN BE VIEWED BY GOING TO: \nPrivacy Policy US: https://time.com/privacy/generic_privacy_new.html\nPrivacy Policy US (California): https://time.com/privacy/generic_privacy_new.html#california\nEU Privacy Policy: http://time.com/privacy/generic_privacy_new_eu.html\nTerms of Service: https://time.com/privacy/privacy_terms_service.html\n\n KEY FEATURES: \n• OPTIMIZED FOR YOUR DEVICE: Easily toggle between the traditional magazine layout and the innovative text mode for a seamless reading experience, built for your iOS device\n • OFFLINE READING: Download your magazines to your device to read them whenever and wherever you want, even without an internet connection\n • BOOKMARK AND SHARE: Bookmark articles to read later, or share them with your friends\n• TEXT TO SPEECH: Listen to your favorite magazines and all of your articles on the go \n• NEW ISSUE ALERTS: Be the first to read the latest issues of your favorite magazines with new issue reminders",
+      "android_package_name": "com.nytimes.android",
+      "ios_bundle_id": "com.timeinc.time.ipad.inapp",
+      "title": "Time Magazine",
+      "domain_name": [
+        "http://app.time.com/ipad.php",
+        "https://app.time.com"
+      ],
+      "website": "http://app.time.com/ipad.php",
+      "developer": "TI Media Solutions Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/gfmioo4VBEtPucdVNIYAyaqruXFRWDCc0nsBLORfOS0_s9r5r00Bn_IpjhCumkEusg",
+      "icon_72": "https://play-lh.googleusercontent.com/gfmioo4VBEtPucdVNIYAyaqruXFRWDCc0nsBLORfOS0_s9r5r00Bn_IpjhCumkEusg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "es.rba.nationalgeographic.android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Explorers' Great Record, National Geographic GIMBAL CAM. \n\nCapture vivid video recordings of an outdoor adventurer navigating through cities and nature, everyday life and adventures, using a National Geographic gimbal cam. \n\nThe National Geographic Gimbal Cam is  all-in-one gimbal and 4K camera that allows for stable video recording and real-time shooting with wireless connectivity. \n\nIn addition to remote control through a smartphone, it also supports various tracking modes, making it even more convenient to capture video. \n\n- Features - \n\n• Live view and National Geographic Gimbal Camera remote control \n\n• Vertical mode support for reels and shorts \n\n• Live streaming settings \n\n• Supports various tracking modes \n\n• AI editing \n\n• View and download Camera media files wirelessly \n\n• Share media files on social media \n\n• Provides shooting settings such as exposure, white balance, aspect ratio, gimbal, and system. \n\n• Live stream directly from the National Geographic Gimbal Camera to Facebook, YouTube, Twitch, and Blog \n\n• Provides Connection guide, User's Manual, and FAQ \n\n- Additional function - \n\n• Connection guide \n\n• User's Manual \n\n• FAQs \n\n[Access Rights Guide] \n\n- Library: Attach and view videos and photos \n\n- Bluetooth/WiFi: National Geographic gimbal cam linkage \n\n* If you do not agree to the access right, it may be difficult to use the service function normally.",
+      "android_package_name": "es.rba.nationalgeographic.android",
+      "ios_bundle_id": "com.thinkware.snapg.nature",
+      "title": "National Geographic",
+      "domain_name": [
+        "https://inavi.com",
+        "https://inavi.com"
+      ],
+      "website": "https://inavi.com",
+      "developer": "THINKWARE SYSTEMS CORPORATION",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/s9hHKX02cVc5NKF4-O8bfy-SLefsjSzz9Ug_PgXhkMnY4E-wZXIbifrykDnEXv4HbpM",
+      "icon_72": "https://play-lh.googleusercontent.com/s9hHKX02cVc5NKF4-O8bfy-SLefsjSzz9Ug_PgXhkMnY4E-wZXIbifrykDnEXv4HbpM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.maz.forbesmagazine"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Truly unique among magazine apps, the Forbes app acts as your gateway to the ultimate Forbes experience by combining the power of the dynamic and content-rich Forbes.com with Forbes magazine — all optimized for mobile and enabled for easy saving and sharing. The app offers the freedom to glide between platforms to discover and share what you find interesting, valuable and inspiring: stories about entrepreneurs and executives changing the world; innovative companies that are changing how businesses work; strategic insights to help shape your investment strategies and more. The app opens with Forbes.com and features easy navigation that showcases breaking news, the latest posts, feature stories, video and trending content. In the Magazine channel, subscribers will find each issue organized for mobile and available as a PDF, too. Experience straightforward navigation and a fully integrated environment that allows you to move seamlessly through all that Forbes offers. Enable notifications and never miss a breaking story or magazine issue. \nSUBSCRIPTION OPTIONS The Forbes app is free to download. All readers can explore Forbes.com content and a sample of the magazine. Complete issues are available to app subscribers.\nABOUT FORBES MEDIA The defining voice of entrepreneurial capitalism, Forbes champions success by celebrating those who have made it and those who aspire to make it. Forbes convenes and curates the most influential leaders and entrepreneurs who are driving change, transforming business and making a significant impact on the world. The Forbes brand today reaches more than 140 million people worldwide through its trusted journalism, signature LIVE events, custom marketing programs and 40 licensed local editions in 70 countries. Forbes Media’s brand extensions include real estate, education and financial services license agreements. For more information, visit the Forbes News Hub or Forbes Connect. \n\nForbes Magazine  Pricing:\n\t• Single Issue Price - USD 5.99*\n\t• Subscription 1 Month - USD 2.99*\n\t• Subscription 1 Year - USD 29.99*\n\t  * For non-US app stores, the equivalent currency charges will apply.\n\t  Please note: App subscriptions do not include access to subscription-only content on our website.\n\nAdditional Subscription Information:\n• Payment will be charged to iTunes Account at confirmation of purchase.\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n\t• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.\n• No cancellation of the current subscription is allowed during active subscription period.\n\nPrivacy Policy - http://bit.ly/yxD8ox\nTerms of Use - http://bit.ly/itggSu",
+      "android_package_name": "com.maz.forbesmagazine",
+      "ios_bundle_id": "com.magappzine.forbesmagazine",
+      "title": "Forbes",
+      "domain_name": [
+        "http://www.forbes.com",
+        "https://www.forbes.com"
+      ],
+      "website": "http://www.forbes.com",
+      "developer": "Forbes Media LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/lRN3V14vXyJJmXAZ9bwHhuclz6rB4EjBjRL2lNptbAy-8dMkbC6oreri38dnkIpaB9I",
+      "icon_72": "https://play-lh.googleusercontent.com/lRN3V14vXyJJmXAZ9bwHhuclz6rB4EjBjRL2lNptbAy-8dMkbC6oreri38dnkIpaB9I=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "net.zedge.android"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "IT&テクノロジーに関するニュースを簡単チェック！\n\n各種メディアニュース/コラム/掲示板など、さまざまなサイトから配信されるギークな話題をまとめてチェックできます。\n\n記事のお好みがあれば設定から配信元の選択もできます。\n\n最新ニュースから掲示板でのコアネタまで、IT&テクノロジーに関する情報を幅広くお届けします。",
+      "android_package_name": "net.zedge.android",
+      "ios_bundle_id": "com.gmail.saitosannotomoko.dist.itnewsmtm",
+      "title": "ZDNet",
+      "domain_name": [],
+      "website": "",
+      "developer": "Noriaki Tomita",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZrbmCHrxdr7-BAQ1T_RsLupq13x-ZcbzRycmMT7ZOswHsn53pKm6wnlkZ_N9gI3yORw",
+      "icon_72": "https://play-lh.googleusercontent.com/ZrbmCHrxdr7-BAQ1T_RsLupq13x-ZcbzRycmMT7ZOswHsn53pKm6wnlkZ_N9gI3yORw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "uk.co.condenast.wired"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "WIRED the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business, science to design. The breakthroughs and innovations that we uncover lead to new ways of thinking, new connections, and new industries.\n\nThe WIRED digital edition app is free to download. Subscribers receive unlimited access. Non-subscribers may access a selection of complimentary articles each month.\n\nAUTOMATIC-RENEWAL: Your payment method will be automatically charged at the frequency and price noted in the subscription offer you select, until you cancel. To cancel, you must update your App Store Subscriptions settings at least 24 hours before the end of the current subscription term. No refunds once payment is made.",
+      "android_package_name": "uk.co.condenast.wired",
+      "ios_bundle_id": "com.condenet.wiredmag",
+      "title": "Wired",
+      "domain_name": [],
+      "website": "",
+      "developer": "Advance Magazine Publishers Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Nj27LeaqPWvoi9FcMQc_MeM_aFiSx_s7WxMOf5y39N6eW28CZ00HDQ-XctVdsjl3POo",
+      "icon_72": "https://play-lh.googleusercontent.com/Nj27LeaqPWvoi9FcMQc_MeM_aFiSx_s7WxMOf5y39N6eW28CZ00HDQ-XctVdsjl3POo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.fireshooters.lifetips"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "This app is a simple RSS Reader for reading and hearing tech news in japanese.\nThis app supports audio playback by text-to-speech.\n\nThis app supports the following news sites.\n　- ASCII.jp\n　- AV Watch\n　- CNET Japan\n　- Engadget Japanese\n　- GetNavi web\n　- gihyo.jp\n　- GIZMODO JAPAN\n　- gori.me\n　- ITMedia\n　- Lifehacker\n　- PC Watch\n　- Techable\n　- TechCrunch Japan\n　- WIRED.jp\n　- ZDNet Japan\n　- Nikkei xTECH",
+      "android_package_name": "com.fireshooters.lifetips",
+      "ios_bundle_id": "jp.kasplus.TechNews",
+      "title": "Lifehacker",
+      "domain_name": [
+        "https://apps-ea0ca.web.app",
+        "https://apps-ea0ca.web.app"
+      ],
+      "website": "https://apps-ea0ca.web.app",
+      "developer": "kazuhiko sugimoto",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EwosT3quLiHAMma1a4Qxd90hpXnEGB0e3jx3Yu76TQk1pnrMwSUdWt7kb-DjoThSG8RR",
+      "icon_72": "https://play-lh.googleusercontent.com/EwosT3quLiHAMma1a4Qxd90hpXnEGB0e3jx3Yu76TQk1pnrMwSUdWt7kb-DjoThSG8RR=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.dailymail.online"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "The new and revamped Daily Mail app gives you everything you expect and love from the world’s largest English-language newspaper website, and more, with new features and a refreshed design. \n \nFeed your daily addiction with stories & photos from all our top channels: US & World News, Celebrity, TV, Showbiz, Sports, Femail, Science & Tech, Health, Money, Travel, and many more, with quick, easy, and free access on your iPhone or iPad –  even offline. \n \nEnjoy unlimited access to MailOnline and unlock even more of the brilliant journalism the Mail is famous for with a Mail+ subscription. More world-beating showbiz and royal exclusives. More agenda-setting investigations. More astonishing real-life stories. More expert health, money and travel advice as well as more hard-hitting opinions from our unrivaled line-up of columnists. \n \nFEATURES: \n \n• Customize your Daily Mail experience with personalized content tailored to your interests \n• Effortlessly browse through news with our streamlined navigation system  \n• Enjoy a smoother and quicker browsing experience with our optimised app performance \n• Listen to the latest news and stories with our newly added podcast feature\n• Experience a modern and user-friendly interface with our redesigned layout \n• Enjoy over 15 channels of must-read articles and photos - over 800+ stories and 1000s of new photos breaking every day! \n• Stay informed with customizable push notifications for the latest breaking news and updates \n• Engage with the community by sharing your thoughts in the comment section \n• Subscribe to Mail+ to enjoy unlimited access to MailOnline and This Is Money, for a curated selection of stories under the Mail+ tab – the home to all your exclusive content \n• Stay informed on the go with offline access when you pre-load stories and galleries \n• Choose your region (US, UK, AU or Rest of World) to ensure you get news most relevant to you. \n\nThe cost will be charged via iTunes only after confirmation of purchase. The subscription will automatically renew monthly unless turned off within 24-hours of the end of your current subscription period. Your Apple account will be charged for renewal within 24-hours of the end of the current subscription period and will identify the cost of the renewal to you. \n \nSubscriptions may be managed by the user and may be turned off at any time by going into the users account settings, after a purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n \nNote: This app features Nielsen's proprietary measurement software which contributes to market research. Please see https://priv-policy.imrworldwide.com/priv/mobile/au/en/optout.html for more information.",
+      "android_package_name": "com.dailymail.online",
+      "ios_bundle_id": "com.and.mailonline",
+      "title": "The Daily Mail",
+      "domain_name": [
+        "http://www.dailymail.co.uk",
+        "https://www.dailymail.co.uk"
+      ],
+      "website": "http://www.dailymail.co.uk",
+      "developer": "dmg media ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5sbk5YKQdIxkbBlBPsafP0nYMNg4kMeeanRaZaUPDUVL8B5xhX8FgSYaWjCP-2t3KKM",
+      "icon_72": "https://play-lh.googleusercontent.com/5sbk5YKQdIxkbBlBPsafP0nYMNg4kMeeanRaZaUPDUVL8B5xhX8FgSYaWjCP-2t3KKM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.freerange360.mpp.indy"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Trusted by millions, the only Bitcoin and crypto wallet app you need. Trade any token, earn yield while you sleep, and enjoy full control over all your crypto assets in one secure and powerful digital wallet app.\n\nHere's a rundown of the key features:\n\n> Buy Bitcoin (BTC), Bitcoin Cash (BCH), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), BNB, and a wide range of the most popular tokens quickly and easily with credit card, Apple Pay, and more.\n\n> Cash out with ease! Sell cryptocurrencies into your local currency. \n\n> Send, receive, and swap between any cryptocurrency.\n\n> Access DeFi apps and dApps that enable earning interest on your crypto, borrowing and lending, participating in NFT marketplaces, synthetic assets, and much more.\n\nOther key features:\n\nSELF-CUSTODIAL\n\nYour crypto is ultra-secure because only you can access it. Self-custodial means not even Bitcoin.com has access to your funds, and you can easily port your assets to another crypto wallet whenever you want. No lock-ins, no third-party risk, no exposure to bankruptcy, and you'll never again ask for permission to use your money.\n\nDEFI READY\n\nConnect to Ethereum, Avalanche, Polygon, and BNB Smart Chain dApps effortlessly via WalletConnect (v2). That means you can earn interest on your crypto, trade using decentralized exchanges, participate in NFT marketplaces, access lending markets and much, much more.\n\nQUICK & SECURE ACCESS\n\nUnlock your Wallet app with biometrics or PIN.\n\nAUTOMATED BACKUP\n\nAutomatically back up all your wallets to the cloud and decrypt them with a single master password. Replace the hassle of managing numerous secret phrases with the convenience and security of a single custom password. (You can still opt to manually manage your individual seed phrases).\n\nCUSTOMIZABLE FEES\n\nYou decide the network fee. Up the fee for faster network confirmations. Lower it when you're not in a rush.\n\nLOW-FEE CHAINS\n\nThe multichain Bitcoin.com Wallet app is committed to giving you access to low-fee blockchains so that you can use peer-to-peer cash as it was intended AND make the most of the opportunities available in DeFi and Web3.\n\nAVALANCHE SUPPORT\n\nBuy, sell, swap, hold and manage AVAX, the native token of the Avalanche blockchain. You can also manage tokens and use DApps on the Avalanche network.\n\nPOLYGON SUPPORT\n\nBuy, sell, swap, hold and manage MATIC, the native token of the Polygon blockchain. You can also manage tokens and use DApps on the Polygon network.\n\nBNB SMART CHAIN SUPPORT\n\nBuy, sell, swap, hold and manage BNB, the native token of BNB Smart Chain. You can also use DApps on the network.\n\nSHARED WALLETS (MULTI-SIG)\n\nCreate multi-signature wallets to manage funds with your team or friends and family.\n\nWIDGETS\n\nInstall live market-data widgets on your home screen. Track your favorite cryptocurrencies throughout your day.\n\nMARKETS VIEW\n\nTrack the price action and get key info on the top cryptocurrencies.\n\nPERSONAL NOTES\n\nAdd text to your transactions to remind you who sent what, when, and where.\n\nSEND VIA SOCIAL\n\nSend a payment link to anyone using any messaging app. Funds are received/claimed instantly with just one click.\n\nDISCOVER\n\nUse the Discover section in the app to locate merchants near you who accept cryptocurrency payments in-store. Browse websites where you can pay with crypto and find other cool features like games, gift cards, and more.\n\nCUSTOMIZABLE DISPLAY CURRENCY\n\nChoose your preferred display currency alongside your crypto (eg. USD, EUR, GBP, JPY, CAD, AUD, and more).\n\nAUDITED BY KUDELSKI SECURITY\n\nA comprehensive audit from the cybersecurity experts proved there is no real-world scenario in which an attacker would be able to compromise a user’s private keys.\n\nTHE BITCOIN & CRYPTOCURRENCY WALLET THAT PUTS YOU IN FULL CONTROL\n\nBuy, sell, swap, trade, invest, earn, & use cryptocurrency like Bitcoin (BTC), Bitcoin Cash (BCH), Ethereum (ETH) & many more in the self-custody Bitcoin and Crypto DeFi Wallet trusted by millions.",
+      "android_package_name": "com.freerange360.mpp.indy",
+      "ios_bundle_id": "com.bitcoin.mwallet",
+      "title": "The Independent",
+      "domain_name": [
+        "https://wallet.bitcoin.com",
+        "https://wallet.bitcoin.com"
+      ],
+      "website": "https://wallet.bitcoin.com",
+      "developer": "Saint Bitts LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/3h2UG_pG4yRF71ObS22wlkndwDSfwYy6N2yUHHEOoozCUzAIGZmc76iFoTSnyRb1rOwI",
+      "icon_72": "https://play-lh.googleusercontent.com/3h2UG_pG4yRF71ObS22wlkndwDSfwYy6N2yUHHEOoozCUzAIGZmc76iFoTSnyRb1rOwI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.eurisko.murrtvlebanon"
+      },
+      "cat_key": "NEWS",
+      "cat_keys": [
+        "NEWS",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "MTV is a leading independent media station in Lebanon and the Arab world.\n\nFeatures:\n\n- Live News, Breaking News\n\n-TV Grid:  Daily, Weekly, by time, by show & program\n\n-Access to Bulletins per Date\n\n-Stars Listing & Gallery\n\n-Best Push Notification System - with the capability to manage type,frequency,etc...\n\n-Multi-Language Platform supporting Arabic & English \n\n-You Report Option:Take any picture or video on the go or pick one from your stored media then upload it to our premises after adding your description.\n\n- Replay: Never miss a show again with the first free online video on demand service.\nA huge archive of all mtv programs under your fingertips ready to be played on your demand, including the news bulletins, old shows like the legendary \"S.L.Chi\" and many more.\n\nA huge staff is dedicated to this service in order to provide you with breaking news alerts, in addition to a minute per minute updated news, pushed to your device in form of text, photos and videos.\n\nCovering Lebanese, Arabic and international news.\n\nPlease share your feedback & comments -we continuously update our app to make it more friendly.\n\nThank you and enjoy :-)",
+      "android_package_name": "com.eurisko.murrtvlebanon",
+      "ios_bundle_id": "com.zackanton.mtvlebanon",
+      "title": "MTV News",
+      "domain_name": [],
+      "website": "",
+      "developer": "MURR TELEVISION SAL-MTV",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/9MZCcF0C1Ygsc0ddwPV3xGBwqnlwyL5Rrnl6KHQxREsy7Kb2b0ro4Voi6zreGBXGcF9c",
+      "icon_72": "https://play-lh.googleusercontent.com/9MZCcF0C1Ygsc0ddwPV3xGBwqnlwyL5Rrnl6KHQxREsy7Kb2b0ro4Voi6zreGBXGcF9c=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]

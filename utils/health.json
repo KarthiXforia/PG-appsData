@@ -1,0 +1,1353 @@
+[
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.myfitnesspal.android"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.\n\nMyFitnessPal isn’t another restrictive diet app. This is a health app to help you learn about your habits … see how you eat … make smarter food choices … find motivation & support ... and conquer your health goals.\n\nDownload and start your free 30-day Premium trial to access exclusive food tracking, fitness logging tools, and expert guidance. You’ll soon discover why MyFitnessPal is the #1 food and nutrition tracker in the U.S., a GQ 2020 Fitness Awards “Best Fitness App,” and has been featured in the New York Times, Wall Street Journal, the Today Show, and U.S. News & World Report.\n\nSO MUCH MORE THAN A CALORIE TRACKER & FOOD JOURNAL\n\nIt’s like having a dietitian, personal trainer, and nutrition coach at your fingertips.\n\nLog Food – Easy-to-use tools make food tracking quick and simple\nRecord Activity – Add workouts and steps with the fitness tracker\nCustomize Your Goals – Weight loss, weight gain, weight maintenance, nutrition & fitness\nSee Your Progress – Track at a glance, or analyze nutrition & calories in detail\nLearn From a Registered Dietitian – Meal Plans customized for your target calories, whether you want to lose or gain weight—with access to our Meal Planner tool\nStay Inspired – 500+ healthy goal-focused recipes and 50 workouts keep routines fresh and fun\nConnect With Community – Find friends and motivation in our active forums\n\nA CLOSER LOOK AT FEATURES & BENEFITS\n\nGain Valuable Insights Through Food Logging\n\nDiscover which foods fuel you best. It’s not just a diet app, calorie counter to lose weight, or a faster way to fat loss—it’s about holding yourself accountable and understanding what you put in your body.\n\nOne of the Largest Food Databases – Track calories in over 14 million foods (including restaurant dishes)\nFast & Easy Food Tracker Tools – Type to search, add foods from your history, or quick-add calories\nBar Code & Meal Scan: Log store-bought foods and entire meals using your phone’s camera\nCalorie Tracker – Automatically count calories and see your daily progress\nMacro Tracker – See carbs, fat & protein breakdown by gram or percentage—no need for a separate carb tracker or keto diet app!\nNutrition Tracker and Insights – Analyze nutrition intake and set specific goals for macros, cholesterol, sodium, fiber & more\nWater Logging – Easily keep track of your water intake. \n\nCustomize Your App Experience\n\nChoose settings that help you achieve your goals.\n\nCustom Goals – Track calories by meal or day, set up macro goals & more\nPersonalized Dashboards – Pick stats you want to see at a glance\nNet Carbs Mode/Carb Tracker – To simplify a low carb or keto diet, view net (not total) carbs\nProtein Counter – Set your protein goals and track how much you eat during the day\nAdd Your Own Foods/Meal Tracker – Save recipes and meals for quick logging\nConnect 50+ Apps & Devices – From fitness tracker and smartwatch apps, including the Health app\nTrack With Apple Watch – A calorie tracker, water tracker, and macro tracker on your watch face.",
+      "android_package_name": "com.myfitnesspal.android",
+      "ios_bundle_id": "com.myfitnesspal.mfp",
+      "title": "MyFitnessPal",
+      "domain_name": [
+        "http://www.myfitnesspal.com",
+        "https://www.myfitnesspal.com"
+      ],
+      "website": "http://www.myfitnesspal.com",
+      "developer": "MyFitnessPal, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/DtR_W1lA1tKsbrr2DUo3TLNzqi9qRyxPqDuCyJeGLU6OMJKqg7CEqs45btRqvDFNDI3Y",
+      "icon_72": "https://play-lh.googleusercontent.com/DtR_W1lA1tKsbrr2DUo3TLNzqi9qRyxPqDuCyJeGLU6OMJKqg7CEqs45btRqvDFNDI3Y=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.fitbit.FitbitMobile"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "See the big picture on your health and fitness journey with the Fitbit app. Find easy ways to get active, sleep better, stress less and eat healthier.\n\nTrack the stats you care about across health, fitness and sleep, and change your goals as your routines evolve. Stay motivated with energizing workout content for your body and mind. See how far you’ve come with a glance at your personal goal progress and how you stack up to friends and family. Unlock even more possibilities when you sync up with a wearable device like Fitbit tracker or smartwatch and see how your activity, sleep, nutrition and stress all fit together.\n\nGET MORE ACTIVE: See how small moves add up by using your smartphone to track steps and distance—or pair with a tracker or smartwatch to record your heart rate, Active Zone Minutes, calories burned and more. It’s a fitness planner in your pocket: Use the app as a diary to set goals and track your progress. It can help you stay active during the day, too. Check your hourly activity goal and get reminders to move or take a walk. Plus, that motivation you’ve been looking for is right in the app. Bring the gym home with a curated list of audio and video workouts that you can do at your own pace, right from your living room.* You’ll find sessions for HIIT, cardio, strength, running, biking, yoga and more.\n\nTRACK YOUR HEART HEALTH: Understand your overall health by using your watch or tracker to keep tabs on your heart rate 24/7. Monitor your heart rhythm and see your resting heart rate trends, plus time spent in heart rate zones during workouts.\n\nSLEEP BETTER: Find sleep tools to help you learn about your sleep quality and improve it—from  measuring your sleep duration and sleep stages to understanding your restless time. Set reminders for bedtime and wake-up time to keep your sleeping schedule managed.\n\nSTRESS LESS: Listen to audio sessions to lessen stress and improve your mood. Use mindfulness to start your day a better way, find moments of calm and set intentions with meditation or get help falling asleep with breathing exercises and relaxing sounds.*\n\nEAT SMARTER: Keep your diet in check with easy-to-use tools for setting goals. Tracking meals and logging food & water intake lets you see if you’re getting enough protein, fat, fiber and carbs on your way to managing your weight and overall health.\n\nEVEN MORE WITH FITBIT PREMIUM: Upgrade to Fitbit Premium and get all the guidance, insights and inspiration you need to take your workout routine to the next level. \n\n• Your Daily Readiness Score helps you understand when it’s time to go all out and when it’s time for rest & recovery—plus, you’ll get recommended workouts based on your body’s needs.\n• Get the support you need across a whole library of workouts to keep your mind and body fit—from strength training, HIIT and cycling to dance cardio, yoga, meditation and more—led by Fitbit’s expert trainers who are ready to coach.\n• Perfect your mindfulness practice with a full library of sessions that calm anxiety, prep for sleep and even help you meditate while walking. \n• Find new ways to rest & recover with your Sleep Score. Plus, check out your sleep patterns and monthly trends in your Sleep Profile.\n• Feed your appetite with access to easy, healthy recipes to help you reach your nutrition goals and bring your wellness full circle.\n\nTerms of Service: https://www.fitbit.com/global/us/legal/terms-of-service\n\n*A Fitbit Premium subscription is required to access the full content library.",
+      "android_package_name": "com.fitbit.FitbitMobile",
+      "ios_bundle_id": "com.fitbit.FitbitMobile",
+      "title": "Fitbit",
+      "domain_name": [
+        "https://www.fitbit.com",
+        "https://www.fitbit.com"
+      ],
+      "website": "https://www.fitbit.com",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QhMCymTyxJbzRiwMBA-GYooS-nVKm3fHg2CSRyKHvhmC-e5vOibfST73y1MmScvtPw",
+      "icon_72": "https://play-lh.googleusercontent.com/QhMCymTyxJbzRiwMBA-GYooS-nVKm3fHg2CSRyKHvhmC-e5vOibfST73y1MmScvtPw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.getsomeheadspace.android"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Welcome to Headspace, your lifelong guide to mental health, mindfulness, and meditation. Stress less, sleep soundly, and feel happier with expert guided meditations, one-on-one mental health coaching, and mood-boosting mindfulness exercises for any need. Choose from hundreds of sessions for support with stress, everyday anxiety, and more.\n\nDAILY MEDITATIONS\nDiscover mental wellness and mindfulness with over 500+ guided meditations. From quick 3-minute mental resets to longer sessions, we'll help you make meditation a daily habit that sticks and shows results. Track progress, learn new skills, and start your day inspired.\n\nSLEEP SOUNDS & MEDITATIONS\nCreate a dreamlike environment for restful sleep with sleep sounds, sleepcasts, and calming sleep music. Drift into serene slumber with immersive, soothing narrations and ambient nature recordings. Tuck yourself in with our Finding Your Best Sleep program, developed by leading sleep scientists.\n\nSTRESS RELIEF & COPING\nNavigate everyday stress and anxiety with expert-led exercises, guided meditations, and personalized mental health coaching at your fingertips. Learn calming breathwork and build resilience with hundreds of meditations on sadness, anger, grief, adapting to change, and more.\n\nONE-ON-ONE COACHING & MENTAL HEALTH SUPPORT\nGet matched and text with your own mental health coach and schedule sessions at your convenience. Headspace mental health coaches are trained professionals that provide personalized care to help you set and reach goals, manage everyday anxiety and stress, navigate major life events, and more.\n\nSELF-CARE TOOLS & RESOURCES\nExplore guides, exercises, and tools for holistic well-being. Empower yourself with practical tips and resources to avoid burnout, stress and everyday anxiety.\n\nFIND FOCUS & BUILD PRODUCTIVITY\nEnhance focus with concentration-boosting music for working from home. Stay sharp with quick breathing exercises, curated playlists and meditations to find a less distracted, more productive state of mind.\n\nFEEL-GOOD FITNESS & TENSION RELEASE\nRelieve stress, release tension, and strengthen your mind-body connection with mindful movement. Join Olympians Kim Glass & Leon Taylor in guided runs, yoga, and 28 days of mindful fitness.\n\nPROGRESS TRACKING & DAILY REMINDERS\nFollow your mental health journey with progress tracking, set goals and daily reminders to stay consistent. Share insights with your personal coach so they can keep you on track toward your goals.\n\nHeadspace is your all-in-one mental health app. Whether you're looking to improve your sleep, manage everyday anxiety, or text with a mental health coach, our proven tools will help you take care of your mind.\n\nText with mental health coaches for goal-setting and everyday support. Access therapy and psychiatry through your organization.* (Chat with a coach for information about what’s covered, or, reach out to your organization’s benefits team.)\n\nStart your free trial and experience the benefits of meditation, mindfulness and expert mental health coaching. Subscription options: $12.99/month, $69.99/year. These prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence. Coaching pricing will vary by subscription.\n  \nThe subscription will automatically renew unless turned off in your iTunes Account Settings at least 24 hours before the current period ends. You can go to your iTunes Account settings to manage your subscription and turn off auto-renew. Your iTunes Account will be charged when the purchase is confirmed. If you subscribe before your free trial ends, the rest of your free trial period will be forfeited as soon as your purchase is confirmed.\n  \nHeadspace saves your meditation sessions to your Apple Health app.\nRead the terms and conditions here:\nhttp://www.headspace.com/terms-and-conditions\n\nRead the privacy policy here:\nhttps://www.headspace.com/privacy-policy",
+      "android_package_name": "com.getsomeheadspace.android",
+      "ios_bundle_id": "com.getsomeheadspace.headspace",
+      "title": "Headspace",
+      "domain_name": [
+        "https://www.headspace.com",
+        "https://www.headspace.com"
+      ],
+      "website": "https://www.headspace.com",
+      "developer": "Headspace Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/97edeiT77DA9IJDvN7StyvdMrkiViMqI5uqbDS852dGwySk2x6kbDnm1_MB0ROLJQf4",
+      "icon_72": "https://play-lh.googleusercontent.com/97edeiT77DA9IJDvN7StyvdMrkiViMqI5uqbDS852dGwySk2x6kbDnm1_MB0ROLJQf4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.calm.android"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "** Best of 2018 Award Winner ** — Apple\n\n** 2017 App of the Year ** — Apple\n\n** Happiest App in the World ** — Center for Humane Technology\n\nCalm is the #1 app for Sleep, Meditation and Relaxation. Sleep better, relieve stress, lower anxiety and refocus your attention. Explore an extensive library of guided meditations, Sleep Stories, breathwork, exclusive music and stretching exercises.\n\nInvest in your mental health and choose a guided meditation session that fits within your busy schedule. Add Calm to your daily routine and join the millions experiencing the life-changing benefits of practicing mindfulness. Beginners, intermediate and advanced users can all find their home in Calm.\n\nLet relaxing music and calming sounds help you meditate, focus and sleep better. Sleep Stories are bedtime stories that are guaranteed to lull you into a deep and restful slumber. Pick from 100+ exclusive Sleep Stories, featuring well-known talent such as Matthew McConaughey, Stephen Fry, Rosé, Jerome Flynn and P!nk.\n\nCalm is recommended by top psychologists, therapists and mental health experts. Take a deep breath and find your Calm.\n\nCALM FEATURES\n\nMEDITATION & MINDFULNESS\n* Meditate with seasoned experts, regardless of your experience level\n* Introduce mindfulness into your daily routine and learn to calm your mind\n* Mindfulness topics include Deep Sleep, Calming Anxiety, Managing Stress, Focus and Concentration, Breaking Habits, Happiness, Self-Esteem and so much more\n\nSLEEP STORIES\n* Sleep soundly listening to bedtime stories for adults and children alike\n* Wonder - Join Matthew McConaughey on a dreamy story about the mysteries of the universe\n* Blue Gold - Journey through the sleepy village of Provence with master storyteller Stephen Fry\n* The Nordland Night Train - Travel up the scenic coast of Norway aboard a remote railway\n* Happy Little Zzzs - Drift off to the soothing brush strokes of beloved painter Bob Ross\n\nRELAXATION & STRESS RELIEF\n* Learn to relax and lower stress with daily meditation and breathing exercises\n* Focus on a goal with Dailies - Reduce anxiety with daily 10-minute original programs like the Daily Calm with Tamara Levitt, the Daily Trip with Jeff Warren, or the Daily Jay with Jay Shetty\n* Shift your thinking and find your calm through inspiring stories with Wisdom\n* Daily Move: Mindful stretching and movement to relax your body during the day\n\nALSO FEATURING\n* Daily Streaks & Mindful Minutes: Track and celebrate your progress\n* 7 and 21 day mindfulness programs for both beginner and advanced users\n* Music: Exclusive music engineered to help you focus, relax or sleep\n* Soundscapes to sleep: Ocean waves, Heavy Rain, Camp Fire, Babbling Brook and more\n\nCalm saves your meditation and sleep sessions to your Apple Health app.\n\nSubscription pricing and terms:\nCalm offers an auto-renewing monthly subscription at $14.99/month and an auto-renewing yearly subscription at $69.99/year to provide you with unlimited access to the Calm Collection while you maintain an active subscription. Calm also offers a Lifetime subscription for $399.99 which is paid for by a one-off upfront payment with unlimited access to the Calm Collection forever.\n\nPayment will be charged to the credit card connected to your iTunes Account when you confirm the initial subscription purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription period. Your account will be charged for renewal within 24-hours prior to the end of the current period, and the cost of the renewal will be identified. You may manage your subscription and auto-renewal may be turned off by going to your Account Settings after the purchase. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription, where applicable.\n\nRead more about our terms and conditions here:\nTerms of service: https://www.calm.com/terms\nPrivacy policy: https://www.calm.com/privacy",
+      "android_package_name": "com.calm.android",
+      "ios_bundle_id": "com.calm.calmapp",
+      "title": "Calm",
+      "domain_name": [
+        "https://www.calm.com",
+        "https://www.calm.com"
+      ],
+      "website": "https://www.calm.com",
+      "developer": "Calm.com, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/S76GphUu2pZa249td2Bb4XAhLcPRrFdL1zp_5qU1ouukvRq9r0-8jJ-CruaTtdT6g84",
+      "icon_72": "https://play-lh.googleusercontent.com/S76GphUu2pZa249td2Bb4XAhLcPRrFdL1zp_5qU1ouukvRq9r0-8jJ-CruaTtdT6g84=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.strava"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Strava makes fitness tracking social. We house your entire active journey in one spot – and you get to share it with friends. Here’s how:\n\n• Record everything – runs, rides, hikes, yoga and over 30 other sport types. Think of Strava as the homebase of your movement.\n\n• Discover anywhere – our Routes tool uses de-identified Strava data to intelligently recommend popular routes based on your preferences. You can also build your own.\n\n• Build a support network – Strava’s about celebrating movement. Here you’ll find your community and cheer each other on.\n\n• Train smarter – get data insights to understand your progress and see how you improve. Your Training Log is the record of all your workouts.\n\n• Get more from your workout – Powered by AI, Athlete Intelligence turns workout data into into instant insights. Keeping you motivated and ready for the next workout – without the guesswork.\n\n• Move safer – share your real-time location with loved ones while outdoors for an extra layer of safety.\n\n• Sync your favorite apps and devices – Strava is compatible with thousands of them (Apple Watch, Fitbit, Garmin – you name it).\n\n• Join and create challenges – join millions in monthly challenges to chase new goals, collect digital badges and stay accountable.\n\n• Embrace the unfiltered – your feed on Strava is filled with real efforts from real people. That’s how we motivate each other.\n\n• Whether you’re a world-class athlete or a total beginner, you belong here. Just record and go.\n\nStrava includes both a free version and a subscription version with premium features.\nStrava uses HealthKit to export your Strava activities into the Health app and to read heart rate and biometric data.\n\nYou can subscribe and pay on the App Store, using your Apple ID. Payment will be charged to your Apple ID at confirmation of purchase. Your subscription will automatically renew unless cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renew may be turned off after purchase by going to the ‘Manage Subscription’ page in settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. The subscription will renew at the same cost.\n\nTerms of Service: https://www.strava.com/legal/terms\nPrivacy Policy: https://www.strava.com/legal/privacy",
+      "android_package_name": "com.strava",
+      "ios_bundle_id": "com.strava.stravaride",
+      "title": "Strava",
+      "domain_name": [
+        "https://www.strava.com/how-it-works",
+        "https://www.strava.com"
+      ],
+      "website": "https://www.strava.com/how-it-works",
+      "developer": "Strava Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU",
+      "icon_72": "https://play-lh.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nike.ntc"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Movement. Mindfulness. Nutrition. Rest. Connection.\n\nMove with the Nike community and build a life well-lived with the support of trusted trainers, coaches, instructors and experts. Wellness tips, at-home workouts, and tools to support your physical and mental wellbeing help you progress toward your holistic fitness goals. Guided meditations, fitness workouts, healthy recipes and more. Discover wellness with NTC today — your way.\n\nMove With Us\n\nStrengthen your body and mind with free workouts and wellness guidance from your favorite trainers, athletes and experts — cardio, strength, conditioning, yoga, mindfulness and more.\n\nBuild healthy habits with goal-setting tools and move in all the ways that make you feel good with the Nike Well Collective. From workout programs and bodyweight fitness to holistic training and mindset tips — discover a fitness app built for where you’re at.\n\nWellness, in every form:\n• HOME WORKOUTS: Big Workouts for Small Spaces\n• TOTAL-BODY FITNESS: Exercises for Arms, Shoulders, Glutes & Legs\n• YOGA: Essential Yoga Flows\n• MINDFULNESS: Ground Yourself with Movement\n• NUTRITION: Maximize Results with Holistic Wellness\n• HIGH-INTENSITY TRAINING: Quick Workouts in 20 Minutes or Less\n• MEDITATIONS: Practice Appreciation\n• ABS WORKOUT:  Strength Training for Abs & Core\n• ENDURANCE: Cardio Workouts for All Levels\n\nDownload today.\n\nHOME WORKOUTS FOR EVERY BODY: WORKOUT PROGRAMS OR QUICK VIDEOS\n• Workouts for everyone – beginner workout to advanced, guided by Nike trainers, instructors, coaches and experts\n• Cardio, strength training, HIT, yoga, and more – exercises available anytime, anywhere\n• Workout Programs built to fit into your busy life and help you achieve your goals\n• Workouts for every body part – arms, legs, core, and more\n• Bodyweight workouts that require little to no equipment\n• Fitness designed for all levels – explore workout programs for all, including yoga, strength and breathwork\n\nNUTRITION & REST: MEDITATIONS, RECIPES & MORE\n• Training and guidance, beyond the physical – Fitness motivation and healthy habit tips\n• Nutrition – The well-lived life needs fuel, so we have real stories about real food\n• Rest and recovery – Tips for rest to recharge and revitalize\n• Wellness coach – Exercise tips with experts, for the body and mind\n• NTC TV – Exercises for mindfulness, healthy recipes, and guided meditations in quick, easy videos**\n• Strength training for the mind – Guided meditations, wellness Q&As and healthy cook-alongs for mindfulness\n\nWORKOUTS ON DEMAND\n• Workouts for all levels – work out the way you want with trainer-led Video On Demand workout classes*\n• Workout videos for all disciplines – cardio, HIT training, yoga and more\n• Premiere Workouts with special athlete and musical guests*\n\nFITNESS MOTIVATION\n• Fitness app meets lifestyle with guidance and inspiration for everything you need – nutrition, connection, rest, and more\n• Access to the Nike Well Collective – workouts and wellness tips for holistic guidance\n\nDownload NTC today.\n\nAPPLE WATCH SUPPORT\n\nFocus more on your workout and less on your phone when you connect your Apple Watch with NTC. Easily advance to the next drill, pause, skip drills and more, all while monitoring your heart rate and calories right from your wrist.\n\nALL YOUR ACTIVITIES COUNT\n\nEnter any other daily workouts in the Activity tab to keep an accurate account of your fitness journey. If you use the Nike Run Club app, your runs will be automatically recorded in your activity history.\n\nNike Training Club works with Apple Health to sync workouts and record heart-rate data.\n\nApple Music: used to access music library to play music during workouts.\n\n*VOD (Video-On Demand) available in the US, UK, BR, JP, CN, FR, DE, RU, IT, ES, MX and KR.\n**NTC Live currently available in the US, UK and select countries.\n***NTC TV available only in the US.",
+      "android_package_name": "com.nike.ntc",
+      "ios_bundle_id": "com.nike.niketrainingclub",
+      "title": "Nike Training Club",
+      "domain_name": [
+        "http://nike.com",
+        "https://nike.com"
+      ],
+      "website": "http://nike.com",
+      "developer": "Nike, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zgD7iittjyW1lOnGK7AoDuVfhv5nGWVseK4xVxMCOCajUHeSXontX7vGJL7l6UOd9w",
+      "icon_72": "https://play-lh.googleusercontent.com/zgD7iittjyW1lOnGK7AoDuVfhv5nGWVseK4xVxMCOCajUHeSXontX7vGJL7l6UOd9w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "cloud.helmuga.elpeloton"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Work out where you want, when you want.  From strength and meditation, to outdoor running and yoga, the Peloton App makes fitness classes and workout tracking fun and easy. No equipment needed.\n\nWHAT'S IN IT FOR YOU?\n• Take your workout with you: Find a variety of workouts to fulfill your fitness goals, including strength training, indoor and outdoor running, cycling, yoga, HIIT, meditation, stretching, and more. Our workouts are available on your iPhone or iPad. Plus, you can stream your workouts to your TV with our Apple TV app, or via AirPlay or Chromecast.\n• Here to hype. Here to help: Peloton is designed to keep you going with artist series, goal-based offerings, and challenges that make working out on the Peloton App a fun and exhilarating experience.\n• More burn for your buck: Experience what Peloton is all about with a Peloton App membership.\n\nDISCOVER, LOVE, REPEAT\n• Variety that you crave: Thousands of workouts that you can take anytime, anywhere, with or without any equipment. From cardio to stretching, we've got you covered. Guided workouts can help you achieve your fitness goals anywhere you go.\n• Workouts you can work in: Let our world-class, expert instructors motivate and captivate you during every workout. You can track your stats and progress using the Peloton Watch App, available on Apple Watch.\n• Whenever you're ready to sweat: Join live classes, or explore our library of instructor-led workouts for a studio fitness experience to get moving whenever you're ready to sweat- on the go, at the gym, or at home.\n• Features that take your experience to the next level: Schedule, stack, and bookmark classes, so once you're ready to get moving, all you need to do is show up on your mat and sweat.\n\nTRANSFORM YOUR FITNESS JOURNEY\n• Just bring you: Filter workouts for length, time, and music type to help you hit your health and fitness goals. No strings attached, no equipment needed.\n• Energize Your Fitness: A full suite of content to energize your routine: Featuring expert trainers and great music, our classes offer an engaging blend of guidance and rhythm to enhance your fitness journey.\n• Stay connected: Track your classes and freeform activities like outdoor walks, runs and more. Connect a heart rate monitor or download the Peloton Watch App for Apple Watch in order to get metrics in real time to keep you going.\n\n\nJOIN THE PELOTON COMMUNITY\nWhether you're working out on your phone, tablet, or TV, Peloton is designed to fit your life. Try Peloton for free, no equipment needed.\n\n\nPayment for this plan will be charged to your iTunes Account at confirmation of purchase. The membership will automatically renew at the applicable price and frequency (i.e., monthly or annually) (exclusive of taxes) unless auto-renew is turned off at least 24-hours before the end of the current period. By completing your purchase, you certify that you are at least 18 years old and that you understand and agree to the Terms of Service (https://www.onepeloton.com/terms-of-service) and acknowledge the Privacy Policy (https://www.onepeloton.com/privacy-policy). Auto-renewal may be turned off in your Account Setting in iTunes after purchase. No cancellation of the current subscription is allowed during an active subscription period. A user that cancels during a subscription month will not be charged for the following month.",
+      "android_package_name": "cloud.helmuga.elpeloton",
+      "ios_bundle_id": "com.Peloton.PelotonApp",
+      "title": "Peloton",
+      "domain_name": [
+        "https://www.onepeloton.com",
+        "https://www.onepeloton.com"
+      ],
+      "website": "https://www.onepeloton.com",
+      "developer": "Peloton Interactive, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qL08D-dIUkzkvAqj_g-gvGib8v22s6AN5JYKNOv32a-94IYOyMWGLM7wX_fLhnExPO3O",
+      "icon_72": "https://play-lh.googleusercontent.com/qL08D-dIUkzkvAqj_g-gvGib8v22s6AN5JYKNOv32a-94IYOyMWGLM7wX_fLhnExPO3O=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.popularapp.sevenmins"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Most people don't get enough exercise and our app is a simple and fun way to get started.\n\nScientific studies show that even short 7 minute workouts will help improve your health dramatically. The best part? Once you start,you won't be able to stop!\n\nWhy The 7 Minute Workout App by 7M?\n\n• Professionally designed workouts that are short and effective.\n• Workouts that you can do anytime,anywhere. No equipment needed.\n• Personal trainer with voice and video instructions. We guide you all the way.\n• Beginner friendly workouts that are easy to perform but will still make you sweat. \n• Super simple to use custom workout builder so you can build your own workouts.\n• Apple Health integration to track your activity,weight,workouts and calories burned.\n\nTake control of your health and fitness and sweat with us every day!\n\n7M - Let's get healthier together!\n\nSUBSCRIPTION INFORMATION\nGet a 7M Supporter subscription and enjoy full access to all features and content. The subscription will automatically renew unless turned off in your iTunes Account Settings at least 24 hours before current period ends. You can go to your iTunes Account settings to manage your subscription and turn off auto-renew. Your iTunes Account will be charged when the purchase is confirmed. If you subscribe before your free trial ends,the rest of your free trial period will be forfeited as soon as your purchase is confirmed.\n\nNote: This app is developed for informational purposes only. You should  always consult your physician or doctor before starting any new fitness program.\n\nThis app integrates with the Apple Health app.\n\nTerms of Use: https://www.workoutinc.net/terms-of-use\nPrivacy Policy: https://www.workoutinc.net/privacy-policy",
+      "android_package_name": "com.popularapp.sevenmins",
+      "ios_bundle_id": "com.oneothergame.7min-workout",
+      "title": "7 Minute Workout",
+      "domain_name": [
+        "https://www.workoutinc.net",
+        "https://www.workoutinc.net"
+      ],
+      "website": "https://www.workoutinc.net",
+      "developer": "Fast Builder Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/js0K1y-FJmMkWiYPahRTDBpDW4XpHonliVuctJYNBrOg3JvmBAMXVKOChqSU6mQDYpE",
+      "icon_72": "https://play-lh.googleusercontent.com/js0K1y-FJmMkWiYPahRTDBpDW4XpHonliVuctJYNBrOg3JvmBAMXVKOChqSU6mQDYpE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mapmyrun.android2"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "A complete set of tracking & training tools to help you get into running—or just get better at it. Now with personalized Form Coaching tips for Garmin users!\n\nStay inspired with a community of over 100 million runners all supporting your shared commitment to health and fitness.\n\n- Named Top 10 Apps for Runners by The Guardian\n\n- Featured in the NY Times, TechCrunch, Wired, & TIME\n\n- Voted Best Running App Readers' Choice on About.com\n\nWhether you’re just starting out on your fitness journey or a seasoned runner, you’ll find the features and tools needed to stay on track and motivated to hit your goals. Get customizable Training Plans, personalized coaching tips to make running feel easier, and more.\n\nCONNECT WITH APPS AND WEARABLES\n- Track runs directly from your Apple Watch app and provides visual, haptic, and audio progress updates in real-time.\n- Bluetooth-connect to specially designed connected shoes to the app and wearable devices for a Premium experience, more data to improve your run, and route tracking.\n- Sync with the latest apps and most wearables, including Apple Health, Apple Watch, Garmin, and more.\n\nTRACK AND MAP YOUR WORKOUTS\n- Log over 600+ activities with the largest selection of activities, including: running, cycling, walking, gym workouts, cross training, yoga, and more.\n- Get real-time audio coaching on GPS-tracked runs, with customizable voice for stats like pace, distance, and elevation.\n- Connect with 400+ devices to import and analyze all your data in one place.\n- Use Routes to find nearby places to run, save your favorite paths, add new ones, and share with others.\n\nTRAIN LIKE A PRO WITH MVP PREMIUM FEATURES\n- Unlock the best tools to turn your goals into achievable plans with a Premium membership.\n- Use Live Tracking to give loved ones peace of mind -- Our safety feature can share your real-time run location with a secure list of family and friends.\n- Execute Training Plans and reach weight loss or distance goals with personalized plans that adapt dynamically to your fitness level as you improve.\n- Monitor & analyze heart rate zones to adjust your training based on goals.\n- Set a goal for your run and stay on track with audio coach updates, including pace, cadence, distance, duration, calories, and more.\n\nFind the full terms, conditions, and our privacy policy at:\nhttps://outsideinc.com/privacy-policy/\nhttps://www.outsideinc.com/terms-of-use/\n\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nNote: Continued use of GPS running in the background can dramatically decrease battery life.\n\nApple Health permissions allow us to track your heart rate accurately, update activity rings, and save your workout data.",
+      "android_package_name": "com.mapmyrun.android2",
+      "ios_bundle_id": "Q5AWL8WCY6.iMapMyRun",
+      "title": "MapMyRun",
+      "domain_name": [
+        "http://www.mapmyrun.com",
+        "https://www.mapmyrun.com"
+      ],
+      "website": "http://www.mapmyrun.com",
+      "developer": "Outside Television Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Yy_6Hod9BHcpSu2Ug7Ll0AGjiGCZG_XotnH9HDR1hGs9F53D0JiRu2m4QjBAh5VMqZw",
+      "icon_72": "https://play-lh.googleusercontent.com/Yy_6Hod9BHcpSu2Ug7Ll0AGjiGCZG_XotnH9HDR1hGs9F53D0JiRu2m4QjBAh5VMqZw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.northcube.sleepcycle"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Start the new year right with Sleep Cycle’s intelligent alarm clock. It wakes you gently during your lightest sleep phase, helping you feel energized. Get a detailed analysis of your sleep patterns, detect sounds like snoring and coughing, and enjoy premium features like relaxing sleep sounds, a sleep story library, and more!\n\n3 REASONS YOU’LL LOVE SLEEP CYCLE:\n\n1. Wake up feeling refreshed: Achieve your sleep goals by waking up naturally during your lightest sleep phase.\n2. Track your progress: Monitor your sleep habits and reach your sleep goals with detailed tracking and analysis.\n3. No wearables needed: Simply place your phone on your nightstand, and Sleep Cycle uses sound analysis to track your sleep without a need for additional wearables or gadgets.\n\nSTART YOUR NEW YEAR WITH BETTER SLEEP:\nSleep Cycle is here to help you reach your New Year’s sleep goals:\n\n1. Track Your Sleep Score: Sleep Cycle gives you a sleep score every morning based on your sleep quality, helping you understand how well you’ve rested and what you can do to improve.\n2. Set Sleep Goals: Define your sleep goals and use Sleep Cycle’s insights to achieve them. Whether it’s more deep sleep, better wake-up mood, or consistent sleep patterns, Sleep Cycle guides you along the way.\n\n\nSLEEP TRACKER FEATURES:\n\n√ Sleep analysis with Sleep Cycle patented sound technology or accelerometer\n√ Detailed sleep statistics and daily sleep graphs\n√ New! Enhanced sleep stage tracking with detailed insights into all your sleep stages.\n√ Fully integrated with Apple Health, exchanging sleep analysis\n√ Carefully selected alarm melodies\n√ Snooze by shaking or double-tapping the phone lightly\n√ Customizable wake-up window. From instant (regular alarm clock), up to 45 minutes\n√ Sound recorder & Trends - Capture snoring, sleep talking and other sounds and view your trends\n√ Who’s snoring? Know if it is you or a partner snoring for a more accurate sleep analysis \n√ Cough Radar & Coughing - Track and compare your nightly coughing levels with local data to make informed decisions for your health\n√ Sleep Aid - our library of sleep stories, relaxation guides and calm sleep sounds, specially designed to help you fall asleep easier. (Mindfulness & meditation)\n√ Trends – gather long-term trends on your sleep patterns\n√ Comparison Data - Compare your sleep patterns to world sleep statistics\n√ Weather & Sleep - See how different types of weather affect your sleep quality\n√ Sleep Notes - See how events such as drinking coffee, stress, working out or eating late affect your sleep quality\n√ Wake-up Mood - See how Sleep Cycle affects your wake-up mood over time\n√ Online Backup - Secure your sleep data online\n√ Data Export – Download sleep data to Excel for detailed analysis\n√ Philips HUE Light Bulb Support - Simulate a natural sunrise to give you an even softer wake-up\n\nJOIN OVER 1 MILLION USERS\nOver 1 million users have already made better sleep their goal. Join them and start tracking your sleep with Sleep Cycle today. Achieve your sleep goals and wake up feeling your best.\n\n-------------------------\n\nREQUIREMENTS\n\nAbility to charge your phone by the bed.\nAbility to place your phone near the bed, such as on a nightstand table or on the floor.\n\n-------------------------\n\nThe Premium subscription will be charged to your iTunes account after the purchase. The subscription will be auto-renewed 24 hours before the subscription period ends with the same kind of subscription you already bought at the same price. To avoid automatic renewal, you must cancel the subscription at least 24 hours before it expires. You can manage or cancel your auto-renewable subscription by entering the user settings in iTunes after the purchase. It's not possible to abort the subscription during the time it's active. Any unused portion of a free trial period, if offered, will be forfeited when you purchase the premium subscription. \n\nTerms and Privacy: https://www.sleepcycle.com/privacy-policy/",
+      "android_package_name": "com.northcube.sleepcycle",
+      "ios_bundle_id": "com.lexwarelabs.goodmorning",
+      "title": "Sleep Cycle",
+      "domain_name": [
+        "https://www.sleepcycle.com",
+        "https://www.sleepcycle.com"
+      ],
+      "website": "https://www.sleepcycle.com",
+      "developer": "Sleep Cycle AB",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/dar3zPlTbJYfHtH0hG4WOOK28ujJTj5kz51SwDuZc-HrmSgjZyavEDY_k4jmiJ9QwFo",
+      "icon_72": "https://play-lh.googleusercontent.com/dar3zPlTbJYfHtH0hG4WOOK28ujJTj5kz51SwDuZc-HrmSgjZyavEDY_k4jmiJ9QwFo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.withings.wiscale2"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Whether you’re looking to lose weight, get more active, monitor blood pressure, or even sleep better, Health Mate unleashes the power of Withings health devices, backed by a decade of expertise. In the app you’ll find health data that is easy to understand, personalized, and fully leverageable by you and your doctor. \n\nWith Health Mate, be empowered to take action—and start mastering your vitals.\n\nTRACK YOUR VITALS\n\nWEIGHT & BODY COMPOSITION MONITORING\nReach your weight goals with advanced insights including weight, weight trends, BMI & body composition.\n\nACTIVITY & SPORT MONITORING\nAutomatically track your daily activity and workout sessions with in-depth insights including steps, heart rate, multisport tracking, connected GPS & Fitness Level assessment. \n\nSLEEP ANALYSIS / SLEEP APNEA DETECTION\nImprove your nights with sleep-lab worthy results (sleep cycles, sleep score, heart rate, snoring & more) and uncover sleep apnea, a highly prevalent & underdiagnosed disease.\n\nHYPERTENSION MANAGEMENT\nMonitor hypertension from the comfort of your home with medically-accurate systolic and diastolic blood pressure results, plus reports you can share with your doctor to monitor the efficacy of treatment.\n\nCARDIOVASCULAR DISEASE DETECTION\nDetect the development of chronic diseases with advanced medical insights including irregular heart rhythm, atrial fibrillation, valvular heart diseases and overall arterial health via pulse wave velocity. \n\n...WITH A SIMPLE & SMART APP\n\nEASY TO USE\nOnly one app for all Withings products for a holistic view of your health, in the palm of your hands. \n\nEASY TO UNDERSTAND\nAll the results are displayed clearly with normality ranges & color-coded feedback to know exactly where you stand. \n\nTAILORED HEALTH INSIGHTS\nKnowing your data is good, but knowing how to interpret it is better. Health Mate has now a voice and will highlight particularly relevant data for your health and enrich your experience with a science-based interpretation of this data.\n\nSHAREABLE REPORTS FOR YOUR DOCTORS\nEasily share data with healthcare professionals including an ECG record, blood pressure & more. Get also access to a full health report that can be shared to your practician via PDF.\n\nTHE COMPANION TO APPLE HEALTH & YOUR FAVORITE APPS\nHealth Mate and Apple Health work seamlessly together, so you can retrieve all your health data in one place for easier health tracking.  Health Mate is also compatible with 100+ top health & fitness apps including Strava, MyFitnessPal and Runkeeper.\n\n\nABOUT WITHINGS\n\nWITHINGS creates devices embedded in easy-to-use everyday objects that connect to a unique app and act as powerful daily health check-ups, as well as tools to help master long-term health goals. Our team of engineers, doctors, and health professionals invents the world’s most efficient devices to help track and analyze anyone’s vitals, via a decade of expertise.\n\nTerms of use:https://www.withings.com/legal/applications-conditions#/legal/services-terms-and-conditions \nPrivacy policy: https://www.withings.com/legal/applications-conditions#/legal/privacy-policy\nMedical compliance: https://www.withings.com/eu/en/compliance?srsltid=AfmBOoovZiYectAmYJC5gs2HhHrMxHAhPdN4NFQQI5RSImnQdrLoxKSc",
+      "android_package_name": "com.withings.wiscale2",
+      "ios_bundle_id": "com.withings.wiScaleNG",
+      "title": "Health Mate",
+      "domain_name": [
+        "https://withings.com",
+        "https://withings.com"
+      ],
+      "website": "https://withings.com",
+      "developer": "Withings",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/dkCJUDoyVfq-9ZE4NrX_gRqu_kTuyf3F0LGPb7ybt_pQCCnWXD2BojizznpqMbJEbQ",
+      "icon_72": "https://play-lh.googleusercontent.com/dkCJUDoyVfq-9ZE4NrX_gRqu_kTuyf3F0LGPb7ybt_pQCCnWXD2BojizznpqMbJEbQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nike.plusgps"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Training Plans*, Guided Runs**, wellness tips or community challenges — run towards your goals with all the tools you need to start running, keep running and enjoy running more. Treadmill or hitting the trails — if you’re ready to run, our coaches, trainers, athletes and experts have you covered in the Nike Run Club app.. Half marathon training, wellness runs and more await.\n\nMove With Us\n\n5k to 10k, Half Marathon or more - health and fitness journeys begin with the support of the right tools and motivation. Fitness tracker, Guided Runs** or Training Plans* - NRC provides you with all you need to run with confidence. Pace yourself with Guided Runs** picked out by NRC running coaches or train with expert Training Plans*. Running workout motivation is yours to gain with guidance from a familiar voice joining you with every Guided Run**. 5k or 10k, marathon and more - NRC has you covered.\n\nStay motivated with the Nike community. Distance training, or just having fun - create and share challenges with friends or join one with the global community. Health and fitness is better with a crew. Get on the starting line with runners from around the world!\n\nMile counter, running coach, wellness tips and more. Whatever moves you want to make, the Nike community is here for it. Reach your goals with NRC.\n\nRUN TRACKER: TRACK & STORE RUNS\n• Running speed, distance tracker, GPS route, elevation and heart rate are tracked and stored\n• Fitness tracker for distance and more - Track progress towards your goals\n• Mile counter and mobile coach - Mile counter functionality allows you to record and track your runs\n• Activity tracker syncs with your Apple watch and supported devices to provide constant support\n\nTRAINING PLANS & GUIDED RUNS\n• Running for beginners or regulars - Coach tips and plans for all levels\n• NRC Training Plans give you a goal to run toward and the guidance to reach it*\n• Half Marathon training, 4-Week Get Started Training Plan and more - Select plans that best suit you*\n• Marathon Training Plan - Begin the ultimate 12-week training journey*\n• Fitness begins with mindset and recovery tips to connect your mind and body\n• Treadmill, speed intervals or mindfulness - Get started with our library of Guided Runs**\n• Fitness motivation from the best of Nike like Eliud Kipchoge with Audio Guided Runs**\n• Running coach guidance with NRC’s Guided Runs - you’re never running by yourself**\n• Receive or send friends motivating in-run audio cheers\n\nRUN CHALLENGES\n• 5K to 10K, Half Marathon and beyond - earn badges and trophies for streaks and personal bests\n• Health app motivation - Reach a new monthly mileage or set a distance goal with friends with NRC’s tracking tools\n• Run in NRC running challenges or create one and invite your friends - Share via social media or messaging\n• Health and fitness journey - Track and celebrate progress towards your goals with your worldwide run club\n\nMILE COUNTER & SHOE TAGGING\n• Fitness tracker for all your shoes - Track distance in every pair and let us remind you when it’s time for a new pair\n• Running speed - Record pace for each pair and learn which ones you run the fastest in\n\nNike Run Club: Your Guide to a Better Run. Download today.\n\n-\n\nNike Run Club works with Apple Health to sync workouts and record heart-rate data.\n\nContinued use of GPS running in the background can decrease battery life.\n\nApple Music: used to access music library to play music during workouts.\n\n*Training Plans available in the US, UK, JP, CN, BR., FR, DE, ES, IT.\n** Guided Runs available in select countries.",
+      "android_package_name": "com.nike.plusgps",
+      "ios_bundle_id": "com.nike.nikeplus-gps",
+      "title": "Nike Run Club",
+      "domain_name": [
+        "https://www.nike.com/us/en_us/c/running/nike-run-club",
+        "https://www.nike.com"
+      ],
+      "website": "https://www.nike.com/us/en_us/c/running/nike-run-club",
+      "developer": "Nike, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/SPY3nBA8Mfe26jojaOFmqKYMOYKr5_u0GFq1sRKOmbsEboWmw4gJdLyf1ihQyfhLXLA",
+      "icon_72": "https://play-lh.googleusercontent.com/SPY3nBA8Mfe26jojaOFmqKYMOYKr5_u0GFq1sRKOmbsEboWmw4gJdLyf1ihQyfhLXLA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.sillens.shapeupclub"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Personalized nutrition and healthy eating at your fingertips. More than a calorie counter, Lifesum helps you adopt nutritious diets that fit your lifestyle and taste. Achieve your weight loss goals while building healthy eating habits for life.\n\nMore than 65 million people use Lifesum to find motivation and inspiration in their health journey. We made food tracking easy so you can make more healthy choices for your body and mind.\n\nPut your well-being first with Lifesum’s innovative technology and expertise of doctors, nutritionists, and professional chefs.\n\nTOP LIFESUM FEATURES\n• Food diary with convenient barcode scanner \n• Calorie counter\n• Macro tracker (protein, carbs, and fats) and food rating\n• Water tracker\n• Diet plans for weight loss and body composition\n• Intermittent fasting plans\n• Meal plans with grocery lists to reduce stress\n• Integration with fitness trackers for in-depth health monitoring\n• Life Score test for personalized nutrition recommendations\n\nWEIGHT LOSS AND HEALTHY EATING\nWhether you want to lose weight, build muscle, or improve some of your eating habits, your nutrition plan should be all about supporting your personal goals.\nFind the right diet for your taste and lifestyle:\n• Keto diet / Low carb - to reduce carb intake. Comes in easy, medium, and strict\n• Mediterranean diet - to increase consumption of fruits and vegetables\n• High Protein diet – to build more muscle mass\n• Clean Eating diet – to eat more wholesome foods\n• Scandinavian diet – to increase fiber intake and healthy fats\n• Climatarian diet  – to eat healthier for you and the Earth\n\nINTERMITTENT FASTING\nIf you want to choose when you eat over what you eat, explore our Intermittent Fasting plans, and fill your eating windows with nutrient-dense and delicious foods.\n• Morning fasting meal plan\n• Evening fasting meal plan\n\nMEAL PLANS WITH COMPLETE GROCERY LISTS\n• Vegan for a week\n• Intermittent fasting\n• 3 Week Weight Loss\n• Sugar Detox\n• Keto Burn / Low carb\n• Paleo\n• Protein Weight Loss\n\nALL YOU NEED FOR A CUSTOMIZED EXPERIENCE\n• Calorie counter, with the option to adjust your daily calorie goal and add/exclude calories burned through exercise.\n• Macro tracking and adjustable goals for carbs, protein, and fat intake. \n• Create and save your favorite foods, recipes, meals, and exercises.\n• Body measurement tracking (weight, waist, body fat, chest, arm, BMI).\n• A library of thousands of recipes with smart filters for quick results.\n• A weekly Life Score based on nutrition and exercise measurements, so you understand where you are and what's next to build the healthiest version of you.\n• Sync with health and fitness apps like Apple Health, Fitbit, Runkeeper, and Withings to track your steps and exercise in real time.\n\nLifesum is free to download and use with limited features. For the full Lifesum experience, we offer 1-month, 3-month, and annual Premium auto-renewing subscriptions.\n\nPayment is charged to your credit card through your iTunes account at confirmation of purchase. Subscription renews automatically unless you turn off auto-renewal in iTunes account settings or cancel your subscription at least 24 hours prior to the end of the subscription period.\n\nView our Terms & Conditions and Privacy Policy: http://api.lifesum.com/mobile-terms",
+      "android_package_name": "com.sillens.shapeupclub",
+      "ios_bundle_id": "com.sillens.iShape",
+      "title": "Lifesum",
+      "domain_name": [
+        "http://lifesum.com",
+        "https://lifesum.com"
+      ],
+      "website": "http://lifesum.com",
+      "developer": "Lifesum AB",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7fNrWWPMQZgIs_sVv5Bb3jME5KbEqguW8n4PDo4FsZzvI-xGE2jiJQ2ah8xdkvyTNQ",
+      "icon_72": "https://play-lh.googleusercontent.com/7fNrWWPMQZgIs_sVv5Bb3jME5KbEqguW8n4PDo4FsZzvI-xGE2jiJQ2ah8xdkvyTNQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.fitnow.loseit"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Lose It! is a calorie counting, nutrition tracking, and intermittent fasting tool that helps you ditch the unwanted behaviors that are holding you back from reaching your weight goals.\n\nSince our launch in 2008 we have been featured in The Wall Street Journal, The Today Show, Men’s Health, Women’s Health, CNET, Buzzfeed, CNN, Shape, Good Morning America, and more.\n\n• 125+ million pounds of weight lost by our members (and counting!)\n• 50+ million searchable items in our comprehensive international food library database\n• 50+ million users who have started their weight loss journey with Lose It!\n• 25+ macronutrient and health goals to choose from\n• 3 days of tracking is all it takes before a user starts to see a result in weight loss\n\nHOW LOSE IT! WORKS\nLose It! uses the proven principles of calorie tracking to educate and help you succeed To get started just input your profile details with your goal weight and we’ll calculate the daily calorie budget best for you. Next, easily track your food, weight, and activity, and get ready to celebrate your weight loss victories. There’s no easier way to change your habits and learn about your nutrition needs.\n\nLOSE IT! FEATURES\n• NEW! AI Voice & Snap It Photo Meal Logging – easily log meals using voice or photos. Just tap the camera icon for food tracking and calorie counting in a snap.\n• Nutrition Strategies – Whether you're a nutrition novice or a macro-tracking expert, we have a nutrition strategy that will meet your needs. Our dietician-curated strategies will support everything from keto to plant-based and more!\n• Barcode Scanner – quickly scan food barcodes or search our database to track foods you’ve eaten.\n• Track Nutrients – track more than just calories including macros, proteins, water, carbs, sugars, body measurements, sleep cycles, and more.\n• Milestones – break down your weight loss goal into smaller, more achievable segments \n• Healthy Living Articles – get inspired and stay informed on wellness topics with new content every day. \n• Fitness App Syncs – connect trackers, apps, and devices like Fitbit trackers, Misfit trackers, Fitbit scales, Garmin trackers, Withings scales, Google Fit, Healthkit, and more.\n• Biggest Food Library Database – 50+ million searchable foods in our international library and food log with an extensive database of items and recipes.\n• Intermittent Fasting – set your fasting plan and track your fasts in the same app where you track your food.\n• Calorie Scheduling – schedule higher days and lower days so that your plan fits in your lifestyle.\n• Meal Planning & Targets – meal targets help you calculate suggested calories per meal based on your goal while meal planning allows you to customize your meal names and snacks for more accurate records.\n• Patterns – learn about your habits with our exclusive personal insights and patterns to identify what is hindering or helping your progress.\n• Themes – personalize the look and feel of Lose It! with themes that speak to your personality.\n• Recipes – customize your weight loss journey with breakfast, lunch, and dinner meals you create yourself.\n\nDownload Lose It! today and join a community of members looking to improve their health and wellness.\n\nGet started today with Lose It! – Weight Loss That Fits!\n\nLose It! basic is free, but you can upgrade to Premium to unlock awesome additional features. Premium members report 3x the weight loss of free members.\n\nShould you choose to purchase a Premium or Boost subscription, subscription purchase will be charged to your iTunes account. The yearly subscription will automatically renew unless the auto-renew is turned off at least 24 hours before the period subscription ends. Your premium subscription auto-renew can be turned off or managed in your iTunes account settings. Any unused portion of the free trial is forfeited after purchase.\nhttp://loseit.com/terms/",
+      "android_package_name": "com.fitnow.loseit",
+      "ios_bundle_id": "com.fitnow.loseit",
+      "title": "Lose It!",
+      "domain_name": [
+        "http://www.loseit.com",
+        "https://www.loseit.com"
+      ],
+      "website": "http://www.loseit.com",
+      "developer": "FitNow, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/eQXGwwKkSAqezH7nicdMhsM7BfUf29XQFtPbJLdOH81Grtk8ylKqZGISzcWcSddgcWs",
+      "icon_72": "https://play-lh.googleusercontent.com/eQXGwwKkSAqezH7nicdMhsM7BfUf29XQFtPbJLdOH81Grtk8ylKqZGISzcWcSddgcWs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.yazio.android"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "With the Calorie Counter app by YAZIO, you can manage your daily food diary, track your activities and lose weight successfully.\n\nMore than 50 million people have already achieved their New Year’s resolutions with YAZIO. Be a part of it.\n\n\"I've lost the first 15 lb, and with the Calorie Calculator, you definitely will get a great feeling about your nutrition. My goal is to get to 160 lb. I started at 210 lb.\" (Sandra via Facebook)\n\nMore success stories from our users:\n\n– Alexander: \"I've been using the Calorie Counter since April and have lost up to 60 lb. The app is very helpful for losing weight.\"\n\n– Claudia: \"The new Calorie Counter app is great – just like the super fast and reliable support!\"\n\n– Michael: \"I stopped smoking 18 months ago and gained nearly 40 lb. Now I have to go back down – I will give it a try with the YAZIO Calorie Counter.\"\n\nYAZIO is the best diet and weight loss app for iPhone, iPad & Apple Watch\n\n– Personal plan to lose weight or build muscles\n– Calorie table with over 2 million foods\n– Nutrition tracker and food diary for all meals\n– Tracks your calories, carbs, proteins and fats\n– Create meals, add favorites or input new foods\n– Copy diary entries to other days easily\n– Built–in barcode scanner for quick searching\n– Tracks your sports, exercises and activities\n– Calorie calculator to track your burned calories\n– Tracks your daily steps walked and be more active\n– Documents your weight with weight tracker\n– Assesses your diet and achievements\n– Syncs with Health App and other fitness apps\n– Use the Watch App to take control\n– Great Today widget and 3D touch feature\n\nThe advantages of YAZIO PRO are undeniable\n\n– PRO is a useful extension of the free app\n– With PRO, you will reach your goal twice as fast\n– Nutritional plans for low carb, high protein, etc.\n– Over 100 healthy and delicious recipes\n– Smart and intelligent food rating\n– More analysis including diet and body statistics\n– Tracks other nutrients like sugar, fiber and salt\n– Recognize foods with the most carbs or fat\n– Shows progress over the previous 2.5 years\n– Tracks body fat, blood pressure and blood sugar\n– Measure your breast, waist and hip circumference\n– Plan your diet and sports for the next days\n– No more advertisements – who doesn’t love that?\n– Supports our continuous improvement of YAZIO\n\nYou can buy PRO via in–app purchases within the app. YAZIO PRO is significantly cheaper than comparable Calorie Counter apps for diet and weight loss.\n\nThere are three different PRO subscriptions:\n– 3 months (quarterly subscription)\n– 6 months (semi-annual subscription)\n– 1 year (annual subscription)\n\nBy buying YAZIO PRO, you'll gain access to all premium features, including the Nutrition Coach, Recipes and Meal Plans. PRO will be charged directly to your iTunes account. You can manage or cancel your PRO subscription in your iTunes Account settings at any time. The subscription will be auto–renewed shortly before the subscription period ends, maintaining the same price and subscription type you previously purchased, unless you unsubscribe no later than 24 hours before the subscription ends. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription. You can also pay for your subscription with App Store Gift Cards. At the time of purchase or renewal, a valid payment method must be deposited. By subscribing to PRO, you are agreeing to the terms of the Apple App Store and YAZIO's Terms of Service & Privacy Policy.\n\nTerms of Service & Privacy Policy: https://help.yazio.com/hc/en-us/articles/203444951\n\nDo you want to help make the YAZIO Calorie Counter an even better nutritional & diet app? We always welcome your suggestions and feedback.",
+      "android_package_name": "com.yazio.android",
+      "ios_bundle_id": "com.yazio.ios.YAZIO",
+      "title": "Yazio",
+      "domain_name": [
+        "https://www.yazio.com/en",
+        "https://www.yazio.com"
+      ],
+      "website": "https://www.yazio.com/en",
+      "developer": "YAZIO GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/0lsA4kpphpaGgnA_MC_eNgC7VYtO9oXxblx_TPK8rRjpeWDDf_791wNUh5aOKJkR8Q",
+      "icon_72": "https://play-lh.googleusercontent.com/0lsA4kpphpaGgnA_MC_eNgC7VYtO9oXxblx_TPK8rRjpeWDDf_791wNUh5aOKJkR8Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "je.fit"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Get Fit and Strong with JEFIT:\nJEFIT is your ultimate workout companion, offering detailed workout programs, HD video exercise instructions, and powerful tools to log, track, and plan your workouts.\nWhether you're a beginner or a professional bodybuilder, whether you work out at home or in the gym, JEFIT is the perfect fitness app to help you achieve your goals.\nUser Reviews\n “Best bodybuilding and workout trainer ever! Can't believe this tool is free!\"\n “JEFIT is the BEST Workout and Fitness logger EVER! The combination of downloadable daily workout routines and tracking your progress online is great! Also its FREE”\n “JEFIT is the best FREE workout and fitness planner on the market, never go to the gym without this tool”\n\nPraised by Experts:\n• Men’s Fitness and Sports Illustrated recognize JEFIT as one of the Best Fitness Apps of 2022.\n\nJoin the Thriving JEFIT Community:\n• Over 10 million users trust JEFIT to track their workouts and transform their bodies.\n\nKey Features at a Glance:\n• Access an extensive exercise database with 1400+ weight training exercises.\n• Watch HD video demonstrations of exercises for proper form.\n• Seamlessly integrate with your smartwatch for efficient workouts.\n• Explore a workout routine database with community-created daily routines and fitness plans.\n• Keep yourself motivated by tracking your fitness progress and improvements.\n• Create fully personalized daily workout plans with customizable exercises.\n• Sync your workout data with the Health app to monitor body weight, height, and exercise time.\n\nPlan Your Workouts with Ease:\n• Design your custom fitness plans to meet your specific goals and improve your strength.\n• Download workout routines created by the community or tailored for goals like cutting, bulking or maintaining.\n\nExtensive Exercise Database:\n• Find weight lifting and muscle-building exercises to craft your daily fitness routines.\n• Access 1400+ exercises, including those for barbells, dumbbells, kettlebells, and cardio machines.\n• Detailed exercise instructions and animations ensure proper technique.\n• Keep track of both cardio and strength training exercises.\n\nUser-Friendly Interface:\n• Quickly and easily log your weight, reps, and sets for exercises.\n• Save your best lifting records for each exercise.\n• Enhance your workout experience with the companion watch app.\n\nCommunity and Social Engagement:\n• Connect with friends, share logs, and stay motivated together.\n• Compare progress and statistics with the community.\n• Post workout updates on your profile and share your achievements on social media platforms.\n• Explore the progress and exercise tips shared by the community.\n\nStay in Sync:\n• Synchronize your workout data across devices for a seamless experience.\n• Download strength routines and daily fitness plans created by the community.\n\nUpgrade to JEFIT Elite:\n• For $69.99 per year, unlock advanced features like unlimited watch app workouts, professional audio cues, advanced fitness analytics, and premium training routines crafted by experts.\n\nSubscription Details:\n• JEFIT Elite subscription charges will be billed to your iTunes Account.\n• The subscription auto-renews unless canceled at least 24 hours before the renewal date.\n• You can manage and cancel subscriptions in your app store settings.\n\nTerms and Privacy:\nBy upgrading to Elite, you agree with our Term of Service (https://www.jefit.com/terms-of-use/) and Privacy Policy (https://www.jefit.com/privacy-policy/)",
+      "android_package_name": "je.fit",
+      "ios_bundle_id": "com.Jefit.JEFIT",
+      "title": "JEFIT",
+      "domain_name": [
+        "https://www.jefit.com",
+        "https://www.jefit.com"
+      ],
+      "website": "https://www.jefit.com",
+      "developer": "Jefit Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/fUGx-F4ijBqi63miVS1BzgQ0Z7zrSyXiQjuC4d7ZFHiKasbJ0-HiydCxvpZanfSyW7Ln",
+      "icon_72": "https://play-lh.googleusercontent.com/fUGx-F4ijBqi63miVS1BzgQ0Z7zrSyXiQjuC4d7ZFHiKasbJ0-HiydCxvpZanfSyW7Ln=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.dailyyoga.inc"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "**#1 yoga app of 2023**——Apple \n**6000 million best choice**——Subscribers\n**2019-2023 Best Yoga App**—Healthline\n\nNo.1 Yoga App Since 2012, loved by 60M+ people!\n\nDaily Yoga - ALL IN ONE YOGA APP\n-classic yoga\n-chair yoga\n-wall pilates\n-somatic workout\n-and more\n\n\nWould you like to find both a yoga fitness pose video and meditations in one app?\n\nDaily Yoga is the platform that provides health benefits for both your mind and body with multiple yoga poses, various guided yoga classes and weight loss yoga challenges.\n\nHere are dozens of beginner-friendly yoga classes that are easy to learn and perform, including wall pilates, chair yoga, and sofa yoga. Start your day with a yoga workout that suits your needs. Choose to increase flexibility, improve strength, maintain good posture, or get fit and healthy!\n\nWHY CHOOSE DAILY YOGA?\n\n- Lose weight & burn fat\n- Increase flexibility and get fit\n- Decrease your stress with meditation \n- Personalized Custom Yoga Program\n- Beginner friendly with Smart Coach to find courses to meet your goals.\n\nMAIN FEATURES:\nDaily Yoga challenges, Weekly New classes!\n\nIf you're a beginner, join the yoga challenges and see the result. Daily Yoga provides beginners-yoga series to help beginners learn the basics before diving into more advanced classes, sequences, and flows.\n\nIf you're advanced, new courses update weekly, so you won’t have to do the same yoga workouts over and over again.\n\nYoga for Weight Loss and Fat Burn!\n\nDaily Yoga offers a variety of weight loss classes for different scenarios, including wall Pilates, chair yoga, and highly effective full-body yoga exercises to help you achieve visible results within days. Various difficulty levels, from beginner to advanced, allow you to practice step by step and easily achieve your weight loss goals. So whether you like yoga, wall pilates or want to do sofa yoga on your sofa/bed.\n\nEasy to Follow!\n\nEveryone, from beginner to advanced, can reap the benefits of yoga. Follow the detailed guidance in the app, and enjoy your exercise.\n\nSmart Coach to Keep You Motivated!\n\nThe Smart Coach feature prevents having to search for a good class every day. Smart Coach creates a 28-day schedule of courses to help you reach your monthly goal.\n\nDownload Your Favorite Classes！\n\nDownload yoga classes, use them offline, and take them with you wherever you go. You can practice in your living room, hotel, beach, or even sitting on a chair or sofa. That's right, you can go for wall pilates, chair yoga, or sofa yoga, making it easy to stay active and healthy no matter where you are. \n\nTrack and Record Your Progress!\n\nPersonal data can be tracked if you use different devices. With the smartwatch, you can track the exercise duration, calories burned, and heart rate to contribute to your activity rings and meet your daily goals. We integrate with HealthKit for you to export calories burned and exercise data.\n\nMeditation for Mind and Body\n\nSpecially designed meditation classes to find inner peace. Boost your energy, release your stress, or follow a peaceful voice into a sweet dream.\n\nJoin The Worldwide Yoga Community!\n\nConnect with 50M yogis around the world. Discuss your experience with each class, tag friends or other people doing the class, and encourage people to finish yoga challenges.\n\nHealthKit\n\nDaily Yoga integrates with HealthKit (Apple Health), so you can export calories burned and exercise data from Daily Yoga to HealthKit. We also perfectly support both Intel and Apple Silicon.\n\nFOR MORE INFORMATION:\nTerms of Use: https://www.dailyyoga.com/en/terms.html\nPrivacy Policy: https://www.dailyyoga.com/en/privacy-policy.html\n\nCONTACT:\nFeel free to contact us anytime!\n· App usage problems and suggestions: support@dailyyoga.com\n· Business Cooperation: business@dailyyoga.com\n\nCome to Life, Come to Yoga!",
+      "android_package_name": "com.dailyyoga.inc",
+      "ios_bundle_id": "yogaen",
+      "title": "Daily Yoga",
+      "domain_name": [
+        "http://www.dailyyoga.com",
+        "https://www.dailyyoga.com"
+      ],
+      "website": "http://www.dailyyoga.com",
+      "developer": "Xi'an Pengxiang Chuangda Technology Co., Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qB4fN4k2XQBbISQY9yZpwUDUmRxpoIWR4ECPpokfIwJ4y3xX_K4fJu5OCcYPUKhoxzdW",
+      "icon_72": "https://play-lh.googleusercontent.com/qB4fN4k2XQBbISQY9yZpwUDUmRxpoIWR4ECPpokfIwJ4y3xX_K4fJu5OCcYPUKhoxzdW=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "sworkitapp.sworkit.com"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Sworkit delivers personalized workouts, meditation, and nutrition guidance for all fitness levels. Our app has helped millions of users achieve their health goals, from beginners to athletes.\n\nWhy Choose Sworkit?\n• Customizable workouts for various goals: weight loss, muscle gain, flexibility, and more\n• Expert-designed programs for injury recovery and pain reduction\n• Mindfulness and stress reduction exercises\n• Flexible routines adaptable to your schedule and available equipment\n• Special content for new parents, travelers, and professionals\n• Unique library of kids' workouts for teachers, parents, and coaches\n\nFeatures:\n• 6-week guided workout plans for all levels\n• 900+ bodyweight and small equipment exercises\n• 500+ workouts including HIIT, Tabata, cardio, strength, yoga, Tai Chi, and Pilates\n• Create custom routines tailored to your needs\n• 1-on-1 assistance from certified personal trainers\n• Available in 15 languages\n• Motivational fitness plans and movement challenges\n\nIntegrations:\n• Google Fit: Track workouts and calories burned\n• MyFitnessPal and Strava: Sync your workouts for enhanced connectivity\n\nSubscription Information:\nSworkit offers a free 7-day trial. All Kids content is 100% free. Other workouts require an active subscription. Choose from monthly or yearly plans for unlimited access.\nJoin the Sworkit community and start your fitness journey today!",
+      "android_package_name": "sworkitapp.sworkit.com",
+      "ios_bundle_id": "AHorseCalledScarlet.Sworkit",
+      "title": "Sworkit",
+      "domain_name": [
+        "https://www.sworkit.com",
+        "https://www.sworkit.com"
+      ],
+      "website": "https://www.sworkit.com",
+      "developer": "Nexercise, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KyP6tycYadkIuQY-w_4c0_feiK5qw9ftVOGn9rF-Mo0WmUxKgjDeKaIcgeAW7xp0a7s",
+      "icon_72": "https://play-lh.googleusercontent.com/KyP6tycYadkIuQY-w_4c0_feiK5qw9ftVOGn9rF-Mo0WmUxKgjDeKaIcgeAW7xp0a7s=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.fitnesskeeper.runkeeper.pro"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Reach your running goals with the ASICS Runkeeper™ app. Track exercise, set measurable goals and see progress along the way—whether you’re just getting into running, training for a race or trying to reach a new personal record, we can help.\n\nMOTIVATION TO MOVE\n•Guided Workouts: Whether you’re a beginner or an experienced runner, our ASICS Running coaches push you to reach your fitness goals through a variety of audio-guided workouts that complement your fitness journey\n• Track workouts: Record activities like running, walking, biking, hiking and more manually or with GPS. \n• Set goals: Maybe you want to get faster, run farther or lose a little weight. No matter your goal, we’ll help you reach it. \n•Listen to audio: Choose the stats you want to hear during your activity like pace, distance, and time (available in five additional motivating voices in English), plus Apple Music and Spotify integration\n• Follow a plan: Routines lead to progress. Choose a personalized plan that will help get you out the door, day after day. \n• Stay motivated: Join in-app challenges, get exercise rewards, participate in virtual running groups and share achievements.\n• See progress: It’s what this is all about. We’ll log your stats to show you how you’re progressing against your running goals. \n\nSYNC WITH EASE\n• Apple Watch integration: Leave your phone at home and still track stats.\n• Bluetooth connectivity: connect wireless headphones and heart-rate monitors.\n• Fitness tracker integration: Connect your Garmin, Fitbit and other styles in seconds.\n• Apple Health integration: Connect to share your Runkeeper workout details (including calories, route, and heart rate) to Apple Health and sync your Health measurements to Runkeeper.\n• Partner apps: Connect with other top health apps like Fitbit, MyFitnessPal and more.\n\nUPGRADE YOUR PERFORMANCE\nGet the Runkeeper GO™ premium membership for more effective ways to reach your fitness goals, from 5Ks to marathons. \nStrategize for your next race by taking advantage of tailored race-training plans designed to help you run stronger and faster for race day.\nCompare your workouts with a variety of detailed progress insights and live tracking to closely monitor your training along the way. \n\n\n*Note: Continued use of GPS running in the background can dramatically decrease battery life.\n\nFind the full terms and conditions, and our privacy policy, at http://runkeeper.com/termsofservice and http://runkeeper.com/privacypolicy respectively.",
+      "android_package_name": "com.fitnesskeeper.runkeeper.pro",
+      "ios_bundle_id": "RunKeeperPro",
+      "title": "Runkeeper",
+      "domain_name": [
+        "https://www.runkeeper.com",
+        "https://www.runkeeper.com"
+      ],
+      "website": "https://www.runkeeper.com",
+      "developer": "ASICS Runner App, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6E8NcQQijI7tPgtkBcZ8OnES_jVsrEdLpC_mH_1kGQRAb3uSzKUp8HxiGTqnUXucaa4",
+      "icon_72": "https://play-lh.googleusercontent.com/6E8NcQQijI7tPgtkBcZ8OnES_jVsrEdLpC_mH_1kGQRAb3uSzKUp8HxiGTqnUXucaa4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.aaptiv.android"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Everyone deserves the benefits of moving smarter. That’s why we created Aaptiv, an AI-powered audio and video fitness app that creates hyper-personalized, adaptable workout plans to help you crush your fitness goals. Whether you’re a fitness guru or just getting started, Aaptiv can create the perfect workout tailored just to you.\n\nFEATURES:\nSmartCoach: With Aaptiv, you become the star of your own fitness journey. Our SmartCoach feature, powered by AI, acts as your trusty pocket personal trainer. It starts by asking you a series of questions to understand your age, physical ability, and goals. Armed with this information, SmartCoach creates a tailor-made workout plan that's just right for you. But it doesn't stop there! After each workout, SmartCoach eagerly awaits your feedback to fine-tune and adapt your plan, ensuring that you always get the most effective workouts. It's like having a dedicated personal trainer that's always by your side, pushing you to greatness!\nAudio & Video Workouts: With over 8,000 on-demand audio and video workouts at your fingertips, boredom is simply not an option. Aaptiv covers it all, from running and walking to elliptical sessions, strength training, stretching, yoga, and even rowing. We're constantly adding new classes to keep things fresh and exciting because we believe that variety is the spice of fitness!\nStats: We know that progress is key to staying motivated, so we've included the awesome Stats feature in the app. Keep track of your accomplishments, monitor your improvements, and celebrate your victories over time. It's your personal dashboard of success!\nHeart Rate Zone Training: Take your workouts to the next level by pairing Aaptiv with a smart device to measure your heart rate. Our heart rate-based workouts provide on screen feedback, helping you stay in the optimal heart rate zone for maximum effectiveness. \nPrograms & Challenges: These multi-week programs are tailored to specific fitness goals, whether you're aiming to conquer a 5K, build some serious muscle, or shed those extra pounds. Stay committed by completing the workouts in the program and watch your transformation unfold!\nMusic: Need some epic tunes to keep you motivated? Aaptiv has you covered! Choose to listen to your own music while our trainers' voices guide you through the workout, or tap into our specially curated playlists that are guaranteed to get your blood pumping and energy soaring.\nCommunity Feed: Fitness isn't just a solo journey—it's a community-driven adventure! Capture your sweaty selfies and share your progress with other like-minded individuals in our vibrant Community Feed. Get inspired, motivate others, and revel in the support of your fellow fitness enthusiasts.\n\nGet unlimited access to all classes for USD$14.99/month or USD$99.99/year. We also offer a 100% money back guarantee for the annual plan within 30 days, no questions asked.\n– Payment will be charged to iTunes Account at confirmation of purchase\n– Subscription automatically renews unless auto–renew is turned off at least 24–hours before the end of the current period\n– Account will be charged for renewal within 24–hours prior to the end of the current period, and identify the cost of the renewal\n– Subscriptions may be managed by the user and auto–renewal may be turned off by going to the user's Account Settings after purchase\n– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\nTerms of use: https://aaptiv.com/terms",
+      "android_package_name": "com.aaptiv.android",
+      "ios_bundle_id": "com.skyfitsports.skyfit",
+      "title": "Aaptiv",
+      "domain_name": [
+        "http://www.aaptiv.com",
+        "https://www.aaptiv.com"
+      ],
+      "website": "http://www.aaptiv.com",
+      "developer": "AAPTIV INC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hK8U8hjDtezdJJ_O3EGut9Eb2DxxCtApSQHnibiy7IGhGXZijVH9cGBOkgQCFaEG1Xo",
+      "icon_72": "https://play-lh.googleusercontent.com/hK8U8hjDtezdJJ_O3EGut9Eb2DxxCtApSQHnibiy7IGhGXZijVH9cGBOkgQCFaEG1Xo=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.bodybuilding.rise"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "FitHack is workouts and routines for home and gym. You won’t need any equipment for most of the workouts. All you need is your own weight.\n\nOur experts have developed optimum routines for all the body muscles.  The app will help you build your abs, triceps, biceps, glutes, become fitter and stronger. The workouts can be used both at home and in a gym or other sport venue. Begin with a warm-up to prepare your muscles for an efficient workout. Complete any workout with stretching. ‍\n\nEvery exercise is accompanied with a description and a video. Choose any of the workout programs, start working and you will soon see impressive progress.  If you want to lose or gain weight, have stronger back or nicer butt, simply choose an appropriate program and enjoy the workouts!\n\nFitHack offers:\n* Workouts and routines for any fitness level and skills – from beginners to experienced athletes \n* Timers: Tabata, EMOM, AMRAP, AFAP, and custom interval training timer\n* Exercising guide with videos and descriptions. Exercises sorted by muscles and difficulty level \n* Workout diary \n* Routines created by your personal coaches \n\nFitHack: hack the system, work out at home!\n\nFitHack Premium Subscription allows you to unlock all workouts, programs, and timers.\n\nPayment will be charged to your Apple ID Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed by you, and auto-renewal may be turned off by going to your Apple ID Account Settings. For more information, please visit the link https://support.apple.com/en-us/HT202039. Unused portions of a free trial period will be forfeited when a user decides to subscribe.\n\nEULA: https://lunappstudio.com/termsofservices.html\nPrivacy Policy: http://lunappstudio.com/privacypolicy/\n\nQuestions or suggestions? Contact us at support@lunappstudio.com",
+      "android_package_name": "com.bodybuilding.rise",
+      "ios_bundle_id": "com.lunappstudio.fithack",
+      "title": "Bodyspace",
+      "domain_name": [
+        "https://lunappstudio.com",
+        "https://lunappstudio.com"
+      ],
+      "website": "https://lunappstudio.com",
+      "developer": "TOO LUNAPP",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/-kHwwFT-3q53IWi0UwmTs0fNotz3k25_cjhVGEsMeht9vI3nsA6iom-WCn8Yvoea-fs",
+      "icon_72": "https://play-lh.googleusercontent.com/-kHwwFT-3q53IWi0UwmTs0fNotz3k25_cjhVGEsMeht9vI3nsA6iom-WCn8Yvoea-fs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.fitbit.FitbitMobile"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "FitCoach - a fitness app for those who want to start a new active lifestyle, build healthy habits, lose weight, get fit, tone up, and feel amazing.\n\nFEATURES:\n► Personal training plans\n► Step tracker\n► Workout history\n► Audio prompts during the workout\n► Training reminders\n\nWHO IS THIS APP FOR?\nThe FitCoach app is developed specifically for people who care about their health and want to slim down and get in shape but don’t have enough time to go to the gym.\n\nHOW TO START WITH FITCOACH?\nSet your goals: weight loss, muscle gain, or being more active\nSelect the zone that you want to work on: belly, buttocks, legs, arms.\nEnter your personal data such as age, height, weight, fitness level, etc.\n\nHOW DOES IT WORK:\nAccording to your goals and personal data, our intelligent algorithm will suggest a personalized workout plan – a combination of cardio, strength, recovery, and other exercises that will enable you to maximize your results. \nEach week the workout plan will be updated according to your progress and feedback (were the previous workouts too easy or too difficult for you).\n\n\nFitCoach integrates with the Health app to import Steps data from HealthKit to FitCoach.\nFitCoach also integrates with the Fitbit app to import data from Fitbit to FitCoach. \n____________ \n\nSUBSCRIPTION INFO:\nYou can download the app for free. Further use requires a subscription. At our discretion, we may decide to offer you a free trial per the terms displayed in the app. Please note that:\nWhen opting for a subscription, you pay the fixed price for your country, which is displayed in the app.\nPayment will be charged to your Apple ID Account upon confirmation of purchase.\nSubscription automatically renews and free trial automatically converts into subscription unless auto-renewal is turned off at least 24 hours before the end of the current period.\nYour Account will be charged for renewal within 24 hours prior to the end of the current subscription period.\nYou can manage your subscriptions and turn off auto-renewal by going to your account settings on the App Store after purchase.\nWhen canceling a subscription or a free trial, your subscription/free trial will stay active until the end of the current period. Auto-renewal will be disabled, but the current subscription will not be refunded.\nIn addition to the purchased subscription, we may offer you add-on items (e.g. fitness guides, VIP customer support service) for an additional fee, either one-off or recurrent. This purchase is optional: your subscription is not conditional on such a purchase. All such offers will be displayed in the app.\n\nFor more information, see our:\nFrequently Asked Questions: https://fitcoach.fit/faq-ios.html\nPrivacy Notice: https://legal.fit-coach.io/page/privacy-policy \nTerms of Use: https://legal.fit-coach.io/page/terms-of-use",
+      "android_package_name": "com.fitbit.FitbitMobile",
+      "ios_bundle_id": "com.fitcoach",
+      "title": "Fitbit Coach",
+      "domain_name": [],
+      "website": "",
+      "developer": "WELLTECH APPS LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QhMCymTyxJbzRiwMBA-GYooS-nVKm3fHg2CSRyKHvhmC-e5vOibfST73y1MmScvtPw",
+      "icon_72": "https://play-lh.googleusercontent.com/QhMCymTyxJbzRiwMBA-GYooS-nVKm3fHg2CSRyKHvhmC-e5vOibfST73y1MmScvtPw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.garmin.android.apps.connectmobile"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "The Garmin Connect™ app is your one-stop source for health and fitness data. Whether you’re training for a race, keeping active or just staying on top of your health, Garmin Connect provides the information and inspiration you need to reach your goals. \n \nOnce you pair your phone(1)with a Forerunner®, Venu®, fēnix® or another compatible Garmin device(2), you can review your tracked activities and health metrics. Plus, you can create workouts, build courses and challenge your friends on the leaderboard. \n \nWith Garmin Connect you can: \n \n- Personalize your home screen, so the most helpful information is instantly visible \n- Analyze your activities with detailed statistics(3)\n- Create customized workouts and courses \n- Review trends in health metrics like heart rate and steps \n- Earn badges for accomplishments \n- Sync with other apps like Apple Health, MyFitnessPal and Strava \n- Get support for Garmin devices and their features \n \nLearn more about Garmin devices and how they work with the Garmin Connect app at Garmin.com. \n \n(1) See compatibility requirements at Garmin.com/BLE \n(2) See a full list of compatible devices at Garmin.com/devices\n(3) See Garmin.com/ataccuracy  \n \nNote: Continued use of GPS running in the background can dramatically decrease battery life.",
+      "android_package_name": "com.garmin.android.apps.connectmobile",
+      "ios_bundle_id": "com.garmin.connect.mobile",
+      "title": "Garmin Connect",
+      "domain_name": [
+        "http://www.garmin.com/apps/gcmobile",
+        "https://www.garmin.com"
+      ],
+      "website": "http://www.garmin.com/apps/gcmobile",
+      "developer": "Garmin International",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/iij3jFOUWtGGTVwOqved-9DLpBsRbvgfyPpFuebloLUuIz-JO42h2UVyQ-c8IrRg9kb9",
+      "icon_72": "https://play-lh.googleusercontent.com/iij3jFOUWtGGTVwOqved-9DLpBsRbvgfyPpFuebloLUuIz-JO42h2UVyQ-c8IrRg9kb9=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.sixtostart.zombiesrunclient"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Run in the real world. Become a hero in another.\n\nZRX is a fitness app like no other. We make YOU the hero of thrilling immersive stories. \n\nGet motivated to move by incredible audio storytelling that draws you into the zombie apocalypse or epic super hero adventures. It’s so much fun you’ll forget you’re working out!\n\nWhether you’re a total beginner or a seasoned marathon runner, ZRX works anywhere and at any speed. Jog in a park, run along a beach, or walk along a trail – you can even work out on treadmills or in a wheelchair.\n\nLove exercising to music? You still can! ZRX integrates the story with your own music playlists. \n\nZRX is a fully-featured fitness app with GPS tracking and detailed statistics. As you progress, you’ll also unlock in-app story extras and lore that immerse you in our incredible worlds. \n\nOur experiences:\n\nZOMBIES, RUN!\nWith 10 seasons and counting, this much-loved audio experience is co-created by award-winning novelist Naomi Alderman. Rebuild a community from a few shivering survivors into a fortified beacon of civilization. Can you save your friends and uncover the truth about the zombie apocalypse? Try Zombies, Run! for free, or subscribe to unlock all 500+ missions.\n\nMARVEL MOVE\nSeek adventure alongside your favourite Marvel Super Heroes including the X-Men, Thor and Loki, Daredevil, Doctor Strange, and Scarlet Witch. This collection of new stories, from writers including comics royalty like Tini Howard and Gerry Duggan, features immersive audio design and gripping plots to keep you coming back for more. Try Marvel Move for free with a 1 month trial, or subscribe to unlock all episodes.\n\nCOMICS XF: \"I have walked more regularly in the past few weeks than I have in the past two years... I have gone farther, and moved faster, all to get to the next part of the story.\"\nT3: “Listening to the stories about my childhood favourites certainly filled me with nostalgia, which made me appreciate being part of the story even more”\nTHE GAMER: “Six to Start has more than a decade of experience gamifying exercise, and there’s a lot of clever things Marvel Move does to help motivate you”\n\nZombies, Run! and Marvel Move have separate subscription plans. Subscriptions will be charged to your App Store account after your confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. Go to your App Store Account Settings to manage your subscription. \n\nFull terms and conditions and our privacy policy are at https://zrx.app/eula and https://zrx.app/terms\n\nNote: Continued use of GPS running in the background can dramatically decrease battery life.",
+      "android_package_name": "com.sixtostart.zombiesrunclient",
+      "ios_bundle_id": "com.sixtostart.zombiesrun",
+      "title": "Zombies, Run!",
+      "domain_name": [
+        "https://www.zrx.app",
+        "https://www.zrx.app"
+      ],
+      "website": "https://www.zrx.app",
+      "developer": "Six to Start",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/fcBqtOz9ajI1lW9lgl24umFmw_l3St4EpCAzIx3DDCheFCXm9FUQmcfUzIynUXcHSlk",
+      "icon_72": "https://play-lh.googleusercontent.com/fcBqtOz9ajI1lW9lgl24umFmw_l3St4EpCAzIx3DDCheFCXm9FUQmcfUzIynUXcHSlk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.gymshark.fitness"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "GYMSHARK66 IS BACK: CHANGE YOUR LIFE IN JUST 66 DAYS\n\nGymshark66 is a 66-day commitment to getting your goals. All you’ve gotta do is choose three daily habits that suit you. Then tick them off, every day, for 66 days.\n\nHOW DO I TRACK MY HABITS?\n\nDownload the Gymshark Training App (it’s completely free), sign up to Gymshark66 and choose your three daily habits. Whether it’s 30 mins at the gym or a 30-min walk. 10 mins of mindfulness or 10 pages of a book. And, after 66 days, you’ll have created 3 new habits that are proven to last a lifetime. Not bad, hey?\n\n1000'S OF FREE WORKOUTS\n\nWe’ve made our Training App even better to help you along the way. It’s got 1000’s of free workouts, led by your fave Gymshark Athletes, which can be done pretty much anywhere! We’ve even included running plans this year for all your Forrest Gump’ers.\n\nFREE WORKOUTS DESIGNED BY PERSONAL TRAINERS AND ATHLETES\n\nDownload the Gymshark Training App for exclusive free workouts led by our team of personal trainers and athletes. There's a better way to train, and it's just an app away.\n\nYour training is unlimited with our entire library of free workouts and plans, so you’ll never feel stuck in a workout rut again. With new workouts added each week, you’ll feel constantly inspired and motivated.\n\nTRAIN YOUR WAY\n\nCustomise and personalise your own training plan with moves to suit you and your workout goals. Our free training app has both free gym workouts & home workouts for you to use whenever and wherever you want to workout. Find a fitness coach that works for you or explore the library today.\n\nSearching for the perfect free workout has never been easier. Sort and filter based on the equipment, body part, creator or type of training you feel like. From HIIT to lifting and stretching to functional training, inspiration and motivation comes easy with our training app. Simply search and go.\n\nCreate home or gym workout routines that work for you, your goals and your lifestyle. Or check out our top 10 workouts of the day and always know what's trending in the training world. Whatever your goal, at the gym or home, there's a free workout for you.\n\nFOR EVERY LEVEL\n\nWhether you're looking for your 100th workout or just starting out, there's a free workout to suit every level. So, work your way through and see just how much you can achieve. Track every rep, set and workout to monitor your progress and unlock your full potential. After all, your only competition is you.\n\nONE WORKOUT TODAY, ANOTHER TOMORROW\n\nSpotted the perfect workout for tomorrow with one of our personal trainers? Save your faves and come back to them later. Or if you're halfway through and have something else to do, you can resume a plan at any time. Our training app allows you to make your workout work for you.\n\nWORKOUT AS YOU GO\n\nWith free workouts on the go, you can find inspiration using the equipment in the gym, or train from home just using bodyweight exercises. Get inspired by athlete workouts and creator plans or go ahead and customise your own workout by picking your favourite moves from our A-Z library.\n\nFREE WORKOUTS FROM HOME\n\nWith a whole host of fitness coach led workouts you can do from anywhere; training is as easy as staying at home. Designed to take up minimal space and with no equipment needed, pick the at-home workout that works for you.\n\nINTEGRATE WITH APPLE HEALTH\n\nSync your workout data with the Apple Health app to better track your health and wellbeing.\n\nDOWNLOAD THE FREE GYMSHARK TRAINING APP NOW\n\nThe Gymshark Training app is a place for the entire conditioning community - all abilities, routines and all training styles. Because even when you train your way, we train together. Download the Gymshark free training app today.",
+      "android_package_name": "com.gymshark.fitness",
+      "ios_bundle_id": "com.gymshark.app",
+      "title": "Gymshark Training",
+      "domain_name": [],
+      "website": "",
+      "developer": "Gymshark Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Qnu3H2L0oUxCfTzlHyVCZcnrTy6g3O7XAOgvizXvhjk_JC4wQNi7OL6FF8htgjRA1kg",
+      "icon_72": "https://play-lh.googleusercontent.com/Qnu3H2L0oUxCfTzlHyVCZcnrTy6g3O7XAOgvizXvhjk_JC4wQNi7OL6FF8htgjRA1kg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wodify.client.prd"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "AVAILABLE FEATURES:\n\n· Class Scheduling: View, reserve, and sign into upcoming classes at your fitness facility. \n\n· Workout: Check out your class’ workout from anywhere and prepare to sweat.\n\n· Performance Tracking: Measure your progress while working out in class and exercising on your own.\n\n· Leaderboard and Social: Connect with your fitness community by seeing how you stack up and celebrating your accomplishments together. \n\n· Appointment Booking: Book private appointments with providers at your fitness facility for a more personalized experience. \n\n· Calendar Emails: Automatically add all of your classes and appointments to your personal Outlook or Google Calendar.\n\n· Coach View for Coaches: Seamlessly manage classes and appointments all from your mobile device.",
+      "android_package_name": "com.wodify.client.prd",
+      "ios_bundle_id": "com.wodify.client.prd",
+      "title": "Wodify",
+      "domain_name": [
+        "http://www.wodify.com",
+        "https://www.wodify.com"
+      ],
+      "website": "http://www.wodify.com",
+      "developer": "Wodify Technologies LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2LvCvExBaqGxJVMozSncpwavtmHgsOaq8YsPgr5FBFygifDvrXSjloBN3FMYaRHbBMM9",
+      "icon_72": "https://play-lh.googleusercontent.com/2LvCvExBaqGxJVMozSncpwavtmHgsOaq8YsPgr5FBFygifDvrXSjloBN3FMYaRHbBMM9=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.eokoe.smartfitcoach"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Achieve your goals faster than ever.\n\n• Apple's 2023 Apple Watch App of the Year.\n• Apple's 2024 Apple Design Awards Finalist.\n• #1 Health & Fitness app in over 30 countries.\n\nFORBES: \"Best Apple Watch Apps for Health and Fitness\"\n\nLooking for an app to help you work out? SmartGym offers a beautiful, elegant and easy way. With an amazing and advanced algorithm that creates personalized training plans to help you achieve all your goals faster! It's like having a Personal Trainer and a Motivator in your pocket or wrist.\n\nNo matter which equipment you have available, SmartGym will always give you the best workout possible, personalized just for you and what you have. Whether you want to lose weight, build muscle, improve your endurance, or just have fun, SmartGym has you covered.\n\nIf you're a beginner, SmartGym will help, guide and give you all the confidence you need to start working out. If you're already experienced, SmartGym will give you all the right tools in order to better manage your workouts and track your progress.\n\n● Smart Trainer: Artificial Intelligence able to create personalized workouts that can be done at home or at the gym, based on the equipment you have, the muscles you want to target, and for how long and how often you want to work out. All tailored to your experience level (beginner, intermediate or advanced).\n\n● SmartGym tracks your progress and gives you feedback and tips along the way, like adjusting the number of sets, reps, weight, replacing exercises or even suggesting an entire new routine.\n\n● Track your muscles fatigue after each workout and throughout your entire fitness journey.\n\n● Don't want to use our Artificial Intelligence to create your workouts? That's fine! You can also access over 130 pre-made workouts, carefully created by professionals and curated for you.\n\n● Every workout always adjusted to the equipment you have available.\n\n● Choose from over 690 pre-installed exercises with images and animations, ranging from bodyweight to dumbbells, kettlebells, resistance bands, and more. And if you don't find the one you're looking for, you can always add your own custom exercises with your own images.\n\n\nMore Features:\n• Full HIIT Support with Voice Guidance.\n• Full Home Workouts support.\n• Add as many exercises to your routines as you want.\n• Create custom timer for each specific exercise.\n• Share your routines with your friends.\n• Integration with Apple's Health and Fitness apps.\n• Beautiful charts showing all your progress.\n• Powerful iPad app.\n• SharePlay. Work out together with your friends and family using FaceTime.\n\n\nApple Watch only:\n• SmartGym is one of the most advanced Apple Watch app in the world.\n• Standalone Watch app. No need to use the iPhone with you.\n• Smart Trainer (no iPhone required). With just a few taps, you can get an entire workout created for you, right from your wrist!\n• Keep track of your heart rate, distance and calories burned.\n• Workouts count towards your activity rings.\n• Use Siri to start your workout.\n• Modify your exercise right from the Watch.\n\n\nPersonal Trainer Only:\n• Use Augmented Reality to analyze your students' posture. (A12 device or later is required for this feature)\n• Siri Shortcuts with Parameters. Quickly get your student's routines with just your voice.\n• Great way to manage all your students.\n\n\nSubscriptions Details:\nThe free version of SmartGym gives access to 2 routines, 3 workouts and 2 measures. Upgrade to our monthly or annually subscriptions to access all our features.\n\nSubscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hour prior to the end of the current period, and identify the cost of the renewal. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.\n\nTerms of Service: http://smartgymapp.com/terms/\nPrivacy Policy: http://smartgymapp.com/privacy/",
+      "android_package_name": "com.eokoe.smartfitcoach",
+      "ios_bundle_id": "com.smartgymapp.smartgym",
+      "title": "Smart Gym",
+      "domain_name": [
+        "http://smartgymapp.com",
+        "https://smartgymapp.com"
+      ],
+      "website": "http://smartgymapp.com",
+      "developer": "Mateus Abras",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hxkILf_Q9CXMB9SqZ6LQORLCtO4iMI0SrImnkqMXyV9pDZ1INj6sK1ucpYpPp5E8ckot",
+      "icon_72": "https://play-lh.googleusercontent.com/hxkILf_Q9CXMB9SqZ6LQORLCtO4iMI0SrImnkqMXyV9pDZ1INj6sK1ucpYpPp5E8ckot=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.neurondigital.exercisetimer"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "***Free and reliable. Perfect for use at home, at the track or in the gym.\n\nWe’re proud to introduce this handy little app that helps you keep track of your work and rest periods during workouts. Whether your into cycling, running, lifting weights, exercise, workout, stretching, boxing, MMA or HIT, this interval timer will prove to be an invaluable asset to you. \n\nRunning foreground, background or with device locked, this reliable app allows you specify an overall time as well as program High/Low intensity interval and rest time between sets. Produced by Polycents!\n\nKey Features: \n- Customizable sets, high/low intensity interval and rest for your own need \n- Retina display, iOS4 and multitasking \n- Continue to run even when screen is locked \n- Play your song or playlist during your workout \n- Post your workout to Facebook or Twitter \n- Save settings as templates \n\nCustomizable Features: \n- Number of Sets \n- Countdown Time \n- Set Time \n- Low Interval time \n- High Interval time \n- Rest Time \n- First Interval (low or high) \n- Sound Volume \n- Timer Sounds \n- Auto Lock \n- Vibrate \n- Pause during Rest \n- Playlist \n- New Each Set\n\nAPPLE HEALTH:\n-Interval Timer can use Apple Health to show heart rate in Apple Watch App.\n\n# Subscription Details #\n- Monthly and annual subscriptions are available.\n- Payment will be charged to your iTunes account at confirmation of purchase.\n- Your subscription will automatically renew unless auto-renew is disabled at least 24 hours before the end of the current subscription period.\n- Automatic renewals will be charged at the same price you were originally charged for the subscription.\n- Subscriptions can be managed by going to Account Settings on the App Store after purchase.\nTerms of Use: https://www.iubenda.com/terms-and-conditions/18915396\nPrivacy Policy:  https://www.iubenda.com/privacy-policy/18915396",
+      "android_package_name": "com.neurondigital.exercisetimer",
+      "ios_bundle_id": "com.dworks.intervalfitnesstimerlite",
+      "title": "Exercise Timer",
+      "domain_name": [],
+      "website": "",
+      "developer": "NEO PIXEL LABS PTE. LTD",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/faIgfxPyoo9NRHWpgi0NzZgGNVJRU0rDM11ZUvssu9uVEONWQnSdu0_pFcGd3S2-qBa6",
+      "icon_72": "https://play-lh.googleusercontent.com/faIgfxPyoo9NRHWpgi0NzZgGNVJRU0rDM11ZUvssu9uVEONWQnSdu0_pFcGd3S2-qBa6=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.skimble.workouts"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Hit your fitness goals anywhere with Workout Trainer. Powered by AI and expert-led, follow along to your personalized weekly plans including multimedia workouts for every fitness level. With thousands of bodyweight and rep-based workouts, 70+ sports activities, GPS distance tracking, and weightlifting logging tools, it’s like having a personal trainer in your pocket. Join our active community—start your fitness journey or link up with our fitness fanatics and compete on the leaderboard!\n\nAdvanced Heart Rate Feedback & Performance Analysis\nConnect your Apple Watch or bluetooth LE heart rate monitor for the best experience. Get instant heart rate feedback during your workouts. Log details like reps done and weights used. Check out your heart rate graphs and summary zones. Compare & analyze your performance to really make your breakthrough!\n\n***** This probably means you want to get started right away. We won't stop you—Download Workout Trainer AI and start crushing your fitness goals today! *****\n\n----------------------------------------------------------------------------------------------------------------\nAre you a fitness professional? Sign up to get free access to our innovative training tools and coaching solutions.\n----------------------------------------------------------------------------------------------------------------\n\nWorkout Trainer uses HealthKit to export your Workout Trainer workouts to Apple's Health app and to read heart rate and biometric data.\n\nOptional: Unlock the full experience with a PRO+ membership! Bonus: new subscribers can enjoy a risk-free 7-day trial period. After the trial, your iTunes Account will be billed $9.99 per month. This auto-renewing subscription gives you access to many premium features including AI weekly plans and 1:1 AI trainer chat, as well as 100+ training programs developed by our certified personal trainers. This subscription will automatically renew within 24-hours prior to the end of each billing period and may be managed by going to your iTunes Account Settings after purchase.\n\nPrivacy Policy: https://www.skimble.com/privacy\nTerms of Service: https://www.skimble.com/terms",
+      "android_package_name": "com.skimble.workouts",
+      "ios_bundle_id": "com.skimble.workouts",
+      "title": "Workout Trainer",
+      "domain_name": [
+        "https://www.skimble.com/workouts",
+        "https://www.skimble.com"
+      ],
+      "website": "https://www.skimble.com/workouts",
+      "developer": "Skimble, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/LR98yyVHrkgObceknND_ViVQ8keC0PXUTrHLFybKe_xo5_hPHs_UiaLEivqZ_P4xJZE",
+      "icon_72": "https://play-lh.googleusercontent.com/LR98yyVHrkgObceknND_ViVQ8keC0PXUTrHLFybKe_xo5_hPHs_UiaLEivqZ_P4xJZE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mapmyrun.android2"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Stepz is a convenient step counter app that leverages the clever Apple Motion Coprocessor which collects your motion data automatically in the background while saving battery life. This simple pedometer app has been specifically developed for the iPhone and Apple Watch.\nDo you move enough throughout the day? Learn more about your daily activity and get fit by reaching your step goal! To provide you with a complete overview of your fitness progress, Stepz can import all your past steps from the Apple Health app.\nStepz respects your privacy: all your personal fitness data is stored internally on your device and never shared via a network connection without your explicit consent.\n* Featured by Apple on the App Store Home Page under Best New Apps in 22 countries (April 2015) *\n\n* FEATURES *\n- Full Apple Health integration\n- Automatically records your steps\n- Very accurate and no GPS needed\n- Runs in the background with very low battery drain\n- Daily, weekly, monthly, yearly and hourly step values\n- Distance calculation\n- Set your daily step goal\n- Shows floors climbed\n- Apple Watch app with clever data syncing\n- Connect with your friends\n\n* PREMIUM FEATURES *\n- iOS Today Widget for Notification Center\n- App icon badge shows your step count\n\n* USER REVIEWS *\n\"Now that I have got this Stepz app I have stopped looking for any other system it is the very best to keep me on track.You have to try it once tried there is no looking back.\" (Sep 2018)\n\"I love this app. It is just the tool I needed for motivation to walk more. Thanks. Keep up the good work.\" (Jul 2018)\n\"Love love this step app. I've tried a couple others and read the reviews for STEPZ......decided to try \"just 1 more\". It's the best one I've tried! Love the calorie counting on this one too. Even the health one that comes with the iPhone doesn't compare to this one. Thank you!\" (Nov 2017)\n\n------------\nSUBSCRIPTION INFO:\n\nSubscribe to take advantage of the features described above.\n• Subscription length: weekly\n• Your payment will be charged to your iTunes Account as soon as you confirm your purchase.\n• You can manage your subscriptions and turn off auto-renewal from your Account Settings after the purchase.\n• Your subscription will renew automatically, unless you turn off auto-renew at least 24 hours before the end of the current period.\n• The cost of renewal will be charged to your account in the 24 hours prior to the end of the current period.\n• When canceling a subscription, your subscription will stay active until the end of the period. Auto-renewal will be disabled, but the current subscription will not be refunded.\n• Any unused portion of a free trial period, if offered, will be forfeited when purchasing a subscription.\n\nTerms of service: https://bendingspoons.com/tos.html?app=839671656\nPrivacy policy: https://bendingspoons.com/privacy.html?app=839671656\n\nWe are constantly improving our apps and would love to hear your suggestions, help us develop the best app available in the store! If you have found a bug, got a suggestion, or want a new feature, email us at: stepz@bendingspoons.com",
+      "android_package_name": "com.mapmyrun.android2",
+      "ios_bundle_id": "com.visualhype.pedometer",
+      "title": "Endomondo",
+      "domain_name": [
+        "https://stepzapp.com",
+        "https://stepzapp.com"
+      ],
+      "website": "https://stepzapp.com",
+      "developer": "Easy Tiger Apps, LLC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Yy_6Hod9BHcpSu2Ug7Ll0AGjiGCZG_XotnH9HDR1hGs9F53D0JiRu2m4QjBAh5VMqZw",
+      "icon_72": "https://play-lh.googleusercontent.com/Yy_6Hod9BHcpSu2Ug7Ll0AGjiGCZG_XotnH9HDR1hGs9F53D0JiRu2m4QjBAh5VMqZw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.freeletics.lite"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Europe’s #1 fitness app lets you work out anytime, anywhere with the best digital personal trainer - no gym required. Whatever your fitness level, achieve your goals quickly and build healthy habits with personalized HIIT workouts and audio coaching. Losing weight, gaining muscle or improving your fitness has never been so simple. \n\nWHY FREELETICS? \n• Freeletics means freedom. Work on yourself and your fitness free of excuses like time, equipment, space, money or know-how. Join 42 million others doing their workout whenever and wherever they want. \n• See fast results with the most advanced digital personal trainer and effective HIIT workouts. Your AI personal trainer tailors everything to you, learning from each exercise and piece of feedback to create your perfect workout, every time. No two people get the same workout plan - this is fully personalized fitness.\n• We follow a holistic approach to fitness and self-development. We combine HIIT fitness, mindfulness, knowledge and motivation to help you perfect your training and build a strong foundation for life-long positive change.\n\nThe free version of the app contains 20 HIIT bodyweight workouts, 25 exercises, 20 audio sessions, workout spots and a community of millions. If you want to set yourself up for long-term success with the guidance of a personal trainer every step of the way, you can use the Freeletics Coach with a 14-day money back guarantee. \n\nWhat you get by upgrading to the Freeletics Coach:\n\nTRAINING \n• Enjoy your own AI-powered personal trainer, who puts every HIIT workout together based on your experience, goals, fitness level and preferences.\n• Travelling or short on time? Need to be quiet? Stuck without equipment or can’t go for a run? No problem. Tell your personal trainer what’s going on and it will adapt your workout to suit your needs.\n• Your workout plan will be compiled in a “Training Journey.” Choose from 20 Training Journeys in the app, each with a different fitness focus. Look out for our limited editions by professional athletes.\n• Choose your workout style. Whether it’s running, bodyweight HIIT or weights in the gym - or a combination of these - there’s a Training Journey for you. Fitness will never be boring again.\n• Progress in your training with thousands of HIIT workout variations and over 180 exercises.\n• Control your workout from your Apple Watch and track your fitness data in the Apple Health app.\n\nThe Training Coach is included in the Training, Training & Nutrition and Body & Mind bundles.\n\nMINDSET\n• Add audio coaching to your personal trainer, helping you build a strong, balanced mindset and find lasting motivation to improve your health and fitness. The perfect complement to your HIIT workouts.\n• In 5 to 20-minute sessions, learn how to build habits, boost weight loss, de-stress and improve your focus, training, recovery and sleep. The perfect foundation for real success.\n• Courses include focus, stress, sleep, fitness, nutrition and motivation.\n\nThe Mindset Coach is only included in the Body & Mind bundle.\n\nSUBSCRIPTIONS & TERMS\nWe offer 6 auto-renewing subscription options:\n• Training (3 / 6 / 12 months)\n• Training & Nutrition (3 / 6 / 12 months)\n\nThe Nutrition Coach is part of the Freeletics Nutrition app.\n\nYour subscription automatically renews if not cancelled at least 24 hours before the end of the current subscription period. You will be charged for the next subscription period up to 24 hours before the current subscription expires. Manage your subscription and disable automatic renewal any time in your Apple account settings. You have the right to withdraw from your initial subscription within 14 days. By purchasing, you accept our Terms of Use (https://www.freeletics.com/en/pages/terms) and Privacy Policy (https://www.freeletics.com/en/pages/privacy).\n \nContact us at https://help.freeletics.com/hc/ or follow @Freeletics on social media for daily workout inspiration. Your personal trainer is ready.",
+      "android_package_name": "com.freeletics.lite",
+      "ios_bundle_id": "com.Freeletics.Freeletics-Lite",
+      "title": "Freeletics",
+      "domain_name": [
+        "https://www.freeletics.com",
+        "https://www.freeletics.com"
+      ],
+      "website": "https://www.freeletics.com",
+      "developer": "Freeletics GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/C9hSnXiNEcajSIVeVm7Tyidal2cHkQ2yl2dZH-fH5ZkEi_21yFSHBc4a8sbRrMuiKuRD",
+      "icon_72": "https://play-lh.googleusercontent.com/C9hSnXiNEcajSIVeVm7Tyidal2cHkQ2yl2dZH-fH5ZkEi_21yFSHBc4a8sbRrMuiKuRD=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.pilatesanytime.pilatesanytime"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "With the largest library and greatest variety of Pilates content, this Pilates Anytime app is custom-built to provide you with a rich and wonderful Pilates experience. With new videos added weekly, you will have unlimited access to thousands of high-quality, fun, and effective Pilates workouts to stream or download, so you can practice anywhere, on your schedule. 200+ of the industry's best teachers will guide you every step of your practice. Whether you are just beginning, or you are an advanced practitioner, you will experience a warm welcome at any level.  \n\nFor Pilates teachers, enrich your practice and your teaching with the biggest collection of the world's best teachers. Our extensive library includes workshops, Pilates history, talks, tutorials, and more.\n\nStart your free 14-day trial and try one of our challenges to get started!\n\nWith the Pilates Anytime iOS app, easily stream our videos on your iPhone, iPad, or Apple TV. Plus, download up to 30 videos for offline viewing.\n\nYou will not be charged during your free trial. After your free trial, you will automatically be billed $17.99 USD per month (price varies by currency) to your App Store account. You can turn off your auto-renew in your App Store account settings. You will not be automatically billed if you turn auto-renew off at least 24 hours before the end of the current billing period.\n\nYou can cancel your subscription anytime in your App Store account settings.\n\nOur privacy policy: https://www.pilatesanytime.com/privacy\n\nOur terms and conditions: https://www.pilatesanytime.com/terms",
+      "android_package_name": "com.pilatesanytime.pilatesanytime",
+      "ios_bundle_id": "com.pilatesanytime.Pilates",
+      "title": "Pilates Anytime",
+      "domain_name": [
+        "https://www.pilatesanytime.com",
+        "https://www.pilatesanytime.com"
+      ],
+      "website": "https://www.pilatesanytime.com",
+      "developer": "Timeshift Media, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/kQZwJfLYO5Fk-2rR0hcAeLJMrFFv2OfbH-rk96kp9L1oUncR5oAFCGcFQrbHe7sMYZw",
+      "icon_72": "https://play-lh.googleusercontent.com/kQZwJfLYO5Fk-2rR0hcAeLJMrFFv2OfbH-rk96kp9L1oUncR5oAFCGcFQrbHe7sMYZw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.freeletics.lite"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Europe’s #1 fitness app lets you work out anytime, anywhere with the best digital personal trainer - no gym required. Whatever your fitness level, achieve your goals quickly and build healthy habits with personalized HIIT workouts and audio coaching. Losing weight, gaining muscle or improving your fitness has never been so simple. \n\nWHY FREELETICS? \n• Freeletics means freedom. Work on yourself and your fitness free of excuses like time, equipment, space, money or know-how. Join 42 million others doing their workout whenever and wherever they want. \n• See fast results with the most advanced digital personal trainer and effective HIIT workouts. Your AI personal trainer tailors everything to you, learning from each exercise and piece of feedback to create your perfect workout, every time. No two people get the same workout plan - this is fully personalized fitness.\n• We follow a holistic approach to fitness and self-development. We combine HIIT fitness, mindfulness, knowledge and motivation to help you perfect your training and build a strong foundation for life-long positive change.\n\nThe free version of the app contains 20 HIIT bodyweight workouts, 25 exercises, 20 audio sessions, workout spots and a community of millions. If you want to set yourself up for long-term success with the guidance of a personal trainer every step of the way, you can use the Freeletics Coach with a 14-day money back guarantee. \n\nWhat you get by upgrading to the Freeletics Coach:\n\nTRAINING \n• Enjoy your own AI-powered personal trainer, who puts every HIIT workout together based on your experience, goals, fitness level and preferences.\n• Travelling or short on time? Need to be quiet? Stuck without equipment or can’t go for a run? No problem. Tell your personal trainer what’s going on and it will adapt your workout to suit your needs.\n• Your workout plan will be compiled in a “Training Journey.” Choose from 20 Training Journeys in the app, each with a different fitness focus. Look out for our limited editions by professional athletes.\n• Choose your workout style. Whether it’s running, bodyweight HIIT or weights in the gym - or a combination of these - there’s a Training Journey for you. Fitness will never be boring again.\n• Progress in your training with thousands of HIIT workout variations and over 180 exercises.\n• Control your workout from your Apple Watch and track your fitness data in the Apple Health app.\n\nThe Training Coach is included in the Training, Training & Nutrition and Body & Mind bundles.\n\nMINDSET\n• Add audio coaching to your personal trainer, helping you build a strong, balanced mindset and find lasting motivation to improve your health and fitness. The perfect complement to your HIIT workouts.\n• In 5 to 20-minute sessions, learn how to build habits, boost weight loss, de-stress and improve your focus, training, recovery and sleep. The perfect foundation for real success.\n• Courses include focus, stress, sleep, fitness, nutrition and motivation.\n\nThe Mindset Coach is only included in the Body & Mind bundle.\n\nSUBSCRIPTIONS & TERMS\nWe offer 6 auto-renewing subscription options:\n• Training (3 / 6 / 12 months)\n• Training & Nutrition (3 / 6 / 12 months)\n\nThe Nutrition Coach is part of the Freeletics Nutrition app.\n\nYour subscription automatically renews if not cancelled at least 24 hours before the end of the current subscription period. You will be charged for the next subscription period up to 24 hours before the current subscription expires. Manage your subscription and disable automatic renewal any time in your Apple account settings. You have the right to withdraw from your initial subscription within 14 days. By purchasing, you accept our Terms of Use (https://www.freeletics.com/en/pages/terms) and Privacy Policy (https://www.freeletics.com/en/pages/privacy).\n \nContact us at https://help.freeletics.com/hc/ or follow @Freeletics on social media for daily workout inspiration. Your personal trainer is ready.",
+      "android_package_name": "com.freeletics.lite",
+      "ios_bundle_id": "com.Freeletics.Freeletics-Lite",
+      "title": "Freeletics Bodyweight",
+      "domain_name": [
+        "https://www.freeletics.com",
+        "https://www.freeletics.com"
+      ],
+      "website": "https://www.freeletics.com",
+      "developer": "Freeletics GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/C9hSnXiNEcajSIVeVm7Tyidal2cHkQ2yl2dZH-fH5ZkEi_21yFSHBc4a8sbRrMuiKuRD",
+      "icon_72": "https://play-lh.googleusercontent.com/C9hSnXiNEcajSIVeVm7Tyidal2cHkQ2yl2dZH-fH5ZkEi_21yFSHBc4a8sbRrMuiKuRD=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.nike.ntc"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "BODi is your complete fitness & nutrition app in one place: workout, eat well without restrictive diets, get results, and stay motivated at home, at the gym, or on the go.\n \nBeachbody On Demand is now BODi. Get all your favorite exercise programs like P90X, Insanity, 21 Day Fix, #mbf Muscle Burn Fat, and DIG DEEPER led by trainers like Shaun T, Autumn Calabrese, Megan Davies, and Jennifer Jacobs.\n\n• 130+ step-by-step fitness & nutrition programs\n• Stream thousands of workouts from beginner to advanced\n• Get the proven results for yourself\n \nFITNESS\nOur 130+ results-proven fitness programs and thousands of energizing workouts ensure you reach your exercise goals and never get bored.\n• Weight loss\n• Yoga\n• Pilates\n• Bootcamp style workouts\n• Dance workouts\n• Cycling\n• Cardio\n• Strength training\n• Weightlifting\n• Abs\n• HIIT\n• Barre\n• Mixed martial arts/MMA\n  \nNUTRITION\nChoose Portion Fix or The 4 Week Gut Protocol from nutrition expert and BODi Super Trainer Autumn Calabrese, or 2B Mindset or 2B Pregnant from Ilana Muhlstein, MS, Registered Dietitian Nutritionist. With hundreds of delicious, easy, healthy recipes (including healthy desserts!), you’ll love following our eating plans and never have to feel like you’re dieting.\n \nMOTIVATION AND WELLNESS\nDon’t miss inspiring on-demand videos and content from world-famous mentors and coaches with Growth Day. Motivational coach Brendon Burchard and a cast of rotating guest speakers will help you learn the practical tools and tips for a lifestyle of achievement and happiness.\n\nSubscriptions\nThe BODi app is free to download. BODi subscriptions are available as In-App Purchases. You can subscribe and pay through your Apple account. Your subscription will automatically renew, unless cancelled at least 24 hours before the end of the current period. Auto-renew may be turned off by going to your account settings after purchase. Prices will vary by location. \n\nSubscription to BODi gives you access to dozens of world-class programs led by top trainers including Autumn Calabrese, Joel Freeman, Jericho McMatthews, Shaun T and others. \n\nPlease Note: BODi integrates with the Health App.",
+      "android_package_name": "com.nike.ntc",
+      "ios_bundle_id": "com.beachbody.bod",
+      "title": "Beachbody On Demand",
+      "domain_name": [
+        "https://www.beachbodyondemand.com",
+        "https://www.beachbodyondemand.com"
+      ],
+      "website": "https://www.beachbodyondemand.com",
+      "developer": "Beachbody, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zgD7iittjyW1lOnGK7AoDuVfhv5nGWVseK4xVxMCOCajUHeSXontX7vGJL7l6UOd9w",
+      "icon_72": "https://play-lh.googleusercontent.com/zgD7iittjyW1lOnGK7AoDuVfhv5nGWVseK4xVxMCOCajUHeSXontX7vGJL7l6UOd9w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.toneitup.android"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Tone up and get results! Join the best fitness app and community for women. Enjoy access to everything you need to feel fit, happy, and confident. \n\nWhether you’re brand new to your fitness journey, or a fitness enthusiast, Tone It Up has the program for you. Tone It Up is the daily fitness app for you. \n\nTHE BEST WORKOUTS FOR WOMEN \n- All programs were designed for women like you, by women like you.\n- Toning, sculpting, yoga, pregnancy workouts, postnatal routines, meditations, strength training, dance, kickboxing, and barre!\n- 500+ on-demand workouts for every goal and fitness level: beginner to advanced!\n- Full-length, follow-along videos to make sure you’re getting the most out of every workout\n- Proper exercise technique is key and we’re here to teach you and keep you motivated \n- Programs & challenges with weekly schedules that remove any guesswork ~ if you're targeting weight loss, strength, endurance, or simply want to get active, there’s a Tone It Up program for you\n- Build lean muscle with full body workouts, and target specific areas with back exercises, abs, butt, arm & leg workouts \n\nJOIN THE FITNESS COMMUNITY\n- Over 1 Million TIU members all keeping one another motivated to reach their fitness goals\n- Join programs together, share your journey, etc.\n\nDELICIOUS & EASY HEALTHY MEALS \n- Simple tips and meal plans from top experts for eating healthy \n- Get started with hundreds of healthy & satisfying recipes designed for your goals\n- Protein muffins, post-workout smoothies, easy dinners for the entire family, healthy desserts, and so much more\n- Choose from hundreds of delicious meals including vegetarian, vegan, high protein, and gluten free options\n\nOh, and did we mention you’ll sweat, burn calories, and feel amazing too!\n\nThe TIU fitness app is the best exercise apps for women! We're all in this together and we can't wait to cheer you on!\n\n---------\n\nSubscription Pricing & Terms\nYour Tone It Up app is free to download and access. All new customers are welcome to a one-time free trial period to the premium, in-app subscription purchase. Once this period ends, should you opt to continue use of the premium features including workout classes and on-demand videos, we offer auto-renewing subscription options of monthly and annual plans.\n\nPayment will be charged to your credit card through your iTunes account. Subscription renews automatically unless cancelled at least 24 hours prior to the end of the current period. You can manage your subscription, and turn auto-renewal off, in your iTunes Account Settings after purchase. No cancellations or refunds will be provided for any unused portions of a subscription term. Apple charges sales tax for digital media when required by law. For information about your local government's laws on taxing digital items, please contact your tax office.\n\nIf you don’t elect to purchase premium features, you can continue using your TIU App for free.\n\nRead our full Terms and Conditions at https://www.toneitup.com/tone-it-up-terms-and-conditions/ and our Privacy Policy at https://www.toneitup.com/tone-it-up-privacy-policy/",
+      "android_package_name": "com.toneitup.android",
+      "ios_bundle_id": "com.toneitup.tiustudio",
+      "title": "Tone It Up",
+      "domain_name": [
+        "http://www.toneitup.com",
+        "https://www.toneitup.com"
+      ],
+      "website": "http://www.toneitup.com",
+      "developer": "Tone It Up, LLC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZDqgMY1-Zoz7oCq3EamekrD2dc2WMU7vvgFyhVlYPHt8DY19MyfqCmAYUPC2wE7qk_Go",
+      "icon_72": "https://play-lh.googleusercontent.com/ZDqgMY1-Zoz7oCq3EamekrD2dc2WMU7vvgFyhVlYPHt8DY19MyfqCmAYUPC2wE7qk_Go=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.stronglifts.app"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "StrongLifts is the simplest weight lifting tracker to get stronger. Follow our free strength training program, or make your own routine. Just download the app and log your workouts to get results. \n\nHere's what StrongLifters say:\n▸ \"Best fitness app I have used (and yes, I tried most of them)\"\n▸ \"Much more user friendly than other apps that complicate things\"\n▸ \"I love this app because it does all the thinking for me so I can focus on lifting\"\n▸ \"Simple, easy-to-use. Least amounts of tapping necessary to log your workouts\"\n▸ \"So Helpful. We use it every time we lift at home. We'd be lost without this app!!\"\n▸ \"Been using for years. Simple and effective. I’ve gotten stronger and much better at my form.\"\n▸ \"Best app for making strength gains. Super simple to use. Delete your other apps this is it!\"\n▸ \"Using this for 4 years. Tried other apps but can never stick to it like I do with StrongLifts\"\n▸ \"Built to be used easily. Just download and check it out and you will understand!\"\n\nSimple and Easy to Use\n√ Clean and intuitive interface\n√ Minimal amount of taps to log workouts\n√ Quickly log reps and sets in the gym without typing\n√ Not complicated and bloated like most workout apps\n√ Created by a powerlifter who understands lifting\n\nAll Thinking, Tracking and Planning Done for You\n√ Keeps track of progress for you\n√ Tells you what to do next workout\n√ Auto-increases the weights for you\n√ Takes all thinking out of going to the gym\n√ Just follow what StrongLifts says\n√ Focus more on your workout\n\nReal Results\n√ Proven principles of Progressive Overload\n√ Automatic weight increases so you push yourself\n√ Free StrongLifts 5x5 Strength Training Program\n√ Videos and instructions to improve your form\n√ Easy to stick to and stay on track\n\nFree Features\n√ Simple, easy to use, clean interface\n√ Free StrongLifts 5x5 Strength Training Program\n√ Automatic weight increases to push yourself\n√ Automatic deload to help you break plateaus\n√ Automatic deload after time off lifting\n√ Automatic rest-timer to stay focused\n√ Workout scheduler to plan workouts\n√ History to review your progress\n√ Graphs to stay motivated\n√ Notes to remember things to work on\n√ Sync workouts with Apple Health\n√ Support for lb and kg weight units\n√ Automatic backup of workout data\n\nPro Features\n√ Log any strength training and weight lifting routine\n√ Create your own workouts, exercises, and sets/reps\n√ +100 exercises to pick from - barbell, body-weight, dumbbell, etc\n√ +100 exercise videos with instructions to learn proper form\n√ Warmup calculator: how much weight to warmup with\n√ Plate calculator: which plates to put on the bar\n√ Ramp sets, pyramid sets, top/back off sets, etc\n√ Pay a monthly or yearly subscription. Or pay once for lifetime access.\n\nApple Watch\n√ Log your entire workout on Apple Watch\n√ Receive rest period timer notifications\n√ Sync workouts with Apple Health\n√ Leave your phone in the locker\n\nThe Best Weight Lifting App\n√ Featured by Apple many times, including in TV ads\n√ Best-rated weight lifting tracker in USA - 4.9 stars, +50k reviews \n√ 3.4+ million lifters started their strength journey with StrongLIfts\n√ 191+ billion pounds lifted by StrongLifters since 2011\n\nSupport\n▸ Guide: https://stronglifts.com/5x5/\n▸ Help: http://support.stronglifts.com\n▸ Contact: support@stronglifts.com\n▸ Privacy: https://stronglifts.com/mobile-privacy-policy/\n▸ Terms: https://stronglifts.com/terms/\n\nDownload Now\n▸ Download StrongLifts today\n▸ Enter your profile, schedule and strength level\n▸ StrongLifts will calculate your starting weights for you\n▸ Then log your workouts, and start getting results!",
+      "android_package_name": "com.stronglifts.app",
+      "ios_bundle_id": "com.StrongLifts",
+      "title": "StrongLifts 5x5",
+      "domain_name": [
+        "https://stronglifts.com",
+        "https://stronglifts.com"
+      ],
+      "website": "https://stronglifts.com",
+      "developer": "Stronglifts Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bkKTjUMRmJBtgysQUwvnEbB2xngiyAA4RBwoBNVHb02YiH-Lf_qCKvJUSmC7RsMvPlI",
+      "icon_72": "https://play-lh.googleusercontent.com/bkKTjUMRmJBtgysQUwvnEbB2xngiyAA4RBwoBNVHb02YiH-Lf_qCKvJUSmC7RsMvPlI=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.fitbod.fitbod"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "*Apple Editor’s Choice Award Winner*\n\n\nBuild muscle, gain strength and lose weight with a customized workout plan just for you. Fitbod is the ultimate fitness platform made to help enhance your strength training and endurance through personalized AI workouts. You won’t just get stronger—you’ll do it on your terms. Get optimized weight lifting routines with a workout planner made to help you reach your fitness goals. No gym? No problem. Fitbod adapts to you with home training with no equipment needed. Each training session is custom-built for your fitness level and equipment so you can make the most of every workout. Make lasting progress with Fitbod – your own AI trainer guiding you to your strongest self\n\n\nGet everything from recovery and exercise tracking to AI-generated recommendations tailored to your fitness objectives. Need access to a trainer? Shoot a quick email and get all your strength training questions answered easily. Fitbod lets you save and build your own strength training & endurance routines based on your preferences. Change up sessions, choose your favorite exercises, and maximize gains with the help of our AI workouts.\n\n\nMonitor your progress across multiple devices with integrations that make fitness tracking easy. Build customized workouts that integrate with Apple Health. Hit your next session with Strava, Fitbit, and Apple Watch integration. Fitbod does it all.\n\n\nExplore over 1000 exercises and let Fitbod create a customized workout plan for you. With easy-to-follow instructions and hi-res video walkthroughs you can hit each exercise the right way. Cardio, mobility, or strength training and endurance – Fitbod was made for you.\n\n\nDownload today and discover a better way to achieve your fitness goals.\n\n\nFitbod Features\n\nAI-Generated Workouts\n◆ Customized workout plan built around you and your fitness goals\n◆ AI workouts maximize fitness gains by varying and balancing exercises\n◆ Adaptive AI learns from your edits to its workout recommendations\n◆ Non-linear periodization to optimize your workouts for sustained progress\n◆ Fitness for everyone with advanced, intermediate, and beginner levels\n◆ Wide variety of workout modifiers to change up single sessions\n◆ Ability to save, build, or use your favorite strength training workouts\n◆ Pro fitness trainers available via email for all strength training questions\n\n1000+ Exercises\n◆ Hi-res, multi-angle videos of each exercise\n◆ Easy-to-understand, detailed exercise instructions with hi-res, multi-angle videos\n◆ Search exercises by muscle group, equipment type or keyword\n◆ Cardio, mobility, pregnancy-safe exercises and more are available\n◆ Consistent updates made to optimize the exercise library\n\nIntegrations\n◆ Integrated with Apple Health to build customized workouts\n◆ Integrated with Strava and Fitbit\n◆ Available for iOS and Apple Watch\n\nAfter your free trial has ended, this app includes an auto-renewing subscription, which unlocks all premium workouts and features.\n\n◆ Subscription options are either monthly or yearly.\n◆ Payment will be charged to your iTunes Account at confirmation of purchase.\n◆ Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period\n◆ Account will be charged for renewal within 24 hours of the end of the current period, and identify the cost of the renewal\n◆ The account will be charged for renewal within 24 hours before the end of the current period.\n◆ Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.\n\nPrivacy Policy: https://www.fitbod.me/privacy-policy\nTerms of Use: https://www.fitbod.me/terms-conditions\nCalifornia Privacy Rights: https://www.fitbod.me/ccpa-privacy-policy\nSupport: http://fitbod.me/support\n\nJoin the Fitbod Community:\nInstagram: instagram.com/fitbodapp/\nTwitter: twitter.com/fitbodApp\nFacebook: facebook.com/fitbodapp\nStrava: strava.com/clubs/fitbod",
+      "android_package_name": "com.fitbod.fitbod",
+      "ios_bundle_id": "com.fitbod",
+      "title": "Fitbod",
+      "domain_name": [
+        "http://fitbod.me/exercises",
+        "https://fitbod.me"
+      ],
+      "website": "http://fitbod.me/exercises",
+      "developer": "Fitbod Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/guPBWiFOsOm7jUUMKrErSvZuSTNqo3hOgLom_FEQoprZmdpPrFa1I0S5v1IReOP3gQ",
+      "icon_72": "https://play-lh.googleusercontent.com/guPBWiFOsOm7jUUMKrErSvZuSTNqo3hOgLom_FEQoprZmdpPrFa1I0S5v1IReOP3gQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.dailyburn.home.workouts"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "At Home Workouts by Daily Burn — Get Fit, Have Fun, Repeat!\n\nFitness training for real people with real goals. Whether you’re looking to lose weight, gain strength, tone your body, or build muscle, Daily Burn has a program and a personal trainer for you. \n\nThe best part? You never have to step foot in a gym. \n\nANY WORKOUT, ANYWHERE, ANYTIME\nWith our expert-led audio and video workouts, the trainer and the class come to you. Whether you have 10 minutes or 60, there’s a program to fit your busy schedule. And with thousands of workouts to choose from — including yoga, cardio, HIIT, dance, dumbbell strength training, pilates, meditation, postnatal exercises, and more — you’ll never be bored. Don’t feel like choosing a workout? Tune in to Daily Burn 365. It features a different group workout class at 9 am EST every weekday, and you can chat with friends and trainers in the community during and afterward.\n\nNOT SURE WHERE TO START?\nWe’ve got you. Beginner or advanced, all levels are welcome! Answer a few quick questions about your goals and fitness level — and we’ll help you set goals, create a personalized workout plan, and help you track those goals as you crush them.\n\nFIND YOUR FITFAM AND STAY CONNECTED\nCommunicate with other Daily Burn members and our roster of expert trainers through live chat to share your fitness journey, feel connected, and stay motivated. Sync with Apple Health (iPhone and iPod Touch only) and share your workout activity with Apple Watch, Fitbit, Jawbone, and more. \n\nSTREAM ON YOUR DEVICES + TV\nAccess Daily Burn on your iPhone, iPad, desktop, or laptop. Cast onto your TV using Apple TV, Roku, and Amazon Fire, or stream your workout from your iOS device to your TV via AirPlay. \n\nHate ads? Us too. Daily Burn is 100% ad-free!\n\nDaily Burn isn't just a fitness app — we're a strong community of like-minded exercisers!\nStay tuned on:\nFB: https://www.facebook.com/dailyburn\nInstagram: https://www.instagram.com/dailyburn\nPinterest: https://www.pinterest.com/dailyburn\n\nStart sweating with Daily Burn today!\n\nTERMS AND CONDITIONS: \nCancel your subscription or free trial anytime through your iTunes account settings, or it will automatically renew. This must be done 24 hours before the end of the free trial or any subscription period to avoid being charged. Subscription with a free trial period will automatically renew to a paid subscription.\n\nPlease note: any unused portion of a free trial period (if offered) will be forfeited when you purchase a premium subscription during the free trial period. Subscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. For more information, please see our Terms of Service (https://dailyburn.com/terms), Privacy Policy (https://dailyburn.com/privacy.), and California Privacy Notice (https://public.dailyburn.com/privacy/DailyBurn_PrivacyPolicy.pdf#page=11)\n\nThe services offered through the app are designed for informational purposes only, and your use of these services is solely at your own risk. You should consult your physician or other health care professional before starting this or any other exercise or nutrition program to determine if it is right for your needs.",
+      "android_package_name": "com.dailyburn.home.workouts",
+      "ios_bundle_id": "com.dailyburn.wod",
+      "title": "Daily Burn",
+      "domain_name": [
+        "http://dailyburn.com",
+        "https://dailyburn.com"
+      ],
+      "website": "http://dailyburn.com",
+      "developer": "Gyminee",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/t5of4UBIxtAZ0lmvIXhPj3Jh2tytHaapKwRRyrfIp3fhJlhwugCRD9b8pPvtGS6Yzis",
+      "icon_72": "https://play-lh.googleusercontent.com/t5of4UBIxtAZ0lmvIXhPj3Jh2tytHaapKwRRyrfIp3fhJlhwugCRD9b8pPvtGS6Yzis=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.clue.android"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Get to know your menstrual cycle with the award-winning Clue app. Clue makes it easy to stay in sync with your body and track your period, fertility, and cycle-related experiences accurately and effortlessly. \n\nWhether you’re trying to get pregnant, tracking cycle-related experiences, or navigating the changes of perimenopause, Clue’s got you covered. \n\nBacked by science and founded and led by women, Clue is trusted by millions of people worldwide. Thanks to our Berlin headquarters, your data with Clue is protected by some of the strictest data privacy laws in the world (GDPR). Your health data will never be sold or disclosed. No matter where you live. \n\nWhat can Clue do for you? \n\nPERIOD & MENSTRUAL CYCLE TRACKING\n\nClue Period Tracking empowers you to become the expert of your unique body.\n\n• Know when to expect your period and plan ahead with advanced, personalized predictions\n• Discover your body’s unique patterns by tracking 100+ experiences connected to your cycle like feelings, PMS, cravings, pain, sex drive, and much more\n• Review an analysis of your past periods and cycles, including average cycle length, period length, period flow, and cycle variation\n• Log your birth control method, including pills, IUD, ring, patch, and more\n• Set up calendar reminders for your period\n• Add a widget to your home screen so you can see your current cycle and know when your period is predicted to start\n• Sync your period data with Apple Health\n• Get answers to your health questions with science-based content that breaks down complicated topics like fertility, STIs, and the science of sex into easy-to-understand articles\n\nFERTILITY & OVULATION CALCULATOR\n\nClue’s clinically-tested technology takes the mystery out of getting pregnant and can easily tell you your most fertile days.\n\n• Get personalized ovulation and fertility predictions for the best time to try or do home insemination\n• Access tips and advice from fertility experts to help you understand the science behind getting pregnant\n\nPREGNANCY TRACKING\n\n• Follow the growth of your baby with weekly updates on size, weight, and development\n• Track your body's changes during pregnancy, like increased smell and taste, pregnancy glow, sleep quality, the supplements you take, and more\n• Receive weekly tips and support from OB-GYNs and Nurse Midwives\n\nPERIMENOPAUSE\n\nGet support throughout your transition to menopause (a time known as perimenopause)\n\n• Track hot flashes, sleep changes, your mood, and more \n• Stay on top of your changing cycle\n• Learn how your body is changing with expert-led articles\n\nGet the most out of Clue, plus access to all four tracking modes (like Clue Conceive and Clue Pregnancy), with a Clue Plus subscription!\n\nA few legal details:\n\nAfter you choose the Clue subscription that’s right for you & confirm your purchase, the credit card associated with your iTunes Account will be charged. Once purchased, your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. If you currently have a free trial, any unused time will be forfeited when you purchase a subscription.\n\nIf you want to renew your subscription, your account will be charged the same amount you paid for your initial subscription, 24 hours before the end of the current period. You can manage or change your subscription at any time, including turning off auto-renewal, by going to the ‘Account Settings’ on your device after the purchase.\n\n\nNote: Clue should *not* be used as a contraceptive. Clue is made to help people understand their menstrual and reproductive health by tracking their data, as well as predicting fertile days to aid conception. The app does not substitute professional medical advice, diagnosis, or treatment. Your healthcare provider can give you advice on your specific needs and situation.\n\nHelloclue.com\nsupport.helloclue.com\n\nTerms of Service: www.helloclue.com/terms\nPrivacy Policy: www.helloclue.com/privacy",
+      "android_package_name": "com.clue.android",
+      "ios_bundle_id": "com.helloclue.clue",
+      "title": "Clue Period Tracker",
+      "domain_name": [
+        "http://helloclue.com",
+        "https://helloclue.com"
+      ],
+      "website": "http://helloclue.com",
+      "developer": "BioWink GmbH",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FGULXsKpMz-SctALJKzI8WZ8-IZjvI3_pdltt1JCXeQ-ES-K9k4tgvPpUUFaEaCG8es",
+      "icon_72": "https://play-lh.googleusercontent.com/FGULXsKpMz-SctALJKzI8WZ8-IZjvI3_pdltt1JCXeQ-ES-K9k4tgvPpUUFaEaCG8es=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "gov.usda.startsimple"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Personalized nutrition and healthy eating at your fingertips. More than a calorie counter, Lifesum helps you adopt nutritious diets that fit your lifestyle and taste. Achieve your weight loss goals while building healthy eating habits for life.\n\nMore than 65 million people use Lifesum to find motivation and inspiration in their health journey. We made food tracking easy so you can make more healthy choices for your body and mind.\n\nPut your well-being first with Lifesum’s innovative technology and expertise of doctors, nutritionists, and professional chefs.\n\nTOP LIFESUM FEATURES\n• Food diary with convenient barcode scanner \n• Calorie counter\n• Macro tracker (protein, carbs, and fats) and food rating\n• Water tracker\n• Diet plans for weight loss and body composition\n• Intermittent fasting plans\n• Meal plans with grocery lists to reduce stress\n• Integration with fitness trackers for in-depth health monitoring\n• Life Score test for personalized nutrition recommendations\n\nWEIGHT LOSS AND HEALTHY EATING\nWhether you want to lose weight, build muscle, or improve some of your eating habits, your nutrition plan should be all about supporting your personal goals.\nFind the right diet for your taste and lifestyle:\n• Keto diet / Low carb - to reduce carb intake. Comes in easy, medium, and strict\n• Mediterranean diet - to increase consumption of fruits and vegetables\n• High Protein diet – to build more muscle mass\n• Clean Eating diet – to eat more wholesome foods\n• Scandinavian diet – to increase fiber intake and healthy fats\n• Climatarian diet  – to eat healthier for you and the Earth\n\nINTERMITTENT FASTING\nIf you want to choose when you eat over what you eat, explore our Intermittent Fasting plans, and fill your eating windows with nutrient-dense and delicious foods.\n• Morning fasting meal plan\n• Evening fasting meal plan\n\nMEAL PLANS WITH COMPLETE GROCERY LISTS\n• Vegan for a week\n• Intermittent fasting\n• 3 Week Weight Loss\n• Sugar Detox\n• Keto Burn / Low carb\n• Paleo\n• Protein Weight Loss\n\nALL YOU NEED FOR A CUSTOMIZED EXPERIENCE\n• Calorie counter, with the option to adjust your daily calorie goal and add/exclude calories burned through exercise.\n• Macro tracking and adjustable goals for carbs, protein, and fat intake. \n• Create and save your favorite foods, recipes, meals, and exercises.\n• Body measurement tracking (weight, waist, body fat, chest, arm, BMI).\n• A library of thousands of recipes with smart filters for quick results.\n• A weekly Life Score based on nutrition and exercise measurements, so you understand where you are and what's next to build the healthiest version of you.\n• Sync with health and fitness apps like Apple Health, Fitbit, Runkeeper, and Withings to track your steps and exercise in real time.\n\nLifesum is free to download and use with limited features. For the full Lifesum experience, we offer 1-month, 3-month, and annual Premium auto-renewing subscriptions.\n\nPayment is charged to your credit card through your iTunes account at confirmation of purchase. Subscription renews automatically unless you turn off auto-renewal in iTunes account settings or cancel your subscription at least 24 hours prior to the end of the subscription period.\n\nView our Terms & Conditions and Privacy Policy: http://api.lifesum.com/mobile-terms",
+      "android_package_name": "gov.usda.startsimple",
+      "ios_bundle_id": "com.sillens.iShape",
+      "title": "MyPlate Calorie Tracker",
+      "domain_name": [
+        "http://lifesum.com",
+        "https://lifesum.com"
+      ],
+      "website": "http://lifesum.com",
+      "developer": "Lifesum AB",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/LP7PSZOGiL4eUVvBn0KMCMUKBBLYe0EO24fUF1vPQCZgtFItUMwqZaOKlIlXON2ByA",
+      "icon_72": "https://play-lh.googleusercontent.com/LP7PSZOGiL4eUVvBn0KMCMUKBBLYe0EO24fUF1vPQCZgtFItUMwqZaOKlIlXON2ByA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mapmyride.android2"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Track and map every ride with MapMyRide. For every mile you go, you’ll get feedback and stats to help you improve your performance. Discover new workout routes and save or share your favorites, and get inspired to reach new cycling goals with a 40 million member strong community of athletes. Whether you’re a beginner on your first climb or a cycling pro, you’ll find the features and tools you need to stay on track and motivated along the way.\n\nTRACK AND MAP YOUR WORKOUTS\n- Get audio feedback on every GPS-tracked ride and view the route you took on the map.\n- Choose from over 600 different sports to keep a full log of all your activities.\n- Use the Routes feature to find nearby places to ride, save your favorite paths, add new ones and share them with others.\n\nANALYZE YOUR PERFORMANCE ON EVERY MILE\n- Gain in-depth insights on every workout, with detailed stats including pace, distance, duration, calorie burn, elevation, and more.\n- Keep an eye on your progress by reviewing your previous workouts.\n- Set personal goals and adjust them as you improve with each ride.\n\nCONNECT WITH APPS AND WEARABLES\n- Sync your data with the hottest apps and wearables, including Garmin and hundreds more.\n- Take control of your nutrition by connecting with MyFitnessPal for a comprehensive look at your calorie intake and burn.\n\nTAKE YOUR RIDES FURTHER WITH MVP PREMIUM FEATURES\n- Reach your cycling goal with a personal training plan which adapts dynamically to your fitness level as you improve.\n- Monitor and analyze your Heart Rate zones to adjust your training based on your goal.\n- Keep distractions to your training to a minimum with no ads.\n- Create custom splits based on the distance you want to track.\n\nFind the full terms and conditions and our privacy policy at https://www.outsideinc.com/terms-of-use/ and https://www.outsideinc.com/privacy-policy/ respectively.\n\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nNote: Continued use of GPS running in the background can dramatically decrease battery life.\n\nApple Health permissions allow us to track your heart rate accurately, update activity rings, and save your workout data.",
+      "android_package_name": "com.mapmyride.android2",
+      "ios_bundle_id": "Q5AWL8WCY6.iMapMyRide",
+      "title": "Map My Ride",
+      "domain_name": [
+        "http://www.mapmyride.com",
+        "https://www.mapmyride.com"
+      ],
+      "website": "http://www.mapmyride.com",
+      "developer": "Outside Television Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/HxJBvXiU_jSUB6kRc_fvebCU-JKACpSqAaF9vEW0qXIxzLOj7vBDCeP5944NMeeelg",
+      "icon_72": "https://play-lh.googleusercontent.com/HxJBvXiU_jSUB6kRc_fvebCU-JKACpSqAaF9vEW0qXIxzLOj7vBDCeP5944NMeeelg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "cc.pacer.androidapp"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Pacer is like having a walking buddy and health coach in one app. You can track all your activities in one beautifully intuitive interface. And you’ll get motivation and support from our amazing Pacer community. Pacer's fun challenges, amazing data insights, outdoor routes, personalized fitness plans and guided workouts will help you achieve your unique fitness goals. Be active and feel great anywhere, anytime!\n\nHear what some of our users are saying:\n\n\"Really like this highly addictive app...\" ~Sparky731\n\n\"Best app I've ever used helping me lose a few pounds a week...\" ~Gerryofkellys\n\n\"...I’m just grateful to this app for being a major catalyst to my health and fitness transformation... my husband and I have lost well over 100lbs\" ~LaToya M\n\n\"...I've lost 20 lbs in the last 3 months by just trying to beat my walking distance daily at work. I love the daily goal. Cheaper and better than a gym membership and a 1000x's more effective!\" ~Covette92\n\nGET STARTED RIGHT AWAY FOR FREE\n-No wristband or other hardware required. Works entirely from your phone with no additional setup\n\nTRACK ALL YOUR ACTIVITY\n-Tracks your steps all day long whether your phone is in your hand, in your pocket, in your jacket, on an armband or in your purse\n-Link to Apple Health to track with your Apple Watch\n-Records steps, flights, calories, distance and active time\n-Use GPS to track your outdoor walking, hiking, running and biking on a map\n\nLOSE WEIGHT & GET FIT\n-Track your weight and BMI over time, and correlate changes with your activity and other vitals\n\nSTAY MOTIVATED WITH FAMILY & FRIENDS\n-Create walking groups with your friends and family to compare daily steps in real-time\n-Connect with friends using iPhone or any other smartphones\n\nJOIN ACTIVITY CHALLENGES\n-Challenge admins can create activity challenges\n-We offer a variety of activity challenge types. You can aim for the top spot on a leaderboard, set a daily goal, or work towards a long-term step target\n\n***Other Great Features***\n-Syncs steps and calories with MyFitnessPal\n-Syncs your data to Apple Health App\n-Link to Apple Health to sync data from your Apple Watch\n-Track your blood pressure along with activity and weight\n-Create plans and set daily goals for yourself\n-Based on science: track your metrics against standards provided by the World Health Organization, American Heart Association and President’s Fitness Council.\n\nNo other app can give you all this right on your iPhone with such a simple interface. Before you spend your money on an expensive wearable device, try Pacer first!\n\nAnd remember, stay active!\n\n***GET BETTER RESULTS WITH PACER PREMIUM***\nUnlock powerful tools to help you reach your health goals.\n-Scientifically designed guided workouts\n-Weight loss coaching program\n-Advanced data reports and insights\n\nSUBSCRIPTION FEES\nSubscriptions to Pacer Premium are $9.99 per month or $49.99 for a full year. Pacer Premium subscriptions will be charged to your iTunes account after your confirmation of purchase.\n\nYou can use your iTunes account to subscribe and pay for Pacer Premium. Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will renew automatically unless cancelled at least 24 hours before the current period ends. Your account will be charged for renewal within 24 hours prior to the end of the current period, and will renew at the same cost. You can manage subscriptions and turn off auto-renewal by going to your iTunes Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that service, where applicable.\n\n***Location Based Services ***\nThis app has an optional feature for more accurate tracking that makes use of iOS's location based services.\n\nNote: Continued use of GPS running in the background may dramatically decrease battery life.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "android_package_name": "cc.pacer.androidapp",
+      "ios_bundle_id": "com.pacer.pacerapp",
+      "title": "Pacer Pedometer",
+      "domain_name": [
+        "https://www.mypacer.com",
+        "https://www.mypacer.com"
+      ],
+      "website": "https://www.mypacer.com",
+      "developer": "Pacer Health, Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/O-hjgghr-f42VwWxcoywIqd9tPlR1HWIDErq9Wolycu8zlUucK7vU3GAkl9EVtc1w9u4",
+      "icon_72": "https://play-lh.googleusercontent.com/O-hjgghr-f42VwWxcoywIqd9tPlR1HWIDErq9Wolycu8zlUucK7vU3GAkl9EVtc1w9u4=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.gaiam.yogastudio"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Discover the ultimate yoga and meditation experience with our all-inclusive app. Whether you're a beginner or an experienced yogi, we have something for everyone.\n\nALL-IN-ONE YOGA+MEDITATION APP\n\nKey Features: \n- Newly redesigned interface for easier searching and class discovery \n⁃ 300+ ready-made yoga videos & meditations with frequent class updates so there's always something new!\n- Quick Fix videos added frequently for short, daily practices \n- New \"Featured Class\" showcases a new class each time you open the app\n⁃ Customize or create your own unique HD video classes pose by pose\n⁃ Stay on track with class scheduling\n⁃ Library of 280 poses with detailed advice and instructions\n⁃ Perfect for beginners, awesome for experts!\n⁃ Works on Mac but also iPhone, iPad, and Apple TV (Gen 4)\n⁃ Play classes anytime, anywhere – no internet connection needed after downloading classes\n⁃ Integrated with Health app to track calories burned, workouts and mindful minutes!\n\n\nCUSTOM YOGA CLASSES\nTailor your yoga experience like never before. Create your own personalized HD video classes, pose by pose, to match your unique needs and preferences.\n\nYOGA FOR BEGINNERS\nPerfect for those new to yoga, our app offers a range of beginner-friendly content. Start your yoga journey with confidence.\n\nOFFLINE YOGA\nNo internet? No problem! Download your favorite classes and enjoy yoga and meditation sessions anytime, anywhere.\n\nYOGA FOR MENTAL HEALTH\nFind peace of mind with our guided meditations and relaxation practices. Center your mind, body, and soul with 15+ meditation options.\n\nYOGA FOR BACK PAIN\nSay goodbye to back pain. Our library includes specialized classes to help alleviate and prevent back pain.\n\nPRENATAL YOGA\nExpecting? We've got you covered with Prenatal Yoga classes designed to support a healthy pregnancy and childbirth.\n\n\nExplore a world of possibilities with our app:\n- Ready-Made Yoga Classes: Choose from 300+ yoga classes and meditations, regularly updated with fresh content.\n\n- Library of Poses: Access 280+ poses with detailed instructions, ensuring you perform each pose correctly and safely.\n\n- Featured Collections: Explore curated collections like \"Yoga for Healthy Weight Management\" and \"Yoga for Mental Health.\"\n\n- Create Your Own Classes: Craft your unique yoga classes effortlessly. Our smart-link feature ensures a smooth flow from one pose to the next.\n\n- Schedule and Track: Stay organized by scheduling classes that sync with your calendar. Track your progress and revisit your favorite classes.\n\n- Pose Blocks: Speed up class creation with short, pre-made pose sequences. Customize your classes with ease.\n\n- Choose Your Class Atmosphere: Set the mood with background music and ambient sounds. Customize your instruction level to suit your preferences.\n\n\nSUBSCRIPTION PRICING AND TERMS\nTry our 7-Day FREE trial with monthly or annual subscription options. With a subscription, you'll enjoy full access to all features and future updates. Cancel anytime.\n\nGet ready to embark on a transformative yoga and meditation journey with our comprehensive app. Download now and unlock a world of wellness at your fingertips.\n\nTerms of Use: https://yogastudioapp.com/terms/",
+      "android_package_name": "com.gaiam.yogastudio",
+      "ios_bundle_id": "com.cluelesspenguin.YogaDatabase",
+      "title": "Yoga Studio",
+      "domain_name": [
+        "http://www.yogastudioapp.com",
+        "https://www.yogastudioapp.com"
+      ],
+      "website": "http://www.yogastudioapp.com",
+      "developer": "Gaiam, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/eyFLLJSkFkvVp22ImC8TZNRBrK94BVziu8uUrsjMaW9-pvWjBPEfh3iE3nlux7YNwxY",
+      "icon_72": "https://play-lh.googleusercontent.com/eyFLLJSkFkvVp22ImC8TZNRBrK94BVziu8uUrsjMaW9-pvWjBPEfh3iE3nlux7YNwxY=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "uk.org.stem4.calmharm"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "The urge to self-harm is like a wave. It feels the most powerful when you start wanting to do it.\n\nJoin over 2 million users and learn to ride the wave with the free Calm Harm app by choosing activities from these categories: Comfort, Distract, Express Yourself, Release, and Random.\n\nThere is also a breathing technique to help be mindful and stay in the moment, regulate difficult emotions and reduce tension.\n\nWhen you ride the wave, the urge to self-harm will fade.\n\nCalm Harm is an award-winning app developed for teenage mental health charity stem4 by Clinical Psychologist Dr. Nihara Krause, in collaboration with young people, using principles from the evidence-based Dialectical Behaviour Therapy (DBT). It is built to NHS standards and approved by ORCHA.\n\nCalm Harm provides some immediate techniques to help break the cycle of self-harm behaviours and explore underlying trigger factors; build a ‘safety net’ of helpful thoughts, behaviours and access to supportive people; and provides the opportunity to journal and self-reflect. It also provides signposts to help.\n\nThe Calm Harm app is private, anonymous and safe.\n\nReviews from Calm Harm app users:\n\n•\t‘This app helps me so much. I can't thank you enough for improving my life.’\n•\t‘I was told by my support worker to download this, best thing I ever did!! It’s helped me a lot through the tough times and I would definitely recommend this!!!’\n•\t‘This app saves lives. It is a beautiful, beautiful tool. Thank you endlessly.’\n\n\nAwards for Calm Harm include:\n•\tHealth Tech Awards Winner ‘Best Healthcare App of the Year’ 2021\n•\tDigital Leaders 100 Awards Winner ‘Tech for Good Initiative of the Year’ 2020 (for stem4’s app portfolio, including Calm Harm)\n•\tThird Sector Awards Winner ‘Digital Innovation of the Year’ 2019\n\n\nPlease note that the Calm Harm app is not a substitute for the assessment and individualised treatment by a health/mental health professional.\n\nPlease also note that if you forget both your passcode and security answer, these cannot be reset as we do not create user accounts. You will need to reinstall the app, losing any previous data.",
+      "android_package_name": "uk.org.stem4.calmharm",
+      "ios_bundle_id": "uk.org.stem4.stem4",
+      "title": "Calm Harm",
+      "domain_name": [
+        "https://calmharm.co.uk",
+        "https://calmharm.co.uk"
+      ],
+      "website": "https://calmharm.co.uk",
+      "developer": "Stem4",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NbNdcT3Pv2hAMERU8yUrikAA_MhxiEEoHN2FE7_Mt6JZyZN3a8J-iL4O-2KlYa9x6Iw",
+      "icon_72": "https://play-lh.googleusercontent.com/NbNdcT3Pv2hAMERU8yUrikAA_MhxiEEoHN2FE7_Mt6JZyZN3a8J-iL4O-2KlYa9x6Iw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "in.sweatco.app"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "The AppStore №1 and top-rated for your iPhone and Apple Watch, Sweatcoin app converts your steps into gadgets, sports and fitness kit, services and experiences.\n5 Stars ► “Such a great concept and executed excellently. Gets me walking and rewards me for it too!” by Woo123789\n\n“Basically pays you to move and exercise, and it costs nothing to use.”\n- Men’s Journal\n\n“The easiest way to make some side cash by doing what you already do naturally — walking.”\n- TheNextWeb\n\n“New UK health app Sweatcoin launched in the Apple app store this week and has been an instant hit.”\n- Forbes\n\n“New Apple app launches in Britain that pays people to get fit”\n- Reuters\n\n“If ever you’ve needed an incentive to exercise, a new app could give you a much-needed boost to get active.”\n- Telegraph\n\nSweatcoin converts your steps into currency units called, as you might have guessed it, sweatcoins. You can then spend them on goods, services and experiences on our market place with our partners or exchange them with your friends and family for whatever you fancy. The fitter and healthier you become the wealthier you get. Movement has value!\n\nSweatcoin uses your HealthKit step history data to continuously improve our algorithms and provide you with better offers at the right time.\n\nIf you're on iPhone 6S or lower, we will need your consent to use your GPS location, so we can verify your steps and award you sweatcoins for them.\n\nYou can find Sweatcoin Terms of Use here: https://sweatco.in/tnc",
+      "android_package_name": "in.sweatco.app",
+      "ios_bundle_id": "swc",
+      "title": "Sweatcoin",
+      "domain_name": [
+        "https://sweatco.in",
+        "https://sweatco.in"
+      ],
+      "website": "https://sweatco.in",
+      "developer": "Sweatco Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ilCzgxgHDfjc89NiP2znisFCIOWi9TsDlBzzKGZNP_zynsveO1YsjDTphhdIbKWd5c5Z",
+      "icon_72": "https://play-lh.googleusercontent.com/ilCzgxgHDfjc89NiP2znisFCIOWi9TsDlBzzKGZNP_zynsveO1YsjDTphhdIbKWd5c5Z=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.downdogapp"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "EASY YOGA-BASED WORKOUTS FOR EVERYONE:\n► CHAIR YOGA\n► WALL PILATES\n► TAI CHI\n► SOMATIC EXERCISES\n► CLASSIC YOGA FOR BEGINNERS\n► …AND MORE!\n\nYoga-Go offers full-body yoga exercises and programs focusing on specific body areas.\nThe app combines customized plans to give users an all-inclusive, anytime/anywhere solution. Start doing yoga practices and incorporate a healthy habit into your daily routine with Yoga-Go. \n \n***\nWITH YOGA-GO YOU’LL GET:\n• Exercises and series based on your preferences and abilities\n• 7-30-minute workouts for both beginners and advanced yogis\n• A Workout Builder tool for even more personalization\n\nALL THE BENEFITS OF YOGA IN ONE APP\n• Have a personalized workout planner right in your pocket\n• Learn new poses from over 500+ asanas\n• Train with video and audio instructions \n• Choose from yoga, pilates, somatics, tai chi, and more\n• Get stronger and more flexible with full-body exercises\n• Receive daily practices tailored to your goals, problem areas, and fitness level.\n\nHOME-BASED YOGA WORKOUTS\nYoga-Go offers simple home-based yoga workouts that won't take up too much of your time. You can start a workout wherever you are and Yoga-Go workouts only take 7-30 minutes per session.\n \nSUBSCRIPTION INFO\nYou can download the app for free. Further use requires a subscription.  At our discretion, we may decide to offer you a free trial per the terms displayed in the app. Please note that:\n• When opting for a subscription, you pay the fixed price for your country which is displayed in the app.\n• Payment will be charged to your Apple ID Account upon confirmation of purchase.\n• Subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current period. \n• Your account will be charged for renewal within the 24 hours prior to the end of the current subscription period.\n• You can manage your subscriptions and turn off auto-renewal by going to your account settings after purchase.\n• When canceling a subscription, your subscription will stay active until the end of the current period. Auto-renewal will be disabled but the current subscription will not be refunded.\n\nIn addition to the purchased subscription, we may offer you add-on items (e.g. health guides) for an additional fee, either as a one-off or recurring payment. This purchase is optional: your subscription is not conditional on such a purchase. All such offers will be displayed in the app. \n\nYoga-Go Privacy Policy: https://legal.yoga-go.io/page/terms-of-use\nYoga-Go Terms of Use: https://legal.yoga-go.io/page/privacy-policy",
+      "android_package_name": "com.downdogapp",
+      "ios_bundle_id": "com.yoga-go",
+      "title": "Pocket Yoga",
+      "domain_name": [],
+      "website": "",
+      "developer": "WELLTECH APPS LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/xvzwsMaVgF5OhYMPIrsuqzxWriyzU4iVi9RSoEvaF478qazirBcCv1rBZXDiY1QCAPg",
+      "icon_72": "https://play-lh.googleusercontent.com/xvzwsMaVgF5OhYMPIrsuqzxWriyzU4iVi9RSoEvaF478qazirBcCv1rBZXDiY1QCAPg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.rungo"
+      },
+      "cat_key": "HEALTH_AND_FITNESS",
+      "cat_keys": [
+        "HEALTH_AND_FITNESS",
+        "APPLICATION"
+      ],
+      "category": "Health & Fitness",
+      "description": "Go for a run with voice navigation along the way, explore like a local when you travel, find a runner-friendly hotel, or take on an audio-guided race.\n\nRunGo is the app that gives directions.\n\nWe call it \"navigation beyond maps.\"\n\nLooking to find or create and follow a running route?\nHands down, the easiest way to stay on track and enjoy your run is customized, turn-by-turn voice navigation.\n\nRunGo is the most popular running app featuring turn-by-turn voice navigation, with over 800,000 routes worldwide across 171 countries, including thousands of verified routes, like race courses, hotel tours, audio-guided mindful walks, city tours, unique adventures, and virtual races.\n\nStay engaged with voice messages about landmarks you pass, local stories, or an encouraging reminder that you're halfway there.\n\nTurn any route in an engaging, voice-guided tour!\n\nYou're probably beyond trying to memorize every turn, printing out maps, checking your phone’s map every block, or never doing anything new!\n\nRunGo also tracks your run stats like time, pace, distance, elevation, and estimated finish time.\n\nWe proudly include no ads in the app, and a paid premium upgrade is available for additional features.\n\nFeatured by Apple to \"Run New Routes Wherever You Are,” “Walk to Get Fit,”  “Run Your First 5K,” and \"Unleash the Power of Apple Watch.\"\n\nWHAT PEOPLE LIKE YOU SAY\n“Only running app with turn-by-turn directions… 30+ turns on new roads that I wasn’t about to memorize.” -iPhone user review\n“RunGo was a great way to get a feel of the areas and feel more secure running by myself.” -Jess\n\nWHEN YOU TRAVEL\nRunning is the best way to explore a city when you travel! With routes around the world, curated by passionate locals showing off the best of their city and by RunGo’s hotel partners, you can enjoy your run at your own pace with voice navigation to keep you on track. Find your next runner-friendly hotel to visit.\n\nWHY VOICE NAVIGATION?\nVoice navigation allows you to follow complex routes effortlessly. Explore routes with clear voice directions as you approach each turn, and get notified when you go off route. RunGo is Accessible and supports VoiceOver for visually impaired users.\n\nBUILD YOUR OWN ROUTES\nMap out custom routes right on your iPhone, or import a GPX file to RunGo. Create basic routes on your phone, while the full customization is on our web route creator. Any routes you create on the web route creator will also appear on your iPhone.\n\nLIVE TRACKING\nRunGo Live lets friends and family track your runs and races in real time on any web browser.\n\nAPPLE WATCH\nWith RunGo’s Apple Watch app, get turn-by-turn directions and haptic notifications on your wrist, and run complex routes without needing your iPhone.\n\nRunGo uses HealthKit for Heart Rate data with the Apple Watch and to record workout data to the Health app.\n\nYou can subscribe and pay through your iTunes account. Payment is charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account is charged for renewal within 24-hours prior to the end of the current period at the initial monthly or annual cost. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription, where applicable. More information at rungoapp.com/legal\n\n* Continued use of GPS running in the background can dramatically decrease battery life.",
+      "android_package_name": "com.rungo",
+      "ios_bundle_id": "com.leapingcoyote.rungo",
+      "title": "RunGo",
+      "domain_name": [
+        "http://www.rungoapp.com",
+        "https://www.rungoapp.com"
+      ],
+      "website": "http://www.rungoapp.com",
+      "developer": "Leaping Coyote Interactive Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/nnGLM1yr4fpfN9sSdngjmnPOb-ob9lfAjeDcEd4vRDorD1xdMaX2jwuMG9Jq7GnoDRg",
+      "icon_72": "https://play-lh.googleusercontent.com/nnGLM1yr4fpfN9sSdngjmnPOb-ob9lfAjeDcEd4vRDorD1xdMaX2jwuMG9Jq7GnoDRg=s72-rw",
+      "market_status": "PUBLISHED"
+    }
+  ]
