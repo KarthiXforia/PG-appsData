@@ -1,366 +1,70 @@
 {
   "categories": {
-    "GAMES": {
-      "id": "7001",
+    "SOCIAL": {
+      "id": "6005",
         "apps": [
           {
-            "name": "Monopoly",
-            "display_name": "Monopoly",
+            "name": "public",
+            "display_name": "public",
             "search_terms": {
-              "itunes": "Monopoly",
-              "playstore": "Monopoly"
+              "itunes": "public",
+              "playstore": "public"
             }
           },
           {
-            "name": "Chess.com",
-            "display_name": "Chess.com",
+            "name": "pi network",
+            "display_name": "pi network",
             "search_terms": {
-              "itunes": "Chess.com",
-              "playstore": "Chess.com"
+              "itunes": "pi network",
+              "playstore": "pi network"
             }
           },
           {
-            "name": "Ludo King",
-            "display_name": "Ludo King",
+            "name": "sangam",
+            "display_name": "sangam",
             "search_terms": {
-              "itunes": "Ludo King",
-              "playstore": "Ludo King"
+              "itunes": "sangam",
+              "playstore": "sangam"
             }
           },
           {
-            "name": "Catan",
-            "display_name": "Catan",
+            "name": "shadi.com",
+            "display_name": "shadi.com",
             "search_terms": {
-              "itunes": "Catan",
-              "playstore": "Catan"
+              "itunes": "shadi.com",
+              "playstore": "shadi.com"
             }
           },
           {
-            "name": "Scrabble GO",
-            "display_name": "Scrabble GO",
+            "name": "chingari",
+            "display_name": "chingari",
             "search_terms": {
-              "itunes": "Scrabble GO",
-              "playstore": "Scrabble GO"
+              "itunes": "chingari",
+              "playstore": "chingari"
             }
           },
           {
-            "name": "Risk: Global Domination",
-            "display_name": "Risk: Global Domination",
+            "name": "yaki",
+            "display_name": "yaki",
             "search_terms": {
-              "itunes": "Risk: Global Domination",
-              "playstore": "Risk: Global Domination"
+              "itunes": "yaki",
+              "playstore": "yaki"
             }
           },
           {
-            "name": "Ticket to Ride",
-            "display_name": "Ticket to Ride",
+            "name": "palphone",
+            "display_name": "palphone",
             "search_terms": {
-              "itunes": "Ticket to Ride",
-              "playstore": "Ticket to Ride"
+              "itunes": "palphone",
+              "playstore": "palphone"
             }
           },
           {
-            "name": "Carcassonne",
-            "display_name": "Carcassonne",
+            "name": "toki",
+            "display_name": "toki",
             "search_terms": {
-              "itunes": "Carcassonne",
-              "playstore": "Carcassonne"
-            }
-          },
-          {
-            "name": "Chess Free",
-            "display_name": "Chess Free",
-            "search_terms": {
-              "itunes": "Chess Free",
-              "playstore": "Chess Free"
-            }
-          },
-          {
-            "name": "Backgammon",
-            "display_name": "Backgammon",
-            "search_terms": {
-              "itunes": "Backgammon",
-              "playstore": "Backgammon"
-            }
-          },
-          {
-            "name": "Checkers Free",
-            "display_name": "Checkers Free",
-            "search_terms": {
-              "itunes": "Checkers Free",
-              "playstore": "Checkers Free"
-            }
-          },
-          {
-            "name": "Battleship",
-            "display_name": "Battleship",
-            "search_terms": {
-              "itunes": "Battleship",
-              "playstore": "Battleship"
-            }
-          },
-          {
-            "name": "Pictionary",
-            "display_name": "Pictionary",
-            "search_terms": {
-              "itunes": "Pictionary",
-              "playstore": "Pictionary"
-            }
-          },
-          {
-            "name": "Clue (Cluedo)",
-            "display_name": "Clue (Cluedo)",
-            "search_terms": {
-              "itunes": "Clue (Cluedo)",
-              "playstore": "Clue (Cluedo)"
-            }
-          },
-          {
-            "name": "Dominoes",
-            "display_name": "Dominoes",
-            "search_terms": {
-              "itunes": "Dominoes",
-              "playstore": "Dominoes"
-            }
-          },
-          {
-            "name": "Yahtzee With Buddies",
-            "display_name": "Yahtzee With Buddies",
-            "search_terms": {
-              "itunes": "Yahtzee With Buddies",
-              "playstore": "Yahtzee With Buddies"
-            }
-          },
-          {
-            "name": "Tic Tac Toe",
-            "display_name": "Tic Tac Toe",
-            "search_terms": {
-              "itunes": "Tic Tac Toe",
-              "playstore": "Tic Tac Toe"
-            }
-          },
-          {
-            "name": "Othello (Reversi)",
-            "display_name": "Othello (Reversi)",
-            "search_terms": {
-              "itunes": "Othello (Reversi)",
-              "playstore": "Othello (Reversi)"
-            }
-          },
-          {
-            "name": "Boggle With Friends",
-            "display_name": "Boggle With Friends",
-            "search_terms": {
-              "itunes": "Boggle With Friends",
-              "playstore": "Boggle With Friends"
-            }
-          },
-          {
-            "name": "Words with Friends 2",
-            "display_name": "Words with Friends 2",
-            "search_terms": {
-              "itunes": "Words with Friends 2",
-              "playstore": "Words with Friends 2"
-            }
-          },
-          {
-            "name": "Ludo Master",
-            "display_name": "Ludo Master",
-            "search_terms": {
-              "itunes": "Ludo Master",
-              "playstore": "Ludo Master"
-            }
-          },
-          {
-            "name": "Parchisi STAR",
-            "display_name": "Parchisi STAR",
-            "search_terms": {
-              "itunes": "Parchisi STAR",
-              "playstore": "Parchisi STAR"
-            }
-          },
-          {
-            "name": "Spades Plus",
-            "display_name": "Spades Plus",
-            "search_terms": {
-              "itunes": "Spades Plus",
-              "playstore": "Spades Plus"
-            }
-          },
-          {
-            "name": "Phase 10",
-            "display_name": "Phase 10",
-            "search_terms": {
-              "itunes": "Phase 10",
-              "playstore": "Phase 10"
-            }
-          },
-          {
-            "name": "Connect 4",
-            "display_name": "Connect 4",
-            "search_terms": {
-              "itunes": "Connect 4",
-              "playstore": "Connect 4"
-            }
-          },
-          {
-            "name": "Blokus",
-            "display_name": "Blokus",
-            "search_terms": {
-              "itunes": "Blokus",
-              "playstore": "Blokus"
-            }
-          },
-          {
-            "name": "Chess Free",
-            "display_name": "Chess Free",
-            "search_terms": {
-              "itunes": "Chess Free",
-              "playstore": "Chess Free"
-            }
-          },
-          {
-            "name": "The Game of Life",
-            "display_name": "The Game of Life",
-            "search_terms": {
-              "itunes": "The Game of Life",
-              "playstore": "The Game of Life"
-            }
-          },
-          {
-            "name": "Jenga",
-            "display_name": "Jenga",
-            "search_terms": {
-              "itunes": "Jenga",
-              "playstore": "Jenga"
-            }
-          },
-          {
-            "name": "Bingo Blitz",
-            "display_name": "Bingo Blitz",
-            "search_terms": {
-              "itunes": "Bingo Blitz",
-              "playstore": "Bingo Blitz"
-            }
-          },
-          {
-            "name": "Rummikub",
-            "display_name": "Rummikub",
-            "search_terms": {
-              "itunes": "Rummikub",
-              "playstore": "Rummikub"
-            }
-          },
-          {
-            "name": "Mancala",
-            "display_name": "Mancala",
-            "search_terms": {
-              "itunes": "Mancala",
-              "playstore": "Mancala"
-            }
-          },
-          {
-            "name": "Taboo",
-            "display_name": "Taboo",
-            "search_terms": {
-              "itunes": "Taboo",
-              "playstore": "Taboo"
-            }
-          },
-          {
-            "name": "Farkle (Free)",
-            "display_name": "Farkle (Free)",
-            "search_terms": {
-              "itunes": "Farkle (Free)",
-              "playstore": "Farkle (Free)"
-            }
-          },
-          {
-            "name": "Boggle",
-            "display_name": "Boggle",
-            "search_terms": {
-              "itunes": "Boggle",
-              "playstore": "Boggle"
-            }
-          },
-          {
-            "name": "Codenames",
-            "display_name": "Codenames",
-            "search_terms": {
-              "itunes": "Codenames",
-              "playstore": "Codenames"
-            }
-          },
-          {
-            "name": "Scattergories",
-            "display_name": "Scattergories",
-            "search_terms": {
-              "itunes": "Scattergories",
-              "playstore": "Scattergories"
-            }
-          },
-          {
-            "name": "Trivial Pursuit",
-            "display_name": "Trivial Pursuit",
-            "search_terms": {
-              "itunes": "Trivial Pursuit",
-              "playstore": "Trivial Pursuit"
-            }
-          },
-          {
-            "name": "Tigris & Euphrates",
-            "display_name": "Tigris & Euphrates",
-            "search_terms": {
-              "itunes": "Tigris & Euphrates",
-              "playstore": "Tigris & Euphrates"
-            }
-          },
-          {
-            "name": "The Castles of Burgundy",
-            "display_name": "The Castles of Burgundy",
-            "search_terms": {
-              "itunes": "The Castles of Burgundy",
-              "playstore": "The Castles of Burgundy"
-            }
-          },
-          {
-            "name": "Monopoly Deal",
-            "display_name": "Monopoly Deal",
-            "search_terms": {
-              "itunes": "Monopoly Deal",
-              "playstore": "Monopoly Deal"
-            }
-          },
-          {
-            "name": "Sequence",
-            "display_name": "Sequence",
-            "search_terms": {
-              "itunes": "Sequence",
-              "playstore": "Sequence"
-            }
-          },
-          {
-            "name": "Chesster",
-            "display_name": "Chesster",
-            "search_terms": {
-              "itunes": "Chesster",
-              "playstore": "Chesster"
-            }
-          },
-          {
-            "name": "Shut the Box",
-            "display_name": "Shut the Box",
-            "search_terms": {
-              "itunes": "Shut the Box",
-              "playstore": "Shut the Box"
-            }
-          },
-          {
-            "name": "Mastermind",
-            "display_name": "Mastermind",
-            "search_terms": {
-              "itunes": "Mastermind",
-              "playstore": "Mastermind"
+              "itunes": "toki",
+              "playstore": "toki"
             }
           }
         ]

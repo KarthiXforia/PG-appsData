@@ -1155,5 +1155,121 @@
       "icon": "https://play-lh.googleusercontent.com/LqKpoOvk3Amj0AaC4BCKCiVfHTnxFmonHvSJUeYureNmqk6KJfO2z69dHCnkMqziJEM",
       "icon_72": "https://play-lh.googleusercontent.com/LqKpoOvk3Amj0AaC4BCKCiVfHTnxFmonHvSJUeYureNmqk6KJfO2z69dHCnkMqziJEM=s72-rw",
       "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "ticketnew.android.ui"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": [
+        "ENTERTAINMENT",
+        "APPLICATION"
+      ],
+      "category": "Entertainment",
+      "description": "Book movie tickets online on TicketNew. \n\nGet the Convenience of Online Ticket Booking \n             Experience the ultimate convenience of booking your movie tickets online with TicketNew! Say goodbye to long queues and hello to hassle-free movie nights with your loved ones, all from the comfort of your own home. You can now reserve your favourite movie tickets from the comfort of your home and enjoy a fun-filled evening at the cinema with your family and friends.  Whether you’re looking to catch the latest blockbuster or an old classic, Ticketnew has got you covered with a wide selection of films available in various languages. Never let entertainment take the back seat when you can always have Ticketnew on your side. Discover the world of movies, with superior sound effects, comfortable seating, luxurious theatres, top-notch food services, and more.\nBook Movie Tickets Online on Ticketnew and Get Exciting Offers\n             Book movie tickets online on Ticketnew and get amazing discounts and cashback offers. Explore a wide range of movies, check movie ticket prices and avail exciting movie booking offers.\n             With over 2000 cinemas/theatres (and counting), you can catch all the latest movies in town with the best seats in the house. Say goodbye to waiting in long lines and stressing over which seat to choose - with Ticketnew, you can easily book your movie tickets online in a few taps and secure your favourite spot. Check movie ticket prices and avail exciting movie ticket booking offers with cashback and discounts on movie ticket booking.\nBook Movie Tickets on Ticketnew for an Easy and Hassle-Free Entertainment Experience\n            Ticketnew offers a convenient solution to book movie tickets, making entertainment accessible on-the-go. With the upgraded experience, customers can quickly and securely purchase tickets from their smartphones, eliminating the need for physical payment or paper tickets. This easy and hassle-free service ensures that users never miss out on their favourite films. The platform offers a vast selection of movies across a range of genres, allowing customers to browse and select their preferred showtimes. Additionally, Ticketnew provides a user-friendly",
+      "android_package_name": "ticketnew.android.ui",
+      "ios_bundle_id": "com.orbgen.ticketnew",
+      "title": "ticketNew",
+      "domain_name": [
+        "http://www.ticketnew.com",
+        "https://www.ticketnew.com"
+      ],
+      "website": "http://www.ticketnew.com",
+      "developer": "Orbgen Technologies Pvt. Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7g1mR_Od0qNRfiEN4MsSSKyb8d1MB3GrvShoKKOCrGituQ2d73IMcnim9J3lHlWDHJA",
+      "icon_72": "https://play-lh.googleusercontent.com/7g1mR_Od0qNRfiEN4MsSSKyb8d1MB3GrvShoKKOCrGituQ2d73IMcnim9J3lHlWDHJA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.discoveryplus.mobile.android"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": [
+        "ENTERTAINMENT",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "You can manage your Discover credit card and bank accounts conveniently and securely from anywhere, using Discover’s Mobile App. Check your account balance, view your account info, make and edit payments, add your card into Apple Pay, manage your rewards, and more - all from your mobile device.\n\nDo you have questions or comments about Discover’s Mobile App? Email us at: mobappqs@service.discovercard.com.\n\nFAST ACCOUNT ACCESS\n• Log in quickly with a 4-digit Passcode\n• Log in faster with Discover Touch ID, available for users with Discover passcode enabled on an eligible device – not supported on modified or jailbroken devices\n• Enable Quick View to view account information without logging in\n\nMANAGE YOUR DISCOVER CREDIT CARD ACCOUNT\n• Check your balance and available credit, and view or download monthly statements\n• View and search transaction activity\n• Make payments and edit or cancel pending payments\n• Redeem rewards, in any amount, as a statement credit towards your monthly bill, including your minimum payment due\n• Redeem rewards, in any amount, as an electronic deposit to your bank account\n• Redeem rewards for gift cards starting at only $5. Plus, get an added bonus on every card\n• Link your Discover card to your Amazon and PayPal accounts to make it easier to earn and pay with rewards for eligible purchases at checkout \n• View your FICO® Credit Score* for free and learn what it means to lenders\n*See FICO® Credit Score terms at Discover.com/FICO\n• Freeze or unfreeze your account to prevent new purchases, cash advances, and balance transfers\n• Add your card into Apple Pay to use for purchases in-store on eligible devices with iOS 9\n• Send and receive messages from Discover Customer Service\n• View and edit your account profile \n• Activate a new card or report a current card as lost, stolen or misplaced\n• Use the Travel Notification feature to help ensure uninterrupted use of your card while traveling\n• Sign up to receive alerts about your account\n\nMANAGE YOUR DISCOVER BANK DEPOSIT ACCOUNT AND PERSONAL LOAN ACCOUNT \n• View account balances, summary and transaction history\n• Track account activity and schedule transactions\n• Transfer money\n• Pay bills \n• Deposit checks\n• Find ATMs - Nationwide ATMs available to use your Discover debit card\n• View statements\n• View and send secure messages\n• Make Personal Loan payments\n\nZelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license.\n\n  Mobile Privacy Statement:\nhttps://www.discover.com/privacy-statement   \n\nMobile Terms of Use: \nhttps://www.discover.com/credit-cards/help-center/discover-terms-of-use.html",
+      "android_package_name": "com.discoveryplus.mobile.android",
+      "ios_bundle_id": "com.discoverfinancial.mobile",
+      "title": "discover+",
+      "domain_name": [
+        "http://www.discover.com",
+        "https://www.discover.com"
+      ],
+      "website": "http://www.discover.com",
+      "developer": "Discover Financial Services",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/BJKWRWjg2dukBglRdxG6AWYCyFN8whm8DUj2zxIzc4TAaL40gtDE678zU8cxkVYIrkk",
+      "icon_72": "https://play-lh.googleusercontent.com/BJKWRWjg2dukBglRdxG6AWYCyFN8whm8DUj2zxIzc4TAaL40gtDE678zU8cxkVYIrkk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.magiclabs.mimic"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": [
+        "ENTERTAINMENT",
+        "APPLICATION"
+      ],
+      "category": "Entertainment",
+      "description": "Choose a photo, pick a song, and make it dance!\nThe result? Videos that are hilarious, bizarre, fun, and ready to go viral. No dancing lessons are required.\n\nMimic is the world's best AI-powered photo animating app that turns pictures into fun videos.\n\nDon't limit yourself to boring selfies! Here's how to level up the fun with Mimic:\n- Say your baby's first words\n- Make your boss dance to a hilarious song\n- Let your dog speak up\n- Make your boyfriend sing a love song\n\n It’s simple to use:\n1. Take or choose a photo from your gallery\n2. Pick a track from our extensive music collection\n3. Generate any picture into a funny, deep fake video\n4. Share your magical singing portrait with your friends\n5. Get more interaction into your social media accounts. Engage with your friends and followers via Mimic!\n\nWhy are you still waiting? You can experience our magical deep fake technologies with us. All you have to do is just download the app, take or choose a photo and watch yourself sing your heart out!\n\n-Copyright-\nAt Scaleup Yazilim Hizmetleri, we highly value confidentiality, intellectual property rights such as copyrights, and the protection of personal data. We strive to maintain transparency in these matters.\nIf you sincerely believe that materials generated or transmitted through the Mimic AI Photo Face Animator App violate your copyright, personal rights, or privacy, you have the option to notify us. You can submit a notice requesting the removal of the material or the blocking of access to it by sending the Rights Policy Form. (You can reach via: https://mimicapp.co/rights-policy or download app--> settings--> “Rights Policy” section.)  Additional details can be found in the app’s Rights Policy for further guidance.\n\nPrivacy Policy: https://mimicapp.co/privacy.html \nTerms of Service: https://mimicapp.co/terms",
+      "android_package_name": "com.magiclabs.mimic",
+      "ios_bundle_id": "com.magiclabs.mimic",
+      "title": "mimic",
+      "domain_name": [
+        "https://mimicapp.co",
+        "https://mimicapp.co"
+      ],
+      "website": "https://mimicapp.co",
+      "developer": "SCALEUP YAZILIM HIZMETLERI ANONIM SIRKETI",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5e5q5UWtWvmOfrQl52EgYtisGd8eA6030sP6xfcgU60WuCxY1FXazGNAhhINsoKbJOU",
+      "icon_72": "https://play-lh.googleusercontent.com/5e5q5UWtWvmOfrQl52EgYtisGd8eA6030sP6xfcgU60WuCxY1FXazGNAhhINsoKbJOU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.viewlift.hoichoi"
+      },
+      "cat_key": "ENTERTAINMENT",
+      "cat_keys": [
+        "ENTERTAINMENT",
+        "APPLICATION"
+      ],
+      "category": "Entertainment",
+      "description": "hoichoi is an on-demand video streaming platform for Bengalis worldwide, offering an extensive collection of 625+ Bengali movies, 175+ original web series, shorts, and documentaries. Join us to avail a premium streaming experience & enjoy the best in Bengali Entertainment!\n\nWe offer:\n\n175+ web series to watch online with new shows added every week.\n\nLargest Catalogue of Bengali Movies:\n\nIndulge in a daily movie marathon and you'll still require a few years to exhaust the vast collection in our movie library of 625+ movies.\n\nWatch some of our movies and web series absolutely for free!\n\nOur Features:\n\nDownload Bengali movies & web series offline and watch them anytime on the go.\n\nhoichoi can be streamed across multiple devices – your phone, tablet, laptop or Smart TV.\n\nEnjoy 4K Quality Seamless Streaming Experience.\n\nDolby Atmos Sound Quality & Dolby Vision HDR quality.\n\nAdd your favourite Bengali movies and shows to your watchlist for later.\n\nWatch your favourite content with English & Bengali subtitles.\n\nExperience the platform in English and Bengali Interface.\n\nhoichoi Original Web Series: hoichoi hosts some of the best web series across genres like thriller, drama, comedy, romance, horror, adventure, and many more. Watch the first episodes of selected web series for free.\n\nOur top Original Web Series are:\n\nByomkesh: Anirban Bhattacharya plays Satyanweshi Byomkesh Bakshi in this popular series.\n\nFeludar Goyendagiri: National award-winning director Srijit Mukherji adapts Satyajit Ray's classic Feluda stories for the web.\n\nSrikanto: This top-rated Bengali web series is a musical love story, featuring Rishav Basu and Sohini Sarkar.\n\nIndubala Bhaater Hotel: The award-winning web series, adapted from Kallol Lahiri's novel of the same name, stars the versatile Subhashree Ganguly in the titular role.\n\nEken Babu: This detective comedy series stars Anirban Chakrabarti as everyone's favourite Eken Babu.\n\nMandaar: An adaptation of William Shakespeare's Macbeth, this acclaimed web series is Anirban Bhattacharya's debut as director.\n\nParnashavarir Shaap: This Bengali horror web series is a literary adaptation and stars Chiranjeet Chakraborty as a renowned occultist.\n\nLojja: This Bengali web series starring Priyanka Sarkar addresses verbal abuse in a never-seen-before way.\n\nHomegrown shows from Bangladesh: hoichoi has one of the best collections of web series from Bangladesh such as Golam Mamun, Karagar, Mohanagar, Rumi, Kaiser & more.\n\nOther popular web series: Gora, Lojja, Adv. Achinta Aich, Taqdeer, Indu, Bodhon, Hello!, Dadur Kirti, Kumudini Bhavan & more.\n\nWatch all your favourite Bengali movies with the best Bengali video streaming app hoichoi.\n\nTop-rated Blockbuster movies: The best place to watch movies of Prosenjit, Dev,Abir, Parambrata, Mimi & others.\n\nNew movies and World Digital Premieres on hoichoi: Dawshom Awbotaar, Raktabeej, Abar Bibaho Obhijaan, Ballabhpurer Roopkotha, Karnasubarner Guptodhon, The Eken, Belashuru\n\nhoichoi hosts movies by renowned directors like Srijit Mukherji, Raj Chakraborty,Kaushik Ganguly.\n\nTop Bengali Classics: From legendary actors like Uttam Kumar, Soumitra Chatterjee, Suchitra Sen to stalwart directors Satyajit Ray, Mrinal Sen, Ritwik Ghatak- you have it all.\n\nIf you subscribe via iTunes:\n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of your selected plan above.\n\nSubscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings on the device.\n\nIf you haven’t subscribed through iTunes, you can manage your subscription through our website. In case of any queries, feel free to contact us at – support@hoichoi.tv\n\nPrivacy policy: www.hoichoi.tv/privacy-policy\n\nTerms of use: www.hoichoi.tv/tos",
+      "android_package_name": "com.viewlift.hoichoi",
+      "ios_bundle_id": "com.svf.mawja",
+      "title": "hoichoi",
+      "domain_name": [
+        "https://www.hoichoi.tv",
+        "https://www.hoichoi.tv"
+      ],
+      "website": "https://www.hoichoi.tv",
+      "developer": "Hoichoi Technologies Private Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/dxc6rqZHigOTItU0u3i4aWOKN9pdszX-JlZK1tRatCOyT3JJD1AOW7TZ-hzKyk1tkxI",
+      "icon_72": "https://play-lh.googleusercontent.com/dxc6rqZHigOTItU0u3i4aWOKN9pdszX-JlZK1tRatCOyT3JJD1AOW7TZ-hzKyk1tkxI=s72-rw",
+      "market_status": "PUBLISHED"
     }
   ]

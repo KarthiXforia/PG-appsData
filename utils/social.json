@@ -1220,6 +1220,391 @@
       "icon": "https://play-lh.googleusercontent.com/6UntTQTcIHihmg8YReviNr9B2JEfGJ-hqrIat561F1_StnKCJKjo_4K0Mr4V_8AZDXY",
       "icon_72": "https://play-lh.googleusercontent.com/6UntTQTcIHihmg8YReviNr9B2JEfGJ-hqrIat561F1_StnKCJKjo_4K0Mr4V_8AZDXY=s72-rw",
       "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.ril.ajio"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "WELCOME TO YOUR AISE OF STYLE\n\nWe get it—you live and breathe fashion, and the thrill of online shopping is your jam. AJIO is here to keep your style game strong no matter where you are. Whether it’s on-trend clothing, killer footwear, must-have accessories, beauty and personal care essentials, the latest tech gadgets, or contemporary home furnishing & décor — AJIO's got your back.  \n\nWe know you’re busy, so we keep it snappy. Our curated fashion experience guarantees high-quality products that make your life easy and stylish. \n\nNo more waiting for sales—We bring you fab finds online and the best of trends at lowest prices every day. Shop whenever you want and enjoy free delivery* \n\nTrendsetter alert: AJIO’s collection is fashion-forward, showcasing the freshest designs for men & women, from around the globe. \n\nWardrobe woes? Solved! AJIO’s exclusive online shopping experience includes top international brands you wouldn’t find anywhere else, along with high-quality labels that are unique and on-trend, presenting head-to-toe style solutions for men, women and kids.  \n\nCraftsmanship meets cool: Our Indie collection supports artisans, blending tradition with contemporary vibes. If you’re looking for authentic ethnic clothes and high-quality products, look no further.  \n\nWorld-class brands: Get access to a range featuring the largest and exclusive international brands like ASOS, H&M, GAP, Superdry, Armani Exchange, Nike, Puma, Adidas, Muji and a lot more!  \n\nCurated collection just for you: Our capsule collections are handpicked to elevate your personal look, no matter the occasion. Shop a trending fit for every mood and find the perfect product at lowest prices. \n\nTech-savvy & stylish: Because your gadgets should look as good as you do, we offer the best in electronics, tech accessories and gadgets. \n\nBeauty for every you: From skincare to haircare, makeup to grooming must-haves, luxe international beauty brands, we’ve got you covered.  \n\nShop easy: Enjoy free delivery on your first purchase* and a 15-day hassle-free return policy when you indulge in online shopping on AJIO.  \n\nDownload & Go: Get the AJIO app and experience the best of fashion, tech, beauty and trends. Wherever you are, your next look is just a tap away. Get, set, shop!",
+      "android_package_name": "com.ril.ajio",
+      "ios_bundle_id": "com.ril.ajiofnl",
+      "title": "Ajio",
+      "domain_name": [
+        "http://www.ajio.com",
+        "https://www.ajio.com"
+      ],
+      "website": "http://www.ajio.com",
+      "developer": "Reliance Retail Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/H_VVVQduGJEUfofF5YPszdTJVqqT46SoY-B9fIGxWHPCBH5gPGDtvbGgs3qebzNFdrS_",
+      "icon_72": "https://play-lh.googleusercontent.com/H_VVVQduGJEUfofF5YPszdTJVqqT46SoY-B9fIGxWHPCBH5gPGDtvbGgs3qebzNFdrS_=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.savana.in"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "***** Puzzles and Colors for Kids *****\n\n*** Puzzles with Sounds and Interactive Background ***\n*** Drawings of African Animals to Color ***\n\nOur children will enjoy learning and playing with the Animals of the Savanna.\nThe child will have also fun discovering all the interactive objects in the background and can hear all the sound of the game characters.\n\nIn the full version you will find 18 puzzles and you can paint all the Animals.\nIn the Lite Version there are 6 puzzles and you can try all features of the game.\n\nIntuitive and Simple Game is designed for Kids.\n\n\nSECURITY FOR YOUR CHILDREN\nMagisterApp creates high quality apps for children.No third party advertising. This means no nasty surprises or deceiving advertisements.  \nMillions of parents trust MagisterApp. Read more and tell us what you think on www.facebook.com/MagisterApp. \nHave fun!",
+      "android_package_name": "com.savana.in",
+      "ios_bundle_id": "it.developlabs.savana",
+      "title": "savana",
+      "domain_name": [
+        "https://www.magisterapp.com",
+        "https://www.magisterapp.com"
+      ],
+      "website": "https://www.magisterapp.com",
+      "developer": "Bytwice srl",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pp816OogtK3Bi_X4GsDrm8a09Vbv63dv-xQIlCrWoxx00pssnYGBT5K91B5x0iuJ0lA",
+      "icon_72": "https://play-lh.googleusercontent.com/pp816OogtK3Bi_X4GsDrm8a09Vbv63dv-xQIlCrWoxx00pssnYGBT5K91B5x0iuJ0lA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "lbindia.android.app"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Immerse yourself in the enchanting ambiance of our store, where each section tells a unique story. From the moment you enter, you'll be captivated by the carefully crafted displays that showcase a diverse range of gifts, ensuring there's something for everyone and every celebration.",
+      "android_package_name": "lbindia.android.app",
+      "ios_bundle_id": "com.biglilbox",
+      "title": "littlebox",
+      "domain_name": [
+        "https://www.biglilbox.com",
+        "https://www.biglilbox.com"
+      ],
+      "website": "https://www.biglilbox.com",
+      "developer": "RAPID ACCELERATION INDIA PRIVATE LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ANr0nSocB_X-9oil6mHhXKy7NpnrJG7NVAr0Cw1iOPxmVPbwV76911wM083uQpILzj8",
+      "icon_72": "https://play-lh.googleusercontent.com/ANr0nSocB_X-9oil6mHhXKy7NpnrJG7NVAr0Cw1iOPxmVPbwV76911wM083uQpILzj8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.dunzo.user"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Dunzo is a 24x7 delivery app that delivers anything to your doorstep instantly. From shopping for Grocery to Fruits & Vegetables, Meat & more, Dunzo is the only delivery app you'll ever need.\n\n- Shop for Grocery, Fruits & Vegetables from local stores \n- Order Meat & Fish from the best stores in town\n- Get medicines delivered from local chemists near you\n- Send packages anywhere within the city\n- Get food delivery from top restaurants in the city\n\nWhy Dunzo?\n\n- We're the fastest; get home delivery instantly\n- No order is too small; we'll deliver anything\n- Order from anywhere in the city; we'll deliver\n- Save big; get up to 50% OFF on Groceries, Fruits, Veggies & more\n- Make payments online for a smooth experience & enjoy cashback from Google Pay, Paytm, Amazon Pay, CRED Pay, Simpl, LazyPay & more\n\nDunzo Daily\nDunzo Daily is your all-in-one online supermarket with 19 min doorstep delivery. Enjoy instant delivery of the freshest grocery delivered to your doorstep. Order everything from Fruits, Vegetables, Meat, Pet Supplies & other daily needs. We ensure that you get the freshest produce of daily essentials, delivered right to your doorstep. With great offers & products ranging from breakfast items, fresh fruits and vegetables to household supplies, you can get all your shopping done & still make a saving. Dunzo Daily is currently available only in Bangalore.\n\nOrder Grocery Online\n\nGrocery shopping will never be the same once you start using this online delivery app. Enjoy the convenience of online grocery shopping and have it delivered to your doorstep instantly. From daily essentials to stocking up the kitchen, order groceries online and get the freshest produce in town.\n\nOrder grocery online and get products from Aashirvaad, Saffola, Fortune, Nestle, Amul, Mother Dairy, Coke, Pepsi, Bisleri, Colgate, Patanjali, Dabur, Surf Excel, Maggi, Vim, Haldiram's, Kellogg’s, Nescafe, Pampers & other leading brands.\n\nGet grocery shopping done & get it delivered in just 19 min in Bangalore & within 35 min in Hyderabad, Delhi, Gurgaon, Pune, Mumbai & Chennai.\n\nOrder Fruits & Vegetables Online\n\nOrder the freshest Fruits & Vegetables from local stores near you using this online delivery app. Now shopping for Fruits & Vegetables is so easy; just place an order on the app, & get it home delivered instantly.\n\nOrder Milk & Dairy Online\n\nOrder Milk & Dairy products online with ease, and get it all delivered home instantly. Now you will never run out of Dairy products at home when you can just place an order on Dunzo. Enjoy milk delivery from brands like Nandini, Milky Mist, Amul & more.\n\nOrder Meat, Chicken & Fish Online\n\nGet the freshest Meat, Chicken & Fish delivered to your doorstep instantly. Enjoy online delivery of meat like never before with this instant delivery app. If you enjoy fresh fish, you will definitely enjoy this online fish delivery we offer. Now order Chicken online or Meat; it will reach your doorstep in no time.\n\nOrder Food Online\n\nOrder food online from any restaurant & get home delivery instantly.  Enjoy online food delivery from neighbourhood local joints, cafes, fine-dining restaurants, & fast-food chains like Dominos, KFC, Burger King, Pizza Hut, FreshMenu, Mc Donald’s, Subway, Faasos, Taco Bell & more.\n\nOrder Medicines Online\n\nDunzo is an online chemist in your pocket. Order Allopathic medicines, Homeopathic pills, Ayurvedic herbs, & Over-The-Counter (OTC) health products online from trusted chemists like Apollo Pharmacy, Wellness Forever & Myra Medicines. Get home delivery instantly.\n\nSend Packages Within Your City\n\nDunzo allows you to send packages anywhere across the city. Use us to pick up & drop off laundry, get forgotten keys, send lunch boxes from home to office, send or collect items for repair or deliver documents or parcels to clients.\n\n--\n\nDunzo is available in Bangalore, Mumbai, Gurgaon, Delhi, Hyderabad, Pune & Chennai",
+      "android_package_name": "com.dunzo.user",
+      "ios_bundle_id": "in.dunzo.lattelite",
+      "title": "dunzo",
+      "domain_name": [],
+      "website": "",
+      "developer": "dunzo digital private limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/oXf0BYGPYRUuc4gkbpafD2uIG-XEkKdScdRH8Mjww3ZXhZMcb_OqZKtAUiT1kH2TxYKq",
+      "icon_72": "https://play-lh.googleusercontent.com/oXf0BYGPYRUuc4gkbpafD2uIG-XEkKdScdRH8Mjww3ZXhZMcb_OqZKtAUiT1kH2TxYKq=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mi.global.shop"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Education",
+      "description": "You can define the dress-up, hairstyle and magical makeup in the game depending on your preferences. Show your unique charm and write down your own story!\n\nCreation\n\nShow off all your creative ideas in the Miga Store . You can change your clothes, dye your hair into any color, or create your best friend and explore unknown places together with him/her. Tens of billions of changes allow you to make any combination you want.\n\nFeature\n\n- 6 scenes: Apartment, sports store, supermarket, clothing store, fashion store, hair salon\n\n- Apartment: Two apartments in different styles may let you experience different moods\n\n- Sports store: Head towards the sports supermarket to buy golf supplies or take part in the boxing training\n\n- Supermarket: Spend some time on food and enjoy the enticing delicacies\n\n- Clothing store: You can find a large collection of the latest clothes here to dress yourself up. Don't leave in a hurry. Take a photo to memorize this moment!\n\n- Fashion store: Take time to pick out cute or cool glasses. Rich accessories are ready for you to choose\n\n- Hair salon: More beautiful hair styles and more DIY tools are waiting for you to create your own characters\n\n--Give full play to children’s creativity\n--Tens of billions of customized modes\n--No third-party advertising\n--No time limit or score ranking list\n\ncontact us：support@xihegame.com",
+      "android_package_name": "com.mi.global.shop",
+      "ios_bundle_id": "com.miga.mystore",
+      "title": "mi store",
+      "domain_name": [],
+      "website": "",
+      "developer": "XiHe Digital (GuangZhou) Technology Co., Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/K-44rSE33Wysgghzd0ERiti7HPkMf44-oAAa6H73CyftLX3JDBEoFWgvZh-HYl-RBw",
+      "icon_72": "https://play-lh.googleusercontent.com/K-44rSE33Wysgghzd0ERiti7HPkMf44-oAAa6H73CyftLX3JDBEoFWgvZh-HYl-RBw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.applications.max"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Shopping",
+      "description": "Thinking about shopping? we got you covered at Max Fashion! It’s the biggest fashion brand in the Middle east offering exceptional value. Shop from over 20,000 styles across Womenswear, kids wear – (baby, toddlers, teens), Menswear, home, accessories, beauty & more. Max Fashion - look stylish, stay fashionable and make a statement. Download our app now.\n\nWomen have access to the hottest pieces from top fashion. Find dresses of all silhouettes, plus skirts, tops, jumpsuits and playsuits, jackets and coats, knitwear, lingerie, loungewear, jeans, plus a curated selection of shoes and bags.\n\nKids can find clothing, shoes, toys, and accessories ranging from classic everyday items to special occasions, with collections for baby and toddler, boys and girls, and school uniforms.\n\n\nFor men, Max offers everything from classic basics to more elevated trend-driven staples. Find trendy Tee’s, smart shirts, denim / jeans, sweaters, pants, plus grooming and lifestyle products. For every occasion, you’ll find the perfect ensemble to turn heads and look your best.\n\nMax app is your one-stop solution for all things fashion. Shop classic and modern pieces and add them to the wardrobe with confidence. Enjoy special discounts, easy returns, and shopping assistance with curated packs. Every item you need to stay ahead of the trend while making fashion fun.\n\nHere’s why we think you’ll love our shopping experience:\n\n• Pay by cash, credit or debit Cards, international Credit Cards, Shukran, Tabby in Easy Installments \n\n• Easily return or cancel your order from our app in a few easy steps\n\n• Click and collect feature and fast shipping / delivery\n\n• Earn valuable Shukran and spend them for instant savings\n\n• Favorite the products you love and shop them anytime you want\n\n• Push Notifications – first to know about any deals, latest launches and more\n\n\nThere’s a whole lot more for you to enjoy, so go ahead and download our Max app today.\n\n\nHappy shopping!\n\n\n\nهل تفكر في التسوق؟ لقد وفرنا في ماكس فاشون كل ماتحتاجه وتبحث عنه مع أكبر علامة تجارية للأزياء في الشرق. تسوق من أكثر من  ٢٠٠٠٠ ستايل من الملابس النسائية ، وملابس الأطفال - (الرضع ، والأطفال الصغار ، وملابس الشباب) ، والملابس الرجالية ، ومستلزمات المنزل ، والإكسسوارات ، ومنتجات الجمال والمزيد. اظهر أنيقًا وابقى على الموضة مع اقوى تشكيلة ازياء عصرية من ماكس فاشون . قم بتنزيل تطبيقنا الآن.\n\nيمكن للنساء ايضا ان يتسوقو من أفضل ماركات الأزياء. اعثري على الفساتين من جميع الأنواع والأشكال  بالإضافة إلى التنانير والقمصان والسترات والمعاطف والملابس العصرية والملابس الداخلية وملابس النوم والجينز  بالإضافة إلى مجموعة منتقاة من الأحذية والحقائب.\n\nيمكن أيضا للأطفال العثور على الملابس لجميع الأعمار والأذواق والأحذية والإكسسوارات التى تغطى جميع المناسبات الخاصة والمميزة  مع مجموعات للأطفال الرضع والأطفال الصغار وللأولاد وللبنات  ومنتجات العودة الى المدارس وجميع منتجات المدارس التى يحتاجها\n طفلك بتصاميم مميزة .\n\nبالنسبة للرجال  تقدم ماكس فاشون مجموعة مثالية من الخيارات الخاصة بأناقة الرجال وطبقا لاحدث صيحات الموضة والأزياء مثل  سترات البدلات  والسترات الرسمية  والقمصان  والجينز  والسترات الصوفية  والسراويل  بالإضافة إلى منتجات العناية الشخصية ونمط الحياة. في كل مناسبة  ستجد المجموعة المثالية التي تلفت الأنظار وتبدو في أفضل حالاتك.\n\nمع تطبيق ماكس فاشون اصبح التسوق متعة لاتعوض كما نوفر لك طرق دفع مختلفة ومزايا لن تجدها الا مع تطبيق ماكس فاشون استمتع بتجربة التوسق من بين الملابس الرجالى والملابس الحريمى وملابس الأطفال والأحذية والأكسسوارات وايضا الملابس الرياضية المريحة للرجال والنساء.\n\n\nنعتقد أنك ستحب تجربة التسوّق معنا، وإليك الأسباب:\n• ادفع نقدًا، وعبر بطاقات الائتمان أو الخصم المباشر، ونقاط شكراً.\n• قم باسترجاع أو إلغاء طلبك بكل سهولة عبر تطبيقنا من خلال خطوات قليل وسهلة.\n• اكسب نقاط شكراً الثمينة، وانفقها للحصول على خصم فوري.\n• احفظ المنتجات التي تحبها في قائمة المفضّلات، وتسوّقها وقتما تريد.\nوهناك أكثر من ذلك بكثير لمتعة تسوّق أكبر، لذا سارع بتحميل تطبيق ماكس اليوم.\n\n\nاستمتع بالتسوّق معنا!",
+      "android_package_name": "com.applications.max",
+      "ios_bundle_id": "com.landmarkgroup.max",
+      "title": "max fashion",
+      "domain_name": [
+        "http://www.maxfashion.com/ae/en/apps",
+        "https://www.maxfashion.com"
+      ],
+      "website": "http://www.maxfashion.com/ae/en/apps",
+      "developer": "Landmark Retail Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/G6CTTmXabDiuM42IQUUuKc0cCunygI55Ddkr8R2CmT8jFeXxo4zbCSK2Zbv8iGPED_w",
+      "icon_72": "https://play-lh.googleusercontent.com/G6CTTmXabDiuM42IQUUuKc0cCunygI55Ddkr8R2CmT8jFeXxo4zbCSK2Zbv8iGPED_w=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.cardfeed.video_public"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "LOCK IN 6% OR HIGHER YIELD* WITH A BOND ACCOUNT\nDiscover a new way to invest in a diversified portfolio of corporate bonds. Right now, you can lock in a 6% or higher yield* with regular interest payments.\n\nEARN REBATES ON STOCK AND ETF OPTIONS TRADE\nYou can earn a rebate of $0.06–$0.18 per stock and ETF options contract traded (based on monthly trading volume) with no commissions or per-contract fees.\n\nEARN 4.35% APY** ON YOUR CASH\nWith our High-Yield Cash Account, you can earn 4.35% APY** on your cash. There are no fees and you get up to $5M FDIC insurance.\n\nALPHA: AI FOR INVESTORS\nGet real-time investing context before you even know you need it with Alpha, AI for investors.\n\nINVESTMENT ANALYSIS\nEvaluate multiple assets at once, compare analyst ratings, explore earnings data, and more.\n\nPORTFOLIO MANAGEMENT\nTrack your cost basis, access extended-hours trading, schedule recurring investments, and more.\n\nPublic (c) 2024 Investors First(TM)\n\nPublic is Available to U.S. residents 18+ and subject to account approval.\n\nAll investing involves risk of loss, including loss of principal. Brokerage services for US-listed, registered securities, options and bonds in a self-directed account offered by Public Investing, member FINRA & SIPC. Brokerage services for alternative assets offered by Dalmore Group, LLC, member FINRA & SIPC. Cryptocurrency trading services offered by Bakkt Crypto Solutions, LLC (NMLS ID 1828849), which is licensed to engage in virtual currency business activity by NYSDFS. Cryptocurrency is highly speculative, involves a high degree of risk, and has the potential for loss of the entire amount of an investment. Cryptocurrency holdings not protected by FDIC or SIPC. Brokerage services for treasury accounts offering 6-month T-Bills offered by Jiko Securities, Inc., member FINRA & SIPC. Banking services offered by Jiko Bank, a division of Mid-Central National Bank.\n\nSECURITIES INVESTMENTS: NOT FDIC INSURED; NO BANK GUARANTEE; MAY LOSE VALUE.\n\nSee public.com/#disclosures-main for more info.\n\nInvestors must review the Options Disclosure Document (ODD): public.com/ODD. Options are risky and not suitable for everyone. Fee Schedule: public.com/disclosures. Rebate varies from $0.06-$0.18 based on monthly trading volume and subject to change. Terms of the Rebate Program: public.com/disclosures/rebate-terms.\n\nA High-Yield Cash Account is a secondary brokerage account with Public Investing. Funds in this account are automatically deposited into partner banks where they earn a variable interest and are eligible for FDIC insurance. Neither Public Investing nor any of its affiliates is a bank. Learn more: public.com/disclosures/high-yield-account.\n\n* A Bond Account is a self-directed brokerage account with Public Investing, member FINRA/SIPC and includes 10 investment-grade and high-yield bonds. As of 11/7/24, the average, annualized yield to worst (YTW) across all ten bonds is greater than 6%. A bond’s YTW is not “locked in” until the bond is purchased and is not guaranteed; you may receive less than the YTW of the bonds in the Bond Account if you sell any of the bonds before maturity or if the issuer defaults on the bond. Bond Accounts are not recommendations of individual bonds or default allocations. Public Investing charges a markup on each bond trade. Visit public.com/bond-account to learn more.\n\n**As of 11/26/24. Annual Percentage Yield (APY) is variable and may change without notice. \n\nAlpha is an artificial intelligence investment exploration tool powered by GPT-4—a generative large language model offered by OpenAI. Any material generated by Alpha is not and should not be construed as investment research, advice, or recommendation to buy or sell a security, nor should the information provided serve as the exclusive basis for investment decisions.\n\nSupporting documentation furnished upon request.\n\nPublic Holdings Inc\n228 Park Avenue South, Suite 97716\nNew York, NY 10003",
+      "android_package_name": "com.cardfeed.video_public",
+      "ios_bundle_id": "com.t3securities.matador",
+      "title": "public",
+      "domain_name": [
+        "https://public.com",
+        "https://public.com"
+      ],
+      "website": "https://public.com",
+      "developer": "Open to the Public Investing, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/qu4DpmCcFpXWXoLYGmgP22KqvTYbGxNQ6ms5IoigrdA-mM3zhvmPgLfHyzgx5vxT5Ds",
+      "icon_72": "https://play-lh.googleusercontent.com/qu4DpmCcFpXWXoLYGmgP22KqvTYbGxNQ6ms5IoigrdA-mM3zhvmPgLfHyzgx5vxT5Ds=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.blockchainvault"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Pi is a new digital currency. This app allows you to access and grow your Pi holdings and serves as wallet to host your digital assets. Pi is fairly distributed, eco-friendly and consumes minimal battery power.",
+      "android_package_name": "com.blockchainvault",
+      "ios_bundle_id": "com.socialchain.blockchainvault",
+      "title": "pi network",
+      "domain_name": [
+        "http://minepi.com",
+        "https://minepi.com"
+      ],
+      "website": "http://minepi.com",
+      "developer": "SOCIALCHAIN INC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ItxDn_WNq3QPvuXS1jaXwujqvRobrH-hpEqbDy1iCVx0b5Z5dv9ADyfd83Dn6cDsNbE",
+      "icon_72": "https://play-lh.googleusercontent.com/ItxDn_WNq3QPvuXS1jaXwujqvRobrH-hpEqbDy1iCVx0b5Z5dv9ADyfd83Dn6cDsNbE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.communityshaadi.android"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Welcome to Sangam.com® - matrimony & matchmaking service, from the makers of Shaadi.com, that has connected more people for marriage than any other matrimony app!\n\nMarriage in India is about families & communities - not just two individuals. Sangam.com® has been created from the ground up with this in mind. Thus, unlike other matrimony services, we focus on providing detailed family and background information to help you take the next step with confidence.\n\nSangam is a matrimony service created for parents who are looking for a life partner for their loved ones.\n\nWith more than 20 lakh profiles, Sangam.com® is fast emerging as the preferred matrimony service for Indian families globally.\n\n\n\nWhy Choose Sangam.com for Your Matrimony Search?\n\nSangam.com® app is free to download. Using it is a breeze and you get access to features that allow you to:\n\n- Register & create your matrimony profile\n- View full profiles of your matches along with their photos\n- Shortlist matches you like and save favorites for future viewing\n- Enjoy complete privacy\n- Connect with your matches instantly on WhatsApp\n\n\nSearch for Brides/Grooms for Matrimony by Location, Religion or Preferred Community:\n\nYou can search for matrimony profiles of brides/grooms by religions like Hindu, Muslim, Christian, Buddhist, Jain and others or search for relevant matrimony profiles from your preferred communities such as Reddy, Nair, Kamma, Ezhava, Kayastha, SC, Maratha, Iyer, Brahmin, etc.\n\nApart from English, Sangam can be used in Hindi, Marathi, Tamil, Telugu, Kannada, Malayalam, Bengali, Oriya and Gujarati language too. \n\nYou can search for matches from various Indian cities like Mumbai, New Delhi, Bengaluru (Bangalore), Chennai, Hyderabad, Ahmedabad, Kolkata, Surat, Pune, Jaipur, Lucknow, Kanpur, Nagpur, Visakhapatnam, Indore, Ludhiana or Patna.\n\nSangam is part of Shaadi.com (sometimes miss-spelt as Shadi), the World's No. 1 Matchmaking Service. \n\nSo, register today and join thousands of others who have found their life partner on Sangam.com®.\n\nSome accolades that we are proud of include:\n\n- Best Matrimony Site (Reader's Choice, New York Times publication, USA)\n- Top 50 Innovative Companies (Fast Company, USA)\n- Most Trusted Matrimony Brand (Brand Equity, Economic Times, India)\n\nNow, it’s time for you to download the Sangam.com app, create your matrimony profile and get a step closer to your perfect life partner.",
+      "android_package_name": "com.communityshaadi.android",
+      "ios_bundle_id": "com.familyshaadi.iphone",
+      "title": "sangam",
+      "domain_name": [],
+      "website": "",
+      "developer": "People Interactive (I) Pvt. Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kg78gTX2ierOOSSqw4noaO5DIDMhLBeu1oFLfBGC2etBs7rfqfMzGmwwx3tph3LSeUNQ",
+      "icon_72": "https://play-lh.googleusercontent.com/Kg78gTX2ierOOSSqw4noaO5DIDMhLBeu1oFLfBGC2etBs7rfqfMzGmwwx3tph3LSeUNQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.shaadi.android"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Entertainment",
+      "description": "Radio Shadi is an independent broadcast company based in Los Angeles, California which broadcast’s its programs throughout the world. Our programs are original, innovative, informative and entertaining. Through our leading-edge streaming technology, we consistently produce powerful, unique and lasting value for each listener. At Radio Shadi, we are committed to generating extraordinary communication, powerful listening and committed speaking that results in honesty, fulfillment and happiness. Our radio programs and website features provide limitless opportunities for businesses to advertise their products and services. Radio Shadi was founded and directed by Afshin Gorgin.",
+      "android_package_name": "com.shaadi.android",
+      "ios_bundle_id": "com.shadi.radioplayer",
+      "title": "shadi.com",
+      "domain_name": [],
+      "website": "",
+      "developer": "Afshin Gorgin",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/FgvxpKxwVtXKpvN20OIDKCPJBxx84HTeeoVbNmbrCvudu_ruhIryBQnPEpzkg5NyyA",
+      "icon_72": "https://play-lh.googleusercontent.com/FgvxpKxwVtXKpvN20OIDKCPJBxx84HTeeoVbNmbrCvudu_ruhIryBQnPEpzkg5NyyA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "io.chingari.app"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Chingari Unlock a world of live conversations and expert insights with Chingari – your ultimate platform for meaningful connections and knowledge sharing. \nChingari is now a thriving community where you can engage in real-time conversations, tap into expert consulting, and effortlessly discover your favourite content.\n\nPowered by our in-app token, GARI, you can socialize, entertain, and earn from numerous thrilling features.\n\nWhat’s so Exciting About Chingari? \n\nIntroducing the season's top feature – Astrology. Offering instant solutions for life, love, and career concerns, Chingari provides comprehensive consultations with experienced astrologers.\n\nAstrological Services: \n\nVedic, Tarot, Nadi astrology, and more for accurate predictions.\nFree Kundli, live sessions with over 1500 expert astrologers.\nInstant chat or call for personalized insights and remedies.\n\n- Vedic astrology\n- Hindu astrology\n- Tarot card\n- Jyotish Shastra\n- Nadi sastra\n- Numerology\n- Bhrigu Samhita\n- Rashi (Zodiac Signs)\n- Psychic Reading\n- Face Reading\n- Palm Reading\n- Vastu\n- Drik Panchang\n- Graha Shanti\n- Janampatri\n- Kundali Milan \n- Vedic Remedies\n- Kaal Sarp Dosha Analysis \n\nConsultation Topics: \n\nCareer, relationships, marriage, child naming, abroad settlement advice.\nComprehensive match-making and guidance for diverse life concerns.\n\nLive Streaming (Dating, Astrology, etc.) \n\nShowcase skills, earn gifts in diverse content categories.\nEngage in real-time conversations, gain expert insights in live rooms.\nExplore dating, astrological insights, and diverse general content in live streams.\n\n1 ON 1 (Dating, Astrology, etc.) \n\nConnect with your favorite artists, influencers, and astrologers.\nMonetize through one-on-one calls with your audience.\nExperience personalized interactions in dating, astrology, and more.\n\nAudio Calls (Dating, Astrology, etc.)\n\nFoster connections and discussions through audio calls.\nSpecialized audio calls for dating, astrology discussions, and general topics.\nChat (Dating, Astrology, etc.)\nDiscuss and clarify astrological questions confidentially.\nChat privately, make new friends, and more.\n\nFeed\n\nParticipate in engaging contests, become the talk of the town.\nJoin city challenges, stand out in the Chingari community.\nPost updates, videos to a private circle, share with friends.\nExclusive updates visible only to your close circle for privacy.\n\nGARI Wallet\n\nA wallet for holding, sending, and receiving GARI tokens.\n\nStake GARI (Just like an FD)\n\nBuy and sell GARI easily on Chingari.\nStart your journey with GARI and Chingari's user-friendly platform.\n\nInbox\n\nConnect with your favorite creators through text messages.\nDirect text communication with favorite creators and influencers.\n\nGo LIVE, receive gifts, earn beans, and redeem them for GARI tokens.\n\nEngage with audiences in 20+ languages.\nConnect in various languages: English, Hindi, Bangla, Gujarati, Marathi, Kannada, and more.\n\nTerms of Use: \"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\"\nChingari Terms and Conditions Link: \"https://chingari.io/terms-and-condition\"\nChingari Privacy Policy Link: \"https://chingari.io/privacy-policy\"\n\nApple is not the sponsor nor connected in any way, shape or form with the contest/competition/promotion within the Chingari App.",
+      "android_package_name": "io.chingari.app",
+      "ios_bundle_id": "io.chingari.ios",
+      "title": "chingari",
+      "domain_name": [
+        "https://chingari.io",
+        "https://chingari.io"
+      ],
+      "website": "https://chingari.io",
+      "developer": "TECH4BILLION MEDIA PRIVATE LIMITED",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/r3HEhQRu-lP6H7xImKvwBTa0GBuDTGDqEm1lddmJlzBEiazMrbpaOfgwDPSEDKQBt9A",
+      "icon_72": "https://play-lh.googleusercontent.com/r3HEhQRu-lP6H7xImKvwBTa0GBuDTGDqEm1lddmJlzBEiazMrbpaOfgwDPSEDKQBt9A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.basoft.halo"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "YakiHonne is a decentralized media infrastructure that supports the freedom and automation of content creation, curation, peer-review, publishing, and reporting.",
+      "android_package_name": "com.basoft.halo",
+      "ios_bundle_id": "com.yakihonne.appyakihonne",
+      "title": "yaki",
+      "domain_name": [],
+      "website": "",
+      "developer": "JUSTHONNE TECHNOLOGY SDN. BHD.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Hs_OdEoDms4H4uiluGV0XgoX2DanJ6mS0x-c1FR_5uQaVvf5o6EqTLJneh5O5i-91yA",
+      "icon_72": "https://play-lh.googleusercontent.com/Hs_OdEoDms4H4uiluGV0XgoX2DanJ6mS0x-c1FR_5uQaVvf5o6EqTLJneh5O5i-91yA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.palphone.pro.app"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Palphone is an emotional- based conversation app which is focusing on highly secure and private communications. All chats will be provided anonymously to share your feeling & secrets with somebody from Palphone world. Definitely she/he does not know who you are.\nPrivacy is one of our core values. We do care about it and we do not provide registration via Palphone. Our mission is to make communication easier. Share your feelings anonymously and free\n\nNo Register, No Login\nPalphone provides highly secure conversation. There is no registration. No Login required!\nNo email/phone number is required to use it.\n\nNo Trace, No Foot Print\nSince we do care about your security, No data will be stored during your chat or your voice call conversation.\n\nMatching Languages\nPalphone is designed to make communication easier also in order to find someone who recognizes your language.\n\nMood Selection\nYou can describe your mood by choosing Palphone characters on home page.\n\nAnonymous Chat\nWe provide anonymous conversations via Palphone app. Nobody knows who you are until you tell him/her. Start searching someone on Palphone world to talk anonymously both voice chat & text chat.\n\nFor latest updates & information check our website:\nwww.Palphone.com",
+      "android_package_name": "com.palphone.pro.app",
+      "ios_bundle_id": "com.palphone.ios.pro",
+      "title": "palphone",
+      "domain_name": [],
+      "website": "",
+      "developer": "Heydar Naghdali",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NtJKWfKy2GcMGOueaV0MVIGZQrCb0fp_EznJgMN8Y1KtcQoW_-1-oOklTAb-JSRZZ4U",
+      "icon_72": "https://play-lh.googleusercontent.com/NtJKWfKy2GcMGOueaV0MVIGZQrCb0fp_EznJgMN8Y1KtcQoW_-1-oOklTAb-JSRZZ4U=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.toki.android"
+      },
+      "cat_key": "SOCIAL",
+      "cat_keys": [
+        "SOCIAL",
+        "APPLICATION"
+      ],
+      "category": "Lifestyle",
+      "description": "Toki бол бидний өдөр тутамд хэрэгтэй 40 гаруй үйлчилгээг дижиталаар дахин сайжруулж, нэг дор багтаасан супер апп юм. Бид хэрэглэгч нарынхаа өдөр тутмын амьдралын хэв маягийг ойлгож тэдэнд хэрэгтэй үйлчилгээ бүрийг дижиталаар авах боломжийг хайж, шийдэл олж, хэрэглээнд нэвтрүүлж тасралтгүй хөгжсөөр байна.\n\nToki Service\nТа зогсоолын төлбөрөө автоматаар төлөх, NFC технологи ашиглан Umoney картаа утсаараа цэнэглэх, такси дуудах, үзвэр үйлчилгээ болон галт тэрэгний тасалбар авах,  кофе, хоол захиалах, нэгж, дата авах, хэрэглээний төлбөрүүдээ төлөх, тоглоом тоглох, цэнэглэх гэх мэт өдөр бүрд хэрэгтэй үйлчилгээнүүдээ нэг дороос хялбар, хурдан авах боломжтой.\n\nToki Shop\nЮнителийн баталгаат гар утсыг Toki Лизингээр 5 минутад онлайнаар авч, гэртээ үнэгүй хүргүүлээрэй. Мөн бусад албан ёсны онлайн дэлгүүрээс худалдан авалт хийх боломжтой.\n \nToki Pay\nToki Pay нь таны бодит хэтэвчийг цахимжуулсан цоо шинэ дижитал хэтэвч юм. Toki дансаараа төлөх бүрдээ Cashback цуглуулж, хэрэгтэй үедээ Toki Credit ашиглан бүх төрлийн худалдан авалт, үйлчилгээний төлбөрөө зээлээр төлөх боломжтой.",
+      "android_package_name": "com.toki.android",
+      "ios_bundle_id": "com.toki.mn",
+      "title": "toki",
+      "domain_name": [],
+      "website": "",
+      "developer": "TOKI NBFI LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/5lYhpcJj9qhv9SHkSxt8wSZUTHoEhSzHDxPYmJK9ys66l3u-2Dmg2jhOWjGgUDiiVaIX",
+      "icon_72": "https://play-lh.googleusercontent.com/5lYhpcJj9qhv9SHkSxt8wSZUTHoEhSzHDxPYmJK9ys66l3u-2Dmg2jhOWjGgUDiiVaIX=s72-rw",
+      "market_status": "PUBLISHED"
     }
 
   ]

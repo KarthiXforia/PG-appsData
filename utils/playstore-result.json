@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-01-27T14:03:40.477Z",
+  "timestamp": "2025-01-29T09:19:05.501Z",
   "success": true,
-  "total_apps": 45,
+  "total_apps": 8,
   "total_failed": 0,
   "apps": [
     {
@@ -10,29 +10,29 @@
           "IN",
           "US"
         ],
-        "package_name": "com.scopely.monopolygo"
+        "package_name": "com.cardfeed.video_public"
       },
-      "cat_key": "GAMES",
+      "cat_key": "SOCIAL",
       "cat_keys": [
-        "GAMES",
+        "SOCIAL",
         "APPLICATION"
       ],
-      "category": "GAMES",
+      "category": "SOCIAL",
       "description": "",
-      "android_package_name": "com.scopely.monopolygo",
+      "android_package_name": "com.cardfeed.video_public",
       "ios_bundle_id": null,
-      "title": "Monopoly",
+      "title": "public",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.scopely.monopolygo"
+        "https://play.google.com/store/apps/details?id=com.cardfeed.video_public"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
+      "website": "https://play.google.com/store/apps/details?id=com.cardfeed.video_public",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
-      "icon_72": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/qu4DpmCcFpXWXoLYGmgP22KqvTYbGxNQ6ms5IoigrdA-mM3zhvmPgLfHyzgx5vxT5Ds",
+      "icon_72": "https://play-lh.googleusercontent.com/qu4DpmCcFpXWXoLYGmgP22KqvTYbGxNQ6ms5IoigrdA-mM3zhvmPgLfHyzgx5vxT5Ds=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Monopoly"
+      "search_name": "public"
     },
     {
       "app_availability": {
@@ -40,29 +40,29 @@
           "IN",
           "US"
         ],
-        "package_name": "com.chess"
+        "package_name": "com.blockchainvault"
       },
-      "cat_key": "GAMES",
+      "cat_key": "SOCIAL",
       "cat_keys": [
-        "GAMES",
+        "SOCIAL",
         "APPLICATION"
       ],
-      "category": "GAMES",
+      "category": "SOCIAL",
       "description": "",
-      "android_package_name": "com.chess",
+      "android_package_name": "com.blockchainvault",
       "ios_bundle_id": null,
-      "title": "Chess.com",
+      "title": "pi network",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.chess"
+        "https://play.google.com/store/apps/details?id=com.blockchainvault"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.chess",
+      "website": "https://play.google.com/store/apps/details?id=com.blockchainvault",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
-      "icon_72": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/ItxDn_WNq3QPvuXS1jaXwujqvRobrH-hpEqbDy1iCVx0b5Z5dv9ADyfd83Dn6cDsNbE",
+      "icon_72": "https://play-lh.googleusercontent.com/ItxDn_WNq3QPvuXS1jaXwujqvRobrH-hpEqbDy1iCVx0b5Z5dv9ADyfd83Dn6cDsNbE=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Chess.com"
+      "search_name": "pi network"
     },
     {
       "app_availability": {
@@ -70,29 +70,29 @@
           "IN",
           "US"
         ],
-        "package_name": "com.ludo.king"
+        "package_name": "com.communityshaadi.android"
       },
-      "cat_key": "GAMES",
+      "cat_key": "SOCIAL",
       "cat_keys": [
-        "GAMES",
+        "SOCIAL",
         "APPLICATION"
       ],
-      "category": "GAMES",
+      "category": "SOCIAL",
       "description": "",
-      "android_package_name": "com.ludo.king",
+      "android_package_name": "com.communityshaadi.android",
       "ios_bundle_id": null,
-      "title": "Ludo King",
+      "title": "sangam",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.ludo.king"
+        "https://play.google.com/store/apps/details?id=com.communityshaadi.android"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.ludo.king",
+      "website": "https://play.google.com/store/apps/details?id=com.communityshaadi.android",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
-      "icon_72": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/Kg78gTX2ierOOSSqw4noaO5DIDMhLBeu1oFLfBGC2etBs7rfqfMzGmwwx3tph3LSeUNQ",
+      "icon_72": "https://play-lh.googleusercontent.com/Kg78gTX2ierOOSSqw4noaO5DIDMhLBeu1oFLfBGC2etBs7rfqfMzGmwwx3tph3LSeUNQ=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Ludo King"
+      "search_name": "sangam"
     },
     {
       "app_availability": {
@@ -100,29 +100,29 @@
           "IN",
           "US"
         ],
-        "package_name": "com.usm.catanuniverse"
+        "package_name": "com.shaadi.android"
       },
-      "cat_key": "GAMES",
+      "cat_key": "SOCIAL",
       "cat_keys": [
-        "GAMES",
+        "SOCIAL",
         "APPLICATION"
       ],
-      "category": "GAMES",
+      "category": "SOCIAL",
       "description": "",
-      "android_package_name": "com.usm.catanuniverse",
+      "android_package_name": "com.shaadi.android",
       "ios_bundle_id": null,
-      "title": "Catan",
+      "title": "shadi.com",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.usm.catanuniverse"
+        "https://play.google.com/store/apps/details?id=com.shaadi.android"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.usm.catanuniverse",
+      "website": "https://play.google.com/store/apps/details?id=com.shaadi.android",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/P1yUq4Bv5DDWYo9r2ACn3zLxsuKssWZKiMcFj8tTrIFB_ikHTrCj784Uzyohh49iwQ",
-      "icon_72": "https://play-lh.googleusercontent.com/P1yUq4Bv5DDWYo9r2ACn3zLxsuKssWZKiMcFj8tTrIFB_ikHTrCj784Uzyohh49iwQ=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/FgvxpKxwVtXKpvN20OIDKCPJBxx84HTeeoVbNmbrCvudu_ruhIryBQnPEpzkg5NyyA",
+      "icon_72": "https://play-lh.googleusercontent.com/FgvxpKxwVtXKpvN20OIDKCPJBxx84HTeeoVbNmbrCvudu_ruhIryBQnPEpzkg5NyyA=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Catan"
+      "search_name": "shadi.com"
     },
     {
       "app_availability": {
@@ -130,29 +130,29 @@
           "IN",
           "US"
         ],
-        "package_name": "com.pieyel.scrabble"
+        "package_name": "io.chingari.app"
       },
-      "cat_key": "GAMES",
+      "cat_key": "SOCIAL",
       "cat_keys": [
-        "GAMES",
+        "SOCIAL",
         "APPLICATION"
       ],
-      "category": "GAMES",
+      "category": "SOCIAL",
       "description": "",
-      "android_package_name": "com.pieyel.scrabble",
+      "android_package_name": "io.chingari.app",
       "ios_bundle_id": null,
-      "title": "Scrabble GO",
+      "title": "chingari",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.pieyel.scrabble"
+        "https://play.google.com/store/apps/details?id=io.chingari.app"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.pieyel.scrabble",
+      "website": "https://play.google.com/store/apps/details?id=io.chingari.app",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/J0s0_lFHwBJrNkMn00js4V55SAg6hbhjRZPQ9xZqlglh7Ak9aiSXyf90tScrHyzys5St",
-      "icon_72": "https://play-lh.googleusercontent.com/J0s0_lFHwBJrNkMn00js4V55SAg6hbhjRZPQ9xZqlglh7Ak9aiSXyf90tScrHyzys5St=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/r3HEhQRu-lP6H7xImKvwBTa0GBuDTGDqEm1lddmJlzBEiazMrbpaOfgwDPSEDKQBt9A",
+      "icon_72": "https://play-lh.googleusercontent.com/r3HEhQRu-lP6H7xImKvwBTa0GBuDTGDqEm1lddmJlzBEiazMrbpaOfgwDPSEDKQBt9A=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Scrabble GO"
+      "search_name": "chingari"
     },
     {
       "app_availability": {
@@ -160,29 +160,29 @@
           "IN",
           "US"
         ],
-        "package_name": "com.hasbro.riskbigscreen"
+        "package_name": "com.basoft.halo"
       },
-      "cat_key": "GAMES",
+      "cat_key": "SOCIAL",
       "cat_keys": [
-        "GAMES",
+        "SOCIAL",
         "APPLICATION"
       ],
-      "category": "GAMES",
+      "category": "SOCIAL",
       "description": "",
-      "android_package_name": "com.hasbro.riskbigscreen",
+      "android_package_name": "com.basoft.halo",
       "ios_bundle_id": null,
-      "title": "Risk: Global Domination",
+      "title": "yaki",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.hasbro.riskbigscreen"
+        "https://play.google.com/store/apps/details?id=com.basoft.halo"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.hasbro.riskbigscreen",
+      "website": "https://play.google.com/store/apps/details?id=com.basoft.halo",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/LtD5w0tzKOAIc9MLY4KIs0qGqK4mbbx83bZjAfIkIxyrfUjb-iIOVOsP8-TKCTNPug",
-      "icon_72": "https://play-lh.googleusercontent.com/LtD5w0tzKOAIc9MLY4KIs0qGqK4mbbx83bZjAfIkIxyrfUjb-iIOVOsP8-TKCTNPug=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/Hs_OdEoDms4H4uiluGV0XgoX2DanJ6mS0x-c1FR_5uQaVvf5o6EqTLJneh5O5i-91yA",
+      "icon_72": "https://play-lh.googleusercontent.com/Hs_OdEoDms4H4uiluGV0XgoX2DanJ6mS0x-c1FR_5uQaVvf5o6EqTLJneh5O5i-91yA=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Risk: Global Domination"
+      "search_name": "yaki"
     },
     {
       "app_availability": {
@@ -190,29 +190,29 @@
           "IN",
           "US"
         ],
-        "package_name": "com.marmalade.tickettoride"
+        "package_name": "com.palphone.pro.app"
       },
-      "cat_key": "GAMES",
+      "cat_key": "SOCIAL",
       "cat_keys": [
-        "GAMES",
+        "SOCIAL",
         "APPLICATION"
       ],
-      "category": "GAMES",
+      "category": "SOCIAL",
       "description": "",
-      "android_package_name": "com.marmalade.tickettoride",
+      "android_package_name": "com.palphone.pro.app",
       "ios_bundle_id": null,
-      "title": "Ticket to Ride",
+      "title": "palphone",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.marmalade.tickettoride"
+        "https://play.google.com/store/apps/details?id=com.palphone.pro.app"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.marmalade.tickettoride",
+      "website": "https://play.google.com/store/apps/details?id=com.palphone.pro.app",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/kQAJk2pFiHy2BKqlfGVQYHQmPIKFsTCV9SD8tM73W4J5p1vPp9SuEnacjtw6iEj9chM",
-      "icon_72": "https://play-lh.googleusercontent.com/kQAJk2pFiHy2BKqlfGVQYHQmPIKFsTCV9SD8tM73W4J5p1vPp9SuEnacjtw6iEj9chM=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/NtJKWfKy2GcMGOueaV0MVIGZQrCb0fp_EznJgMN8Y1KtcQoW_-1-oOklTAb-JSRZZ4U",
+      "icon_72": "https://play-lh.googleusercontent.com/NtJKWfKy2GcMGOueaV0MVIGZQrCb0fp_EznJgMN8Y1KtcQoW_-1-oOklTAb-JSRZZ4U=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Ticket to Ride"
+      "search_name": "palphone"
     },
     {
       "app_availability": {
@@ -220,1139 +220,29 @@
           "IN",
           "US"
         ],
-        "package_name": "com.asmodeedigital.carcassonne"
+        "package_name": "com.toki.android"
       },
-      "cat_key": "GAMES",
+      "cat_key": "SOCIAL",
       "cat_keys": [
-        "GAMES",
+        "SOCIAL",
         "APPLICATION"
       ],
-      "category": "GAMES",
+      "category": "SOCIAL",
       "description": "",
-      "android_package_name": "com.asmodeedigital.carcassonne",
+      "android_package_name": "com.toki.android",
       "ios_bundle_id": null,
-      "title": "Carcassonne",
+      "title": "toki",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.asmodeedigital.carcassonne"
+        "https://play.google.com/store/apps/details?id=com.toki.android"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.asmodeedigital.carcassonne",
+      "website": "https://play.google.com/store/apps/details?id=com.toki.android",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/pBpKFQ7hs4E9TffxwrA7A3Ehqt37We53nyei5VaRPIRxRssQhHmaKRJBHNR5PhfqpAM",
-      "icon_72": "https://play-lh.googleusercontent.com/pBpKFQ7hs4E9TffxwrA7A3Ehqt37We53nyei5VaRPIRxRssQhHmaKRJBHNR5PhfqpAM=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/5lYhpcJj9qhv9SHkSxt8wSZUTHoEhSzHDxPYmJK9ys66l3u-2Dmg2jhOWjGgUDiiVaIX",
+      "icon_72": "https://play-lh.googleusercontent.com/5lYhpcJj9qhv9SHkSxt8wSZUTHoEhSzHDxPYmJK9ys66l3u-2Dmg2jhOWjGgUDiiVaIX=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Carcassonne"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "uk.co.aifactory.chessfree"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "uk.co.aifactory.chessfree",
-      "ios_bundle_id": null,
-      "title": "Chess Free",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/MIz5PoplSnCXI8rGJpkRegc-7Y1GttatHUqv43X67aoJfC1kqksBuqJgN5T81__847c",
-      "icon_72": "https://play-lh.googleusercontent.com/MIz5PoplSnCXI8rGJpkRegc-7Y1GttatHUqv43X67aoJfC1kqksBuqJgN5T81__847c=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Chess Free"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "uk.co.aifactory.backgammonfree"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "uk.co.aifactory.backgammonfree",
-      "ios_bundle_id": null,
-      "title": "Backgammon",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=uk.co.aifactory.backgammonfree"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=uk.co.aifactory.backgammonfree",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/sKARm51uWAZzXPcqNhJLy9TduKODK2i4dUbV5VIw-BMgunzY-1Dr0JMh6obBSEI8n-M",
-      "icon_72": "https://play-lh.googleusercontent.com/sKARm51uWAZzXPcqNhJLy9TduKODK2i4dUbV5VIw-BMgunzY-1Dr0JMh6obBSEI8n-M=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Backgammon"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.miniclip.checkers"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.miniclip.checkers",
-      "ios_bundle_id": null,
-      "title": "Checkers Free",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.miniclip.checkers"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.miniclip.checkers",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/_2ZV4Ph5ubIWVpfqajNhDr6JvWd2705bbSY-zqtANY0qeBkzbNNHlKTZF_2uAU6GFYQ",
-      "icon_72": "https://play-lh.googleusercontent.com/_2ZV4Ph5ubIWVpfqajNhDr6JvWd2705bbSY-zqtANY0qeBkzbNNHlKTZF_2uAU6GFYQ=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Checkers Free"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.CubeSoftware.BattleOfWarships"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.CubeSoftware.BattleOfWarships",
-      "ios_bundle_id": null,
-      "title": "Battleship",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.CubeSoftware.BattleOfWarships"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.CubeSoftware.BattleOfWarships",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/YJHdGpwSqB5SE6XSubNL9hvM7Rz9Ot-Bpj1Psjm0YRVRr8wZzT0RyDI73Z9JHaswhd2Z",
-      "icon_72": "https://play-lh.googleusercontent.com/YJHdGpwSqB5SE6XSubNL9hvM7Rz9Ot-Bpj1Psjm0YRVRr8wZzT0RyDI73Z9JHaswhd2Z=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Battleship"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.mattel.pictionaryair"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.mattel.pictionaryair",
-      "ios_bundle_id": null,
-      "title": "Pictionary",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.mattel.pictionaryair"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.mattel.pictionaryair",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/u6KvdWzW7PoN61-ukDeoK3WT7thdWWMYdQsc-aNFQvRmBik5hdmxTWFNAUuvriPre_6v",
-      "icon_72": "https://play-lh.googleusercontent.com/u6KvdWzW7PoN61-ukDeoK3WT7thdWWMYdQsc-aNFQvRmBik5hdmxTWFNAUuvriPre_6v=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Pictionary"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.marmalade.cluedogame"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.marmalade.cluedogame",
-      "ios_bundle_id": null,
-      "title": "Clue (Cluedo)",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.marmalade.cluedogame"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.marmalade.cluedogame",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/zvzREZ2SBZ3OoBa5g_Zze3EjvfrNGt8c-QFamLnMXYmB74LMtwySt-nVbZdejlO2vDw",
-      "icon_72": "https://play-lh.googleusercontent.com/zvzREZ2SBZ3OoBa5g_Zze3EjvfrNGt8c-QFamLnMXYmB74LMtwySt-nVbZdejlO2vDw=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Clue (Cluedo)"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.Dominos"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.Dominos",
-      "ios_bundle_id": null,
-      "title": "Dominoes",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.Dominos"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.Dominos",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/_lq2HX0YJNDrr0EeUebLAB2JsGbRGyoFY-XOnuUFTPfeEqaHNIyMOGqLx-oq4mUWPpn0",
-      "icon_72": "https://play-lh.googleusercontent.com/_lq2HX0YJNDrr0EeUebLAB2JsGbRGyoFY-XOnuUFTPfeEqaHNIyMOGqLx-oq4mUWPpn0=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Dominoes"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.scopely.yux"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.scopely.yux",
-      "ios_bundle_id": null,
-      "title": "Yahtzee With Buddies",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.scopely.yux"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.scopely.yux",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/ykqlxKdyt4loN9ZhiVDrmrzcmbpuitNCKtipoW4ndmvY7UoF2JCa-fNR4n7recCFbn4",
-      "icon_72": "https://play-lh.googleusercontent.com/ykqlxKdyt4loN9ZhiVDrmrzcmbpuitNCKtipoW4ndmvY7UoF2JCa-fNR4n7recCFbn4=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Yahtzee With Buddies"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "onetap.game.tictactoe"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "onetap.game.tictactoe",
-      "ios_bundle_id": null,
-      "title": "Tic Tac Toe",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=onetap.game.tictactoe"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=onetap.game.tictactoe",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/KZTO1L6r8CzWlg2InJoU_ndRAuvYiaS-35MyYdDPeeVCPNVfM9SBY2qRGjvvADmDIR8",
-      "icon_72": "https://play-lh.googleusercontent.com/KZTO1L6r8CzWlg2InJoU_ndRAuvYiaS-35MyYdDPeeVCPNVfM9SBY2qRGjvvADmDIR8=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Tic Tac Toe"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.litegames.othello"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.litegames.othello",
-      "ios_bundle_id": null,
-      "title": "Othello (Reversi)",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.litegames.othello"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.litegames.othello",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/i-_DOrQEKgtgL6CFUu46tZ1bEM0juIl8aqX6rRTT1iPE3OOQUC_q-6cq6smEz5iBK12q",
-      "icon_72": "https://play-lh.googleusercontent.com/i-_DOrQEKgtgL6CFUu46tZ1bEM0juIl8aqX6rRTT1iPE3OOQUC_q-6cq6smEz5iBK12q=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Othello (Reversi)"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.zynga.boggle"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.zynga.boggle",
-      "ios_bundle_id": null,
-      "title": "Boggle With Friends",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.zynga.boggle"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.zynga.boggle",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/pStFsp0JrpxD5Bhws9KhrUl1I_qO3Uc6-06CYR4srmJ6_KPladj5b0WAGYqy5dxfCA",
-      "icon_72": "https://play-lh.googleusercontent.com/pStFsp0JrpxD5Bhws9KhrUl1I_qO3Uc6-06CYR4srmJ6_KPladj5b0WAGYqy5dxfCA=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Boggle With Friends"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.zynga.words3"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.zynga.words3",
-      "ios_bundle_id": null,
-      "title": "Words with Friends 2",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.zynga.words3"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.zynga.words3",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/XtDP2dP3rhnai75vWxlo5Zsa88dqYioAxkeQ7un9JUQTz0PL2EyBgfjDuyD01Wy0BX0",
-      "icon_72": "https://play-lh.googleusercontent.com/XtDP2dP3rhnai75vWxlo5Zsa88dqYioAxkeQ7un9JUQTz0PL2EyBgfjDuyD01Wy0BX0=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Words with Friends 2"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.ludo.king"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.ludo.king",
-      "ios_bundle_id": null,
-      "title": "Ludo Master",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.ludo.king"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.ludo.king",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA",
-      "icon_72": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Ludo Master"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.superking.parchisi.star"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.superking.parchisi.star",
-      "ios_bundle_id": null,
-      "title": "Parchisi STAR",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.superking.parchisi.star"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.superking.parchisi.star",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO",
-      "icon_72": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Parchisi STAR"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "net.peakgames.mobile.spades.android"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "net.peakgames.mobile.spades.android",
-      "ios_bundle_id": null,
-      "title": "Spades Plus",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=net.peakgames.mobile.spades.android"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=net.peakgames.mobile.spades.android",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/CswvjITnOo68rqeajE4vVRAIm0yunq3gbAjVw1MFYPmjs2p0PjOdBO_8ppO3BCimoJM",
-      "icon_72": "https://play-lh.googleusercontent.com/CswvjITnOo68rqeajE4vVRAIm0yunq3gbAjVw1MFYPmjs2p0PjOdBO_8ppO3BCimoJM=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Spades Plus"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.mattel163.phase10"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.mattel163.phase10",
-      "ios_bundle_id": null,
-      "title": "Phase 10",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.mattel163.phase10"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.mattel163.phase10",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/9m_um_uvjPojsD1Bm3Gbhiu7JpeId7ZGVagqxzFUm8LxwojsXW6wyMxJ8VNimADryes",
-      "icon_72": "https://play-lh.googleusercontent.com/9m_um_uvjPojsD1Bm3Gbhiu7JpeId7ZGVagqxzFUm8LxwojsXW6wyMxJ8VNimADryes=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Phase 10"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.mobirix.connectfour"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.mobirix.connectfour",
-      "ios_bundle_id": null,
-      "title": "Connect 4",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.mobirix.connectfour"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.mobirix.connectfour",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/Zr0HM8o9cKRv_nmxOrKG8LGY8SQy5tN4BK7awfSQGny8yHlRWcHwvRCke-xt8tEFVUHQ",
-      "icon_72": "https://play-lh.googleusercontent.com/Zr0HM8o9cKRv_nmxOrKG8LGY8SQy5tN4BK7awfSQGny8yHlRWcHwvRCke-xt8tEFVUHQ=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Connect 4"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "de.saschahlusiak.freebloks"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "de.saschahlusiak.freebloks",
-      "ios_bundle_id": null,
-      "title": "Blokus",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=de.saschahlusiak.freebloks"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=de.saschahlusiak.freebloks",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/UgiQMByGl8P6eBQMQrNDniFA0UxVDJlv9DyKQVHMZT4iDERd_XeL6mRYfFXk68FUmAg",
-      "icon_72": "https://play-lh.googleusercontent.com/UgiQMByGl8P6eBQMQrNDniFA0UxVDJlv9DyKQVHMZT4iDERd_XeL6mRYfFXk68FUmAg=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Blokus"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "uk.co.aifactory.chessfree"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "uk.co.aifactory.chessfree",
-      "ios_bundle_id": null,
-      "title": "Chess Free",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/MIz5PoplSnCXI8rGJpkRegc-7Y1GttatHUqv43X67aoJfC1kqksBuqJgN5T81__847c",
-      "icon_72": "https://play-lh.googleusercontent.com/MIz5PoplSnCXI8rGJpkRegc-7Y1GttatHUqv43X67aoJfC1kqksBuqJgN5T81__847c=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Chess Free"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.marmalade.gol2"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.marmalade.gol2",
-      "ios_bundle_id": null,
-      "title": "The Game of Life",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.marmalade.gol2"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.marmalade.gol2",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/pqn8Xs5cAT72M7tn_Hn1s1AJi1veFEf5aAzMGl4tx6A-UFLD9MGl1MGm7xUsDQuovxzs",
-      "icon_72": "https://play-lh.googleusercontent.com/pqn8Xs5cAT72M7tn_Hn1s1AJi1veFEf5aAzMGl4tx6A-UFLD9MGl1MGm7xUsDQuovxzs=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "The Game of Life"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.KhoGames.TowerBlocks3"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.KhoGames.TowerBlocks3",
-      "ios_bundle_id": null,
-      "title": "Jenga",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.KhoGames.TowerBlocks3"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.KhoGames.TowerBlocks3",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/YFRNYGZnZ-ZM2B7MdCQGscS2yXHMeLwQ1KwXF_81DnoUz2MhZU9Ba3IIqh3_FKKtMA",
-      "icon_72": "https://play-lh.googleusercontent.com/YFRNYGZnZ-ZM2B7MdCQGscS2yXHMeLwQ1KwXF_81DnoUz2MhZU9Ba3IIqh3_FKKtMA=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Jenga"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "air.com.buffalo_studios.newflashbingo"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "air.com.buffalo_studios.newflashbingo",
-      "ios_bundle_id": null,
-      "title": "Bingo Blitz",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/TxNjIvd7gtow3MWIcOdqTy20kiQmuJcGp5AqUU46jOf71PXulZd5lIOzoZ88qGF2Xxw",
-      "icon_72": "https://play-lh.googleusercontent.com/TxNjIvd7gtow3MWIcOdqTy20kiQmuJcGp5AqUU46jOf71PXulZd5lIOzoZ88qGF2Xxw=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Bingo Blitz"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.rummikubfree"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.rummikubfree",
-      "ios_bundle_id": null,
-      "title": "Rummikub",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.rummikubfree"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.rummikubfree",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/rPvgLje5dh9bInqtoXGlmAp9DMNCaiAVQLEGthsTQKLSOa5GKoIIJC0Nc_e5ZDovTg",
-      "icon_72": "https://play-lh.googleusercontent.com/rPvgLje5dh9bInqtoXGlmAp9DMNCaiAVQLEGthsTQKLSOa5GKoIIJC0Nc_e5ZDovTg=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Rummikub"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.qenegames.gebeta"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.qenegames.gebeta",
-      "ios_bundle_id": null,
-      "title": "Mancala",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.qenegames.gebeta"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.qenegames.gebeta",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/Bef5TYXNXmlkKIzy6c6FlHk85IlZvEKttrhmdU5ezfl69aUgFeOMoLEhXWZXCOhpDbw",
-      "icon_72": "https://play-lh.googleusercontent.com/Bef5TYXNXmlkKIzy6c6FlHk85IlZvEKttrhmdU5ezfl69aUgFeOMoLEhXWZXCOhpDbw=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Mancala"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.marmalade.taboo"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.marmalade.taboo",
-      "ios_bundle_id": null,
-      "title": "Taboo",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.marmalade.taboo"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.marmalade.taboo",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/8OVLr3GhCrLB-yVaIQvIActDMHhj1kTfX4AJoYfUuSMMz0OAO2bksn-82_A4k8CKPIIi",
-      "icon_72": "https://play-lh.googleusercontent.com/8OVLr3GhCrLB-yVaIQvIActDMHhj1kTfX4AJoYfUuSMMz0OAO2bksn-82_A4k8CKPIIi=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Taboo"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "ru.zonkpro"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "ru.zonkpro",
-      "ios_bundle_id": null,
-      "title": "Farkle (Free)",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=ru.zonkpro"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=ru.zonkpro",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/UZOMMH9XNoKrRycvjoFcjKO0B8gh9JGts4AQUF4tFDxmfSBsq58FldAb6-0u0brXIW_s",
-      "icon_72": "https://play-lh.googleusercontent.com/UZOMMH9XNoKrRycvjoFcjKO0B8gh9JGts4AQUF4tFDxmfSBsq58FldAb6-0u0brXIW_s=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Farkle (Free)"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.zynga.boggle"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.zynga.boggle",
-      "ios_bundle_id": null,
-      "title": "Boggle",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.zynga.boggle"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.zynga.boggle",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/pStFsp0JrpxD5Bhws9KhrUl1I_qO3Uc6-06CYR4srmJ6_KPladj5b0WAGYqy5dxfCA",
-      "icon_72": "https://play-lh.googleusercontent.com/pStFsp0JrpxD5Bhws9KhrUl1I_qO3Uc6-06CYR4srmJ6_KPladj5b0WAGYqy5dxfCA=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Boggle"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.czechgames.codenamesdigital"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.czechgames.codenamesdigital",
-      "ios_bundle_id": null,
-      "title": "Codenames",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.czechgames.codenamesdigital"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.czechgames.codenamesdigital",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/e9vBxr34fFYXPqJfrRdcQbYZPPe3dVDY8iXdXwKqAWVxdsuwrFglWGEqJ494BVrQNdeW",
-      "icon_72": "https://play-lh.googleusercontent.com/e9vBxr34fFYXPqJfrRdcQbYZPPe3dVDY8iXdXwKqAWVxdsuwrFglWGEqJ494BVrQNdeW=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Codenames"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.fanatee.stop"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.fanatee.stop",
-      "ios_bundle_id": null,
-      "title": "Scattergories",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.fanatee.stop"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.fanatee.stop",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/DvfqcFEjkdiWhAgvKSdRc5eX8GcdN8dIsYfIB3fJpQ3KantDMgEqwdhPv6M_3wHGLQmj",
-      "icon_72": "https://play-lh.googleusercontent.com/DvfqcFEjkdiWhAgvKSdRc5eX8GcdN8dIsYfIB3fJpQ3KantDMgEqwdhPv6M_3wHGLQmj=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Scattergories"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.trivia.star.android"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.trivia.star.android",
-      "ios_bundle_id": null,
-      "title": "Trivial Pursuit",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.trivia.star.android"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.trivia.star.android",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/gy2Uy9B0mpQtOLoUSG17h-pJs7XjyjsxkKKyD4s_GFqL_bvHHjsdLO9ZNQBisv0_cZJt",
-      "icon_72": "https://play-lh.googleusercontent.com/gy2Uy9B0mpQtOLoUSG17h-pJs7XjyjsxkKKyD4s_GFqL_bvHHjsdLO9ZNQBisv0_cZJt=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Trivial Pursuit"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.direwolfdigital.yellow"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.direwolfdigital.yellow",
-      "ios_bundle_id": null,
-      "title": "Tigris & Euphrates",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.direwolfdigital.yellow"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.direwolfdigital.yellow",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/83vOyvTxr_ItLGgOt7OCmskOXmHzlv24seqiVw55k7AATYQDJFqXSKvKr7MP490Hxg",
-      "icon_72": "https://play-lh.googleusercontent.com/83vOyvTxr_ItLGgOt7OCmskOXmHzlv24seqiVw55k7AATYQDJFqXSKvKr7MP490Hxg=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Tigris & Euphrates"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.digidiced.bvbrelease"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.digidiced.bvbrelease",
-      "ios_bundle_id": null,
-      "title": "The Castles of Burgundy",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.digidiced.bvbrelease"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.digidiced.bvbrelease",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/_fHxt2t0jWahWBWDxGLzSf8hGtzsdHh01YnjDtrLoYeCx5YVT0R1dsIT80-n7qDLBEk",
-      "icon_72": "https://play-lh.googleusercontent.com/_fHxt2t0jWahWBWDxGLzSf8hGtzsdHh01YnjDtrLoYeCx5YVT0R1dsIT80-n7qDLBEk=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "The Castles of Burgundy"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "business.card.game"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "business.card.game",
-      "ios_bundle_id": null,
-      "title": "Monopoly Deal",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=business.card.game"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=business.card.game",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/MaXUp2CeJMW85tw0a_s2DQET1Q200DFoSsccGhFFiJsjfC3nh7Ec5KNEMn2y0IKt1qA",
-      "icon_72": "https://play-lh.googleusercontent.com/MaXUp2CeJMW85tw0a_s2DQET1Q200DFoSsccGhFFiJsjfC3nh7Ec5KNEMn2y0IKt1qA=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Monopoly Deal"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.seekho.android"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.seekho.android",
-      "ios_bundle_id": null,
-      "title": "Sequence",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.seekho.android"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.seekho.android",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/xNIN7jOhQyMcwvpgIQaF81Blbn5crzjf7lao39rxabLR4Xl8jsEIBN2XTvoPMDAaQKo",
-      "icon_72": "https://play-lh.googleusercontent.com/xNIN7jOhQyMcwvpgIQaF81Blbn5crzjf7lao39rxabLR4Xl8jsEIBN2XTvoPMDAaQKo=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Sequence"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "uk.co.aifactory.chessfree"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "uk.co.aifactory.chessfree",
-      "ios_bundle_id": null,
-      "title": "Chesster",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/MIz5PoplSnCXI8rGJpkRegc-7Y1GttatHUqv43X67aoJfC1kqksBuqJgN5T81__847c",
-      "icon_72": "https://play-lh.googleusercontent.com/MIz5PoplSnCXI8rGJpkRegc-7Y1GttatHUqv43X67aoJfC1kqksBuqJgN5T81__847c=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Chesster"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.asha.shutthebox"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "com.asha.shutthebox",
-      "ios_bundle_id": null,
-      "title": "Shut the Box",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.asha.shutthebox"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.asha.shutthebox",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/DMQfCKqUStD82dl9L1ja38qYKaHdMjfvksKHtZv1pWkXC7cp5S0DhB-eQd_bkNAKg5kn",
-      "icon_72": "https://play-lh.googleusercontent.com/DMQfCKqUStD82dl9L1ja38qYKaHdMjfvksKHtZv1pWkXC7cp5S0DhB-eQd_bkNAKg5kn=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Shut the Box"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "co.lynde.mzgun"
-      },
-      "cat_key": "GAMES",
-      "cat_keys": [
-        "GAMES",
-        "APPLICATION"
-      ],
-      "category": "GAMES",
-      "description": "",
-      "android_package_name": "co.lynde.mzgun",
-      "ios_bundle_id": null,
-      "title": "Mastermind",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=co.lynde.mzgun"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=co.lynde.mzgun",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/Ta8CiwtHRnMdUig8G0a34rgElqGZfGmutjWfJyM5TjGjVpYIn6TWxeN6Dp547-She2w",
-      "icon_72": "https://play-lh.googleusercontent.com/Ta8CiwtHRnMdUig8G0a34rgElqGZfGmutjWfJyM5TjGjVpYIn6TWxeN6Dp547-She2w=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Mastermind"
+      "search_name": "toki"
     }
   ],
   "failed_apps": []

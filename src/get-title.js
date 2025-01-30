@@ -36,12 +36,13 @@ app.get("/title", (req, res) => {
     const icon_72 = appsData.map((app)=>app.icon_72)
     const website= appsData.map((app)=>app.website)
     const domain_name= appsData.map((app)=>app.domain_name)
+    const available_in = appsData.map((app)=>app.available_in)
     
 
     res.json({
       success: true,
-      count: titles.length,
-      titles    });
+      count: available_in.length,
+      available_in    });
   } catch (error) {
     console.error("Error fetching titles:", error);
     res.status(500).json({
