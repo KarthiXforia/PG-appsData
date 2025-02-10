@@ -3,7 +3,7 @@ import csv from "csv-parser";
 import express from "express";
 import path from "path";
 
-const INPUT_FILE_PATH = "/Users/Xforia-User/Downloads/top.csv";
+const INPUT_FILE_PATH = "/Users/Xforia-User/Downloads/Untitled spreadsheet - Sheet1 (1).csv";
 const OUTPUT_FILE_PATH = "output.json";
 const PORT = 7005;
 const BATCH_SIZE = 100;

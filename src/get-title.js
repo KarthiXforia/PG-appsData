@@ -41,8 +41,8 @@ app.get("/title", (req, res) => {
 
     res.json({
       success: true,
-      count: available_in.length,
-      available_in    });
+      count: titles.length,
+      titles    });
   } catch (error) {
     console.error("Error fetching titles:", error);
     res.status(500).json({
