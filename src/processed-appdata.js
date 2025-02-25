@@ -38,6 +38,7 @@ function processAppData(appstoreData, playstoreData) {
           available_in: playstoreApp.app_availability.available_in || [
             "IN",
             "US",
+            "UK"
           ],
           package_name:
             playstoreApp.package_name || playstoreApp.android_package_name,
@@ -56,6 +57,7 @@ function processAppData(appstoreData, playstoreData) {
         icon: playstoreApp.icon,
         icon_72: playstoreApp.icon_72,
         market_status: appstoreApp.market_status,
+        isPopular: true
       };
 
       // Only include properties that have values

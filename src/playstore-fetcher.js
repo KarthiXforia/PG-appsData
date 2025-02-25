@@ -148,7 +148,7 @@ async function fetchPlayStoreData(appInfo, category) {
       success: true,
       data: {
         app_availability: {
-          available_in: ["IN", "US"],
+          available_in: ["IN", "US", "UK"],
           package_name: packageName,
         },
         cat_key: finalCategory.toUpperCase(),
@@ -167,6 +167,7 @@ async function fetchPlayStoreData(appInfo, category) {
         market_status: "PUBLISHED",
         store: "playstore",
         search_name: appInfo.name,
+        isPopular: true
       },
     };
   } catch (error) {

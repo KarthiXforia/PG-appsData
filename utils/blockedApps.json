@@ -317,6 +317,48 @@
     },
     {
       "app_availability": {
+        "available_in": ["US"],
+        "package_name": "live.bunch.group.video.chat.party.games"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "DATING Networking",
+      "description": "Bunch is your place to talk, share and play together!\nStay connected with your best friends, and have endless fun even when you’re miles apart!\n\nHOST A HOUSE PARTY - ANYTIME, ANYWHERE!\n\n• Group video chat with up to 8 friends in your house\n• See who is online, and join them instantly\n• Friends of friends? They can join too!\n\nTALK AND PLAY GAMES WITH FRIENDS\n\n• Play instant games: throw hoops, play pool, draw together and more\n• Video chat while playing any game or using any app with friends\n• Explore new worlds from fishing island to Bunch Town\n\nWATCH VIDEOS & SING KARAOKE TOGETHER\n\n• Watch YouTube and vibe to music videos together\n• Sing Karaoke with friends and unleash your inner star!\n\nEXPRESS YOURSELF!\n\n• Create your avatar and show off your unique style\n• Design your dream home, invite your friends over\n\nWith Bunch, your best friends are always just one tap away!",
+      "android_package_name": "live.bunch.group.video.chat.party.games",
+      "ios_bundle_id": "com.house.party.adult.group.game",
+      "title": "Houseparty",
+      "domain_name": ["http://www.bunch.live", "https://www.bunch.live"],
+      "website": "http://www.bunch.live",
+      "developer": "Bunch Live, Inc",
+      "app_country": "US",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/c2/ad/7cc2ad1b-7341-f9c9-f9a7-9beddfa9d10b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "icon_72": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/c2/ad/7cc2ad1b-7341-f9c9-f9a7-9beddfa9d10b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": false
+    },
+    {
+      "app_availability": {
+        "available_in": ["IN", "US", "Uk"],
+        "package_name": "com.tango.me"
+      },
+      "cat_key": "DATING",
+      "cat_keys": ["DATING", "APPLICATION"],
+      "category": "Live Streaming",
+      "description": "Tango allows users to stream live video and chat with friends or strangers in real-time.",
+      "android_package_name": "com.sgiggle.production",
+      "ios_bundle_id": "com.sgiggle.Tango",
+      "title": "Tango - Live Stream, Video Chat",
+      "domain_name": ["https://www.tango.me"],
+      "website": "https://www.tango.me",
+      "developer": "TangoMe, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/i3vOVVhInndYOZOXPSVZGehGnPyRJvUK2AF7wTzuCd7Ec4i6A-wI2DAkjoR_1B3yGHE",
+      "icon_72": "https://play-lh.googleusercontent.com/i3vOVVhInndYOZOXPSVZGehGnPyRJvUK2AF7wTzuCd7Ec4i6A-wI2DAkjoR_1B3yGHE=s72",
+      "market_status": "PUBLISHED",
+      "isPopular": false
+    },
+    {
+      "app_availability": {
         "available_in": [
           "IN",
           "US"

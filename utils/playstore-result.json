@@ -1,248 +1,40 @@
 {
-  "timestamp": "2025-01-29T09:19:05.501Z",
+  "timestamp": "2025-02-19T10:37:49.149Z",
   "success": true,
-  "total_apps": 8,
+  "total_apps": 1,
   "total_failed": 0,
   "apps": [
     {
       "app_availability": {
         "available_in": [
           "IN",
-          "US"
+          "US",
+          "UK"
         ],
-        "package_name": "com.cardfeed.video_public"
+        "package_name": "rtve.tablet.android"
       },
-      "cat_key": "SOCIAL",
+      "cat_key": "ENTERTAINMENT",
       "cat_keys": [
-        "SOCIAL",
+        "ENTERTAINMENT",
         "APPLICATION"
       ],
-      "category": "SOCIAL",
+      "category": "ENTERTAINMENT",
       "description": "",
-      "android_package_name": "com.cardfeed.video_public",
+      "android_package_name": "rtve.tablet.android",
       "ios_bundle_id": null,
-      "title": "public",
+      "title": "RTVE Play",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.cardfeed.video_public"
+        "https://play.google.com/store/apps/details?id=rtve.tablet.android"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.cardfeed.video_public",
+      "website": "https://play.google.com/store/apps/details?id=rtve.tablet.android",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/qu4DpmCcFpXWXoLYGmgP22KqvTYbGxNQ6ms5IoigrdA-mM3zhvmPgLfHyzgx5vxT5Ds",
-      "icon_72": "https://play-lh.googleusercontent.com/qu4DpmCcFpXWXoLYGmgP22KqvTYbGxNQ6ms5IoigrdA-mM3zhvmPgLfHyzgx5vxT5Ds=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/hUNNtQYgxZRFe7ZcGe7_1CenYl1e2SZZWPkvvf7bHeBwoDlLWA2t3n5TTOJwnBMSODM",
+      "icon_72": "https://play-lh.googleusercontent.com/hUNNtQYgxZRFe7ZcGe7_1CenYl1e2SZZWPkvvf7bHeBwoDlLWA2t3n5TTOJwnBMSODM=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "public"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.blockchainvault"
-      },
-      "cat_key": "SOCIAL",
-      "cat_keys": [
-        "SOCIAL",
-        "APPLICATION"
-      ],
-      "category": "SOCIAL",
-      "description": "",
-      "android_package_name": "com.blockchainvault",
-      "ios_bundle_id": null,
-      "title": "pi network",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.blockchainvault"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.blockchainvault",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/ItxDn_WNq3QPvuXS1jaXwujqvRobrH-hpEqbDy1iCVx0b5Z5dv9ADyfd83Dn6cDsNbE",
-      "icon_72": "https://play-lh.googleusercontent.com/ItxDn_WNq3QPvuXS1jaXwujqvRobrH-hpEqbDy1iCVx0b5Z5dv9ADyfd83Dn6cDsNbE=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "pi network"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.communityshaadi.android"
-      },
-      "cat_key": "SOCIAL",
-      "cat_keys": [
-        "SOCIAL",
-        "APPLICATION"
-      ],
-      "category": "SOCIAL",
-      "description": "",
-      "android_package_name": "com.communityshaadi.android",
-      "ios_bundle_id": null,
-      "title": "sangam",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.communityshaadi.android"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.communityshaadi.android",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/Kg78gTX2ierOOSSqw4noaO5DIDMhLBeu1oFLfBGC2etBs7rfqfMzGmwwx3tph3LSeUNQ",
-      "icon_72": "https://play-lh.googleusercontent.com/Kg78gTX2ierOOSSqw4noaO5DIDMhLBeu1oFLfBGC2etBs7rfqfMzGmwwx3tph3LSeUNQ=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "sangam"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.shaadi.android"
-      },
-      "cat_key": "SOCIAL",
-      "cat_keys": [
-        "SOCIAL",
-        "APPLICATION"
-      ],
-      "category": "SOCIAL",
-      "description": "",
-      "android_package_name": "com.shaadi.android",
-      "ios_bundle_id": null,
-      "title": "shadi.com",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.shaadi.android"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.shaadi.android",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/FgvxpKxwVtXKpvN20OIDKCPJBxx84HTeeoVbNmbrCvudu_ruhIryBQnPEpzkg5NyyA",
-      "icon_72": "https://play-lh.googleusercontent.com/FgvxpKxwVtXKpvN20OIDKCPJBxx84HTeeoVbNmbrCvudu_ruhIryBQnPEpzkg5NyyA=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "shadi.com"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "io.chingari.app"
-      },
-      "cat_key": "SOCIAL",
-      "cat_keys": [
-        "SOCIAL",
-        "APPLICATION"
-      ],
-      "category": "SOCIAL",
-      "description": "",
-      "android_package_name": "io.chingari.app",
-      "ios_bundle_id": null,
-      "title": "chingari",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=io.chingari.app"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=io.chingari.app",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/r3HEhQRu-lP6H7xImKvwBTa0GBuDTGDqEm1lddmJlzBEiazMrbpaOfgwDPSEDKQBt9A",
-      "icon_72": "https://play-lh.googleusercontent.com/r3HEhQRu-lP6H7xImKvwBTa0GBuDTGDqEm1lddmJlzBEiazMrbpaOfgwDPSEDKQBt9A=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "chingari"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.basoft.halo"
-      },
-      "cat_key": "SOCIAL",
-      "cat_keys": [
-        "SOCIAL",
-        "APPLICATION"
-      ],
-      "category": "SOCIAL",
-      "description": "",
-      "android_package_name": "com.basoft.halo",
-      "ios_bundle_id": null,
-      "title": "yaki",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.basoft.halo"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.basoft.halo",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/Hs_OdEoDms4H4uiluGV0XgoX2DanJ6mS0x-c1FR_5uQaVvf5o6EqTLJneh5O5i-91yA",
-      "icon_72": "https://play-lh.googleusercontent.com/Hs_OdEoDms4H4uiluGV0XgoX2DanJ6mS0x-c1FR_5uQaVvf5o6EqTLJneh5O5i-91yA=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "yaki"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.palphone.pro.app"
-      },
-      "cat_key": "SOCIAL",
-      "cat_keys": [
-        "SOCIAL",
-        "APPLICATION"
-      ],
-      "category": "SOCIAL",
-      "description": "",
-      "android_package_name": "com.palphone.pro.app",
-      "ios_bundle_id": null,
-      "title": "palphone",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.palphone.pro.app"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.palphone.pro.app",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/NtJKWfKy2GcMGOueaV0MVIGZQrCb0fp_EznJgMN8Y1KtcQoW_-1-oOklTAb-JSRZZ4U",
-      "icon_72": "https://play-lh.googleusercontent.com/NtJKWfKy2GcMGOueaV0MVIGZQrCb0fp_EznJgMN8Y1KtcQoW_-1-oOklTAb-JSRZZ4U=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "palphone"
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US"
-        ],
-        "package_name": "com.toki.android"
-      },
-      "cat_key": "SOCIAL",
-      "cat_keys": [
-        "SOCIAL",
-        "APPLICATION"
-      ],
-      "category": "SOCIAL",
-      "description": "",
-      "android_package_name": "com.toki.android",
-      "ios_bundle_id": null,
-      "title": "toki",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.toki.android"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.toki.android",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/5lYhpcJj9qhv9SHkSxt8wSZUTHoEhSzHDxPYmJK9ys66l3u-2Dmg2jhOWjGgUDiiVaIX",
-      "icon_72": "https://play-lh.googleusercontent.com/5lYhpcJj9qhv9SHkSxt8wSZUTHoEhSzHDxPYmJK9ys66l3u-2Dmg2jhOWjGgUDiiVaIX=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "toki"
+      "search_name": "RTVE Play",
+      "isPopular": true
     }
   ],
   "failed_apps": []

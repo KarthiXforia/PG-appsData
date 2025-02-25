@@ -67,7 +67,7 @@ async function fetchAppStoreDataWithRetry(appInfo, retryCount = 0) {
       success: true,
       data: {
         app_availability: {
-          available_in: ["IN", "US"],
+          available_in: ["IN", "US", "UK"],
           package_name: appData.bundleId,
         },
         cat_key: appData.primaryGenreName.toUpperCase(),
@@ -93,6 +93,7 @@ async function fetchAppStoreDataWithRetry(appInfo, retryCount = 0) {
         minimum_os_version: appData.minimumOsVersion,
         store: "itunes",
         original_search: appInfo.search_terms.itunes,
+        isPopular: true
       },
     };
   } catch (error) {

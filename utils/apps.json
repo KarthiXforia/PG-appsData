@@ -1,73 +1,18 @@
 {
   "categories": {
-    "SOCIAL": {
+    "ENTERTAINMENT": {
       "id": "6005",
         "apps": [
           {
-            "name": "public",
-            "display_name": "public",
+            "name": "RTVE Play",
+            "display_name": "RTVE Play",
             "search_terms": {
-              "itunes": "public",
-              "playstore": "public"
-            }
-          },
-          {
-            "name": "pi network",
-            "display_name": "pi network",
-            "search_terms": {
-              "itunes": "pi network",
-              "playstore": "pi network"
-            }
-          },
-          {
-            "name": "sangam",
-            "display_name": "sangam",
-            "search_terms": {
-              "itunes": "sangam",
-              "playstore": "sangam"
-            }
-          },
-          {
-            "name": "shadi.com",
-            "display_name": "shadi.com",
-            "search_terms": {
-              "itunes": "shadi.com",
-              "playstore": "shadi.com"
-            }
-          },
-          {
-            "name": "chingari",
-            "display_name": "chingari",
-            "search_terms": {
-              "itunes": "chingari",
-              "playstore": "chingari"
-            }
-          },
-          {
-            "name": "yaki",
-            "display_name": "yaki",
-            "search_terms": {
-              "itunes": "yaki",
-              "playstore": "yaki"
-            }
-          },
-          {
-            "name": "palphone",
-            "display_name": "palphone",
-            "search_terms": {
-              "itunes": "palphone",
-              "playstore": "palphone"
-            }
-          },
-          {
-            "name": "toki",
-            "display_name": "toki",
-            "search_terms": {
-              "itunes": "toki",
-              "playstore": "toki"
+              "itunes": "RTVE Play",
+              "playstore": "RTVE Play"
             }
           }
         ]
+        
     }
   }
 }
