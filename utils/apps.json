@@ -1,14 +1,382 @@
 {
   "categories": {
-    "ENTERTAINMENT": {
-      "id": "6005",
+    "PREINSTALLED": {
+      "id": "7015",
         "apps": [
           {
-            "name": "RTVE Play",
-            "display_name": "RTVE Play",
+            "name": "Clock",
+            "display_name": "Clock",
             "search_terms": {
-              "itunes": "RTVE Play",
-              "playstore": "RTVE Play"
+              "itunes": "Clock",
+              "playstore": "Clock"
+            }
+          },
+          {
+            "name": "Settings",
+            "display_name": "Settings",
+            "search_terms": {
+              "itunes": "Settings",
+              "playstore": "Settings"
+            }
+          },
+          {
+            "name": "Calculator",
+            "display_name": "Calculator",
+            "search_terms": {
+              "itunes": "Calculator",
+              "playstore": "Calculator"
+            }
+          },
+          {
+            "name": "File Manager",
+            "display_name": "File Manager",
+            "search_terms": {
+              "itunes": "File Manager",
+              "playstore": "File Manager"
+            }
+          },
+          {
+            "name": "Camera",
+            "display_name": "Camera",
+            "search_terms": {
+              "itunes": "Camera",
+              "playstore": "Camera"
+            }
+          },
+          {
+            "name": "Gallery",
+            "display_name": "Gallery",
+            "search_terms": {
+              "itunes": "Gallery",
+              "playstore": "Gallery"
+            }
+          },
+          {
+            "name": "Calendar",
+            "display_name": "Calendar",
+            "search_terms": {
+              "itunes": "Calendar",
+              "playstore": "Calendar"
+            }
+          },
+          {
+            "name": "Email",
+            "display_name": "Email",
+            "search_terms": {
+              "itunes": "Email",
+              "playstore": "Email"
+            }
+          },
+          {
+            "name": "Browser",
+            "display_name": "Browser",
+            "search_terms": {
+              "itunes": "Browser",
+              "playstore": "Browser"
+            }
+          },
+          {
+            "name": "Store",
+            "display_name": "Store",
+            "search_terms": {
+              "itunes": "Store",
+              "playstore": "Store"
+            }
+          },
+          {
+            "name": "Voice Recorder",
+            "display_name": "Voice Recorder",
+            "search_terms": {
+              "itunes": "Voice Recorder",
+              "playstore": "Voice Recorder"
+            }
+          },
+          {
+            "name": "Play Store",
+            "display_name": "Play Store",
+            "search_terms": {
+              "itunes": "Play Store",
+              "playstore": "Play Store"
+            }
+          },
+          {
+            "name": "Google",
+            "display_name": "Google",
+            "search_terms": {
+              "itunes": "Google",
+              "playstore": "Google"
+            }
+          },
+          {
+            "name": "Gmail",
+            "display_name": "Gmail",
+            "search_terms": {
+              "itunes": "Gmail",
+              "playstore": "Gmail"
+            }
+          },
+          {
+            "name": "Meet",
+            "display_name": "Meet",
+            "search_terms": {
+              "itunes": "Meet",
+              "playstore": "Meet"
+            }
+          },
+          {
+            "name": "Chrome",
+            "display_name": "Chrome",
+            "search_terms": {
+              "itunes": "Chrome",
+              "playstore": "Chrome"
+            }
+          },
+          {
+            "name": "Maps",
+            "display_name": "Maps",
+            "search_terms": {
+              "itunes": "Maps",
+              "playstore": "Maps"
+            }
+          },
+          {
+            "name": "Photos",
+            "display_name": "Photos",
+            "search_terms": {
+              "itunes": "Photos",
+              "playstore": "Photos"
+            }
+          },
+          {
+            "name": "Image Playground",
+            "display_name": "Image Playground",
+            "search_terms": {
+              "itunes": "Image Playground",
+              "playstore": "Image Playground"
+            }
+          },
+          {
+            "name": "iMovie",
+            "display_name": "iMovie",
+            "search_terms": {
+              "itunes": "iMovie",
+              "playstore": "iMovie"
+            }
+          },
+          {
+            "name": "iTunes Store",
+            "display_name": "iTunes Store",
+            "search_terms": {
+              "itunes": "iTunes Store",
+              "playstore": "iTunes Store"
+            }
+          },
+          {
+            "name": "Journal",
+            "display_name": "Journal",
+            "search_terms": {
+              "itunes": "Journal",
+              "playstore": "Journal"
+            }
+          },
+          {
+            "name": "Keynote",
+            "display_name": "Keynote",
+            "search_terms": {
+              "itunes": "Keynote",
+              "playstore": "Keynote"
+            }
+          },
+          {
+            "name": "Magnifier",
+            "display_name": "Magnifier",
+            "search_terms": {
+              "itunes": "Magnifier",
+              "playstore": "Magnifier"
+            }
+          },
+          {
+            "name": "MapsMeasure",
+            "display_name": "MapsMeasure",
+            "search_terms": {
+              "itunes": "MapsMeasure",
+              "playstore": "MapsMeasure"
+            }
+          },
+          {
+            "name": "Messages",
+            "display_name": "Messages",
+            "search_terms": {
+              "itunes": "Messages",
+              "playstore": "Messages"
+            }
+          },
+          {
+            "name": "Music",
+            "display_name": "Music",
+            "search_terms": {
+              "itunes": "Music",
+              "playstore": "Music"
+            }
+          },
+          {
+            "name": "News",
+            "display_name": "News",
+            "search_terms": {
+              "itunes": "News",
+              "playstore": "News"
+            }
+          },
+          {
+            "name": "Notes",
+            "display_name": "Notes",
+            "search_terms": {
+              "itunes": "Notes",
+              "playstore": "Notes"
+            }
+          },
+          {
+            "name": "Numbers",
+            "display_name": "Numbers",
+            "search_terms": {
+              "itunes": "Numbers",
+              "playstore": "Numbers"
+            }
+          },
+          {
+            "name": "Pages",
+            "display_name": "Pages",
+            "search_terms": {
+              "itunes": "Pages",
+              "playstore": "Pages"
+            }
+          },
+          {
+            "name": "Passwords",
+            "display_name": "Passwords",
+            "search_terms": {
+              "itunes": "Passwords",
+              "playstore": "Passwords"
+            }
+          },
+          {
+            "name": "Phone",
+            "display_name": "Phone",
+            "search_terms": {
+              "itunes": "Phone",
+              "playstore": "Phone"
+            }
+          },
+          {
+            "name": "Photo Booth",
+            "display_name": "Photo Booth",
+            "search_terms": {
+              "itunes": "Photo Booth",
+              "playstore": "Photo Booth"
+            }
+          },
+          {
+            "name": "Podcasts",
+            "display_name": "Podcasts",
+            "search_terms": {
+              "itunes": "Podcasts",
+              "playstore": "Podcasts"
+            }
+          },
+          {
+            "name": "Reminders",
+            "display_name": "Reminders",
+            "search_terms": {
+              "itunes": "Reminders",
+              "playstore": "Reminders"
+            }
+          },
+          {
+            "name": "Safari",
+            "display_name": "Safari",
+            "search_terms": {
+              "itunes": "Safari",
+              "playstore": "Safari"
+            }
+          },
+          {
+            "name": "Shortcuts",
+            "display_name": "Shortcuts",
+            "search_terms": {
+              "itunes": "Shortcuts",
+              "playstore": "Shortcuts"
+            }
+          },
+          {
+            "name": "Stocks",
+            "display_name": "Stocks",
+            "search_terms": {
+              "itunes": "Stocks",
+              "playstore": "Stocks"
+            }
+          },
+          {
+            "name": "Swift Playgrounds",
+            "display_name": "Swift Playgrounds",
+            "search_terms": {
+              "itunes": "Swift Playgrounds",
+              "playstore": "Swift Playgrounds"
+            }
+          },
+          {
+            "name": "Tips",
+            "display_name": "Tips",
+            "search_terms": {
+              "itunes": "Tips",
+              "playstore": "Tips"
+            }
+          },
+          {
+            "name": "Translate",
+            "display_name": "Translate",
+            "search_terms": {
+              "itunes": "Translate",
+              "playstore": "Translate"
+            }
+          },
+          {
+            "name": "TV",
+            "display_name": "TV",
+            "search_terms": {
+              "itunes": "TV",
+              "playstore": "TV"
+            }
+          },
+          {
+            "name": "Voice Memos",
+            "display_name": "Voice Memos",
+            "search_terms": {
+              "itunes": "Voice Memos",
+              "playstore": "Voice Memos"
+            }
+          },
+          {
+            "name": "Wallet",
+            "display_name": "Wallet",
+            "search_terms": {
+              "itunes": "Wallet",
+              "playstore": "Wallet"
+            }
+          },
+          {
+            "name": "Watch",
+            "display_name": "Watch",
+            "search_terms": {
+              "itunes": "Watch",
+              "playstore": "Watch"
+            }
+          },
+          {
+            "name": "Weather",
+            "display_name": "Weather",
+            "search_terms": {
+              "itunes": "Weather",
+              "playstore": "Weather"
             }
           }
         ]

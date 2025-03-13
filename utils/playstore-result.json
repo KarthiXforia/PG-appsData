@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-02-19T10:37:49.149Z",
+  "timestamp": "2025-03-12T10:31:11.433Z",
   "success": true,
-  "total_apps": 1,
+  "total_apps": 47,
   "total_failed": 0,
   "apps": [
     {
@@ -11,29 +11,1501 @@
           "US",
           "UK"
         ],
-        "package_name": "rtve.tablet.android"
+        "package_name": "com.sec.android.app.clockpackage"
       },
-      "cat_key": "ENTERTAINMENT",
+      "cat_key": "PREINSTALLED",
       "cat_keys": [
-        "ENTERTAINMENT",
+        "PREINSTALLED",
         "APPLICATION"
       ],
-      "category": "ENTERTAINMENT",
+      "category": "PREINSTALLED",
       "description": "",
-      "android_package_name": "rtve.tablet.android",
+      "android_package_name": "com.sec.android.app.clockpackage",
       "ios_bundle_id": null,
-      "title": "RTVE Play",
+      "title": "Clock",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=rtve.tablet.android"
+        "https://play.google.com/store/apps/details?id=com.sec.android.app.clockpackage"
       ],
-      "website": "https://play.google.com/store/apps/details?id=rtve.tablet.android",
+      "website": "https://play.google.com/store/apps/details?id=com.sec.android.app.clockpackage",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/hUNNtQYgxZRFe7ZcGe7_1CenYl1e2SZZWPkvvf7bHeBwoDlLWA2t3n5TTOJwnBMSODM",
-      "icon_72": "https://play-lh.googleusercontent.com/hUNNtQYgxZRFe7ZcGe7_1CenYl1e2SZZWPkvvf7bHeBwoDlLWA2t3n5TTOJwnBMSODM=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/hjksnYT_dP3j7nIXXSgXsglMbmSJEA6F30LeZfKvMAjY8HICL3FGJc1I2kI-gQq6FaX0",
+      "icon_72": "https://play-lh.googleusercontent.com/hjksnYT_dP3j7nIXXSgXsglMbmSJEA6F30LeZfKvMAjY8HICL3FGJc1I2kI-gQq6FaX0=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "RTVE Play",
+      "search_name": "Clock",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "app.wizyemm.settings"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "app.wizyemm.settings",
+      "ios_bundle_id": null,
+      "title": "Settings",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=app.wizyemm.settings"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=app.wizyemm.settings",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mOMVlWK_cLLdOOO3XUWiw1zFf7FO15f_ys2XmcYKJLOMTHF-eGtQddXE-wYDSd9kd5Q",
+      "icon_72": "https://play-lh.googleusercontent.com/mOMVlWK_cLLdOOO3XUWiw1zFf7FO15f_ys2XmcYKJLOMTHF-eGtQddXE-wYDSd9kd5Q=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Settings",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.sec.android.app.popupcalculator"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.sec.android.app.popupcalculator",
+      "ios_bundle_id": null,
+      "title": "Calculator",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Z5BA3DYVKalnbCW8CGlIM3bN699i6QwRs5oE5kr_1-OYApm2cLPSlOP6mbdUJunXtw",
+      "icon_72": "https://play-lh.googleusercontent.com/Z5BA3DYVKalnbCW8CGlIM3bN699i6QwRs5oE5kr_1-OYApm2cLPSlOP6mbdUJunXtw=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Calculator",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.nbu.files"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.nbu.files",
+      "ios_bundle_id": null,
+      "title": "File Manager",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA",
+      "icon_72": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "File Manager",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.photo.android.camera"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.photo.android.camera",
+      "ios_bundle_id": null,
+      "title": "Camera",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.photo.android.camera"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.photo.android.camera",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/77m-hpSGZZJ5go6cHD-ZqX_8hnBT70E2uYWoznS5aI-2I06Lh5IQnymUqV6gdphDRIs",
+      "icon_72": "https://play-lh.googleusercontent.com/77m-hpSGZZJ5go6cHD-ZqX_8hnBT70E2uYWoznS5aI-2I06Lh5IQnymUqV6gdphDRIs=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Camera",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.photosgo"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.photosgo",
+      "ios_bundle_id": null,
+      "title": "Gallery",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pmEnTOeRvosC1yOXFVwo15zS2uAdB9nijugU93NbrmFBYt61IVCZBzg7EZ00YTqmLw",
+      "icon_72": "https://play-lh.googleusercontent.com/pmEnTOeRvosC1yOXFVwo15zS2uAdB9nijugU93NbrmFBYt61IVCZBzg7EZ00YTqmLw=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Gallery",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.calendar"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.calendar",
+      "ios_bundle_id": null,
+      "title": "Calendar",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.calendar"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/_bh6XK3B7TAk7kBXC1GHC0j9eS9cw9wQo2K7fiP7FDGAQlcOqgUPT2lx3WgZ0JlOJh8",
+      "icon_72": "https://play-lh.googleusercontent.com/_bh6XK3B7TAk7kBXC1GHC0j9eS9cw9wQo2K7fiP7FDGAQlcOqgUPT2lx3WgZ0JlOJh8=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Calendar",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.gm"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.gm",
+      "ios_bundle_id": null,
+      "title": "Email",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.gm"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI",
+      "icon_72": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Email",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "net.fast.web.browser"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "net.fast.web.browser",
+      "ios_bundle_id": null,
+      "title": "Browser",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=net.fast.web.browser"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=net.fast.web.browser",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/RJINYrKUXxhOgwzvhifaTSxKENK9iDOelk3oNUNWJV_mgSjhkEZ2xsSel4l2t5UIzMA",
+      "icon_72": "https://play-lh.googleusercontent.com/RJINYrKUXxhOgwzvhifaTSxKENK9iDOelk3oNUNWJV_mgSjhkEZ2xsSel4l2t5UIzMA=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Browser",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.instagram.android"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.instagram.android",
+      "ios_bundle_id": null,
+      "title": "Store",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.instagram.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.instagram.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM",
+      "icon_72": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Store",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.sec.android.app.voicenote"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.sec.android.app.voicenote",
+      "ios_bundle_id": null,
+      "title": "Voice Recorder",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.sec.android.app.voicenote"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.sec.android.app.voicenote",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EaHQ7KJNn6ZAICf0kEVwKunD4hZd-59oggNErDPDKTaK20sXXfVUN0AYJP70-x8UjQ",
+      "icon_72": "https://play-lh.googleusercontent.com/EaHQ7KJNn6ZAICf0kEVwKunD4hZd-59oggNErDPDKTaK20sXXfVUN0AYJP70-x8UjQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Voice Recorder",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.instagram.android"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.instagram.android",
+      "ios_bundle_id": null,
+      "title": "Play Store",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.instagram.android"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.instagram.android",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM",
+      "icon_72": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Play Store",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.googlequicksearchbox"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.googlequicksearchbox",
+      "ios_bundle_id": null,
+      "title": "Google",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1",
+      "icon_72": "https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Google",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.gm"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.gm",
+      "ios_bundle_id": null,
+      "title": "Gmail",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.gm"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI",
+      "icon_72": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Gmail",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.tachyon"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.tachyon",
+      "ios_bundle_id": null,
+      "title": "Meet",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A",
+      "icon_72": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Meet",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.android.chrome"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.android.chrome",
+      "ios_bundle_id": null,
+      "title": "Chrome",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.android.chrome"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.android.chrome",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc",
+      "icon_72": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Chrome",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.maps"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.maps",
+      "ios_bundle_id": null,
+      "title": "Maps",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.maps"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
+      "icon_72": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Maps",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.photos"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.photos",
+      "ios_bundle_id": null,
+      "title": "Photos",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.photos"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA",
+      "icon_72": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Photos",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "ai.image.playground.generator.free.creator.picture.photo"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "ai.image.playground.generator.free.creator.picture.photo",
+      "ios_bundle_id": null,
+      "title": "Image Playground",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=ai.image.playground.generator.free.creator.picture.photo"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=ai.image.playground.generator.free.creator.picture.photo",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/uivgoo9zhLONJ5IKemHGelJIQmsZUzCIlRfKe2toI7BMkC8A-ws5lidpht4ccEX0L_FH",
+      "icon_72": "https://play-lh.googleusercontent.com/uivgoo9zhLONJ5IKemHGelJIQmsZUzCIlRfKe2toI7BMkC8A-ws5lidpht4ccEX0L_FH=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Image Playground",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.cyberlink.powerdirector.DRA140225_01"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.cyberlink.powerdirector.DRA140225_01",
+      "ios_bundle_id": null,
+      "title": "iMovie",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/M5UtBD1K6ksryrf3rz9ljAsUQ8XNTzxpa6O6v-OSzhDDREC4DrA5cjz6PmDqhGjDmV86",
+      "icon_72": "https://play-lh.googleusercontent.com/M5UtBD1K6ksryrf3rz9ljAsUQ8XNTzxpa6O6v-OSzhDDREC4DrA5cjz6PmDqhGjDmV86=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "iMovie",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.apple.android.music"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.apple.android.music",
+      "ios_bundle_id": null,
+      "title": "iTunes Store",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.apple.android.music"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.apple.android.music",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE",
+      "icon_72": "https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "iTunes Store",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "journal.notes.planner.starnest"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "journal.notes.planner.starnest",
+      "ios_bundle_id": null,
+      "title": "Journal",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=journal.notes.planner.starnest"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=journal.notes.planner.starnest",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NvcBkGryDESAxym-ZSzTrZPMB-kXy3WQJhtQXP293HVF2wNjgrxT5iHumzgl7v1IgBk",
+      "icon_72": "https://play-lh.googleusercontent.com/NvcBkGryDESAxym-ZSzTrZPMB-kXy3WQJhtQXP293HVF2wNjgrxT5iHumzgl7v1IgBk=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Journal",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.sbrcorp.keynoteappforandroidadvice"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.sbrcorp.keynoteappforandroidadvice",
+      "ios_bundle_id": null,
+      "title": "Keynote",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.sbrcorp.keynoteappforandroidadvice"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.sbrcorp.keynoteappforandroidadvice",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/WHlTTujSSvcFiG_bNv0-h7_1e_qnL91iJdV9osj1_6ZpT2eTvYiT_o7oe43zK-DUxg",
+      "icon_72": "https://play-lh.googleusercontent.com/WHlTTujSSvcFiG_bNv0-h7_1e_qnL91iJdV9osj1_6ZpT2eTvYiT_o7oe43zK-DUxg=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Keynote",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.accessibility.magnifier"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.accessibility.magnifier",
+      "ios_bundle_id": null,
+      "title": "Magnifier",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/epcbk_wy3sd-VMuEeTtYdQB1z5962aevrRy_rurQ_O3ZB03tStlZmGkEaWQE4B9j6_ns",
+      "icon_72": "https://play-lh.googleusercontent.com/epcbk_wy3sd-VMuEeTtYdQB1z5962aevrRy_rurQ_O3ZB03tStlZmGkEaWQE4B9j6_ns=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Magnifier",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "de.j4velin.mapsmeasure"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "de.j4velin.mapsmeasure",
+      "ios_bundle_id": null,
+      "title": "MapsMeasure",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=de.j4velin.mapsmeasure"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=de.j4velin.mapsmeasure",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/PuzfsphMN-uoQo6e77bo8CVWXrZTgzlZHrZmZ0NnjAL0m025h-INDQrzm14ezE8XFw",
+      "icon_72": "https://play-lh.googleusercontent.com/PuzfsphMN-uoQo6e77bo8CVWXrZTgzlZHrZmZ0NnjAL0m025h-INDQrzm14ezE8XFw=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "MapsMeasure",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.messaging"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.messaging",
+      "ios_bundle_id": null,
+      "title": "Messages",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/9AZOTXU_CpreTFAXUPAmJNkm8VGCb1C90fjJ9pHGcVmpGMDSTq3cUbaQJdBT9Tdp9A",
+      "icon_72": "https://play-lh.googleusercontent.com/9AZOTXU_CpreTFAXUPAmJNkm8VGCb1C90fjJ9pHGcVmpGMDSTq3cUbaQJdBT9Tdp9A=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Messages",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.miui.player"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.miui.player",
+      "ios_bundle_id": null,
+      "title": "Music",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.miui.player"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.miui.player",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/uO_xmU8_PX5A-N_egV3KvstflXW38rXiCJp_NbE7htLBqLb2otOSkMkck9qg5Vu__H0",
+      "icon_72": "https://play-lh.googleusercontent.com/uO_xmU8_PX5A-N_egV3KvstflXW38rXiCJp_NbE7htLBqLb2otOSkMkck9qg5Vu__H0=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Music",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.magazines"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.magazines",
+      "ios_bundle_id": null,
+      "title": "News",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/b3MqZswO8F7j3lcdH01kxzaeHa7vUndy7ma_JwdM_j_Vpj8LKZcKt0HmpORQ7CKF2A",
+      "icon_72": "https://play-lh.googleusercontent.com/b3MqZswO8F7j3lcdH01kxzaeHa7vUndy7ma_JwdM_j_Vpj8LKZcKt0HmpORQ7CKF2A=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "News",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.keep"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.keep",
+      "ios_bundle_id": null,
+      "title": "Notes",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.keep"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.keep",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5",
+      "icon_72": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Notes",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.dopuz.klotski.riddle"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.dopuz.klotski.riddle",
+      "ios_bundle_id": null,
+      "title": "Numbers",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.dopuz.klotski.riddle"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.dopuz.klotski.riddle",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/uUTVTxOn7QLuPngCBG8R4KLRue-Jjm3Mb37r1ZRRJaCXSPNBWR1r6_Dli3u993-gMdc",
+      "icon_72": "https://play-lh.googleusercontent.com/uUTVTxOn7QLuPngCBG8R4KLRue-Jjm3Mb37r1ZRRJaCXSPNBWR1r6_Dli3u993-gMdc=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Numbers",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.pagesoft.pages_app"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.pagesoft.pages_app",
+      "ios_bundle_id": null,
+      "title": "Pages",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.pagesoft.pages_app"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.pagesoft.pages_app",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/MFfZ92r4w7yD5piTflav2yFFSjq8OEgliamRhrAhHzbYILhADLNXIsuKNEYFfT5x4A",
+      "icon_72": "https://play-lh.googleusercontent.com/MFfZ92r4w7yD5piTflav2yFFSjq8OEgliamRhrAhHzbYILhADLNXIsuKNEYFfT5x4A=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Pages",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.authenticator2"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.authenticator2",
+      "ios_bundle_id": null,
+      "title": "Passwords",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/NntMALIH4odanPPYSqUOXsX8zy_giiK2olJiqkcxwFIOOspVrhMi9Miv6LYdRnKIg-3R",
+      "icon_72": "https://play-lh.googleusercontent.com/NntMALIH4odanPPYSqUOXsX8zy_giiK2olJiqkcxwFIOOspVrhMi9Miv6LYdRnKIg-3R=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Passwords",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.dialer"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.dialer",
+      "ios_bundle_id": null,
+      "title": "Phone",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.dialer"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.dialer",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/bk3e0glVbvRC4Z0uEZ5Oso5wjS89r1P_X5e-k3N_UBkTPXZLhGv50rRy7LAuDzzC9w",
+      "icon_72": "https://play-lh.googleusercontent.com/bk3e0glVbvRC4Z0uEZ5Oso5wjS89r1P_X5e-k3N_UBkTPXZLhGv50rRy7LAuDzzC9w=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Phone",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.photobooth.photo_booth"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.photobooth.photo_booth",
+      "ios_bundle_id": null,
+      "title": "Photo Booth",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.photobooth.photo_booth"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.photobooth.photo_booth",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/S-df1kr6DYIbReD0dgSPZqaa21DCxkZ9F7T2iWr_ZvVTwyCvWHTAYPDTQ95D3gzQ-S0",
+      "icon_72": "https://play-lh.googleusercontent.com/S-df1kr6DYIbReD0dgSPZqaa21DCxkZ9F7T2iWr_ZvVTwyCvWHTAYPDTQ95D3gzQ-S0=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Photo Booth",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.podcast.podcasts"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.podcast.podcasts",
+      "ios_bundle_id": null,
+      "title": "Podcasts",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.podcast.podcasts"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.podcast.podcasts",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QCru9sGm118P4hNQ1Ts2PttgqykIoBS1JRadg74hV-OajVmIDDOe2COmumZmeg1Kx7I",
+      "icon_72": "https://play-lh.googleusercontent.com/QCru9sGm118P4hNQ1Ts2PttgqykIoBS1JRadg74hV-OajVmIDDOe2COmumZmeg1Kx7I=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Podcasts",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.tasks"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.tasks",
+      "ios_bundle_id": null,
+      "title": "Reminders",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.tasks"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.tasks",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pjUulZ-Vdo7qPKxk3IRhnk8SORPlgSydSyYEjm7fGcoXO8wDyYisWXwQqEjMryZ_sqK2",
+      "icon_72": "https://play-lh.googleusercontent.com/pjUulZ-Vdo7qPKxk3IRhnk8SORPlgSydSyYEjm7fGcoXO8wDyYisWXwQqEjMryZ_sqK2=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Reminders",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "savannah.internet.web.browser"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "savannah.internet.web.browser",
+      "ios_bundle_id": null,
+      "title": "Safari",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=savannah.internet.web.browser"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=savannah.internet.web.browser",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/4e3t_if5IUZegzhgbcXs78VXtP3yVNagYzYSnykKTqTEcGvT1_2kOsbizvJenxRLzt0",
+      "icon_72": "https://play-lh.googleusercontent.com/4e3t_if5IUZegzhgbcXs78VXtP3yVNagYzYSnykKTqTEcGvT1_2kOsbizvJenxRLzt0=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Safari",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "any.shortcut"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "any.shortcut",
+      "ios_bundle_id": null,
+      "title": "Shortcuts",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=any.shortcut"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=any.shortcut",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/jfsINeUSy7lR6Rfx1BvjGaGsM0co8q9uWrcDSrmqTjNL2cRITrMSoU_NCQirMUSCUXI",
+      "icon_72": "https://play-lh.googleusercontent.com/jfsINeUSy7lR6Rfx1BvjGaGsM0co8q9uWrcDSrmqTjNL2cRITrMSoU_NCQirMUSCUXI=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Shortcuts",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.nextbillion.groww"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.nextbillion.groww",
+      "ios_bundle_id": null,
+      "title": "Stocks",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.nextbillion.groww"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.nextbillion.groww",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/LHjOai6kf1IsstKNWO9jbMxD-ix_FVYaJSLodKCqYQdoFVzQBuV9z5txxzcTagQcyX8",
+      "icon_72": "https://play-lh.googleusercontent.com/LHjOai6kf1IsstKNWO9jbMxD-ix_FVYaJSLodKCqYQdoFVzQBuV9z5txxzcTagQcyX8=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Stocks",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "info.camposha.swift"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "info.camposha.swift",
+      "ios_bundle_id": null,
+      "title": "Swift Playgrounds",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=info.camposha.swift"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=info.camposha.swift",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/28FsXYJiPHoSbF8uADbn4KVKxSlLvOD-IeMJvxjij5R394r_1Q6ydph8ck3QctIldyZQ",
+      "icon_72": "https://play-lh.googleusercontent.com/28FsXYJiPHoSbF8uADbn4KVKxSlLvOD-IeMJvxjij5R394r_1Q6ydph8ck3QctIldyZQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Swift Playgrounds",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.fireshooters.lifetips"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.fireshooters.lifetips",
+      "ios_bundle_id": null,
+      "title": "Tips",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.fireshooters.lifetips"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.fireshooters.lifetips",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EwosT3quLiHAMma1a4Qxd90hpXnEGB0e3jx3Yu76TQk1pnrMwSUdWt7kb-DjoThSG8RR",
+      "icon_72": "https://play-lh.googleusercontent.com/EwosT3quLiHAMma1a4Qxd90hpXnEGB0e3jx3Yu76TQk1pnrMwSUdWt7kb-DjoThSG8RR=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Tips",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.translate"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.translate",
+      "ios_bundle_id": null,
+      "title": "Translate",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.translate"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA",
+      "icon_72": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Translate",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.jio.jioplay.tv"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.jio.jioplay.tv",
+      "ios_bundle_id": null,
+      "title": "TV",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.jio.jioplay.tv"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.jio.jioplay.tv",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/fxM8J0JZM-xBsurUYce0IFv9g_WzbV3DeHnTnkfttw1RSnjPNjT3PDKFqZBG5GM8yQ",
+      "icon_72": "https://play-lh.googleusercontent.com/fxM8J0JZM-xBsurUYce0IFv9g_WzbV3DeHnTnkfttw1RSnjPNjT3PDKFqZBG5GM8yQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "TV",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "voicerecorder.audiorecorder.voice"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "voicerecorder.audiorecorder.voice",
+      "ios_bundle_id": null,
+      "title": "Voice Memos",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=voicerecorder.audiorecorder.voice"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=voicerecorder.audiorecorder.voice",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hLp8qeDQBx2vONQdkQsQ-AkE2oWhSB-ApkZIuPuaXUO7gHjb1W6ZlMppi7pmbEGqL1g",
+      "icon_72": "https://play-lh.googleusercontent.com/hLp8qeDQBx2vONQdkQsQ-AkE2oWhSB-ApkZIuPuaXUO7gHjb1W6ZlMppi7pmbEGqL1g=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Voice Memos",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.walletnfcrel"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.google.android.apps.walletnfcrel",
+      "ios_bundle_id": null,
+      "title": "Wallet",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/dBIwyXKErXW06joSa38PfPZUfs4Ww1P0GIsi-_BCM3gfUffhuhT8EZ4XOkIs-ShPZQ",
+      "icon_72": "https://play-lh.googleusercontent.com/dBIwyXKErXW06joSa38PfPZUfs4Ww1P0GIsi-_BCM3gfUffhuhT8EZ4XOkIs-ShPZQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Wallet",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.watcho_multi"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.watcho_multi",
+      "ios_bundle_id": null,
+      "title": "Watch",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.watcho_multi"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.watcho_multi",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/tNTDLK3QPOxDE2loEAmw_jrzeJkUtZVW-JtG2FP-LaJIsd-yN1gK1LLEJeyVts5yWN0o",
+      "icon_72": "https://play-lh.googleusercontent.com/tNTDLK3QPOxDE2loEAmw_jrzeJkUtZVW-JtG2FP-LaJIsd-yN1gK1LLEJeyVts5yWN0o=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Watch",
+      "isPopular": true
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.weather.nold.forecast"
+      },
+      "cat_key": "PREINSTALLED",
+      "cat_keys": [
+        "PREINSTALLED",
+        "APPLICATION"
+      ],
+      "category": "PREINSTALLED",
+      "description": "",
+      "android_package_name": "com.weather.nold.forecast",
+      "ios_bundle_id": null,
+      "title": "Weather",
+      "domain_name": [
+        "https://play.google.com/store/apps/details?id=com.weather.nold.forecast"
+      ],
+      "website": "https://play.google.com/store/apps/details?id=com.weather.nold.forecast",
+      "developer": "",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0",
+      "icon_72": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0=s72-rw",
+      "market_status": "PUBLISHED",
+      "store": "playstore",
+      "search_name": "Weather",
       "isPopular": true
     }
   ],

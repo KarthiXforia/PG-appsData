@@ -665,14 +665,14 @@
   {
     "app_availability": {
       "available_in": ["IN", "US", "UK"],
-      "package_name": "com.camerasideas.instashot"
+      "package_name": "com.camerasideas"
     },
     "cat_key": "SOCIAL",
     "cat_keys": ["VIDEO", "EDITOR"],
     "category": "Video Players & Editors",
     "description": "InShot is a video editor app that provides a variety of editing tools for creating and customizing video content. Add music, transitions, and effects.",
-    "android_package_name": "com.camerasideas.instashot",
-    "ios_bundle_id": "com.camerasideas.InstaShot",
+    "android_package_name": "com.camerasideas",
+    "ios_bundle_id": "com.camerasideas",
     "title": "InShot - Video Editor",
     "domain_name": ["https://www.inshotapp.com"],
     "website": "https://www.inshotapp.com",
@@ -682,7 +682,7 @@
     "icon_72": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/d7/3a/93d73aec-071d-38fe-5fc5-4f6bd6cfaa06/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg=s72-rw",
     "market_status": "PUBLISHED",
     "isPopular": true,
-    "popularity": 98
+    "popularity": 1
   },
   {
     "app_availability": {
@@ -12213,21 +12213,21 @@
   {
     "app_availability": {
       "available_in": ["IN", "US", "Uk"],
-      "package_name": "com.nekki.shadowfightarena"
+      "package_name": "com.nekki.shadowfight3"
     },
     "cat_key": "GAMES",
     "cat_keys": ["GAMES", "APPLICATION"],
     "category": "Games",
     "description": "BECOME THE SHADOW FIGHT HERO IN A NEW MULTIPLAYER FIGHTING GAME!\n\nFight against other players in a free online 3D fighting game. Compete in 2 player PVP combats or brawl for fun with friends. Welcome to the ninja realm! FIGHT NOW!\n\nBest Mobile Game of 2020 (DevGAMM Awards)\nShadow Fight games have been downloaded more than 500 million times\n\nCool 3D graphics\nTop-level 3D graphics and realistic animations come together to provide you with the best-looking epic fighting action.\n\nEasy controls\nControl your hero like in best classical fighting games and get a console-level battle experience on your mobile device.\n\nFun multiplayer battles\n- Make a team of 3 heroes and battle in online multiplayer mode. You score a victory in a fight, only if you can defeat all of the opponent's heroes in an epic battle. Or fight offline against advanced, machine-learning bots!\n\nEpic heroes\n- Build a team of the best warriors, samurai, and ninja. Collect and upgrade all the heroes \u2014 Each one has unique abilities that you can change and adjust to your style.\n\nHero talents\n- Level up and unlock cool ninja talents. Choose the top talents that suit your playstyle, change them, and experiment to boost your battle winrate. Decide which style is the most fun! Fight the immortals!\n\nFight Pass\n- A new season starts each month \u2014 get free chests and coins for winning! A subscription gets you access to the premium cosmetic items, and lets you collect free bonus cards without ads.\n\nBrawl with friends\n- Find out who the top Shadow Fight player is: challenge a friend to a PvP duel. Send an invitation or join a friend who's already playing \u2014 you can do some serious practice or just beat each other up!\n\nCosmetic items and customizations\n- Cool hero skins \u2014 win with style\n- Emotes and taunts \u2014 send them to your opponent during a fight to show your superiority or thank them for a good game\n- Epic stances and ninja moves \u2014 celebrate your victory with cool 3D action animations\n\nBecome the top fighter\n- Arena is easy to learn, but to become a true master in multiplayer mode, you'll need to watch tutorial videos, practice with friends, and be part of our active community. \n\nOnline PvP tournaments\n- Enter tournaments for rewards and cool new experiences. Top place will bring you fantastic prizes, but a few losses, and you're out. Enter another tournament to fight for the win again!\n\nCommunication\n- Chat with other players on Discord, in our Facebook group, or on Reddit. Be the first to get all the latest news and learn the secrets of other players. Invite your friends and have fun!\n\n\u2014 If you like Mortal Kombat, Tekken, Street Fighter, UFC or WWE and other action or boxing games, then you're sure to love SF Arena.\n\n\u2014 I've wanted to play a PvP or boxing games on mobile ever since Shadow Fight 2 came out. Arena made that dream come true.\n\n\u2014 This is an action for everyone. If you're feeling up to it, you can brawl for rating, and when you need a break, you can play offline and just fight with shadows of immortals for fun.\n\n\u2014 You would feel like an epic ninja straight from Naruto. And also it's free!\n\nDiscord \u2014 https://discord.com/invite/shadowfight\nReddit \u2014 https://www.reddit.com/r/ShadowFightArena/\nFacebook \u2014 https://www.facebook.com/shadowfightarena\nTwitter \u2014 https://twitter.com/SFArenaGame\nVK \u2014 https://vk.com/shadowarena\nTech Support: https://nekki.helpshift.com/\n\nIMPORTANT: You will need a stable internet connection to play online PvP. To ensure SF Arena works optimally on mobile, use Wi-Fi\n\nDownload new 3D fighting game SF Arena for free and brawl with friends on mobile!",
-    "android_package_name": "com.nekki.shadowfightarena",
-    "ios_bundle_id": "com.nekki.shadowfightarena",
-    "title": "Shadow Fight 4",
+    "android_package_name": "com.nekki.shadowfight3",
+    "ios_bundle_id": "com.nekki.shadowfight3",
+    "title": "Shadow Fight 3",
     "domain_name": ["http://shadowfight.com", "https://shadowfight.com"],
     "website": "http://shadowfight.com",
     "developer": "Nekki Limited",
     "app_country": "US",
-    "icon": "https://play-lh.googleusercontent.com/wMlQIVmkKoYTe4y99kj2d18w0atdcgQvN3zXlA-lSmpL-tWTh1p5kXmVozfRy0jq96E",
-    "icon_72": "https://play-lh.googleusercontent.com/wMlQIVmkKoYTe4y99kj2d18w0atdcgQvN3zXlA-lSmpL-tWTh1p5kXmVozfRy0jq96E=s72-rw",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/9e/d9/5c9ed91c-5446-c793-96a9-0ba8188b7863/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+    "icon_72": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/9e/d9/5c9ed91c-5446-c793-96a9-0ba8188b7863/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg=s72-rw",
     "market_status": "PUBLISHED",
     "isPopular": true,
     "popularity": 97
