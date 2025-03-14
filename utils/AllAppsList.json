@@ -6172,15 +6172,15 @@
     "cat_keys": ["GAMES", "APPLICATION"],
     "category": "Games",
     "description": "New Themed Mode \"Sacred Quartet\" Debut\nStep into the Four Guardians Sect and Elemental Mastery Pavilion, uncover unique elemental devices, and battle for Spirit Air Drops and Refined Crate supplies! Feed the pandas of the Serene Bamboo Forest to gain an adorable vehicle that will carry you across this new realm. Engage in intense elemental battles as your cultivation journey unfolds!\n\n\u3010Epic battle royale masterpiece\u3011\nLots of events for you to explore.Climb to the top in PUBG MOBILE and fire at will. PUBG MOBILE is the original battle royale game on mobile and one of the best mobile shooting games.\n\n\u3010Extreme battles in 10-minute matches\u3011\nPrepare your firearms, respond to the call for battle in PUBG MOBILE, and fire at will.\n\n\u3010Tons of maps and modes\u3011\nPUBG MOBILE has many maps and gameplay mechanics that give you a thrilling survival experience. Find your friends and play the new modes together! Play however you like and fire at will!\n\n\u3010Play anytime, anywhere\u3011\nRelax and play PUBG MOBILE to your heart's content! Enjoy the smoothest gunplay for an unparalleled gameplay experience.\n\n\u3010Made especially for mobile phones\u3011\nFeatures customizable controls, training mode, and voice chat with friends. Experience the smoothest control experience and the most realistic firearms on your phone.\n\nPUBG MOBILE has the highest fidelity items and gameplay experience. PUBG MOBILE can fulfill any wish you might have. Choose from countless firearms and test your marksmanship. New items, maps, and modes are constantly being added to the game.\n\nPUBG MOBILE offers the most intense multiplayer battles on your mobile phone. Join the battle, gear up, and play to win. Survive in epic 100-player battles in Classic Mode, Payload , fast-paced 4v4 Arena battles, and Infection Mode. Survival is all that matters. Be the last one standing. Accept missions and fire at will!\nCompatible Models: All models with at least an Apple A8 chip (iPhone 6 or newer, iPad Air 2 or newer, iPad mini 4 or newer, iPod Touch 6 or newer, all iPad Pro models).\nIncompatible Models: All models using an Apple A7 chip or older (iPhone 5s or older, iPad Air or older, iPad Mini 3 or older, iPod Touch 5 or older).\n\n\u3010Follow us\u3011\nInstagram: https://www.instagram.com/pubgmobile\nFacebook: https://www.facebook.com/PUBGMOBILE\nTwitter: https://twitter.com/PUBGMobile\nYoutube: https://www.youtube.com/pubgmobile\nTiktok: https://www.tiktok.com/@pubgmobile\nReddit: https://www.reddit.com/r/PUBGMobile/\nDiscord: https://discord.gg/pubgmobile\nPlease contact customer service if you encounter any problems: service@pubgmobile.com\n\nPlease read PUBG MOBILE's Privacy Policy and User Agreement\nPrivacy Policy: http://pubgmobile.proximabeta.com/privacy.html\nTencent Games User Agreement: https://www.pubgmobile.com/terms.html",
-    "android_package_name": "com.pubg.imobile",
+    "android_package_name": " ",
     "ios_bundle_id": "com.tencent.ig",
     "title": "PUBG Mobile",
     "domain_name": ["https://www.pubgmobile.com"],
     "website": "https://www.pubgmobile.com",
     "developer": "Tencent Mobile International Limited",
     "app_country": "US",
-    "icon": "https://play-lh.googleusercontent.com/7WbZuu11rgQXZ0x45B3XWP_8dAz1qMXYxu9H3HCrPkS4caGcre9hGt9eEaSC-bm54pg",
-    "icon_72": "https://play-lh.googleusercontent.com/7WbZuu11rgQXZ0x45B3XWP_8dAz1qMXYxu9H3HCrPkS4caGcre9hGt9eEaSC-bm54pg=s72-rw",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/76/30/1876302b-fb1a-75ae-701f-c4accca2165e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "icon_72": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/76/30/1876302b-fb1a-75ae-701f-c4accca2165e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg=s72-rw",
     "market_status": "PUBLISHED",
     "isPopular": true,
     "popularity": 100
@@ -15702,5 +15702,28 @@
     "market_status": "PUBLISHED",
     "isPopular": true,
     "popularity": 91
+  },
+  {
+    "app_availability": {
+      "available_in": ["IN"],
+      "package_name": "com.pubg.imobile"
+    },
+    "cat_key": "GAMES",
+    "cat_keys": ["GAMES", "APPLICATION"],
+    "category": "Games",
+    "description": "Battlegrounds Mobile India (BGMI) brings intense battle royale gameplay with stunning graphics and smooth gameplay. Engage in 100-player battles, team up with friends, and fight for survival in a constantly evolving world.\n\n【Epic Battle Royale Experience】\nSurvive in 100-player battles, explore diverse maps, and test your strategy to be the last one standing. \n\n【New Maps & Modes】\nExperience the latest additions, including themed maps and exciting game modes.\n\n【Realistic Weapons & Vehicles】\nChoose from a wide variety of realistic weapons and vehicles to dominate your enemies.\n\n【Made for India】\nBGMI is designed specifically for Indian players, offering region-specific events and rewards.\n\n【Stay Connected】\nJoin the BGMI community and follow us on social media:\n- Facebook: https://www.facebook.com/battlegroundsmobilein\n- Instagram: https://www.instagram.com/battlegroundsmobilein_official\n- Twitter: https://twitter.com/BGMI\n- YouTube: https://www.youtube.com/battlegroundsmobileindia\n\n【Support & Privacy】\nFor customer support, visit: https://www.battlegroundsmobileindia.com/support\nPrivacy Policy: https://www.battlegroundsmobileindia.com/privacy-policy",
+    "android_package_name": "com.pubg.imobile",
+    "ios_bundle_id": "com.pubg.imobile",
+    "title": "Battlegrounds Mobile India",
+    "domain_name": ["https://www.battlegroundsmobileindia.com"],
+    "website": "https://www.battlegroundsmobileindia.com",
+    "developer": "Krafton, Inc.",
+    "app_country": "IN",
+    "icon": "https://play-lh.googleusercontent.com/7WbZuu11rgQXZ0x45B3XWP_8dAz1qMXYxu9H3HCrPkS4caGcre9hGt9eEaSC-bm54pg",
+    "icon_72": "https://play-lh.googleusercontent.com/7WbZuu11rgQXZ0x45B3XWP_8dAz1qMXYxu9H3HCrPkS4caGcre9hGt9eEaSC-bm54pg=s72-rw",
+    "market_status": "PUBLISHED",
+    "isPopular": true,
+    "popularity": 100
   }
+  
 ]
