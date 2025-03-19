@@ -1755,5 +1755,110 @@
         "market_status": "PUBLISHED",
         "isPopular": true,
         "popularity": 100
-      } 
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "PREINSTALLED",
+        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "category": "Productivity",
+        "description": "Sheets is a powerful spreadsheet application by Google, allowing users to create, edit, and collaborate on spreadsheets online. It includes real-time collaboration, built-in formulas, and integration with other Google services.",
+        "android_package_name": "com.google.android.apps.docs.editors.sheets",
+        "ios_bundle_id": "com.google.Sheets",
+        "title": "Sheets",
+        "domain_name": ["https://www.google.com/sheets"],
+        "website": "https://www.google.com/sheets/about/",
+        "developer": "Google LLC",
+        "app_country": "US",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/dc/bc/0fdcbca1-3704-9a6c-203a-7f1d0ad8ae01/logo_sheets_2020q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "PREINSTALLED",
+        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "category": "Productivity",
+        "description": "Docs is Google's word processing application that enables users to create, edit, and collaborate on documents in real time. It offers cloud storage, version history, and extensive formatting tools.",
+        "android_package_name": "com.google.android.apps.docs.editors.docs",
+        "ios_bundle_id": "com.google.Docs",
+        "title": "Docs",
+        "domain_name": ["https://www.google.com/docs", "http://www.google.com/docs"],
+        "website": "https://www.google.com/docs",
+        "developer": "Google LLC",
+        "app_country": "US",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/bb/9f/d8bb9f66-eb90-549a-aba9-7fca5f0040ae/logo_docs_2020q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "PREINSTALLED",
+        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "category": "Store",
+        "description": "Vivo Store is the official app marketplace for Vivo smartphones, allowing users to download and update applications optimized for Vivo devices. It features app recommendations, security checks, and system updates.",
+        "android_package_name": "com.vivo.website",
+        "ios_bundle_id": " ",
+        "title": "Vivo Store",
+        "domain_name": ["https://www.vivo.com"],
+        "website": "https://www.vivo.com/en/apps",
+        "developer": "Vivo Mobile Communications Co., Ltd.",
+        "app_country": "CN",
+        "icon": "https://play-lh.googleusercontent.com/hXXFMyUa9oPzwyx2E843xrl-kLeUhKiYZHT-l_UCbZI8qTtfpClLOAT6R0oh9g3z-U14=w480-h960-rw",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "PREINSTALLED",
+        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "category": "Productivity",
+        "description": "PDF is a widely used file format for document sharing and viewing. Many applications support reading and editing PDFs, making it an essential tool for productivity.",
+        "android_package_name": "pdf.reader.pdfviewer.pdfeditor",
+        "ios_bundle_id": " ",
+        "title": "PDF Reader",
+        "domain_name": [],
+        "website": "",
+        "developer": "Simple Design Ltd.",
+        "app_country": "US",
+        "icon": "https://play-lh.googleusercontent.com/lwX6bNP7UXVO1eqE5HvxMZ7qIpv_htqWqrOTBfgtbPy7QayDQj0kZcAoCNX1DE7u3-I=w480-h960-rw",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "PREINSTALLED",
+        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "category": "Productivity",
+        "description": "Adobe Acrobat Reader: Edit PDF is a comprehensive PDF solution that allows users to view, edit, sign, and annotate PDFs. It integrates with cloud storage for seamless document access.",
+        "android_package_name": "com.adobe.reader",
+        "ios_bundle_id": "com.adobe.Adobe-Reader",
+        "title": "Adobe Acrobat Reader: Edit PDF",
+        "domain_name": ["https://get.adobe.com","https://www.adobe.com/in/acrobat.html"],
+        "website": "https://www.adobe.com/acrobat/mobile/acrobat-reader.html",
+        "developer": "Adobe Inc.",
+        "app_country": "US",
+        "icon": "https://play-lh.googleusercontent.com/2Ping9j81LZ1m0hErKGopD8FcahtQ92FRiLUCUsPLI13ctWy5urjnZlpqYVGoWy1WZPq=w480-h960-rw",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      }
   ]
