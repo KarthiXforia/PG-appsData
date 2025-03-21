@@ -8,9 +8,9 @@
         ],
         "package_name": "com.sec.android.app.clockpackage"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -37,9 +37,9 @@
         ],
         "package_name": "app.wizyemm.settings"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Lifestyle",
@@ -69,9 +69,9 @@
         ],
         "package_name": "com.sec.android.app.popupcalculator"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -101,9 +101,9 @@
         ],
         "package_name": "com.google.android.apps.nbu.files"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -133,9 +133,9 @@
         ],
         "package_name": "com.photo.android.camera"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Photo & Video",
@@ -165,9 +165,9 @@
         ],
         "package_name": "com.google.android.apps.photosgo"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Games",
@@ -197,9 +197,9 @@
         ],
         "package_name": "com.google.android.calendar"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Productivity",
@@ -229,9 +229,9 @@
         ],
         "package_name": "com.google.android.gm"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Productivity",
@@ -258,9 +258,9 @@
         ],
         "package_name": "net.fast.web.browser"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -290,9 +290,9 @@
         ],
         "package_name": "com.instagram.android"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Entertainment",
@@ -319,9 +319,9 @@
         ],
         "package_name": "com.sec.android.app.voicenote"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -351,9 +351,9 @@
         ],
         "package_name": "com.instagram.android"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Entertainment",
@@ -380,9 +380,9 @@
         ],
         "package_name": "com.google.android.googlequicksearchbox"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -412,15 +412,15 @@
         ],
         "package_name": "com.google.android.gm"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Productivity",
       "description": "Access, view and manage messages from all your email accounts in one place. Add images, scan documents, create sketches and attach files using the handy Format bar. Catch up on email easily with Apple Intelligence powered Priority Messages and summarizations. Manage your inbox by scheduling emails to send later, snoozing emails you want to get back to later and unsend an email in one tap. \n\nFeatures\n\n• Access email from iCloud, Gmail, Exchange, Yahoo, and Outlook as well as many other email providers - all in one place.\n\n• View all of your accounts in a single inbox, choose a specific mailbox or filter to see just Unread or Flagged messages.\n\n• Stay on top of emails with Priority Messages, a new section at the top of your inbox that shows urgent emails.\n\n• Use Smart Reply to quickly respond to messages with a few taps.\n\n• Catch up on email quickly with summarization of messages and threads.\n\n• Find messages by sender, recipient or subject. Top hits make it easy to find what you’re looking for.\n\n• Manage your inbox by blocking a sender or muting notifications from overly active threads.\n\n• Flag important contacts as VIPs to receive notifications when their emails arrive.\n\n• Triage email messages using swipe gestures that help you quickly archive, delete, flag, or mark messages as read or unread.\n\n• Use Mail Drop to send large attachments from any account through iCloud.\n\n• Hide your IP address with Mail Privacy Protection so senders can’t link it to your other online activity or determine your locations, and prevent senders from seeing if you’ve opened their email.",
-      "android_package_name": "default_gmail",
-      "ios_bundle_id": " ",
+      "android_package_name": "com.google.android.gm",
+      "ios_bundle_id": "com.google.Gmail",
       "title": "Gmail",
       "domain_name": [],
       "website": "",
@@ -441,9 +441,9 @@
         ],
         "package_name": "com.google.android.apps.tachyon"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Social Networking",
@@ -473,9 +473,9 @@
         ],
         "package_name": "com.android.chrome"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -505,9 +505,9 @@
         ],
         "package_name": "com.google.android.apps.maps"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Navigation",
@@ -534,9 +534,9 @@
         ],
         "package_name": "com.google.android.apps.photos"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Photo & Video",
@@ -566,9 +566,9 @@
         ],
         "package_name": "ai.image.playground.generator.free.creator.picture.photo"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Graphics & Design",
@@ -598,9 +598,9 @@
         ],
         "package_name": "com.cyberlink.powerdirector.DRA140225_01"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Photo & Video",
@@ -630,9 +630,9 @@
         ],
         "package_name": "journal.notes.planner.starnest"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Health & Fitness",
@@ -660,9 +660,9 @@
         ],
         "package_name": "com.sbrcorp.keynoteappforandroidadvice"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Productivity",
@@ -692,9 +692,9 @@
         ],
         "package_name": "com.google.android.apps.accessibility.magnifier"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Lifestyle",
@@ -724,9 +724,9 @@
         ],
         "package_name": "com.google.android.apps.messaging"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Social Networking",
@@ -753,9 +753,9 @@
         ],
         "package_name": "com.miui.player"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Music",
@@ -782,9 +782,9 @@
         ],
         "package_name": "com.google.android.apps.magazines"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "News",
@@ -814,9 +814,9 @@
         ],
         "package_name": "com.google.android.keep"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Productivity",
@@ -843,9 +843,9 @@
         ],
         "package_name": "com.dopuz.klotski.riddle"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Productivity",
@@ -875,9 +875,9 @@
         ],
         "package_name": "com.pagesoft.pages_app"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Productivity",
@@ -907,9 +907,9 @@
         ],
         "package_name": "com.google.android.apps.authenticator2"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Productivity",
@@ -939,9 +939,9 @@
         ],
         "package_name": "com.google.android.dialer"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -968,9 +968,9 @@
         ],
         "package_name": "com.photobooth.photo_booth"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Entertainment",
@@ -1000,9 +1000,9 @@
         ],
         "package_name": "com.podcast.podcasts"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Entertainment",
@@ -1029,9 +1029,9 @@
         ],
         "package_name": "com.google.android.apps.tasks"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Productivity",
@@ -1058,9 +1058,9 @@
         ],
         "package_name": "savannah.internet.web.browser"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -1090,9 +1090,9 @@
         ],
         "package_name": "any.shortcut"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Productivity",
@@ -1122,9 +1122,9 @@
         ],
         "package_name": "com.nextbillion.groww"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Finance",
@@ -1151,9 +1151,9 @@
         ],
         "package_name": "info.camposha.swift"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Education",
@@ -1180,9 +1180,9 @@
         ],
         "package_name": "com.fireshooters.lifetips"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Education",
@@ -1209,9 +1209,9 @@
         ],
         "package_name": "com.google.android.apps.translate"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -1238,9 +1238,9 @@
         ],
         "package_name": "com.jio.jioplay.tv"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Entertainment",
@@ -1270,9 +1270,9 @@
         ],
         "package_name": " "
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -1302,9 +1302,9 @@
         ],
         "package_name": "com.google.android.apps.walletnfcrel"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Finance",
@@ -1334,9 +1334,9 @@
         ],
         "package_name": "com.watcho_multi"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Utilities",
@@ -1363,9 +1363,9 @@
         ],
         "package_name": "com.weather.nold.forecast"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "INBUILT",
       "cat_keys": [
-        "PREINSTALLED",
+        "INBUILT",
         "APPLICATION"
       ],
       "category": "Weather",
@@ -1392,9 +1392,9 @@
           ],
           "package_name": "com.watcho_multi"
         },
-        "cat_key": "PREINSTALLED",
+        "cat_key": "INBUILT",
         "cat_keys": [
-          "PREINSTALLED",
+          "INBUILT",
           "APPLICATION"
         ],
         "category": "Utilities",
@@ -1416,8 +1416,8 @@
 
       {
         "app_availability": { "available_in": ["IN", "US", "UK"], "package_name": "com.apple.Fitness" },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Health & Fitness",
         "description": "Apple Fitness helps you stay active, get motivated, and reach your fitness goals with personalized workouts and guided meditation sessions.",
         "ios_bundle_id": "com.apple.Fitness",
@@ -1431,8 +1431,8 @@
       },
       {
         "app_availability": { "available_in": ["IN", "US", "UK"], "package_name": "com.apple.Freeform" },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Productivity",
         "description": "Freeform helps you brainstorm, plan, and organize your ideas all in one place with an infinite canvas for collaboration.",
         "ios_bundle_id": "com.apple.freeform",
@@ -1446,8 +1446,8 @@
       },
       {
         "app_availability": { "available_in": ["IN", "US", "UK"], "package_name": "com.apple.GarageBand" },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Music & Audio",
         "description": "GarageBand turns your iOS device into a full-featured recording studio with a collection of touch instruments and effects.",
         "ios_bundle_id": "com.apple.mobilegarageband",
@@ -1461,8 +1461,8 @@
       },
       {
         "app_availability": { "available_in": ["IN", "US", "UK"], "package_name": "com.apple.Health" },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Health & Fitness",
         "description": "The Health app gathers health data from your iPhone, Apple Watch, and apps you already use to help you manage your wellness.",
         "ios_bundle_id": "com.apple.Health",
@@ -1476,8 +1476,8 @@
       },
       {
         "app_availability": { "available_in": ["IN", "US", "UK"], "package_name": "com.apple.Home" },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Lifestyle",
         "description": "The Home app makes it easy to control all your smart home accessories in one place with Apple’s HomeKit technology.",
         "ios_bundle_id": "com.apple.Home",
@@ -1491,8 +1491,8 @@
       },
       {
         "app_availability": { "available_in": ["IN", "US", "UK"], "package_name": "com.apple.FaceTime" },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Communication",
         "description": "FaceTime allows you to make video and audio calls to other Apple users worldwide.",
         "ios_bundle_id": "com.apple.facetime",
@@ -1509,8 +1509,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Utilities",
         "description": "Developer is an app for Apple developers to access technical resources, documentation, and latest news about Apple’s development ecosystem.",
         "android_package_name": " ",
@@ -1530,8 +1530,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Communication",
         "description": "Contacts is Apple's built-in app for managing and organizing your contacts, syncing across devices via iCloud.",
         "android_package_name": " ",
@@ -1551,8 +1551,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Navigation",
         "description": "Compass is a simple app that helps users determine direction, altitude, and coordinates with a clean interface.",
         "android_package_name": " ",
@@ -1572,8 +1572,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Utilities",
         "description": "Code Scanner is an Apple app designed to quickly scan QR codes and barcodes directly using the iPhone camera.",
         "android_package_name": " ",
@@ -1593,8 +1593,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Multimedia",
         "description": "Clips is an Apple app that lets users create and edit fun videos with special effects, music, and animated text.",
         "android_package_name": " ",
@@ -1614,8 +1614,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Books",
         "description": "Books is Apple's eBook and audiobook platform, allowing users to purchase, download, and read books on their devices.",
         "android_package_name": " ",
@@ -1635,8 +1635,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Shopping",
         "description": "Apple Store is the official app for purchasing Apple products, booking store appointments, and checking order statuses.",
         "android_package_name": " ",
@@ -1656,8 +1656,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Shopping",
         "description": "App Store is Apple's digital distribution platform for downloading apps, games, and updates on iOS devices.",
         "android_package_name": " ",
@@ -1677,8 +1677,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Utilities",
         "description": "Measure is an Apple app that uses augmented reality (AR) to measure objects and distances using the iPhone camera.",
         "android_package_name": " ",
@@ -1698,8 +1698,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Productivity",
         "description": "Files is Apple's file management app that allows users to browse, organize, and manage their documents across iCloud, local storage, and third-party services like Google Drive and Dropbox.",
         "android_package_name": " ",
@@ -1719,8 +1719,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Productivity",
         "description": "iCloud Drive lets you securely store, organize, and access all your files across your iPhone, iPad, Mac, and even Windows devices. Easily share documents, collaborate in real-time, and access your files from anywhere with an internet connection.",
         "android_package_name": " ",
@@ -1740,8 +1740,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Productivity",
         "description": "Mail is Apple's built-in email client that allows users to send, receive, and organize their emails seamlessly. It supports multiple email providers, rich text formatting, and smart mailboxes for efficient email management.",
         "android_package_name": " ",
@@ -1761,8 +1761,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Productivity",
         "description": "Sheets is a powerful spreadsheet application by Google, allowing users to create, edit, and collaborate on spreadsheets online. It includes real-time collaboration, built-in formulas, and integration with other Google services.",
         "android_package_name": "com.google.android.apps.docs.editors.sheets",
@@ -1782,8 +1782,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Productivity",
         "description": "Docs is Google's word processing application that enables users to create, edit, and collaborate on documents in real time. It offers cloud storage, version history, and extensive formatting tools.",
         "android_package_name": "com.google.android.apps.docs.editors.docs",
@@ -1803,8 +1803,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Store",
         "description": "Vivo Store is the official app marketplace for Vivo smartphones, allowing users to download and update applications optimized for Vivo devices. It features app recommendations, security checks, and system updates.",
         "android_package_name": "com.vivo.website",
@@ -1824,8 +1824,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Productivity",
         "description": "PDF is a widely used file format for document sharing and viewing. Many applications support reading and editing PDFs, making it an essential tool for productivity.",
         "android_package_name": "pdf.reader.pdfviewer.pdfeditor",
@@ -1845,8 +1845,8 @@
           "available_in": ["IN", "US", "UK"],
           "package_name": ""
         },
-        "cat_key": "PREINSTALLED",
-        "cat_keys": ["PREINSTALLED", "APPLICATION"],
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Productivity",
         "description": "Adobe Acrobat Reader: Edit PDF is a comprehensive PDF solution that allows users to view, edit, sign, and annotate PDFs. It integrates with cloud storage for seamless document access.",
         "android_package_name": "com.adobe.reader",
