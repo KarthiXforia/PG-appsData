@@ -108,7 +108,7 @@
       ],
       "category": "Utilities",
       "description": "File Manager is a FREE file manager and virtual USB drive for the iPhone and iPad. Easily view images, audio, videos, PDF documents, Word documents, Excel documents, ZIP/RAR files and more.\n\nFEATURES \n- Integrated PDF Reader\n- Supports Microsoft Office, Excel, Powerpoint\n- Supports Apple iWorks documents\n- Multiple clouds (Dropbox, OneDrive and more)\n- Integrated music player\n- Copy, move and zip multiple files\n- Passcode protect files\n- Supports iTunes USB File Sharing\n- Transfer files from your PC/Mac using Wi-Fi\n- Built-in search feature\n- Sort files by \"Name\",\"Date\",\"Size\" or \"Kind\"\n- Share files by email, bluetooth and Facebook.\n- \"Open in\" feature allows you to open files in other apps\n- Create and extract ZIP files\n\nand much more...\n\n\n----------------------------------------\n\nTAPMEDIA PRO SUBSCRIPTION\n\n- You will receive access to the apps in the TapMedia PRO bundle for the duration of the subscription.\n- Subscription length: Monthly (includes one week free trial).\n- Subscriptions with a free trial period will automatically renew to a paid subscription.\n- Payments will be charged to iTunes Account at confirmation of purchase.\n- Your account will be charged for renewal within 24-hours prior to the end of the current period and identify the cost of the renewal.\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. \n- All prices are subject to change without notification. We occasionally run promotion prices as incentives or limited time opportunities for qualifying purchases made during the promotional time period. Due to the time sensitive and promotional nature of these events, we are unable to offer price protection or retroactive discounts or refunds for previous purchases in the event of a price reduction or promotional offering.\n- Any unused portion of a free trial period will be forfeited when the user purchases a subscription\n- You may cancel a subscription during its free period via the subscription setting through your iTunes Account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit http://support.apple.com/kb/ht4098\n\nPrivacy Policy: http://tapmedia.co.uk/privacy.htm\nTerms of Use: http://tapmedia.co.uk/terms.htm",
-      "android_package_name": " ",
+      "android_package_name": "default_file",
       "ios_bundle_id": "com.apple.DocumentsApp",
       "title": "File Manager",
       "domain_name": [
@@ -358,15 +358,15 @@
       ],
       "category": "Entertainment",
       "description": "Connect. Discover. Control.\n\nStay connected to your gaming friends and the games you love to play, wherever you go with PlayStation App. See who's online, voice chat and send messages, and discover deals on PS Store.\n\nConnect with friends\n• See who's online and what games they're playing.\n• Voice chat and send messages to your PSN friends, hang out online, and plan your next multiplayer session.\n• View other players' profiles and trophy collections.\n\nDiscover new games and the latest news\n• Shop for new releases, pre-order games, and check out the latest deals and discounts on PlayStation Store.\n• Get your daily fix of gaming news from the world of PlayStation.\n• Stay up to date with notifications and invitations on your phone lock screen.\n\nControl your console wherever you are\n• Download games and add-ons to your console, so they're ready when you are.\n• Manage your PS5 console storage if you run out of space while downloading.\n• Get ready to play with quick sign-in and remote game launch on your PS5 console.\n\nAccount for PlayStation Network required to use this app.\n\nPlayStation terms of service are viewable at https://www.playstation.com/legal/psn-terms-of-service/.\n\nSome features require PS5 or PS4 console.\n\nContent available on PS App may vary by country/region. Some titles shown above may not be available in your country/region.\n\n“PlayStation”, “PlayStation Family Mark”, “PS5”, and “PS4” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.",
-      "android_package_name": "default_palyStore",
+      "android_package_name": "com.android.vending",
       "ios_bundle_id": " ",
       "title": "Play Store",
       "domain_name": [],
       "website": "",
       "developer": "PlayStation Mobile Inc.",
       "app_country": "US",
-      "icon": "",
-      "icon_72": "=s72-rw",
+      "icon": "https://cdn.iconscout.com/icon/free/png-512/free-google-play-logo-icon-download-in-svg-png-gif-file-formats--social-media-technology-pack-logos-icons-3147648.png",
+      "icon_72": "https://cdn.iconscout.com/icon/free/png-512/free-google-play-logo-icon-download-in-svg-png-gif-file-formats--social-media-technology-pack-logos-icons-3147648.png=s72-rw",
       "market_status": "PUBLISHED",
       "isPopular": true,
       "popularity": 100
@@ -1702,7 +1702,7 @@
         "cat_keys": ["INBUILT", "APPLICATION"],
         "category": "Productivity",
         "description": "Files is Apple's file management app that allows users to browse, organize, and manage their documents across iCloud, local storage, and third-party services like Google Drive and Dropbox.",
-        "android_package_name": " ",
+        "android_package_name": "default_files",
         "ios_bundle_id": "com.apple.DocumentsApp",
         "title": "Files",
         "domain_name": [],
@@ -1860,5 +1860,48 @@
         "market_status": "PUBLISHED",
         "isPopular": true,
         "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "CN", "RU"],
+          "package_name": "com.mi.global.shop"
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
+        "category": "Store",
+        "description": "Mi Store is the official app marketplace for Xiaomi devices, offering a wide selection of applications optimized for Xiaomi smartphones and tablets. It includes app recommendations, system updates, and enhanced security features.",
+        "android_package_name": "com.mi.global.shop",
+        "ios_bundle_id": "",
+        "title": "Mi Store",
+        "domain_name": ["https://app.mi.com", "https://www.mi.com/in", "https://www.mi.com/in/store"],
+        "website": "https://app.mi.com",
+        "developer": "Xiaomi Inc.",
+        "app_country": "CN",
+        "icon": "https://play-lh.googleusercontent.com/K-44rSE33Wysgghzd0ERiti7HPkMf44-oAAa6H73CyftLX3JDBEoFWgvZh-HYl-RBw=w480-h960-rw",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "CN", "ID", "TH", "VN"],
+          "package_name": "com.oppo.market"
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
+        "category": "Store",
+        "description": "Hot Apps is a pre-installed app recommendation service on Realme devices, offering curated suggestions for popular and trending applications. It provides users with a seamless way to discover new apps optimized for their smartphones.",
+        "android_package_name": "com.oppo.market",
+        "ios_bundle_id": "",
+        "title": "Hot Apps",
+        "domain_name": ["https://store.oppo.com"],
+        "website": "https://store.oppo.com",
+        "developer": "Realme Mobile Telecommunications Corp., Ltd.",
+        "app_country": "CN",
+        "icon": "https://images.gizbot.com/images/1/18790454/18790454-320_e4a19fcb-d3be-4ad1-8418-fd3f0c127a65.jpeg",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
       }
+      
   ]

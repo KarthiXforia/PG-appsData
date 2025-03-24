@@ -1,0 +1,792 @@
+[
+
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "app.wizyemm.settings"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Lifestyle",
+      "description": "Game time now comes with more peace of mind with the Xbox Family Settings app. Easily manage your children’s activities on Xbox consoles and enable gaming options that are right for your family. Quickly get into the fun by adding your children to your family account in a snap. Set screen time, update content restrictions, and stay on top of incoming friend requests, all in real time.\n \nPlease refer to Microsoft’s EULA for Terms of Service for Microsoft’s gaming applications on iOS. By installing the app, you agree to these terms and conditions: https://aka.ms/MobileGamingEULA",
+      "android_package_name": "default_settings",
+      "ios_bundle_id": "com.apple.Preferences",
+      "title": "Settings",
+      "domain_name": [
+        "https://www.xbox.com/en-US/apps/family-settings-app",
+        "https://www.xbox.com"
+      ],
+      "website": "https://www.xbox.com/en-US/apps/family-settings-app",
+      "developer": "Microsoft Corporation",
+      "app_country": "US",
+      "icon": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/d30a5c899b4d74d638b75344df55241f.png",
+      "icon_72": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/d30a5c899b4d74d638b75344df55241f.png=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.sec.android.app.popupcalculator"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Calculator\n\nEasily type out math with the basic and scientific calculators for quick solutions. With the Math Notes calculator, solving expressions, creating and using variables, and even plotting equations on graphs is as simple as typing or writing them out.\n\n\nBasic & Scientific Calculators\nType complete expressions with parentheses, and basic and scientific operations before hitting equal for the final answer. With history, you can keep track of previous calculations, and easily copy or switch back to previous results.\n\nUnit Conversion\nUnit conversions in the basic and scientific calculators help you quickly convert between hundreds of units including length, speed, temperature, weight and more. You can even get up-to-date conversions for currencies from around the world.\n\nMath Notes\nType math or write it out using Apple Pencil on iPad, and Math Notes will solve your expressions inline as soon as you add an equal sign. Math Notes supports all the same functions as the basic and scientific calculators, unit conversions and even math written vertically.\n\nVariables\nCreate variables by typing or writing their name, an equals sign and then their value. Name them with letters or words. Tap on a variable’s value to easily adjust the value up or down. And use your variables in expressions, and even graphed equations across a Math Note.\n\nGraphing\nType or write an equation, and with a tap you can graph it in Math Notes. Zoom, pan around, or resize your graph to get it just right. You can even add multiple equations on the same graph to see how they’re related.",
+      "android_package_name": "default_calculator",
+      "ios_bundle_id": "com.apple.calculator",
+      "title": "Calculator",
+      "domain_name": [
+        "https://www.apple.com/ipados/ipados-18",
+        "https://www.apple.com"
+      ],
+      "website": "https://www.apple.com/ipados/ipados-18",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Z5BA3DYVKalnbCW8CGlIM3bN699i6QwRs5oE5kr_1-OYApm2cLPSlOP6mbdUJunXtw",
+      "icon_72": "https://play-lh.googleusercontent.com/Z5BA3DYVKalnbCW8CGlIM3bN699i6QwRs5oE5kr_1-OYApm2cLPSlOP6mbdUJunXtw=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.nbu.files"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "File Manager is a FREE file manager and virtual USB drive for the iPhone and iPad. Easily view images, audio, videos, PDF documents, Word documents, Excel documents, ZIP/RAR files and more.\n\nFEATURES \n- Integrated PDF Reader\n- Supports Microsoft Office, Excel, Powerpoint\n- Supports Apple iWorks documents\n- Multiple clouds (Dropbox, OneDrive and more)\n- Integrated music player\n- Copy, move and zip multiple files\n- Passcode protect files\n- Supports iTunes USB File Sharing\n- Transfer files from your PC/Mac using Wi-Fi\n- Built-in search feature\n- Sort files by \"Name\",\"Date\",\"Size\" or \"Kind\"\n- Share files by email, bluetooth and Facebook.\n- \"Open in\" feature allows you to open files in other apps\n- Create and extract ZIP files\n\nand much more...\n\n\n----------------------------------------\n\nTAPMEDIA PRO SUBSCRIPTION\n\n- You will receive access to the apps in the TapMedia PRO bundle for the duration of the subscription.\n- Subscription length: Monthly (includes one week free trial).\n- Subscriptions with a free trial period will automatically renew to a paid subscription.\n- Payments will be charged to iTunes Account at confirmation of purchase.\n- Your account will be charged for renewal within 24-hours prior to the end of the current period and identify the cost of the renewal.\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. \n- All prices are subject to change without notification. We occasionally run promotion prices as incentives or limited time opportunities for qualifying purchases made during the promotional time period. Due to the time sensitive and promotional nature of these events, we are unable to offer price protection or retroactive discounts or refunds for previous purchases in the event of a price reduction or promotional offering.\n- Any unused portion of a free trial period will be forfeited when the user purchases a subscription\n- You may cancel a subscription during its free period via the subscription setting through your iTunes Account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit http://support.apple.com/kb/ht4098\n\nPrivacy Policy: http://tapmedia.co.uk/privacy.htm\nTerms of Use: http://tapmedia.co.uk/terms.htm",
+      "android_package_name": "default_file",
+      "ios_bundle_id": "com.apple.DocumentsApp",
+      "title": "File Manager",
+      "domain_name": [
+        "http://www.tapmedia.co.uk",
+        "https://www.tapmedia.co.uk"
+      ],
+      "website": "http://www.tapmedia.co.uk",
+      "developer": "TapMedia Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA",
+      "icon_72": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.photo.android.camera"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Hey you! Yeah you! Shouldn't you be looking for Photon instead? Our newest app has been rebuilt from the ground app to support the next 10 years (or 20, who knows?) of mobile photography. Check it out at http://photon.cam\n\n“The Clarity filter is iPhone photography’s secret sauce—it adds pro-camera crispness to almost any shot.”\n— Kevin Sintumuang, The Wall Street Journal\n\n“If the iPhone’s standard camera is like a digital point-and-shoot, the Camera+ app is like a high-quality SLR lens.”\n— TIME: 50 Best iPhone Apps 2011\n\n“improves on almost every aspect of the built-in camera app”\n— Charlie Sorrel, Wired\n\nWinner: Best Visual Design, Best Photography App\n— Best App Ever Awards\n\n\nIt’s all about one thing... great photos!\n\nWhether you’re a seasoned photographer or someone who’s barely touched a camera, Camera+ will make you love taking photos.\n\nTouch Exposure & Focus\nSet exposure separately from focus. You can now easily control how light or dark your shots come out.\n\nShooting Modes\nUse the Stabilizer to steady your iPhone and get the sharpest photos you can. There are countless uses for the Timer including taking the highest-quailty self-portraits. Capture all the action by using Burst to take rapid streams of shots.\n\nDigital Zoom\nUp to 6× zoom with advanced digital processing provides you with quality that simply blows away the competition.\n\nFront Flash\nHow many times have you wanted to take a pic of yourself in a dark room but couldn’t. Well, now you can!\n\nHorizon Level\nUse the Horizon Level to eliminate taking crooked shots.\n\nClarity\nClarity is one of the biggest breakthroughs to happen to image processing in a long time. Clarity analyzes your photos and makes several intelligent adjustments that magically bring out details and breathe life into dull photos. With Clarity, you’ll stop throwing out bad photos… you’ll be amazed to see what it can do to photos that you’d typically consider unusable, like shots that came out too dark.\n\nScene Modes\nMost modern digital cameras all have scene modes to help you get the best photos for your particular situation. With Camera+, you get to choose from several scene modes including Food, Sunset, Night, Portrait, Beach, and many more.\n\nEffects\nProfessional photographer, Lisa Bettany created a slew of stunningly beautiful effects. Make your photos shimmer with “HDR”… get down and dirty with “Grunge”… fill your pics with emotion and despair with “So Emo”. And this is just the tip of the iceberg… there are dozens of 1-touch effects for you to experiment with.\n\nLightbox\nAll the pics you take in Camera+ go in the innovative Lightbox where you can quickly and easily skim through them and get rid of bad shots. You save only the photos you’re satisfied with so that your camera roll stays neat and clean.\n\nSharing\nWhether you want to show your results to your friends and family or the whole world, Camera+ has got you covered. Proudly share your photos on Facebook, Twitter, and Flickr. Or go the more personal route and email or message them from right within the app.\n\niCloud Lightbox sync\nAutomatically sync your Camera+ photos between all of your devices. Shoot all day on your iPhone… and then edit at night on your iPad. \n\nCrops\nIf you didn’t line-up your shot perfectly when you took it, you can easily fix that with Camera+. And when you want to get a bit creative, we setup a bunch of popular crop sizes for you. With a single tap, you can make your pics square, 4×6, 8×10, and more.\n\nBorders\nWith Camera+ you get several great border designs, from simple black and white borders to more gritty designs, you’ll be able to add wonderful finishing touches.\n\nCaptions\nHave some fun with your photos by putting captions on them. It’s a great way to really personalize your favorite shots.",
+      "android_package_name": "default_camera",
+      "ios_bundle_id": "com.apple.camera",
+      "title": "Camera",
+      "domain_name": [
+        "https://latenitesoft.com",
+        "https://latenitesoft.com"
+      ],
+      "website": "https://latenitesoft.com",
+      "developer": "LateNite Apps",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/77m-hpSGZZJ5go6cHD-ZqX_8hnBT70E2uYWoznS5aI-2I06Lh5IQnymUqV6gdphDRIs",
+      "icon_72": "https://play-lh.googleusercontent.com/77m-hpSGZZJ5go6cHD-ZqX_8hnBT70E2uYWoznS5aI-2I06Lh5IQnymUqV6gdphDRIs=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.photosgo"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Games",
+      "description": "Mia is a passionate painter, who left her boring job to do what she really likes - draw pictures side by side with her boyfriend Leo. Join them in amazing colorful adventure: color a beautiful masterpieces, get stars to renovate the old house and abandoned Art Gallery.\n\nDiscover hundreds of unique, high quality paintings, made by the best modern illustrators exclusively for Gallery: Coloring book and Decor. Draw, renovate, decorate and follow the love story - this is the first artbook game where you can color by number and do home design in a one game.\n\nMeet next special features: \n- original gameplay: combination of coloring book and home design - creative game for real designers\n- hundreds of beautiful pictures to colour\n- different art styles of illustrations: geometric art, flat art, pixelart, low poly\n- different choices of decor\n- unique 3D graphics for the mansion and characters; \n- relaxing pictures recoloring; \n- regular updates\n\nSUBSCRIPTION PRICING AND TERMS\n\n\nPremium Subscription\n\n\nSubscription options, prices and durations:\n\n\nWeekly Premium Subscription for 7.99 USD with 3 days of a free trial period that offers a weekly subscription for getting daily free coins’ and boosters’ rewards, making decor options free, 2x extending energy bar and removing ADS.\n\nSubscription renewal:\n\n- Payment will be charged to iTunes Account at confirmation of purchase;\n- Subscription automatically renews with the price and duration period as the original “1 week” package unless auto-renew is turned off at least 24-hours before the end of the current period;\n- Account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen package (weekly, monthly or yearly package);\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s iTunes Account Settings after purchase;\n- No cancellation of the current subscription is allowed during active subscription period;\n\nPlease visit http://support.apple.com/kb/ht4098 for more information.\n\nCanceling subscription:\n- You may turn off the auto-renewal of your subscription via your iTunes Account Settings. However, you are not able to cancel the current subscription during its active period;\n\nLinks to our Terms of Service and Privacy Policy can be found below:\nPrivacy Policy:  https://beresnev.games/privacyPolicy/\nTerms of Use: https://beresnev.games/termofuse/\n\nFor all the questions please contact us at support@beresnev.games\n\n* Prices are equal to the value that «Apple’s App Store Pricing Matrix» determines as the equivalent of the subscription price in $ USD",
+      "android_package_name": "default_gallery",
+      "ios_bundle_id": " ",
+      "title": "Gallery",
+      "domain_name": [
+        "https://beresnev.games",
+        "https://beresnev.games"
+      ],
+      "website": "https://beresnev.games",
+      "developer": "BERESNEV s.r.o.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/pmEnTOeRvosC1yOXFVwo15zS2uAdB9nijugU93NbrmFBYt61IVCZBzg7EZ00YTqmLw",
+      "icon_72": "https://play-lh.googleusercontent.com/pmEnTOeRvosC1yOXFVwo15zS2uAdB9nijugU93NbrmFBYt61IVCZBzg7EZ00YTqmLw=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.gm"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Access, view and manage messages from all your email accounts in one place. Add images, scan documents, create sketches and attach files using the handy Format bar. Catch up on email easily with Apple Intelligence powered Priority Messages and summarizations. Manage your inbox by scheduling emails to send later, snoozing emails you want to get back to later and unsend an email in one tap. \n\nFeatures\n\n• Access email from iCloud, Gmail, Exchange, Yahoo, and Outlook as well as many other email providers - all in one place.\n\n• View all of your accounts in a single inbox, choose a specific mailbox or filter to see just Unread or Flagged messages.\n\n• Stay on top of emails with Priority Messages, a new section at the top of your inbox that shows urgent emails.\n\n• Use Smart Reply to quickly respond to messages with a few taps.\n\n• Catch up on email quickly with summarization of messages and threads.\n\n• Find messages by sender, recipient or subject. Top hits make it easy to find what you’re looking for.\n\n• Manage your inbox by blocking a sender or muting notifications from overly active threads.\n\n• Flag important contacts as VIPs to receive notifications when their emails arrive.\n\n• Triage email messages using swipe gestures that help you quickly archive, delete, flag, or mark messages as read or unread.\n\n• Use Mail Drop to send large attachments from any account through iCloud.\n\n• Hide your IP address with Mail Privacy Protection so senders can’t link it to your other online activity or determine your locations, and prevent senders from seeing if you’ve opened their email.",
+      "android_package_name": "default_email",
+      "ios_bundle_id": "com.apple.mobilemail",
+      "title": "Email",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI",
+      "icon_72": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "net.fast.web.browser"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Choose the browser that prioritizes people over profits.\n\nWhen you choose Firefox, you protect your data while supporting the non-profit Mozilla Foundation, whose mission is to build a better internet that's safe and accessible for everyone.\n\nPRIVACY WHERE IT MATTERS MOST\nFirefox automatically blocks various trackers and scripts by default, including social media trackers, cross-site cookie trackers, cryptominers, and fingerprinters. In addition, when you set Firefox's Enhanced Tracking Protection to \"Strict,\" it blocks tracking content in all windows. You can also easily search in private browse mode, which automatically deletes your search and browsing history when you close all private windows.\n\nDIFFERENT DEVICES.  SAME TRAIN OF THOUGHT\nNow, you can search for things on your laptop, then pick up the exact same search on your phone and vice versa. Your Firefox homepage displays the most recent searches you’ve done on other devices so you can easily get back to what you were doing or thinking about. \n\nLIMITED-EDITION WALLPAPERS\nIntroducing limited-edition wallpapers from independent creators. Stick with one you love or switch it up anytime to make Firefox match your mood. \n\nSTREAMLINED HOME SCREEN\nYou can pick up right where you left off. All your open tabs are intuitively grouped and displayed, along with your recent bookmarks, top sites and popular articles recommended by Pocket.\n\nGET FIREFOX ON  ALL YOUR DEVICES\nAdd Firefox across your devices for secure, seamless browsing. In addition to synced tabs and searches, Firefox makes password management easy by remembering your passwords across devices.\n\nFIND IT FAST WITH FIREFOX’S SEARCH BAR\nGet search suggestions in the search bar and quickly access the sites you visit most. Type in your search question and get suggested and previously searched results across your favorite search engines.\n\nORGANIZE YOUR TABS THE WAY YOU LIKE\nCreate as many tabs as you like without losing track. Firefox displays your open tabs as thumbnails and numbered tabs, making it easy to find what you want quickly.\n\nSHARE ANYTHING IN A FEW TAPS\nThe Firefox web browser makes it easy to share links to web pages or specific items on a page, and it provides quick access to your most recently used apps.\n\nLEARN MORE ABOUT FIREFOX WEB BROWSER:\n- Read about Firefox permissions: http://mzl.la/Permissions\n- Learn more about what’s up at Mozilla: https://blog.mozilla.org\n\nABOUT MOZILLA\nMozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled. We build products like Firefox to promote choice and transparency and give people more control over their lives online. Learn more at https://www.mozilla.org.\n\nPrivacy Policy: http://www.mozilla.org/legal/privacy/firefox.html",
+      "android_package_name": "default_browser",
+      "ios_bundle_id": " ",
+      "title": "Browser",
+      "domain_name": [
+        "https://www.mozilla.org/firefox/ios",
+        "https://www.mozilla.org"
+      ],
+      "website": "https://www.mozilla.org/firefox/ios",
+      "developer": "Mozilla Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/RJINYrKUXxhOgwzvhifaTSxKENK9iDOelk3oNUNWJV_mgSjhkEZ2xsSel4l2t5UIzMA",
+      "icon_72": "https://play-lh.googleusercontent.com/RJINYrKUXxhOgwzvhifaTSxKENK9iDOelk3oNUNWJV_mgSjhkEZ2xsSel4l2t5UIzMA=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.sec.android.app.voicenote"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Voice Memos turns your iPhone, iPad, or Apple Watch into a portable audio recorder, making it easy to capture and share personal notes, song ideas, family moments, classroom lectures, and more. Editing tools like trim, replace, and the new “Save As” feature let you fine-tune your recordings without altering the original. The transcription feature converts speech into text, simplifying the process of finding and referencing specific content. And the new feature to record a vocal layer on top of an existing instrumental recording* without the need for headphones making it easy to capture song ideas on the go. Users can then separate and edit the vocal and instrumental layers independently to continue expanding on those ideas. And with iCloud support, you can capture audio on the go with your iOS device, then use your Mac to do even more with your recordings.\n\nFeatures\n\nRecord\n• Record using the built-in microphone, a Bluetooth headset, or a compatible external microphone.\n• Choose uncompressed audio for maximum sound fidelity, ensuring the highest quality recordings.\n• Opt for compressed audio to save storage space and record longer sessions.\n• Automatically name recordings based on your location.\n• Record a vocal layer* over an instrumental track without headphones.\n• Stereo recording adds greater depth and dimension to your audio**.\n• iCloud support keeps your recordings and edits in sync across all your devices, including iPhone, iPad, Apple Watch, Mac, and Vision Pro.\n\nEdit\n• Pinch-to-zoom for more precision when editing.\n• Trim your recordings to save just the portion you want.\n• Replace and resume to fine-tune your recordings.\n• Save As lets you make edits and save them as a new recording without altering the original file.\n• Separate and independently edit the vocal and instrumental takes for layered recordings*.\n• Transcripts automatically convert speech into text for easy reference***.\n• Enhance Recording reduces background noise and room reverberation with a single tap.\n\nOrganize\n• Quickly find recordings with the search feature.\n• Folders make it easy to organize your recordings.\n• Mark recordings as Favorites so you can quickly access them later.\n\nListen and share\n• Speed up or slow down playback of your recordings, or jump 15 seconds forward or back.\n• Skip Silence analyzes your recordings and automatically skips over gaps in your audio.\n• Share multiple recordings at once via AirDrop, Mail, Messages, and more.\n• Import vocal layer* recordings into Logic Pro as a two-track project for advanced editing and production.\n\n* Adding a vocal layer on top of a Voice Memos recording is available only on the iPhone 16 Pro models.\n** Stereo recording requires Apple devices equipped with stereo microphones and iOS 18 or later.\n*** Audio transcription is available on iPhone 12 and later in English (Australia), English (Canada), English (Ireland), English (New Zealand), English (South Africa), English (UK), and English (US).",
+      "android_package_name": "default_voiceRecorder",
+      "ios_bundle_id": "com.apple.VoiceMemos",
+      "title": "Voice Recorder",
+      "domain_name": [
+        "http://www.apple.com/ios/ios-12",
+        "https://www.apple.com"
+      ],
+      "website": "http://www.apple.com/ios/ios-12",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EaHQ7KJNn6ZAICf0kEVwKunD4hZd-59oggNErDPDKTaK20sXXfVUN0AYJP70-x8UjQ",
+      "icon_72": "https://play-lh.googleusercontent.com/EaHQ7KJNn6ZAICf0kEVwKunD4hZd-59oggNErDPDKTaK20sXXfVUN0AYJP70-x8UjQ=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.instagram.android"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Entertainment",
+      "description": "Connect. Discover. Control.\n\nStay connected to your gaming friends and the games you love to play, wherever you go with PlayStation App. See who's online, voice chat and send messages, and discover deals on PS Store.\n\nConnect with friends\n• See who's online and what games they're playing.\n• Voice chat and send messages to your PSN friends, hang out online, and plan your next multiplayer session.\n• View other players' profiles and trophy collections.\n\nDiscover new games and the latest news\n• Shop for new releases, pre-order games, and check out the latest deals and discounts on PlayStation Store.\n• Get your daily fix of gaming news from the world of PlayStation.\n• Stay up to date with notifications and invitations on your phone lock screen.\n\nControl your console wherever you are\n• Download games and add-ons to your console, so they're ready when you are.\n• Manage your PS5 console storage if you run out of space while downloading.\n• Get ready to play with quick sign-in and remote game launch on your PS5 console.\n\nAccount for PlayStation Network required to use this app.\n\nPlayStation terms of service are viewable at https://www.playstation.com/legal/psn-terms-of-service/.\n\nSome features require PS5 or PS4 console.\n\nContent available on PS App may vary by country/region. Some titles shown above may not be available in your country/region.\n\n“PlayStation”, “PlayStation Family Mark”, “PS5”, and “PS4” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.",
+      "android_package_name": "com.android.vending",
+      "ios_bundle_id": " ",
+      "title": "Play Store",
+      "domain_name": [],
+      "website": "",
+      "developer": "PlayStation Mobile Inc.",
+      "app_country": "US",
+      "icon": "https://cdn.iconscout.com/icon/free/png-512/free-google-play-logo-icon-download-in-svg-png-gif-file-formats--social-media-technology-pack-logos-icons-3147648.png",
+      "icon_72": "https://cdn.iconscout.com/icon/free/png-512/free-google-play-logo-icon-download-in-svg-png-gif-file-formats--social-media-technology-pack-logos-icons-3147648.png=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.googlequicksearchbox"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Download the Google app to stay in the know about things that matter to you. Try AI Overviews, find quick answers, explore your interests, and stay up to date with Discover. The more you use the Google app, the more it’s tailored to you.\n\nFeature highlights:\n\n• Image Search: See something you like? Snap a photo and discover where to shop for it, find related images, and more. Refine your camera searches by adding words – whether you want those shoes but in ‘blue’, or want to learn how to ‘repair’ that broken bit on your bicycle.\n• Hum to Search: Can't remember the name of that song? Hum the tune and the Google app will identify it for you.\n• Discover: Stay up-to-date on topics that matter to you. Get personalized news, articles, and videos based on your interests and search history.\n• Try AI Overviews: We’re making search smarter and simpler with generative AI. Try searching things like ‘how to cut onions without crying’ or ‘how to fix a broken zipper’ and AI Overviews will find what you’re looking for in faster, easier ways.\n• Google Search Widget: Search from your home screen or lock screen with the new Google widget. Choose from 2 widgets, giving you a quick search bar in both sizes, and shortcuts to choose how you Search with Lens, Voice, and Incognito in the medium size widget.\n\nSearch what you see with Google Lens:\n\n• Use your camera to identify what you’re looking at. Identify plants and animals, translate text in real-time, find similar products to buy, and even solve math problems with step-by-step guides.\n• Translate over 100 languages on things like road signs when you travel, menus, and more by pointing your camera at text.\n• Reverse image search: Find the source, similar photos, and related information for any image.\n• Socratic app functionalities like step-by-step homework help on math, physics and word problems, and testing your knowledge with Questions and Answers are now fully supported within the Google app.\n\n\nGet personalized updates in Discover:\n\n• Stay in the know about topics that interest you.\n• Start your morning with weather and top news.\n• Get real-time updates on sports, movies, and events.\n• Know as soon as your favorite artists drop new albums.\n• Get stories about your interests and hobbies.\n• Follow interesting topics, right from Search results.\n\nSearch safely and securely:\n\n• All searches in the Google app are protected by encrypting the connection between your device and Google.\n• Privacy controls are easy to find and use. Tap your profile picture to access your menu and delete recent search history from your account with one click.\n• Search proactively filters webspam to help ensure that you see safe, high-quality results.\n\n\nLearn more about what the Google app can do for you: https://search.google/\n\nPrivacy policy: https://www.google.com/policies/privacy\n\nYour feedback helps us create products you'll love. Join a user research study here:\nhttps://goo.gl/kKQn99",
+      "android_package_name": "default_google",
+      "ios_bundle_id": " ",
+      "title": "Google",
+      "domain_name": [
+        "http://www.google.com/search/about",
+        "https://www.google.com"
+      ],
+      "website": "http://www.google.com/search/about",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1",
+      "icon_72": "https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.gm"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Access, view and manage messages from all your email accounts in one place. Add images, scan documents, create sketches and attach files using the handy Format bar. Catch up on email easily with Apple Intelligence powered Priority Messages and summarizations. Manage your inbox by scheduling emails to send later, snoozing emails you want to get back to later and unsend an email in one tap. \n\nFeatures\n\n• Access email from iCloud, Gmail, Exchange, Yahoo, and Outlook as well as many other email providers - all in one place.\n\n• View all of your accounts in a single inbox, choose a specific mailbox or filter to see just Unread or Flagged messages.\n\n• Stay on top of emails with Priority Messages, a new section at the top of your inbox that shows urgent emails.\n\n• Use Smart Reply to quickly respond to messages with a few taps.\n\n• Catch up on email quickly with summarization of messages and threads.\n\n• Find messages by sender, recipient or subject. Top hits make it easy to find what you’re looking for.\n\n• Manage your inbox by blocking a sender or muting notifications from overly active threads.\n\n• Flag important contacts as VIPs to receive notifications when their emails arrive.\n\n• Triage email messages using swipe gestures that help you quickly archive, delete, flag, or mark messages as read or unread.\n\n• Use Mail Drop to send large attachments from any account through iCloud.\n\n• Hide your IP address with Mail Privacy Protection so senders can’t link it to your other online activity or determine your locations, and prevent senders from seeing if you’ve opened their email.",
+      "android_package_name": "com.google.android.gm",
+      "ios_bundle_id": "com.google.Gmail",
+      "title": "Gmail",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI",
+      "icon_72": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.tachyon"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "Google Meet is a high-quality video calling app designed to help you have meaningful and fun interactions with your friends, family, colleagues, and classmates, wherever they are.\n\nMeet lets you connect in whatever way works for you: Call someone spontaneously, schedule time together, or send a video message that they can watch and respond to later.\n\nMeet also helps you get things done. It integrates with other Google Workspace apps like Gmail, Docs, Slides, and Calendar, and offers a number of features to help you run smooth and engaging meetings, like noise cancellation, in-call chat, recordings, and more.*\n\nFeatures to look forward to:\n\nMake spontaneous calls or host video meetings with your friends and colleagues, all in one app.\n\n\nEnjoy one-on-one video calls for up to 24 hours and host meetings for up to 60 minutes and 100 people at no cost.\n\n\nFollow along in your preferred language with real-time translated captions in over 70 languages.\n\n\nUse in-call chat to share ideas, ask questions, or provide feedback without interrupting the flow of the conversation.\n\n\nMake your calls more engaging with in-call emojis that allow you to express yourself seamlessly without interrupting the conversation.\n\n\nShare visuals like photos, videos, and presentations during your call to collaborate or simply share memories from your recent vacation.\n\n\nMake your calls with family and friends more fun with stackable effects that allow participants to add multiple backgrounds, filters, and animations, to create a personalized experience.\n\n\nUse on-the-go mode for an audio-only experience with larger call controls, making it easier to take calls with fewer distractions while walking, driving, or using public transportation.\n\n\nAccess on any device: Meet works across mobile, tablet, web, and smart devices,** so everyone can join.\n\nHigh quality video: Show up looking your best with up to 4k video quality video***.\n\nLearn more about Google Meet: https://workspace.google.com/products/meet/\n\nFollow us for more:\n\nTwitter: https://twitter.com/googleworkspace\n\nLinkedin: https://www.linkedin.com/showcase/googleworkspace\n\nFacebook: https://www.facebook.com/googleworkspace/\n\n*Meeting recording, noise cancellation are available as premium features. See https://workspace.google.com/pricing.html for more details\n\n**Not available in every language.\n\n***Bandwidth permitting. Google Meet automatically adjusts to the highest video quality possible based on your bandwidth.\n\nData charges may apply. Check your carrier for details.\n\nSpecific feature availability may vary based on device specifications.",
+      "android_package_name": "default_meet",
+      "ios_bundle_id": " ",
+      "title": "Meet",
+      "domain_name": [
+        "https://meet.google.com",
+        "https://meet.google.com"
+      ],
+      "website": "https://meet.google.com",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A",
+      "icon_72": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.android.chrome"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Utilities",
+      "description": "Download the new Google Chrome for your iPhone and iPad. Now more simple, secure and faster than ever. Get the best of Google Search, and easily sync your bookmarks and passwords with Chrome on your laptop. Download the fast, secure browser recommended by Google.\n\nNEW - You can now set Chrome as your default browser. Follow the in-app prompt or go to Settings > Google Chrome to set Chrome as default_ All web links will automatically open in Chrome.\n\n• SEARCH WITH GOOGLE - Chrome is the browser with Google built in. Search and get answers on Google fast.\n\n• BROWSE FAST - Choose from personalized search results that instantly appear as you type and quickly browse previously-visited websites.\n\n• SEARCH FROM YOUR HOME SCREEN - Access Chrome from your iOS home screen with the new widget.\n\n• ACCESS YOUR CHROME ACROSS DEVICES - When you sign in to Chrome, you can save bookmarks, passwords and more in your Google Account, so you can access them on your other devices.\n\n• STORE PASSWORDS & PAYMENT METHODS - Chrome can save your passwords and payment information, and automatically fill them into forms when you need them.\n\n• VOICE SEARCH - Use Google voice search to get answers without typing.\n\n• MANAGE TABS EASILY - See all your tabs in a single view and easily organize them into groups.\n\n• ARTICLES FOR YOU - Chrome surfaces articles, blogs, and content that we think you might like. The more you use Chrome, the more personalized it gets. You’ll always have what’s most relevant to you at your fingertips.\n\n• GOOGLE TRANSLATE - Chrome lets you translate an entire site in a single click with Google Translate built in.\n\n• INCOGNITO MODE - Use Incognito mode to browse without saving your history (learn more at http://goo.gl/WUx02)\n\n• SAVE YOUR SITES - Save pages for later with bookmarks in Chrome.",
+      "android_package_name": "default_chrome",
+      "ios_bundle_id": " ",
+      "title": "Chrome",
+      "domain_name": [
+        "http://www.google.com/chrome",
+        "https://www.google.com"
+      ],
+      "website": "http://www.google.com/chrome",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc",
+      "icon_72": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.photos"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Google Photos is a smarter home for all your photos and videos, made for the way you take photos today.\n\n“The best photo product on Earth” – The Verge\n“Google Photos is your new essential picture app” – Wired\n“Upload the pictures, and let Google Photos do the rest” – The New York Times\n\n• 15 GB OF CLOUD STORAGE: Every Google Account comes with 15 GB of storage and you can choose to automatically back up all your photos and videos in High quality or Original quality. Your photos are safe, secure, and private to you. All photos and videos you back up in High quality before June 1, 2021 will not count toward your Google Account storage.\n\n• FREE UP SPACE: Never worry about running out of space on your phone again. Photos that are safely backed up can be removed from your device’s storage in just a tap.\n\n• NO ADS: Google Photos doesn't sell your photos, videos, or personal information to anyone and we don't use your photos and videos for advertising.\n\n• FAST AND POWERFUL SEARCH: Your photos are now searchable by the people, places and things in them—no tagging required.\n\n• GOOGLE LENS: Search what you see. This preview enables you to identify text and objects in your photos to learn more and take action.\n\n• SMARTER SHARING: With smart sharing suggestions, giving your friends the photos you took of them is painless. And they can add their photos, too, so you’ll finally get the photos you’re actually in.\n\n• ADVANCED EDITING: Transform photos with a tap. Use intuitive and powerful photo and video editing tools to apply content-aware filters, adjust lighting, and more.\n\n• MOVIES AND GIFS, MADE FOR YOU: Get automatically created movies, collages, GIFs, and more from your photos. Or easily create them yourself.\n\n• LIVE ALBUMS: Share your latest photos with Live Albums. Select the people and pets you want to see and Google Photos will automatically add photos of them as you take them, no manual updates needed.\n\n• SHARED LIBRARIES: Share without sharing. Grant a trusted person access to all of your photos.\n\n• REDISCOVER: Get collages of photos you took a year ago on this day – perfect for #tbt.\n\n• ON YOUR TV: View your photos and videos on your TV with Chromecast and Airplay support.\n\n\nYou can also upgrade storage for your Google Account, used for Original Quality photos and videos, Google Drive and Gmail by subscribing to Google One, an expanded storage plan. Subscriptions start at $1.99/month for 100 GB in the US. Pricing and availability can vary by region.\n\nStorage subscriptions purchased in-app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.\n\nGoogle Privacy Policy: https://google.com/intl/en_US/policies/privacy\nGoogle One Terms of Service: https://one.google.com/terms-of-service\n\nNote: Face grouping is not available in all countries.\n\nFor the latest updates from the team, follow us on Twitter at @googlephotos\n\nUsing GPS in the background can decrease battery life. Google Photos doesn't run GPS in the background unless you turn on optional features.",
+      "android_package_name": "default_photos",
+      "ios_bundle_id": "com.apple.mobileslideshow",
+      "title": "Photos",
+      "domain_name": [
+        "https://www.google.com/photos/about",
+        "https://www.google.com"
+      ],
+      "website": "https://www.google.com/photos/about",
+      "developer": "Google LLC",
+      "app_country": "US",
+      "icon": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/98c461003313f2eba5a8e22b1c0645b3.png",
+      "icon_72": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/98c461003313f2eba5a8e22b1c0645b3.png=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.sbrcorp.keynoteappforandroidadvice"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Keynote is the most powerful presentation app ever designed for a mobile device.\n\nStart with an Apple-designed theme and add text, images, charts, tables, and shapes with just a few taps. Draw and write with Apple Pencil on iPad, or use your finger. Bring it all to life with cinematic animations and transitions that look as though they were created by your own special effects team. Add live video to your slideshow and appear right on your slides in remote presentations, how-to videos, and lectures. Confidently present to your audience from anywhere, in person or virtually, and take turns controlling a presentation in multi-presenter slideshows.\n\nCollaborate with others at the same time\n• With real-time collaboration, your whole team can work together on a presentation at the same time on Mac, iPad, iPhone, and even on a PC\n• Share your document publicly or with specific people, see who’s currently in the presentation with you, and view other people’s cursors to follow their edits\n• See a list of recent changes in collaborative presentations, including when people join, comment, and make edits\n• Available for presentations stored in iCloud or in Box\n\nGet started quickly\n• Choose from over 40 Apple-designed themes to give your presentations a beautiful start or create a quick draft by starting with a text outline\n• Use the slide navigator to quickly skim through your presentation, add new slides, and reorder slides\n• Get quick access to shapes, media, tables, charts, and sharing options\n• Import and edit Microsoft PowerPoint presentations\n• Quickly open password-protected presentations using Touch ID or Face ID on supported devices\n\nCreate stunning presentations\n• Easily change slide layouts and backgrounds\n• Use the built-in camera to add live video right on your slides\n• Engage your audience with interactive charts and chart animations\n• Enhance your presentations with a library of over 700 editable shapes\n• Quickly add your photos and videos from the Photos app using the Media Browser\n• Add an interactive image gallery to view a collection of photos\n• Easily remove image backgrounds\n• Use gorgeous preset styles to make your text, tables, shapes, and images look beautiful\n• Edit down to the pixel with rulers and alignment guides\n\nCinema-quality animations\n• Beautiful cinematic slide transitions and impressive text and object animations\n• Magic Move effect effortlessly animates and morphs graphics\n• Emphasis builds let you add impact with one click\n• See live on-canvas previews as you animate your slides\n\nPresent to your audience\n• Customizable presenter display\n• Rehearse a presentation with current slide, presenter notes, and timer all in one view\n• Present on an external display or projector, or stream wirelessly using AirPlay and Apple TV\n• Use multi-presenter slideshows to let participants take turns controlling a shared presentation from their own device\n• Easily access the slide navigator, keyboard shortcuts, live video sources, or multi-presenter slideshow controls while presenting\n• Highlight with Apple Pencil or with your finger while presenting on iPad\n• Control your slideshow from iPhone, iPad, or Apple Watch\n• Create self-running, interactive shows for kiosks and displays\n\niCloud\n• Turn on iCloud so you can access and edit your presentations from your Mac, iPad, iPhone, and from a Mac or PC browser at iCloud.com\n• Keynote automatically saves your presentations as you make changes\n\nShare a copy of your work\n• Export presentations to Microsoft PowerPoint, PDF, HTML, movies, and image files\n• Use AirDrop to send your presentation to anyone nearby\n• Quickly and easily share a link to your work via Mail or Messages\n\nSome features may require Internet access; additional fees and terms may apply.",
+      "android_package_name": "com.sbrcorp.keynoteappforandroidadvice",
+      "ios_bundle_id": "com.apple.Keynote",
+      "title": "Keynote",
+      "domain_name": [
+        "https://www.apple.com/apps/#keynote",
+        "https://www.apple.com"
+      ],
+      "website": "https://www.apple.com/apps/#keynote",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/99dec81ae642515ae23dda1df9ccf473.png",
+      "icon_72": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/99dec81ae642515ae23dda1df9ccf473.png=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.miui.player"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Music",
+      "description": "Get unlimited access to 100 million songs, thousands of curated playlists, and original content from the artists you know and love – all ad-free. Hear sound all around you with Spatial Audio featuring Dolby Atmos.\n\n• Follow and sing along with your favorite music with precise, beat-by-beat lyrics and adjustable vocals, and share the lines that move you in Messages.\n• Listen with friends in real time using SharePlay, and control the music together in the car.\n• Make and share playlists with friends, and collaborate on playlists together.\n• Download your favorite music and listen offline.\n• Find your Discovery Station, personalized picks, mixes, and more in Home.\n• Keep the music going with Autoplay.\n• Enjoy a continuous listening experience with crossfade.\n• Ask Siri to play any song by artist, mood, or genre.\n• Get personalized new releases and find out about big moments in music, handpicked by our editors.\n• Search for songs by lyrics, or just ask Siri.\n• Go deep with interviews, live performances, and more that can only be found on Apple Music.\n• Explore dozens of exclusive radio shows, created by the most iconic names in music, live or on demand. \n• Find something new with hundreds of daily charts for cities and countries worldwide.\n• Follow friends and discover what others are listening to.\n• Download and stream music straight to your Apple Watch.\n• Take it all with you using CarPlay, and use your car controls to search for music.\n\nApple Watch Features:\n• Search for music using scribble and dictation.\n• Use Home to quickly get back to your recently played, suggested stations, top picks and more. \n• Sort your favorite playlist, albums, and songs by your preference, right from your wrist.\n\nAvailability and features vary by country and region, plan, or device. Subscriptions automatically renew unless they are canceled at least 24 hours prior to the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions in Settings after purchase. Apple Media Services Terms and Conditions can be found at https://www.apple.com/legal/internet-services/itunes/.",
+      "android_package_name": "default_music",
+      "ios_bundle_id": "com.apple.Music",
+      "title": "Music",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/uO_xmU8_PX5A-N_egV3KvstflXW38rXiCJp_NbE7htLBqLb2otOSkMkck9qg5Vu__H0",
+      "icon_72": "https://play-lh.googleusercontent.com/uO_xmU8_PX5A-N_egV3KvstflXW38rXiCJp_NbE7htLBqLb2otOSkMkck9qg5Vu__H0=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.apps.magazines"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "News",
+      "description": "Apple News brings you the world’s best journalism, all in one place. Top stories chosen by editors, personalized for you; In-depth sports coverage with scores, standings, and highlights; local news sources in all 50 states; and more. An Apple News+ subscription makes Apple News even better with access to hundreds of premium magazines and leading newspapers, exclusive daily puzzles, audio stories, Offline Mode, Family Sharing for up to six, and more.\n\nCURATED & PERSONALIZED\nApple News delivers Top Stories throughout the day. Editors spotlight well-sourced, fact-based stories to provide you reliable news from a wide range of publishers. The more you read, the more personalized your Apple News gets.\n\nPUZZLES\nA News+ subscription includes access to exclusive puzzles: a full-size crossword, crossword mini, Quartiles, and Sudoku. New puzzles are added daily, and you can dip into the archive to play more anytime. Track your stats and streaks in the Scoreboard and see how you rank among friends and other solvers in Game Center.\n\nIN-DEPTH SPORTS COVERAGE\nFollow your favorite teams and leagues to get highlights, live scores, schedules, standings, and stats for professional and college teams. Plus, get the latest stories from top sports publishers. Apple News+ unlocks full-access to The Athletic, premium local newspapers, and more.\n\nYOUR LOCAL NEWS\nThe most useful and informative stories on local news, sports, real estate, dining, weather, and more from a diverse list of publishers, right in your Today feed. With Apple News+, you'll gain even more access to the award-winning, essential work being done by local newspapers every day.\n\nSTORIES YOU NEED TO HEAR\nTune in to hear host Shumita Basu discuss the day’s top stories and how the world’s best journalists are covering them on Apple News Today, a free podcast available weekday mornings, and join Shumita on weekends for interviews with journalists and experts on stories that impact our lives on Apple News In Conversation. Apple News+ subscribers can also listen to audio stories, narrated versions of some of the best journalism from Apple News+.\n\nTHE BEST STORIES ONLINE, OFFLINE\nAn Apple News+ subscription enables Offline Mode, which automatically downloads stories, puzzles, audio, and more within your feeds so they’re available when you’re on a plane, in the subway, or wherever you don’t have service.\n\nCOMMITTED TO YOUR PRIVACY\nApple News only uses on-device intelligence to recommend stories and doesn’t access your information without your permission. We never share it with others or allow advertisers to track you.\n\nAPPLE NEWS+ DELIVERS EVEN MORE\n• International, national, and local newspapers such as The Wall Street Journal, San Francisco Chronicle, The Times & The Sunday Time of London, and more\n• Leading magazines such as People, The Athletic, Vogue, Prevention, TIME, Bon Appétit, WIRED, and 400+ more\n• Fun daily puzzles including crosswords, Quartiles, and Sudoku\n• Offline Mode on your iPhone and iPad\n• Family Sharing for up to six\n• Audio stories on your iPhone\n• And more\n\nIf you subscribe to Apple News+, payment will be charged to your Apple Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. 1-month free trial for new customers only. See https://www.apple.com/legal/privacy/en-ww for the Privacy Policy. Apple News+ Terms and Conditions can be found at https://www.apple.com/legal/internet-services/itunes/us/terms.html.",
+      "android_package_name": "default_news",
+      "ios_bundle_id": "com.apple.news",
+      "title": "News",
+      "domain_name": [
+        "https://www.apple.com/apple-news",
+        "https://www.apple.com"
+      ],
+      "website": "https://www.apple.com/apple-news",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/5902d4f959872384818a58ca6a1ae6d2.png",
+      "icon_72": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/5902d4f959872384818a58ca6a1ae6d2.png",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.google.android.keep"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Notes is the best place to jot down quick thoughts or to save longer notes filled with checklists, images, web links, scanned documents, handwritten notes, or sketches. And with iCloud, it's easy to keep all your devices in sync, so you’ll always have your notes with you.\n\nFeatures\n\nPowerful note-taking\n• Add attachments - PDFs, photos, maps, web links, and more. \n• Record and transcribe audio directly into a note.\n• Scan paper documents with the built-in document scanner.\n• Secure sensitive or personal data in a locked note.\n• Create checklists. Make a grocery list, a wish list, or a to-do list, then tap to check off items as you go.\n• Apply different text styles, such as heading or body, bulleted lists, highlighting, and more.\n• Tap next to section headers to reveal a chevron to collapse text.\n• Add tables to quickly organize information.\n• Use your finger, or Apple Pencil on a compatible iPad, to sketch right in your note or an inline PDF. Choose from a variety of brush styles and colors, and add lines and grids to a note for easier writing and drawing.\n\nOrganize and search\n• Search for text in notes, your handwriting, and even inside scanned documents and photos like receipts or bills.\n• Link from one note to another to connect ideas, content, or any information. Try typing >> for a shortcut to add links while writing in your note. \n• Keep your notes in folders and subfolders, or add tags to categorize them. Type or handwrite tags directly in your note - like #cooking or #expenses. \n• Automatically organize notes in a Smart Folder based on filters. Create rules to filter for Date Created, Checklists, Attachments, and more. \n \nCollaborate \n• Collaborate on entire shared folders or on specific shared notes.\n• Mention friends to notify them of important updates and link them directly to a shared note. \n• See what others added into a shared note while you were away with Activity view, a day-to-day list summary of activity from each collaborator. \n\nTake notes anywhere\n• Just swipe with an Apple Pencil or finger from the bottom right corner on any compatible iPad to start a Quick Note outside the app. You can also use Fn-Q (Globe-Q) on a keyboard, or create Quick Notes on iPhone from the share menu in an app.\n• Add deep links from an app or website to a Quick Note to mark your place. \n\nCertain features are available only in select languages and regions.",
+      "android_package_name": "default_notes",
+      "ios_bundle_id": "com.apple.mobilenotes",
+      "title": "Notes",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/c0b2e5615a23beca598e9a389f2a8299.png",
+      "icon_72": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/c0b2e5615a23beca598e9a389f2a8299.png=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US",
+          "UK"
+        ],
+        "package_name": "com.weather.nold.forecast"
+      },
+      "cat_key": "INBUILT",
+      "cat_keys": [
+        "INBUILT",
+        "APPLICATION"
+      ],
+      "category": "Weather",
+      "description": "Weather keeps you informed about conditions including temperature, rain, snow, and wind. Check out the forecast by the hour for the next ten days. Use maps to help you explore weather patterns in your area. Stay notified about upcoming adverse conditions. With iCloud your favorite locations are always synced and easily accessible whether you’re on your Mac, your iPad, your Apple Watch, or on your iPhone.\n\nFeatures\n\nForecasts\nQuickly check current and forecasted conditions by the hour for the next 10 days for temperature, wind, humidity, dew point, feels like temperature, UV index, barometric pressure, and visibility. \nStay aware of adverse conditions through severe weather alerts. \nFollow precipitation intensity over the next hour by the minute.\nGet more clarity about the weather at your location through relevant news articles.\n\nLocations\nSearch for the weather at any location and save your favorites. \nConveniently check the weather at your favorite locations on your iPhone, your iPad, or your Mac.\n\nWeather Maps\nTrack the path and intensity of storms for the next-hour by the minute or for the next 12 hours through animated maps of precipitation.\nObserve wind patterns including direction and speed for the next 24 hours through an animated wind map visualization.\nExplore maps that depict how conditions such as temperature and air quality vary near you.\n\nNotifications\nReceive notifications when rain or snow is about to start or stop, or for severe weather events such as tornadoes, hurricanes, and flash floods.\n\nAir Quality\nStay informed about the current level of air quality, how it compares to yesterday, as well as relevant health recommendations.\n\nHistorical Trends\nPlan your future travels and events using visualizations of seasonal averages of temperature and precipitation conditions.\n\nSun and Moon\nTrack today’s sunrise and sunset times, and comprehensive details about daylight.\nLearn about today’s moon phase, and moonrise and moonset times. Tap to see more intricate details such as the next full moon, and current illumination level as well as a full lunar calendar.\n\nMore ways to view Weather\nSee the forecast at a glance by adding Weather widgets to your Home Screen and Lock Screen.\nTrack the weather on-the-go from your Apple Watch. \nAsk Siri questions such as “What’s the weather like today?”, “How windy is it out there?” or “What time is sunrise in Paris?”\n\nSome features available for select countries or regions.",
+      "android_package_name": "default_weather",
+      "ios_bundle_id": "com.apple.weather",
+      "title": "Weather",
+      "domain_name": [],
+      "website": "",
+      "developer": "Apple Inc.",
+      "app_country": "US",
+      "icon": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/6d6a684739e9f5f4e6fa917443006680.png",
+      "icon_72": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/6d6a684739e9f5f4e6fa917443006680.png=s72-rw",
+      "market_status": "PUBLISHED",
+      "isPopular": true,
+      "popularity": 100
+    },
+    {
+        "app_availability": {
+          "available_in": [
+            "IN",
+            "US",
+            "UK"
+          ],
+          "package_name": "com.watcho_multi"
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": [
+          "INBUILT",
+          "APPLICATION"
+        ],
+        "category": "Utilities",
+        "description": "Use the Apple Watch app to pair and sync your Apple Watch with your iPhone. Customize your watch faces and app notifications, choose and arrange the apps in your Dock, select photos and music to sync, and more. Download new Apple Watch apps and watch faces from the App Store.\n\nFeatures\n\n• Pair your Apple Watch with your iPhone and sync content from Calendar, Contacts, Mail, and other apps from your iPhone to your Apple Watch.\n\n• Set up Apple Pay and choose which third-party apps to install on your Apple Watch.\n\n• Customize app notifications delivered to your Apple Watch, including alerts, sounds, and haptics for each app.\n\n• Choose and arrange the apps in your Dock.\n\n• Adjust the frequency of Activity updates, including stand reminders, achievements, and goal completions.\n\n• Sync photos, music and podcasts to Apple Watch to use when you’re away from your iPhone.\n\n• Find and download customized watch faces on the App Store. \n\n• Get tips and tricks, view the Apple Watch User Guide, and more on the Discover tab",
+        "android_package_name": "default_findMy",
+        "ios_bundle_id": "com.apple.findmy",
+        "title": "Find My",
+        "domain_name": [],
+        "website": "",
+        "developer": "Apple Inc.",
+        "app_country": "US",
+        "icon": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/517f23fce6cb0ce5aa8c36bfa5cf5ce3.png",
+        "icon_72": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/517f23fce6cb0ce5aa8c36bfa5cf5ce3.png=s72-rw",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+
+
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
+        "category": "Productivity",
+        "description": "Files is Apple's file management app that allows users to browse, organize, and manage their documents across iCloud, local storage, and third-party services like Google Drive and Dropbox.",
+        "android_package_name": "default_files",
+        "ios_bundle_id": "com.apple.DocumentsApp",
+        "title": "Files",
+        "domain_name": [],
+        "website": "https://support.apple.com/en-us/HT206481",
+        "developer": "Apple Inc.",
+        "app_country": "US",
+        "icon": "https://help.apple.com/assets/675C7EA493F17C59DA03ED37/675C7EA805331F3F6B02131C/en_GB/bbba03c60b17e15b9b3965610bb5113d.png",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
+        "category": "Productivity",
+        "description": "Sheets is a powerful spreadsheet application by Google, allowing users to create, edit, and collaborate on spreadsheets online. It includes real-time collaboration, built-in formulas, and integration with other Google services.",
+        "android_package_name": "com.google.android.apps.docs.editors.sheets",
+        "ios_bundle_id": "com.google.Sheets",
+        "title": "Sheets",
+        "domain_name": ["https://www.google.com/sheets"],
+        "website": "https://www.google.com/sheets/about/",
+        "developer": "Google LLC",
+        "app_country": "US",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/dc/bc/0fdcbca1-3704-9a6c-203a-7f1d0ad8ae01/logo_sheets_2020q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
+        "category": "Productivity",
+        "description": "Docs is Google's word processing application that enables users to create, edit, and collaborate on documents in real time. It offers cloud storage, version history, and extensive formatting tools.",
+        "android_package_name": "com.google.android.apps.docs.editors.docs",
+        "ios_bundle_id": "com.google.Docs",
+        "title": "Docs",
+        "domain_name": ["https://www.google.com/docs", "http://www.google.com/docs"],
+        "website": "https://www.google.com/docs",
+        "developer": "Google LLC",
+        "app_country": "US",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/bb/9f/d8bb9f66-eb90-549a-aba9-7fca5f0040ae/logo_docs_2020q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
+        "category": "Store",
+        "description": "Vivo Store is the official app marketplace for Vivo smartphones, allowing users to download and update applications optimized for Vivo devices. It features app recommendations, security checks, and system updates.",
+        "android_package_name": "com.vivo.website",
+        "ios_bundle_id": " ",
+        "title": "Vivo Store",
+        "domain_name": ["https://www.vivo.com"],
+        "website": "https://www.vivo.com/en/apps",
+        "developer": "Vivo Mobile Communications Co., Ltd.",
+        "app_country": "CN",
+        "icon": "https://play-lh.googleusercontent.com/hXXFMyUa9oPzwyx2E843xrl-kLeUhKiYZHT-l_UCbZI8qTtfpClLOAT6R0oh9g3z-U14=w480-h960-rw",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
+        "category": "Productivity",
+        "description": "PDF is a widely used file format for document sharing and viewing. Many applications support reading and editing PDFs, making it an essential tool for productivity.",
+        "android_package_name": "pdf.reader.pdfviewer.pdfeditor",
+        "ios_bundle_id": " ",
+        "title": "PDF Reader",
+        "domain_name": [],
+        "website": "",
+        "developer": "Simple Design Ltd.",
+        "app_country": "US",
+        "icon": "https://play-lh.googleusercontent.com/lwX6bNP7UXVO1eqE5HvxMZ7qIpv_htqWqrOTBfgtbPy7QayDQj0kZcAoCNX1DE7u3-I=w480-h960-rw",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "US", "UK"],
+          "package_name": ""
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
+        "category": "Productivity",
+        "description": "Adobe Acrobat Reader: Edit PDF is a comprehensive PDF solution that allows users to view, edit, sign, and annotate PDFs. It integrates with cloud storage for seamless document access.",
+        "android_package_name": "com.adobe.reader",
+        "ios_bundle_id": "com.adobe.Adobe-Reader",
+        "title": "Adobe Acrobat Reader: Edit PDF",
+        "domain_name": ["https://get.adobe.com","https://www.adobe.com/in/acrobat.html"],
+        "website": "https://www.adobe.com/acrobat/mobile/acrobat-reader.html",
+        "developer": "Adobe Inc.",
+        "app_country": "US",
+        "icon": "https://play-lh.googleusercontent.com/2Ping9j81LZ1m0hErKGopD8FcahtQ92FRiLUCUsPLI13ctWy5urjnZlpqYVGoWy1WZPq=w480-h960-rw",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "CN", "RU"],
+          "package_name": "com.mi.global.shop"
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
+        "category": "Store",
+        "description": "Mi Store is the official app marketplace for Xiaomi devices, offering a wide selection of applications optimized for Xiaomi smartphones and tablets. It includes app recommendations, system updates, and enhanced security features.",
+        "android_package_name": "com.mi.global.shop",
+        "ios_bundle_id": "",
+        "title": "Mi Store",
+        "domain_name": ["https://app.mi.com", "https://www.mi.com/in", "https://www.mi.com/in/store"],
+        "website": "https://app.mi.com",
+        "developer": "Xiaomi Inc.",
+        "app_country": "CN",
+        "icon": "https://play-lh.googleusercontent.com/K-44rSE33Wysgghzd0ERiti7HPkMf44-oAAa6H73CyftLX3JDBEoFWgvZh-HYl-RBw=w480-h960-rw",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      },
+      {
+        "app_availability": {
+          "available_in": ["IN", "CN", "ID", "TH", "VN"],
+          "package_name": "com.oppo.market"
+        },
+        "cat_key": "INBUILT",
+        "cat_keys": ["INBUILT", "APPLICATION"],
+        "category": "Store",
+        "description": "Hot Apps is a pre-installed app recommendation service on Realme devices, offering curated suggestions for popular and trending applications. It provides users with a seamless way to discover new apps optimized for their smartphones.",
+        "android_package_name": "com.oppo.market",
+        "ios_bundle_id": "",
+        "title": "Hot Apps",
+        "domain_name": ["https://store.oppo.com"],
+        "website": "https://store.oppo.com",
+        "developer": "Realme Mobile Telecommunications Corp., Ltd.",
+        "app_country": "CN",
+        "icon": "https://images.gizbot.com/images/1/18790454/18790454-320_e4a19fcb-d3be-4ad1-8418-fd3f0c127a65.jpeg",
+        "market_status": "PUBLISHED",
+        "isPopular": true,
+        "popularity": 100
+      }
+  ]
