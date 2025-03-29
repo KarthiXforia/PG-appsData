@@ -1,107 +1,114 @@
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
 import express from "express";
+import { promises as fs } from "fs"; // Using fs.promises
+import path from "path";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const app = express();
+const PORT = 7003;
+const basePath = "/Users/Xforia-User/Documents/PG-appsData/utils";
+
+// Function to check if a file exists
+const fileExists = async (filePath) => {
+  try {
+    await fs.access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
+};
 
 // Function to clean website URL
 function cleanWebsiteUrl(url) {
   if (!url) return "";
-  // Remove /mobile from the URL
-  const cleanUrl = url.replace("/mobile", "");
-  // Remove trailing slashes
-  return cleanUrl.replace(/\/+$/, "");
+  return url.replace("/mobile", "").replace(/\/+$/, "");
 }
 
-// Function to process and merge app data
+// Function to process data
 function processAppData(appstoreData, playstoreData) {
   const mergedApps = [];
   const processedApps = new Set();
 
-  // Process apps that exist in both stores
   appstoreData.apps.forEach((appstoreApp) => {
     const playstoreApp = playstoreData.apps.find(
-      (pApp) => pApp.title.toLowerCase() === appstoreApp.title.toLowerCase()
+      (pApp) =>
+        pApp.title.toLowerCase().replace(/\s+/g, "") ===
+        appstoreApp.title.toLowerCase().replace(/\s+/g, "")
     );
 
-    if (playstoreApp) {
-      const baseUrl = cleanWebsiteUrl(appstoreApp.website);
-      const domainName = [
-        baseUrl,
-        baseUrl.split("/")[2] ? `https://${baseUrl.split("/")[2]}` : baseUrl,
-      ].filter(Boolean);
-
-      const mergedApp = {
-        app_availability: {
-          available_in: playstoreApp.app_availability.available_in || [
-            "IN",
-            "US",
-            "UK"
-          ],
-          package_name:
-            playstoreApp.package_name || playstoreApp.android_package_name,
-        },
-        cat_key: playstoreApp.cat_key,
-        cat_keys: playstoreApp.cat_keys,
-        category: appstoreApp.category,
-        description: appstoreApp.description,
-        android_package_name: playstoreApp.android_package_name,
-        ios_bundle_id: appstoreApp.ios_bundle_id,
-        title: appstoreApp.title,
-        domain_name: domainName,
-        website: baseUrl,
-        developer: appstoreApp.developer,
-        app_country: appstoreApp.app_country,
-        icon: playstoreApp.icon,
-        icon_72: playstoreApp.icon_72,
-        market_status: appstoreApp.market_status,
-        isPopular: true
-      };
-
-      // Only include properties that have values
-      const cleanedApp = Object.fromEntries(
-        Object.entries(mergedApp).filter(
-          ([_, value]) => value !== null && value !== undefined
-        )
-      );
-
-      mergedApps.push(cleanedApp);
-      processedApps.add(appstoreApp.title.toLowerCase());
+    if (!playstoreApp) {
+      console.log(`⚠️ No match found for: ${appstoreApp.title}`);
+      return;
     }
+
+    console.log(`✅ Matching App: ${appstoreApp.title} → ${playstoreApp.title}`);
+
+    const baseUrl = cleanWebsiteUrl(appstoreApp.website);
+    const domainName = [
+      baseUrl,
+      baseUrl.split("/")[2] ? `https://${baseUrl.split("/")[2]}` : baseUrl,
+    ].filter(Boolean);
+
+    const mergedApp = {
+      app_availability: playstoreApp.app_availability,
+      cat_key: playstoreApp.cat_key,
+      category: appstoreApp.category,
+      description: appstoreApp.description,
+      android_package_name: playstoreApp.android_package_name,
+      ios_bundle_id: appstoreApp.ios_bundle_id,
+      title: appstoreApp.title,
+      domain_name: domainName,
+      website: baseUrl,
+      developer: appstoreApp.developer,
+      icon: playstoreApp.icon,
+      isPopular: true,
+    };
+
+    // Clean up undefined/null fields
+    const cleanedApp = Object.fromEntries(
+      Object.entries(mergedApp).filter(([_, value]) => value != null)
+    );
+
+    mergedApps.push(cleanedApp);
+    processedApps.add(appstoreApp.title.toLowerCase());
   });
 
   return mergedApps;
 }
 
-// Create Express app
-const app = express();
-const PORT = 7003;
-
 // Route to process data
 app.get("/process", async (req, res) => {
   try {
-    const basePath = "/Users/Xforia-User/Documents/PG-appsData/utils";
+    const filesToCheck = ["appstore-result.json", "playstore-result.json"];
+    for (const file of filesToCheck) {
+      const filePath = path.join(basePath, file);
+      if (!(await fileExists(filePath))) {
+        console.error(`❌ ERROR: Missing file ${filePath}`);
+        return res.status(500).json({ success: false, message: `Missing file: ${file}` });
+      }
+    }
 
-    // Read input files
-    console.log("Reading App Store data...");
-    const appstoreData = JSON.parse(
-      fs.readFileSync(path.join(basePath, "appstore-result.json"), "utf8")
-    );
+    console.log("✅ Reading App Store & Play Store data...");
+    const appstoreData = JSON.parse(await fs.readFile(path.join(basePath, "appstore-result.json"), "utf8"));
+    const playstoreData = JSON.parse(await fs.readFile(path.join(basePath, "playstore-result.json"), "utf8"));
 
-    console.log("Reading Play Store data...");
-    const playstoreData = JSON.parse(
-      fs.readFileSync(path.join(basePath, "playstore-result.json"), "utf8")
-    );
+    console.log(`🔹 App Store total apps: ${appstoreData.apps.length}`);
+    console.log(`🔹 Play Store total apps: ${playstoreData.apps.length}`);
 
-    // Process the data
-    console.log("Processing and merging data...");
+    // Process data
     const processedApps = processAppData(appstoreData, playstoreData);
 
-    // Write the result to processed-result.json
-    console.log("Writing processed results...");
-    fs.writeFileSync(
+    console.log(`✅ Processed Apps Count: ${processedApps.length}`);
+
+    // Debugging skipped apps
+    const processedTitles = new Set(processedApps.map((app) => app.title.toLowerCase()));
+    const skippedApps = appstoreData.apps.filter(
+      (app) => !processedTitles.has(app.title.toLowerCase())
+    );
+
+    console.log(`⚠️ Skipped Apps Count: ${skippedApps.length}`);
+    skippedApps.forEach((app) => console.log(`⚠️ Skipped: ${app.title}`));
+
+    // Save processed data
+    await fs.writeFile(
       path.join(basePath, "processed-result.json"),
       JSON.stringify(processedApps, null, 2)
     );
@@ -110,25 +117,21 @@ app.get("/process", async (req, res) => {
       success: true,
       message: "Successfully processed and saved app data!",
       processed_apps_count: processedApps.length,
-      skipped_apps_count:
-        appstoreData.apps.length +
-        playstoreData.apps.length -
-        processedApps.length,
+      skipped_apps_count: skippedApps.length,
       output_location: path.join(basePath, "processed-result.json"),
     });
   } catch (error) {
-    console.error("Error processing app data:", error);
+    console.error("❌ ERROR: Processing failed:", error);
     res.status(500).json({
       success: false,
       error: error.message,
-      details:
-        "Check if both input JSON files exist and are properly formatted",
+      message: "Check if input files exist and are properly formatted",
     });
   }
 });
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
-  console.log(`Visit http://localhost:${PORT}/process to process the app data`);
+  console.log(`✅ Server running on http://localhost:${PORT}`);
+  console.log(`➡️  Visit http://localhost:${PORT}/process to process the app data`);
 });

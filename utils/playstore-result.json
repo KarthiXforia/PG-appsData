@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-03-12T10:31:11.433Z",
+  "timestamp": "2025-03-28T10:27:43.461Z",
   "success": true,
-  "total_apps": 47,
+  "total_apps": 40,
   "total_failed": 0,
   "apps": [
     {
@@ -11,29 +11,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.sec.android.app.clockpackage"
+        "package_name": "com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.sec.android.app.clockpackage",
+      "android_package_name": "com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge",
       "ios_bundle_id": null,
-      "title": "Clock",
+      "title": "Kotak-811",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.sec.android.app.clockpackage"
+        "https://play.google.com/store/apps/details?id=com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.sec.android.app.clockpackage",
+      "website": "https://play.google.com/store/apps/details?id=com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/hjksnYT_dP3j7nIXXSgXsglMbmSJEA6F30LeZfKvMAjY8HICL3FGJc1I2kI-gQq6FaX0",
-      "icon_72": "https://play-lh.googleusercontent.com/hjksnYT_dP3j7nIXXSgXsglMbmSJEA6F30LeZfKvMAjY8HICL3FGJc1I2kI-gQq6FaX0=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/vVpNvkLneHJzp4KWmRpoHpf5CxfB-K_RGIWp2mapC9YDoQb-WXRkChYAj6JKPrZtfNQ",
+      "icon_72": "https://play-lh.googleusercontent.com/vVpNvkLneHJzp4KWmRpoHpf5CxfB-K_RGIWp2mapC9YDoQb-WXRkChYAj6JKPrZtfNQ=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Clock",
+      "search_name": "Kotak-811",
       "isPopular": true
     },
     {
@@ -43,29 +43,29 @@
           "US",
           "UK"
         ],
-        "package_name": "app.wizyemm.settings"
+        "package_name": "com.snapwork.hdfc"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "app.wizyemm.settings",
+      "android_package_name": "com.snapwork.hdfc",
       "ios_bundle_id": null,
-      "title": "Settings",
+      "title": "HDFC MobileBanking",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=app.wizyemm.settings"
+        "https://play.google.com/store/apps/details?id=com.snapwork.hdfc"
       ],
-      "website": "https://play.google.com/store/apps/details?id=app.wizyemm.settings",
+      "website": "https://play.google.com/store/apps/details?id=com.snapwork.hdfc",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/mOMVlWK_cLLdOOO3XUWiw1zFf7FO15f_ys2XmcYKJLOMTHF-eGtQddXE-wYDSd9kd5Q",
-      "icon_72": "https://play-lh.googleusercontent.com/mOMVlWK_cLLdOOO3XUWiw1zFf7FO15f_ys2XmcYKJLOMTHF-eGtQddXE-wYDSd9kd5Q=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/POGVZhNvSh05yA01H2VTlElv0Mw6r4R7hj9w7DaOvJVgiGoi0Fcawi02yITkyMT1zwqO",
+      "icon_72": "https://play-lh.googleusercontent.com/POGVZhNvSh05yA01H2VTlElv0Mw6r4R7hj9w7DaOvJVgiGoi0Fcawi02yITkyMT1zwqO=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Settings",
+      "search_name": "HDFC MobileBanking",
       "isPopular": true
     },
     {
@@ -75,29 +75,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.sec.android.app.popupcalculator"
+        "package_name": "com.csam.icici.bank.imobile"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.sec.android.app.popupcalculator",
+      "android_package_name": "com.csam.icici.bank.imobile",
       "ios_bundle_id": null,
-      "title": "Calculator",
+      "title": "iMobile",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator"
+        "https://play.google.com/store/apps/details?id=com.csam.icici.bank.imobile"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator",
+      "website": "https://play.google.com/store/apps/details?id=com.csam.icici.bank.imobile",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/Z5BA3DYVKalnbCW8CGlIM3bN699i6QwRs5oE5kr_1-OYApm2cLPSlOP6mbdUJunXtw",
-      "icon_72": "https://play-lh.googleusercontent.com/Z5BA3DYVKalnbCW8CGlIM3bN699i6QwRs5oE5kr_1-OYApm2cLPSlOP6mbdUJunXtw=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/YH4tv0TgQ5vLLpmrTaGDDMe9DmPBgEjLu6cz597uDbnQIsyBnQMlnKIGhYtjEcbTaA",
+      "icon_72": "https://play-lh.googleusercontent.com/YH4tv0TgQ5vLLpmrTaGDDMe9DmPBgEjLu6cz597uDbnQIsyBnQMlnKIGhYtjEcbTaA=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Calculator",
+      "search_name": "iMobile",
       "isPopular": true
     },
     {
@@ -107,29 +107,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.apps.nbu.files"
+        "package_name": "com.sbi.lotusintouch"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.apps.nbu.files",
+      "android_package_name": "com.sbi.lotusintouch",
       "ios_bundle_id": null,
-      "title": "File Manager",
+      "title": "YONO SBI",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+        "https://play.google.com/store/apps/details?id=com.sbi.lotusintouch"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files",
+      "website": "https://play.google.com/store/apps/details?id=com.sbi.lotusintouch",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA",
-      "icon_72": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/uAGuxZ872xYq99O9O1IgYEceMWAheQyEwZskZ9sE6Xrt1A-WinZkHj3MDAcTcJVLATFP",
+      "icon_72": "https://play-lh.googleusercontent.com/uAGuxZ872xYq99O9O1IgYEceMWAheQyEwZskZ9sE6Xrt1A-WinZkHj3MDAcTcJVLATFP=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "File Manager",
+      "search_name": "YONO SBI",
       "isPopular": true
     },
     {
@@ -139,29 +139,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.photo.android.camera"
+        "package_name": "com.axis.mobile"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.photo.android.camera",
+      "android_package_name": "com.axis.mobile",
       "ios_bundle_id": null,
-      "title": "Camera",
+      "title": "Axis Mobile",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.photo.android.camera"
+        "https://play.google.com/store/apps/details?id=com.axis.mobile"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.photo.android.camera",
+      "website": "https://play.google.com/store/apps/details?id=com.axis.mobile",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/77m-hpSGZZJ5go6cHD-ZqX_8hnBT70E2uYWoznS5aI-2I06Lh5IQnymUqV6gdphDRIs",
-      "icon_72": "https://play-lh.googleusercontent.com/77m-hpSGZZJ5go6cHD-ZqX_8hnBT70E2uYWoznS5aI-2I06Lh5IQnymUqV6gdphDRIs=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/Ikxss1HfGWGYWiBLJbAWxDMJVXQnE-IcAvhBg568l3wCSVHWuR0m4Pv0tMHrg1TC",
+      "icon_72": "https://play-lh.googleusercontent.com/Ikxss1HfGWGYWiBLJbAWxDMJVXQnE-IcAvhBg568l3wCSVHWuR0m4Pv0tMHrg1TC=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Camera",
+      "search_name": "Axis Mobile",
       "isPopular": true
     },
     {
@@ -171,29 +171,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.apps.photosgo"
+        "package_name": "com.bankofbaroda.mconnectmar"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.apps.photosgo",
+      "android_package_name": "com.bankofbaroda.mconnectmar",
       "ios_bundle_id": null,
-      "title": "Gallery",
+      "title": "M-Connect Plus",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo"
+        "https://play.google.com/store/apps/details?id=com.bankofbaroda.mconnectmar"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo",
+      "website": "https://play.google.com/store/apps/details?id=com.bankofbaroda.mconnectmar",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/pmEnTOeRvosC1yOXFVwo15zS2uAdB9nijugU93NbrmFBYt61IVCZBzg7EZ00YTqmLw",
-      "icon_72": "https://play-lh.googleusercontent.com/pmEnTOeRvosC1yOXFVwo15zS2uAdB9nijugU93NbrmFBYt61IVCZBzg7EZ00YTqmLw=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/YnMR04K1F3Xa0vb5JLPuJKlbbxuJzUZKdK3K3CP7Y9VlNmjIqliYAXFGzd0YrY1tIQ",
+      "icon_72": "https://play-lh.googleusercontent.com/YnMR04K1F3Xa0vb5JLPuJKlbbxuJzUZKdK3K3CP7Y9VlNmjIqliYAXFGzd0YrY1tIQ=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Gallery",
+      "search_name": "M-Connect Plus",
       "isPopular": true
     },
     {
@@ -203,29 +203,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.calendar"
+        "package_name": "com.Version1"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.calendar",
+      "android_package_name": "com.Version1",
       "ios_bundle_id": null,
-      "title": "Calendar",
+      "title": "PNB ONE",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.calendar"
+        "https://play.google.com/store/apps/details?id=com.Version1"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
+      "website": "https://play.google.com/store/apps/details?id=com.Version1",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/_bh6XK3B7TAk7kBXC1GHC0j9eS9cw9wQo2K7fiP7FDGAQlcOqgUPT2lx3WgZ0JlOJh8",
-      "icon_72": "https://play-lh.googleusercontent.com/_bh6XK3B7TAk7kBXC1GHC0j9eS9cw9wQo2K7fiP7FDGAQlcOqgUPT2lx3WgZ0JlOJh8=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/MEwq5qTUC69E9Y5_PmEPm0I54UPnIY6p-GhOvmLRYaWjj2QWEGwC_KxtoxU-cp4X0M8",
+      "icon_72": "https://play-lh.googleusercontent.com/MEwq5qTUC69E9Y5_PmEPm0I54UPnIY6p-GhOvmLRYaWjj2QWEGwC_KxtoxU-cp4X0M8=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Calendar",
+      "search_name": "PNB ONE",
       "isPopular": true
     },
     {
@@ -235,29 +235,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.gm"
+        "package_name": "com.infrasoft.uboi"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.gm",
+      "android_package_name": "com.infrasoft.uboi",
       "ios_bundle_id": null,
-      "title": "Email",
+      "title": "Union Bank",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.gm"
+        "https://play.google.com/store/apps/details?id=com.infrasoft.uboi"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+      "website": "https://play.google.com/store/apps/details?id=com.infrasoft.uboi",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI",
-      "icon_72": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/mlL6e-9TQL_vIcOt79KCDzArLc_hyWJYKDGKKP2bwGe0q3EJS0HRFJuz41d2n-Xvng",
+      "icon_72": "https://play-lh.googleusercontent.com/mlL6e-9TQL_vIcOt79KCDzArLc_hyWJYKDGKKP2bwGe0q3EJS0HRFJuz41d2n-Xvng=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Email",
+      "search_name": "Union Bank",
       "isPopular": true
     },
     {
@@ -267,29 +267,29 @@
           "US",
           "UK"
         ],
-        "package_name": "net.fast.web.browser"
+        "package_name": "com.iexceed.ib.digitalbankingprod"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "net.fast.web.browser",
+      "android_package_name": "com.iexceed.ib.digitalbankingprod",
       "ios_bundle_id": null,
-      "title": "Browser",
+      "title": "IndOASIS",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=net.fast.web.browser"
+        "https://play.google.com/store/apps/details?id=com.iexceed.ib.digitalbankingprod"
       ],
-      "website": "https://play.google.com/store/apps/details?id=net.fast.web.browser",
+      "website": "https://play.google.com/store/apps/details?id=com.iexceed.ib.digitalbankingprod",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/RJINYrKUXxhOgwzvhifaTSxKENK9iDOelk3oNUNWJV_mgSjhkEZ2xsSel4l2t5UIzMA",
-      "icon_72": "https://play-lh.googleusercontent.com/RJINYrKUXxhOgwzvhifaTSxKENK9iDOelk3oNUNWJV_mgSjhkEZ2xsSel4l2t5UIzMA=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/NXawKtuSBy0An1pRG94Te96A4jUhlmn3S0-dp-7BZ-4HwnZlxzg50plNFDkfaYGsI8Y",
+      "icon_72": "https://play-lh.googleusercontent.com/NXawKtuSBy0An1pRG94Te96A4jUhlmn3S0-dp-7BZ-4HwnZlxzg50plNFDkfaYGsI8Y=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Browser",
+      "search_name": "IndOASIS",
       "isPopular": true
     },
     {
@@ -299,29 +299,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.instagram.android"
+        "package_name": "com.mobile.canaraepassbook"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.instagram.android",
+      "android_package_name": "com.mobile.canaraepassbook",
       "ios_bundle_id": null,
-      "title": "Store",
+      "title": "Canara e-Infobook",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.instagram.android"
+        "https://play.google.com/store/apps/details?id=com.mobile.canaraepassbook"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.instagram.android",
+      "website": "https://play.google.com/store/apps/details?id=com.mobile.canaraepassbook",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM",
-      "icon_72": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/GWvYAKTo3JZqtSwWNhJ6vN7IbbsCr6S6WFNS0QDbqRaY13IYBDu40xwcvWSzLy5t3oE",
+      "icon_72": "https://play-lh.googleusercontent.com/GWvYAKTo3JZqtSwWNhJ6vN7IbbsCr6S6WFNS0QDbqRaY13IYBDu40xwcvWSzLy5t3oE=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Store",
+      "search_name": "Canara e-Infobook",
       "isPopular": true
     },
     {
@@ -331,29 +331,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.sec.android.app.voicenote"
+        "package_name": "com.snapwork.IDBI"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.sec.android.app.voicenote",
+      "android_package_name": "com.snapwork.IDBI",
       "ios_bundle_id": null,
-      "title": "Voice Recorder",
+      "title": "IDBI Bank Go Mobile+",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.sec.android.app.voicenote"
+        "https://play.google.com/store/apps/details?id=com.snapwork.IDBI"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.sec.android.app.voicenote",
+      "website": "https://play.google.com/store/apps/details?id=com.snapwork.IDBI",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/EaHQ7KJNn6ZAICf0kEVwKunD4hZd-59oggNErDPDKTaK20sXXfVUN0AYJP70-x8UjQ",
-      "icon_72": "https://play-lh.googleusercontent.com/EaHQ7KJNn6ZAICf0kEVwKunD4hZd-59oggNErDPDKTaK20sXXfVUN0AYJP70-x8UjQ=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/9ag_69TW6wr_g9DOGbUeI4-ntNQTBDYsOqiCqYgZ_D4uUQmVfw9PDFxBw4E1P316HZo",
+      "icon_72": "https://play-lh.googleusercontent.com/9ag_69TW6wr_g9DOGbUeI4-ntNQTBDYsOqiCqYgZ_D4uUQmVfw9PDFxBw4E1P316HZo=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Voice Recorder",
+      "search_name": "IDBI Bank Go Mobile+",
       "isPopular": true
     },
     {
@@ -363,29 +363,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.instagram.android"
+        "package_name": "com.boi.ua.android"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.instagram.android",
+      "android_package_name": "com.boi.ua.android",
       "ios_bundle_id": null,
-      "title": "Play Store",
+      "title": "BOI Mobile",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.instagram.android"
+        "https://play.google.com/store/apps/details?id=com.boi.ua.android"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.instagram.android",
+      "website": "https://play.google.com/store/apps/details?id=com.boi.ua.android",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM",
-      "icon_72": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/8Ch1FipOYKyG6ou4FkCpqU1nQjac-e2NQXtsQvNXGg223EtZ3yRHkiBibP8C4XsQXwpI",
+      "icon_72": "https://play-lh.googleusercontent.com/8Ch1FipOYKyG6ou4FkCpqU1nQjac-e2NQXtsQvNXGg223EtZ3yRHkiBibP8C4XsQXwpI=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Play Store",
+      "search_name": "BOI Mobile",
       "isPopular": true
     },
     {
@@ -395,29 +395,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.googlequicksearchbox"
+        "package_name": "com.infrasofttech.CentralBank"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.googlequicksearchbox",
+      "android_package_name": "com.infrasofttech.CentralBank",
       "ios_bundle_id": null,
-      "title": "Google",
+      "title": "Central Bank Mobile Banking",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox"
+        "https://play.google.com/store/apps/details?id=com.infrasofttech.CentralBank"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
+      "website": "https://play.google.com/store/apps/details?id=com.infrasofttech.CentralBank",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1",
-      "icon_72": "https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/sZAzmjgUwDiyEhPe4j-uyGwLDiPcdHdH0n2-BmePP_3IT_wuU2nLKhMKtt6jCX2X-GE",
+      "icon_72": "https://play-lh.googleusercontent.com/sZAzmjgUwDiyEhPe4j-uyGwLDiPcdHdH0n2-BmePP_3IT_wuU2nLKhMKtt6jCX2X-GE=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Google",
+      "search_name": "Central Bank Mobile Banking",
       "isPopular": true
     },
     {
@@ -427,29 +427,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.gm"
+        "package_name": "com.lcode.ucomobilebanking"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.gm",
+      "android_package_name": "com.lcode.ucomobilebanking",
       "ios_bundle_id": null,
-      "title": "Gmail",
+      "title": "UCO mBanking",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.gm"
+        "https://play.google.com/store/apps/details?id=com.lcode.ucomobilebanking"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+      "website": "https://play.google.com/store/apps/details?id=com.lcode.ucomobilebanking",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI",
-      "icon_72": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/Y9FJUz7HxPdFfwYegvolG3W53nt9LSHy_eH0BCM5NX9OZHfBxTVJufbH4IXEuMDgFqA",
+      "icon_72": "https://play-lh.googleusercontent.com/Y9FJUz7HxPdFfwYegvolG3W53nt9LSHy_eH0BCM5NX9OZHfBxTVJufbH4IXEuMDgFqA=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Gmail",
+      "search_name": "UCO mBanking",
       "isPopular": true
     },
     {
@@ -459,29 +459,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.apps.tachyon"
+        "package_name": "com.bankofbaroda.mconnect"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.apps.tachyon",
+      "android_package_name": "com.bankofbaroda.mconnect",
       "ios_bundle_id": null,
-      "title": "Meet",
+      "title": "BOB World",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon"
+        "https://play.google.com/store/apps/details?id=com.bankofbaroda.mconnect"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon",
+      "website": "https://play.google.com/store/apps/details?id=com.bankofbaroda.mconnect",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A",
-      "icon_72": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/3ScJxbSh5bMoRBYpDsO3owo560afpBxwDtXkQ0jPuQsRaac1Ubtq69oRwTUwXX0xzwA",
+      "icon_72": "https://play-lh.googleusercontent.com/3ScJxbSh5bMoRBYpDsO3owo560afpBxwDtXkQ0jPuQsRaac1Ubtq69oRwTUwXX0xzwA=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Meet",
+      "search_name": "BOB World",
       "isPopular": true
     },
     {
@@ -491,29 +491,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.android.chrome"
+        "package_name": "in.irisbyyes.app"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.android.chrome",
+      "android_package_name": "in.irisbyyes.app",
       "ios_bundle_id": null,
-      "title": "Chrome",
+      "title": "Yes Mobile",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.android.chrome"
+        "https://play.google.com/store/apps/details?id=in.irisbyyes.app"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.android.chrome",
+      "website": "https://play.google.com/store/apps/details?id=in.irisbyyes.app",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc",
-      "icon_72": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/8TbkfeHSTpeaMyWOWZQCqzcMHOsDX27H_UmO9FJav81xCizB57XsT59_N9C4pFpAkT8",
+      "icon_72": "https://play-lh.googleusercontent.com/8TbkfeHSTpeaMyWOWZQCqzcMHOsDX27H_UmO9FJav81xCizB57XsT59_N9C4pFpAkT8=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Chrome",
+      "search_name": "Yes Mobile",
       "isPopular": true
     },
     {
@@ -523,29 +523,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.apps.maps"
+        "package_name": "com.dbs.in.digitalbank"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.apps.maps",
+      "android_package_name": "com.dbs.in.digitalbank",
       "ios_bundle_id": null,
-      "title": "Maps",
+      "title": "DBS digibank",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.maps"
+        "https://play.google.com/store/apps/details?id=com.dbs.in.digitalbank"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps",
+      "website": "https://play.google.com/store/apps/details?id=com.dbs.in.digitalbank",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
-      "icon_72": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/vBRdGz0fhzELT1dvVXFCSOj-09NR8YE1Mke-DSgpM8hzX0gOfgVKB24Ewd6bVgwWSmU",
+      "icon_72": "https://play-lh.googleusercontent.com/vBRdGz0fhzELT1dvVXFCSOj-09NR8YE1Mke-DSgpM8hzX0gOfgVKB24Ewd6bVgwWSmU=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Maps",
+      "search_name": "DBS digibank",
       "isPopular": true
     },
     {
@@ -555,29 +555,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.apps.photos"
+        "package_name": "in.hsbc.hsbcindia"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.apps.photos",
+      "android_package_name": "in.hsbc.hsbcindia",
       "ios_bundle_id": null,
-      "title": "Photos",
+      "title": "HSBC India",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.photos"
+        "https://play.google.com/store/apps/details?id=in.hsbc.hsbcindia"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "website": "https://play.google.com/store/apps/details?id=in.hsbc.hsbcindia",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA",
-      "icon_72": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/gHEkYRAhUY-SuT6S9O_kNC5OHAyyKw0FbIHPOFmpaq8JjBsgsWtMExqFRCHBisnEAQM",
+      "icon_72": "https://play-lh.googleusercontent.com/gHEkYRAhUY-SuT6S9O_kNC5OHAyyKw0FbIHPOFmpaq8JjBsgsWtMExqFRCHBisnEAQM=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Photos",
+      "search_name": "HSBC India",
       "isPopular": true
     },
     {
@@ -587,29 +587,29 @@
           "US",
           "UK"
         ],
-        "package_name": "ai.image.playground.generator.free.creator.picture.photo"
+        "package_name": "com.citibank.mobile.vn"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "ai.image.playground.generator.free.creator.picture.photo",
+      "android_package_name": "com.citibank.mobile.vn",
       "ios_bundle_id": null,
-      "title": "Image Playground",
+      "title": "Citi Mobile",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=ai.image.playground.generator.free.creator.picture.photo"
+        "https://play.google.com/store/apps/details?id=com.citibank.mobile.vn"
       ],
-      "website": "https://play.google.com/store/apps/details?id=ai.image.playground.generator.free.creator.picture.photo",
+      "website": "https://play.google.com/store/apps/details?id=com.citibank.mobile.vn",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/uivgoo9zhLONJ5IKemHGelJIQmsZUzCIlRfKe2toI7BMkC8A-ws5lidpht4ccEX0L_FH",
-      "icon_72": "https://play-lh.googleusercontent.com/uivgoo9zhLONJ5IKemHGelJIQmsZUzCIlRfKe2toI7BMkC8A-ws5lidpht4ccEX0L_FH=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/lcSoJgiOpBfIFmUXrYAR3dIubTMGB5AStQ78OeOelpSu0adT5eYWvyHdgDWNH0M1ZgQ",
+      "icon_72": "https://play-lh.googleusercontent.com/lcSoJgiOpBfIFmUXrYAR3dIubTMGB5AStQ78OeOelpSu0adT5eYWvyHdgDWNH0M1ZgQ=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Image Playground",
+      "search_name": "Citi Mobile",
       "isPopular": true
     },
     {
@@ -619,29 +619,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.cyberlink.powerdirector.DRA140225_01"
+        "package_name": "air.app.scb.breeze.android.main.in.prod"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.cyberlink.powerdirector.DRA140225_01",
+      "android_package_name": "air.app.scb.breeze.android.main.in.prod",
       "ios_bundle_id": null,
-      "title": "iMovie",
+      "title": "Standard Chartered Mobile",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01"
+        "https://play.google.com/store/apps/details?id=air.app.scb.breeze.android.main.in.prod"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01",
+      "website": "https://play.google.com/store/apps/details?id=air.app.scb.breeze.android.main.in.prod",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/M5UtBD1K6ksryrf3rz9ljAsUQ8XNTzxpa6O6v-OSzhDDREC4DrA5cjz6PmDqhGjDmV86",
-      "icon_72": "https://play-lh.googleusercontent.com/M5UtBD1K6ksryrf3rz9ljAsUQ8XNTzxpa6O6v-OSzhDDREC4DrA5cjz6PmDqhGjDmV86=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/sSnSycM23P-T9mMcic3pahjwxopURJNMEPLashSpeRLjkmwQqRzkhXhelYQ7Jf2HxcI",
+      "icon_72": "https://play-lh.googleusercontent.com/sSnSycM23P-T9mMcic3pahjwxopURJNMEPLashSpeRLjkmwQqRzkhXhelYQ7Jf2HxcI=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "iMovie",
+      "search_name": "Standard Chartered Mobile",
       "isPopular": true
     },
     {
@@ -651,29 +651,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.apple.android.music"
+        "package_name": "com.google.android.apps.nbu.paisa.user"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.apple.android.music",
+      "android_package_name": "com.google.android.apps.nbu.paisa.user",
       "ios_bundle_id": null,
-      "title": "iTunes Store",
+      "title": "Google Pay",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.apple.android.music"
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.apple.android.music",
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE",
-      "icon_72": "https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/0dn-CnZkqyLm5PpjdHBrYR9hvnGDNgoLTe8yfrSaPWUx7ZBVGI4C_18-jL06oNCRRCK3",
+      "icon_72": "https://play-lh.googleusercontent.com/0dn-CnZkqyLm5PpjdHBrYR9hvnGDNgoLTe8yfrSaPWUx7ZBVGI4C_18-jL06oNCRRCK3=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "iTunes Store",
+      "search_name": "Google Pay",
       "isPopular": true
     },
     {
@@ -683,29 +683,29 @@
           "US",
           "UK"
         ],
-        "package_name": "journal.notes.planner.starnest"
+        "package_name": "com.phonepe.app"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "journal.notes.planner.starnest",
+      "android_package_name": "com.phonepe.app",
       "ios_bundle_id": null,
-      "title": "Journal",
+      "title": "PhonePe",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=journal.notes.planner.starnest"
+        "https://play.google.com/store/apps/details?id=com.phonepe.app"
       ],
-      "website": "https://play.google.com/store/apps/details?id=journal.notes.planner.starnest",
+      "website": "https://play.google.com/store/apps/details?id=com.phonepe.app",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/NvcBkGryDESAxym-ZSzTrZPMB-kXy3WQJhtQXP293HVF2wNjgrxT5iHumzgl7v1IgBk",
-      "icon_72": "https://play-lh.googleusercontent.com/NvcBkGryDESAxym-ZSzTrZPMB-kXy3WQJhtQXP293HVF2wNjgrxT5iHumzgl7v1IgBk=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/6iyA2zVz5PyyMjK5SIxdUhrb7oh9cYVXJ93q6DZkmx07Er1o90PXYeo6mzL4VC2Gj9s",
+      "icon_72": "https://play-lh.googleusercontent.com/6iyA2zVz5PyyMjK5SIxdUhrb7oh9cYVXJ93q6DZkmx07Er1o90PXYeo6mzL4VC2Gj9s=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Journal",
+      "search_name": "PhonePe",
       "isPopular": true
     },
     {
@@ -715,29 +715,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.sbrcorp.keynoteappforandroidadvice"
+        "package_name": "net.one97.paytm"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.sbrcorp.keynoteappforandroidadvice",
+      "android_package_name": "net.one97.paytm",
       "ios_bundle_id": null,
-      "title": "Keynote",
+      "title": "Paytm",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.sbrcorp.keynoteappforandroidadvice"
+        "https://play.google.com/store/apps/details?id=net.one97.paytm"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.sbrcorp.keynoteappforandroidadvice",
+      "website": "https://play.google.com/store/apps/details?id=net.one97.paytm",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/WHlTTujSSvcFiG_bNv0-h7_1e_qnL91iJdV9osj1_6ZpT2eTvYiT_o7oe43zK-DUxg",
-      "icon_72": "https://play-lh.googleusercontent.com/WHlTTujSSvcFiG_bNv0-h7_1e_qnL91iJdV9osj1_6ZpT2eTvYiT_o7oe43zK-DUxg=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/IWU8HM1uQuW8wVrp6XpyOOJXvb_1tDPUDAOfkrl83RZPG9Ww3dCY9X1AV6T1atSvgXc",
+      "icon_72": "https://play-lh.googleusercontent.com/IWU8HM1uQuW8wVrp6XpyOOJXvb_1tDPUDAOfkrl83RZPG9Ww3dCY9X1AV6T1atSvgXc=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Keynote",
+      "search_name": "Paytm",
       "isPopular": true
     },
     {
@@ -747,29 +747,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.apps.accessibility.magnifier"
+        "package_name": "in.amazon.mShop.android.shopping"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.apps.accessibility.magnifier",
+      "android_package_name": "in.amazon.mShop.android.shopping",
       "ios_bundle_id": null,
-      "title": "Magnifier",
+      "title": "Amazon Pay",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier"
+        "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier",
+      "website": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/epcbk_wy3sd-VMuEeTtYdQB1z5962aevrRy_rurQ_O3ZB03tStlZmGkEaWQE4B9j6_ns",
-      "icon_72": "https://play-lh.googleusercontent.com/epcbk_wy3sd-VMuEeTtYdQB1z5962aevrRy_rurQ_O3ZB03tStlZmGkEaWQE4B9j6_ns=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/urVIq3KHpF9hAm7FJpE2I4YlGfqMFpUdb5GMtQcASC1ODbWe1zuQFrF99ZPTELfE8wA",
+      "icon_72": "https://play-lh.googleusercontent.com/urVIq3KHpF9hAm7FJpE2I4YlGfqMFpUdb5GMtQcASC1ODbWe1zuQFrF99ZPTELfE8wA=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Magnifier",
+      "search_name": "Amazon Pay",
       "isPopular": true
     },
     {
@@ -779,29 +779,29 @@
           "US",
           "UK"
         ],
-        "package_name": "de.j4velin.mapsmeasure"
+        "package_name": "in.org.npci.upiapp"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "de.j4velin.mapsmeasure",
+      "android_package_name": "in.org.npci.upiapp",
       "ios_bundle_id": null,
-      "title": "MapsMeasure",
+      "title": "BHIM",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=de.j4velin.mapsmeasure"
+        "https://play.google.com/store/apps/details?id=in.org.npci.upiapp"
       ],
-      "website": "https://play.google.com/store/apps/details?id=de.j4velin.mapsmeasure",
+      "website": "https://play.google.com/store/apps/details?id=in.org.npci.upiapp",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/PuzfsphMN-uoQo6e77bo8CVWXrZTgzlZHrZmZ0NnjAL0m025h-INDQrzm14ezE8XFw",
-      "icon_72": "https://play-lh.googleusercontent.com/PuzfsphMN-uoQo6e77bo8CVWXrZTgzlZHrZmZ0NnjAL0m025h-INDQrzm14ezE8XFw=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/B5cNBA15IxjCT-8UTXEWgiPcGkJ1C07iHKwm2Hbs8xR3PnJvZ0swTag3abdC_Fj5OfnP",
+      "icon_72": "https://play-lh.googleusercontent.com/B5cNBA15IxjCT-8UTXEWgiPcGkJ1C07iHKwm2Hbs8xR3PnJvZ0swTag3abdC_Fj5OfnP=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "MapsMeasure",
+      "search_name": "BHIM",
       "isPopular": true
     },
     {
@@ -811,29 +811,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.apps.messaging"
+        "package_name": "com.whatsapp.w4b"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.apps.messaging",
+      "android_package_name": "com.whatsapp.w4b",
       "ios_bundle_id": null,
-      "title": "Messages",
+      "title": "WhatsApp Pay",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging"
+        "https://play.google.com/store/apps/details?id=com.whatsapp.w4b"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging",
+      "website": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/9AZOTXU_CpreTFAXUPAmJNkm8VGCb1C90fjJ9pHGcVmpGMDSTq3cUbaQJdBT9Tdp9A",
-      "icon_72": "https://play-lh.googleusercontent.com/9AZOTXU_CpreTFAXUPAmJNkm8VGCb1C90fjJ9pHGcVmpGMDSTq3cUbaQJdBT9Tdp9A=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/K6L_Ixmw0J9oTktAoHyEHvzQIfxEF1CIQ5aE0WHhdUeOgfAmn7KLhe47Q5XxZaXQ0g",
+      "icon_72": "https://play-lh.googleusercontent.com/K6L_Ixmw0J9oTktAoHyEHvzQIfxEF1CIQ5aE0WHhdUeOgfAmn7KLhe47Q5XxZaXQ0g=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Messages",
+      "search_name": "WhatsApp Pay",
       "isPopular": true
     },
     {
@@ -843,29 +843,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.miui.player"
+        "package_name": "com.mobikwik_new"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.miui.player",
+      "android_package_name": "com.mobikwik_new",
       "ios_bundle_id": null,
-      "title": "Music",
+      "title": "MobiKwik",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.miui.player"
+        "https://play.google.com/store/apps/details?id=com.mobikwik_new"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.miui.player",
+      "website": "https://play.google.com/store/apps/details?id=com.mobikwik_new",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/uO_xmU8_PX5A-N_egV3KvstflXW38rXiCJp_NbE7htLBqLb2otOSkMkck9qg5Vu__H0",
-      "icon_72": "https://play-lh.googleusercontent.com/uO_xmU8_PX5A-N_egV3KvstflXW38rXiCJp_NbE7htLBqLb2otOSkMkck9qg5Vu__H0=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/WvOdfNjs3hNB8I3NiJyeCfB90mnra9GmsBUK60RuD92xOBgHctVGbMvBGJeOYbKAg5I",
+      "icon_72": "https://play-lh.googleusercontent.com/WvOdfNjs3hNB8I3NiJyeCfB90mnra9GmsBUK60RuD92xOBgHctVGbMvBGJeOYbKAg5I=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Music",
+      "search_name": "MobiKwik",
       "isPopular": true
     },
     {
@@ -875,29 +875,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.apps.magazines"
+        "package_name": "com.freecharge.android"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.apps.magazines",
+      "android_package_name": "com.freecharge.android",
       "ios_bundle_id": null,
-      "title": "News",
+      "title": "Freecharge",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines"
+        "https://play.google.com/store/apps/details?id=com.freecharge.android"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines",
+      "website": "https://play.google.com/store/apps/details?id=com.freecharge.android",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/b3MqZswO8F7j3lcdH01kxzaeHa7vUndy7ma_JwdM_j_Vpj8LKZcKt0HmpORQ7CKF2A",
-      "icon_72": "https://play-lh.googleusercontent.com/b3MqZswO8F7j3lcdH01kxzaeHa7vUndy7ma_JwdM_j_Vpj8LKZcKt0HmpORQ7CKF2A=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/l_7fl4HP1a-lspMA3I3tkcQVvUqzoZZd4XNPo-WbHFChj7Z7--aklMLygX9x8et5Pg",
+      "icon_72": "https://play-lh.googleusercontent.com/l_7fl4HP1a-lspMA3I3tkcQVvUqzoZZd4XNPo-WbHFChj7Z7--aklMLygX9x8et5Pg=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "News",
+      "search_name": "Freecharge",
       "isPopular": true
     },
     {
@@ -907,29 +907,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.keep"
+        "package_name": "com.jiopay.business"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.keep",
+      "android_package_name": "com.jiopay.business",
       "ios_bundle_id": null,
-      "title": "Notes",
+      "title": "JioPay",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.keep"
+        "https://play.google.com/store/apps/details?id=com.jiopay.business"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.keep",
+      "website": "https://play.google.com/store/apps/details?id=com.jiopay.business",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5",
-      "icon_72": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/UO_kD8Jb1r7fDkkxDXfJ3kI1rhqzK5e6f2MmdUGnr-Y4kyfh0rAcfzj2O7jMDkJGBGoO",
+      "icon_72": "https://play-lh.googleusercontent.com/UO_kD8Jb1r7fDkkxDXfJ3kI1rhqzK5e6f2MmdUGnr-Y4kyfh0rAcfzj2O7jMDkJGBGoO=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Notes",
+      "search_name": "JioPay",
       "isPopular": true
     },
     {
@@ -939,29 +939,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.dopuz.klotski.riddle"
+        "package_name": "com.samsung.android.samsungpay.gear"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.dopuz.klotski.riddle",
+      "android_package_name": "com.samsung.android.samsungpay.gear",
       "ios_bundle_id": null,
-      "title": "Numbers",
+      "title": "Samsung Pay",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.dopuz.klotski.riddle"
+        "https://play.google.com/store/apps/details?id=com.samsung.android.samsungpay.gear"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.dopuz.klotski.riddle",
+      "website": "https://play.google.com/store/apps/details?id=com.samsung.android.samsungpay.gear",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/uUTVTxOn7QLuPngCBG8R4KLRue-Jjm3Mb37r1ZRRJaCXSPNBWR1r6_Dli3u993-gMdc",
-      "icon_72": "https://play-lh.googleusercontent.com/uUTVTxOn7QLuPngCBG8R4KLRue-Jjm3Mb37r1ZRRJaCXSPNBWR1r6_Dli3u993-gMdc=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/pgo3oIR2g9nS1XbUvBg0Z8zJ5LhJ5ze3QX_nIsmbfPvbZBMh-cuki9dnSFN1Us-tdDJd",
+      "icon_72": "https://play-lh.googleusercontent.com/pgo3oIR2g9nS1XbUvBg0Z8zJ5LhJ5ze3QX_nIsmbfPvbZBMh-cuki9dnSFN1Us-tdDJd=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Numbers",
+      "search_name": "Samsung Pay",
       "isPopular": true
     },
     {
@@ -971,29 +971,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.pagesoft.pages_app"
+        "package_name": "com.dreamplug.androidapp"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.pagesoft.pages_app",
+      "android_package_name": "com.dreamplug.androidapp",
       "ios_bundle_id": null,
-      "title": "Pages",
+      "title": "CRED",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.pagesoft.pages_app"
+        "https://play.google.com/store/apps/details?id=com.dreamplug.androidapp"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.pagesoft.pages_app",
+      "website": "https://play.google.com/store/apps/details?id=com.dreamplug.androidapp",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/MFfZ92r4w7yD5piTflav2yFFSjq8OEgliamRhrAhHzbYILhADLNXIsuKNEYFfT5x4A",
-      "icon_72": "https://play-lh.googleusercontent.com/MFfZ92r4w7yD5piTflav2yFFSjq8OEgliamRhrAhHzbYILhADLNXIsuKNEYFfT5x4A=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/r2ZbsIr5sQ7Wtl1T6eevyWj4KS7QbezF7JYB9gxQnLWbf0K4kU7qaLNcJLLUh0WG-3pK",
+      "icon_72": "https://play-lh.googleusercontent.com/r2ZbsIr5sQ7Wtl1T6eevyWj4KS7QbezF7JYB9gxQnLWbf0K4kU7qaLNcJLLUh0WG-3pK=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Pages",
+      "search_name": "CRED",
       "isPopular": true
     },
     {
@@ -1003,29 +1003,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.apps.authenticator2"
+        "package_name": "com.myairtelapp"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.apps.authenticator2",
+      "android_package_name": "com.myairtelapp",
       "ios_bundle_id": null,
-      "title": "Passwords",
+      "title": "Airtel Thanks",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2"
+        "https://play.google.com/store/apps/details?id=com.myairtelapp"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2",
+      "website": "https://play.google.com/store/apps/details?id=com.myairtelapp",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/NntMALIH4odanPPYSqUOXsX8zy_giiK2olJiqkcxwFIOOspVrhMi9Miv6LYdRnKIg-3R",
-      "icon_72": "https://play-lh.googleusercontent.com/NntMALIH4odanPPYSqUOXsX8zy_giiK2olJiqkcxwFIOOspVrhMi9Miv6LYdRnKIg-3R=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/MEDyPtE2OFyPqXh2m_K5iQT3jvzIC93vdlRQC5O8kjr5_GAkFeNbmroPVrpbJT8bocM",
+      "icon_72": "https://play-lh.googleusercontent.com/MEDyPtE2OFyPqXh2m_K5iQT3jvzIC93vdlRQC5O8kjr5_GAkFeNbmroPVrpbJT8bocM=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Passwords",
+      "search_name": "Airtel Thanks",
       "isPopular": true
     },
     {
@@ -1035,29 +1035,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.dialer"
+        "package_name": "com.tatadigital.tcp"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.dialer",
+      "android_package_name": "com.tatadigital.tcp",
       "ios_bundle_id": null,
-      "title": "Phone",
+      "title": "Tata Neu",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.dialer"
+        "https://play.google.com/store/apps/details?id=com.tatadigital.tcp"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.dialer",
+      "website": "https://play.google.com/store/apps/details?id=com.tatadigital.tcp",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/bk3e0glVbvRC4Z0uEZ5Oso5wjS89r1P_X5e-k3N_UBkTPXZLhGv50rRy7LAuDzzC9w",
-      "icon_72": "https://play-lh.googleusercontent.com/bk3e0glVbvRC4Z0uEZ5Oso5wjS89r1P_X5e-k3N_UBkTPXZLhGv50rRy7LAuDzzC9w=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/DJEOOekXKHCEB_CKlGrD8GUFjGVINCULHgWAih1kT8QaBiUCedrLNQnjjx1GwWZ5wQDi",
+      "icon_72": "https://play-lh.googleusercontent.com/DJEOOekXKHCEB_CKlGrD8GUFjGVINCULHgWAih1kT8QaBiUCedrLNQnjjx1GwWZ5wQDi=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Phone",
+      "search_name": "Tata Neu",
       "isPopular": true
     },
     {
@@ -1067,29 +1067,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.photobooth.photo_booth"
+        "package_name": "in.jfs.jiofinance"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.photobooth.photo_booth",
+      "android_package_name": "in.jfs.jiofinance",
       "ios_bundle_id": null,
-      "title": "Photo Booth",
+      "title": "JioMoney",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.photobooth.photo_booth"
+        "https://play.google.com/store/apps/details?id=in.jfs.jiofinance"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.photobooth.photo_booth",
+      "website": "https://play.google.com/store/apps/details?id=in.jfs.jiofinance",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/S-df1kr6DYIbReD0dgSPZqaa21DCxkZ9F7T2iWr_ZvVTwyCvWHTAYPDTQ95D3gzQ-S0",
-      "icon_72": "https://play-lh.googleusercontent.com/S-df1kr6DYIbReD0dgSPZqaa21DCxkZ9F7T2iWr_ZvVTwyCvWHTAYPDTQ95D3gzQ-S0=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/yc684G-te3Olj9OfObd1GdDvqf_b9u01BG4kEBaei8NT60XAzsHQkRRP-VAbPTvHeroW",
+      "icon_72": "https://play-lh.googleusercontent.com/yc684G-te3Olj9OfObd1GdDvqf_b9u01BG4kEBaei8NT60XAzsHQkRRP-VAbPTvHeroW=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Photo Booth",
+      "search_name": "JioMoney",
       "isPopular": true
     },
     {
@@ -1099,29 +1099,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.podcast.podcasts"
+        "package_name": "com.truecaller"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.podcast.podcasts",
+      "android_package_name": "com.truecaller",
       "ios_bundle_id": null,
-      "title": "Podcasts",
+      "title": "Truecaller Pay",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.podcast.podcasts"
+        "https://play.google.com/store/apps/details?id=com.truecaller"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.podcast.podcasts",
+      "website": "https://play.google.com/store/apps/details?id=com.truecaller",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/QCru9sGm118P4hNQ1Ts2PttgqykIoBS1JRadg74hV-OajVmIDDOe2COmumZmeg1Kx7I",
-      "icon_72": "https://play-lh.googleusercontent.com/QCru9sGm118P4hNQ1Ts2PttgqykIoBS1JRadg74hV-OajVmIDDOe2COmumZmeg1Kx7I=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/VtP05VLAW1hdA8fyr5RGktM5LvuyUj4YagaAnfi9c_t3oyVv0iTAaZ1-6oC4za-bBEc",
+      "icon_72": "https://play-lh.googleusercontent.com/VtP05VLAW1hdA8fyr5RGktM5LvuyUj4YagaAnfi9c_t3oyVv0iTAaZ1-6oC4za-bBEc=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Podcasts",
+      "search_name": "Truecaller Pay",
       "isPopular": true
     },
     {
@@ -1131,29 +1131,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.google.android.apps.tasks"
+        "package_name": "com.fampay.in"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.google.android.apps.tasks",
+      "android_package_name": "com.fampay.in",
       "ios_bundle_id": null,
-      "title": "Reminders",
+      "title": "Fampay",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.tasks"
+        "https://play.google.com/store/apps/details?id=com.fampay.in"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.tasks",
+      "website": "https://play.google.com/store/apps/details?id=com.fampay.in",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/pjUulZ-Vdo7qPKxk3IRhnk8SORPlgSydSyYEjm7fGcoXO8wDyYisWXwQqEjMryZ_sqK2",
-      "icon_72": "https://play-lh.googleusercontent.com/pjUulZ-Vdo7qPKxk3IRhnk8SORPlgSydSyYEjm7fGcoXO8wDyYisWXwQqEjMryZ_sqK2=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/0IkegIm8uvzIM3RiVBfj01eSlNa3r5C_GCuExyI57b9_x-qLeV8YR3SVuT8DPPYT_N0",
+      "icon_72": "https://play-lh.googleusercontent.com/0IkegIm8uvzIM3RiVBfj01eSlNa3r5C_GCuExyI57b9_x-qLeV8YR3SVuT8DPPYT_N0=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Reminders",
+      "search_name": "Fampay",
       "isPopular": true
     },
     {
@@ -1163,29 +1163,29 @@
           "US",
           "UK"
         ],
-        "package_name": "savannah.internet.web.browser"
+        "package_name": "indwin.c3.shareapp"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "savannah.internet.web.browser",
+      "android_package_name": "indwin.c3.shareapp",
       "ios_bundle_id": null,
-      "title": "Safari",
+      "title": "Slice",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=savannah.internet.web.browser"
+        "https://play.google.com/store/apps/details?id=indwin.c3.shareapp"
       ],
-      "website": "https://play.google.com/store/apps/details?id=savannah.internet.web.browser",
+      "website": "https://play.google.com/store/apps/details?id=indwin.c3.shareapp",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/4e3t_if5IUZegzhgbcXs78VXtP3yVNagYzYSnykKTqTEcGvT1_2kOsbizvJenxRLzt0",
-      "icon_72": "https://play-lh.googleusercontent.com/4e3t_if5IUZegzhgbcXs78VXtP3yVNagYzYSnykKTqTEcGvT1_2kOsbizvJenxRLzt0=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/FepA9QbIZEBnW7N3u52lpfc6YqyTiioXEodAW6orEpBBoh3aQLE9JSlT3s-kVUdYx_DY",
+      "icon_72": "https://play-lh.googleusercontent.com/FepA9QbIZEBnW7N3u52lpfc6YqyTiioXEodAW6orEpBBoh3aQLE9JSlT3s-kVUdYx_DY=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Safari",
+      "search_name": "Slice",
       "isPopular": true
     },
     {
@@ -1195,29 +1195,29 @@
           "US",
           "UK"
         ],
-        "package_name": "any.shortcut"
+        "package_name": "com.naviapp"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "any.shortcut",
+      "android_package_name": "com.naviapp",
       "ios_bundle_id": null,
-      "title": "Shortcuts",
+      "title": "Navi",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=any.shortcut"
+        "https://play.google.com/store/apps/details?id=com.naviapp"
       ],
-      "website": "https://play.google.com/store/apps/details?id=any.shortcut",
+      "website": "https://play.google.com/store/apps/details?id=com.naviapp",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/jfsINeUSy7lR6Rfx1BvjGaGsM0co8q9uWrcDSrmqTjNL2cRITrMSoU_NCQirMUSCUXI",
-      "icon_72": "https://play-lh.googleusercontent.com/jfsINeUSy7lR6Rfx1BvjGaGsM0co8q9uWrcDSrmqTjNL2cRITrMSoU_NCQirMUSCUXI=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/5BlEJb1cF_r6dSCvPkeIcBaWbdBgmIId5ZiNmpeT3cPEV8ojj5LAKpg0wIWAg88b6q4",
+      "icon_72": "https://play-lh.googleusercontent.com/5BlEJb1cF_r6dSCvPkeIcBaWbdBgmIId5ZiNmpeT3cPEV8ojj5LAKpg0wIWAg88b6q4=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Shortcuts",
+      "search_name": "Navi",
       "isPopular": true
     },
     {
@@ -1227,29 +1227,29 @@
           "US",
           "UK"
         ],
-        "package_name": "com.nextbillion.groww"
+        "package_name": "com.epifi.paisa"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "com.nextbillion.groww",
+      "android_package_name": "com.epifi.paisa",
       "ios_bundle_id": null,
-      "title": "Stocks",
+      "title": "Fi Money",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.nextbillion.groww"
+        "https://play.google.com/store/apps/details?id=com.epifi.paisa"
       ],
-      "website": "https://play.google.com/store/apps/details?id=com.nextbillion.groww",
+      "website": "https://play.google.com/store/apps/details?id=com.epifi.paisa",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/LHjOai6kf1IsstKNWO9jbMxD-ix_FVYaJSLodKCqYQdoFVzQBuV9z5txxzcTagQcyX8",
-      "icon_72": "https://play-lh.googleusercontent.com/LHjOai6kf1IsstKNWO9jbMxD-ix_FVYaJSLodKCqYQdoFVzQBuV9z5txxzcTagQcyX8=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/IGW7XXVRgU82nt1qkGltCaYzvOVyCv3mmjN5iqklQKRmmkxlAr712G1wKTs_y6KfUtQ",
+      "icon_72": "https://play-lh.googleusercontent.com/IGW7XXVRgU82nt1qkGltCaYzvOVyCv3mmjN5iqklQKRmmkxlAr712G1wKTs_y6KfUtQ=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Stocks",
+      "search_name": "Fi Money",
       "isPopular": true
     },
     {
@@ -1259,253 +1259,29 @@
           "US",
           "UK"
         ],
-        "package_name": "info.camposha.swift"
+        "package_name": "money.jupiter"
       },
-      "cat_key": "PREINSTALLED",
+      "cat_key": "BANKING",
       "cat_keys": [
-        "PREINSTALLED",
+        "BANKING",
         "APPLICATION"
       ],
-      "category": "PREINSTALLED",
+      "category": "BANKING",
       "description": "",
-      "android_package_name": "info.camposha.swift",
+      "android_package_name": "money.jupiter",
       "ios_bundle_id": null,
-      "title": "Swift Playgrounds",
+      "title": "Jupiter",
       "domain_name": [
-        "https://play.google.com/store/apps/details?id=info.camposha.swift"
+        "https://play.google.com/store/apps/details?id=money.jupiter"
       ],
-      "website": "https://play.google.com/store/apps/details?id=info.camposha.swift",
+      "website": "https://play.google.com/store/apps/details?id=money.jupiter",
       "developer": "",
       "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/28FsXYJiPHoSbF8uADbn4KVKxSlLvOD-IeMJvxjij5R394r_1Q6ydph8ck3QctIldyZQ",
-      "icon_72": "https://play-lh.googleusercontent.com/28FsXYJiPHoSbF8uADbn4KVKxSlLvOD-IeMJvxjij5R394r_1Q6ydph8ck3QctIldyZQ=s72-rw",
+      "icon": "https://play-lh.googleusercontent.com/DnJF-WDgmtEyTRqTY5CNBNFNIRLN3ztoe43h2ToqA70BQY6HJa1cyPM1s42NWipokS7X",
+      "icon_72": "https://play-lh.googleusercontent.com/DnJF-WDgmtEyTRqTY5CNBNFNIRLN3ztoe43h2ToqA70BQY6HJa1cyPM1s42NWipokS7X=s72-rw",
       "market_status": "PUBLISHED",
       "store": "playstore",
-      "search_name": "Swift Playgrounds",
-      "isPopular": true
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US",
-          "UK"
-        ],
-        "package_name": "com.fireshooters.lifetips"
-      },
-      "cat_key": "PREINSTALLED",
-      "cat_keys": [
-        "PREINSTALLED",
-        "APPLICATION"
-      ],
-      "category": "PREINSTALLED",
-      "description": "",
-      "android_package_name": "com.fireshooters.lifetips",
-      "ios_bundle_id": null,
-      "title": "Tips",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.fireshooters.lifetips"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.fireshooters.lifetips",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/EwosT3quLiHAMma1a4Qxd90hpXnEGB0e3jx3Yu76TQk1pnrMwSUdWt7kb-DjoThSG8RR",
-      "icon_72": "https://play-lh.googleusercontent.com/EwosT3quLiHAMma1a4Qxd90hpXnEGB0e3jx3Yu76TQk1pnrMwSUdWt7kb-DjoThSG8RR=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Tips",
-      "isPopular": true
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US",
-          "UK"
-        ],
-        "package_name": "com.google.android.apps.translate"
-      },
-      "cat_key": "PREINSTALLED",
-      "cat_keys": [
-        "PREINSTALLED",
-        "APPLICATION"
-      ],
-      "category": "PREINSTALLED",
-      "description": "",
-      "android_package_name": "com.google.android.apps.translate",
-      "ios_bundle_id": null,
-      "title": "Translate",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.translate"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA",
-      "icon_72": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Translate",
-      "isPopular": true
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US",
-          "UK"
-        ],
-        "package_name": "com.jio.jioplay.tv"
-      },
-      "cat_key": "PREINSTALLED",
-      "cat_keys": [
-        "PREINSTALLED",
-        "APPLICATION"
-      ],
-      "category": "PREINSTALLED",
-      "description": "",
-      "android_package_name": "com.jio.jioplay.tv",
-      "ios_bundle_id": null,
-      "title": "TV",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.jio.jioplay.tv"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.jio.jioplay.tv",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/fxM8J0JZM-xBsurUYce0IFv9g_WzbV3DeHnTnkfttw1RSnjPNjT3PDKFqZBG5GM8yQ",
-      "icon_72": "https://play-lh.googleusercontent.com/fxM8J0JZM-xBsurUYce0IFv9g_WzbV3DeHnTnkfttw1RSnjPNjT3PDKFqZBG5GM8yQ=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "TV",
-      "isPopular": true
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US",
-          "UK"
-        ],
-        "package_name": "voicerecorder.audiorecorder.voice"
-      },
-      "cat_key": "PREINSTALLED",
-      "cat_keys": [
-        "PREINSTALLED",
-        "APPLICATION"
-      ],
-      "category": "PREINSTALLED",
-      "description": "",
-      "android_package_name": "voicerecorder.audiorecorder.voice",
-      "ios_bundle_id": null,
-      "title": "Voice Memos",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=voicerecorder.audiorecorder.voice"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=voicerecorder.audiorecorder.voice",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/hLp8qeDQBx2vONQdkQsQ-AkE2oWhSB-ApkZIuPuaXUO7gHjb1W6ZlMppi7pmbEGqL1g",
-      "icon_72": "https://play-lh.googleusercontent.com/hLp8qeDQBx2vONQdkQsQ-AkE2oWhSB-ApkZIuPuaXUO7gHjb1W6ZlMppi7pmbEGqL1g=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Voice Memos",
-      "isPopular": true
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US",
-          "UK"
-        ],
-        "package_name": "com.google.android.apps.walletnfcrel"
-      },
-      "cat_key": "PREINSTALLED",
-      "cat_keys": [
-        "PREINSTALLED",
-        "APPLICATION"
-      ],
-      "category": "PREINSTALLED",
-      "description": "",
-      "android_package_name": "com.google.android.apps.walletnfcrel",
-      "ios_bundle_id": null,
-      "title": "Wallet",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/dBIwyXKErXW06joSa38PfPZUfs4Ww1P0GIsi-_BCM3gfUffhuhT8EZ4XOkIs-ShPZQ",
-      "icon_72": "https://play-lh.googleusercontent.com/dBIwyXKErXW06joSa38PfPZUfs4Ww1P0GIsi-_BCM3gfUffhuhT8EZ4XOkIs-ShPZQ=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Wallet",
-      "isPopular": true
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US",
-          "UK"
-        ],
-        "package_name": "com.watcho_multi"
-      },
-      "cat_key": "PREINSTALLED",
-      "cat_keys": [
-        "PREINSTALLED",
-        "APPLICATION"
-      ],
-      "category": "PREINSTALLED",
-      "description": "",
-      "android_package_name": "com.watcho_multi",
-      "ios_bundle_id": null,
-      "title": "Watch",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.watcho_multi"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.watcho_multi",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/tNTDLK3QPOxDE2loEAmw_jrzeJkUtZVW-JtG2FP-LaJIsd-yN1gK1LLEJeyVts5yWN0o",
-      "icon_72": "https://play-lh.googleusercontent.com/tNTDLK3QPOxDE2loEAmw_jrzeJkUtZVW-JtG2FP-LaJIsd-yN1gK1LLEJeyVts5yWN0o=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Watch",
-      "isPopular": true
-    },
-    {
-      "app_availability": {
-        "available_in": [
-          "IN",
-          "US",
-          "UK"
-        ],
-        "package_name": "com.weather.nold.forecast"
-      },
-      "cat_key": "PREINSTALLED",
-      "cat_keys": [
-        "PREINSTALLED",
-        "APPLICATION"
-      ],
-      "category": "PREINSTALLED",
-      "description": "",
-      "android_package_name": "com.weather.nold.forecast",
-      "ios_bundle_id": null,
-      "title": "Weather",
-      "domain_name": [
-        "https://play.google.com/store/apps/details?id=com.weather.nold.forecast"
-      ],
-      "website": "https://play.google.com/store/apps/details?id=com.weather.nold.forecast",
-      "developer": "",
-      "app_country": "US",
-      "icon": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0",
-      "icon_72": "https://play-lh.googleusercontent.com/7TsHPSAJ6v5v0iRSm8iDTNZQVB_KC1Hr3Etn7q63YLc_AlL2D0L1RT48MmXnBthVdf0=s72-rw",
-      "market_status": "PUBLISHED",
-      "store": "playstore",
-      "search_name": "Weather",
+      "search_name": "Jupiter",
       "isPopular": true
     }
   ],

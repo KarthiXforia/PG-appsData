@@ -746,5 +746,753 @@
       "icon": "https://play-lh.googleusercontent.com/hIaG-BBdA-LaXmUXI3CL4XBGcJAWU-LffKAmX16wfqcNQ0e73dxOHsWYElNx9kFtlQ",
       "icon_72": "https://play-lh.googleusercontent.com/hIaG-BBdA-LaXmUXI3CL4XBGcJAWU-LffKAmX16wfqcNQ0e73dxOHsWYElNx9kFtlQ=s72-rw",
       "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tsheets.android.hammerhead"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Whether you’re a self-employed business of one looking to organize business finances, or a growing small business with accounting needs, QuickBooks has the right sized solution for your business.\n\nWith the QuickBooks mobile app, run your business anytime, anywhere - on either QuickBooks Solopreneur, or QuickBooks Simple Start. Organize your self-employed or small business finances, manage your cash flows and expenses, and access tools to help drive growth - all in one place. Use automatic mileage tracking to maximize tax deductions, invoicing and estimates to help you get paid, and even more features to manage your bookkeeping. \n\nOrganize Business Finances\n•  Automatically separate business from personal transactions\n•  Categorize business transactions on the go for more detailed accounting needs\n•  Connect your bank and credit card accounts in one place to see the bigger financial picture\n\nManage Cash Flows and Expenses\n•. Snap and scan receipts and we'll help match them to expenses\n•  Track miles automatically to maximize your tax deductions\n•  View and manage your cash flow from anywhere to know where your business stands\n•  Get insights into what you make and spend to help you make better business decisions\n\nGrow Your Business\n•  Create and send custom invoices and estimates wherever you do business\n•  Add new customers, products, and services with a few taps\n•  Run business reports to always know how your business is performing\n\nGet even more QuickBooks benefits and features to help you run your self-employed or small business through QuickBooks on the web, included with your QuickBooks mobile app subscription.\n\nNot compatible with QuickBooks Desktop for Windows or Mac.\n\nSome features may not be available in all QuickBooks products.\n\nTerms, conditions, pricing, special features, and service and support options subject to change without notice.\n\nFrom INTUIT\nMakers of: QuickBooks, TurboTax, Credit Karma & Mailchimp\n\nVisit:\n• https://www.intuit.com/privacy/statement/  to learn how Intuit protects your privacy.\n• https://www.intuit.com/legal/terms/en-us/quickbooks/online/ to read the Intuit terms of service.\n\n\nSUBSCRIPTION INFORMATION\n• Your Apple account will be charged when you confirm the purchase.\n• Your subscription will automatically renew unless you turn off auto-renew at least 24 hours before the end of the current period.\n• Your Apple account will be charged for renewal within 24 hours prior to the end of the current period.\n• You can manage your subscription and turn off auto-renewal by going to your Apple account settings after purchase. On your device, go to Settings, tap your Apple ID, then tap Subscriptions, and tap Cancel subscription.\n• You'll give up any unused portion of a free trial period when you purchase a subscription.\n\n\nIntuit, 2700 Coast Ave, Mountain View, CA 94043",
+      "android_package_name": "com.tsheets.android.hammerhead",
+      "ios_bundle_id": "com.intuit.QBOiPad",
+      "title": "QuickBooks Accounting",
+      "domain_name": [
+        "https://quickbooks.intuit.com",
+        "https://quickbooks.intuit.com"
+      ],
+      "website": "https://quickbooks.intuit.com",
+      "developer": "Intuit Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AGLr2UP-Dn6mPz_QLUdWX8tNvzLz19giUVm-15LHORrCh_X2RrRCm8p0RTiND4jDswk",
+      "icon_72": "https://play-lh.googleusercontent.com/AGLr2UP-Dn6mPz_QLUdWX8tNvzLz19giUVm-15LHORrCh_X2RrRCm8p0RTiND4jDswk=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.salesforce.chatter"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Run your business from your iPhone or iPad with the Salesforce mobile app. Access the power of the world’s #1 CRM platform from the palm of your hands and transform your business with real-time data and mobile-tailored Lightning apps.\n\nStart instantly with Mobile Home\nKickstart your day with a personalized dashboard of cards that surfaces your favorite reports, lists, tasks, events, and more.\n\nAccess your data from anywhere\nWith an entire platform of mobile-optimized Lightning components and apps available at your fingertips, you can work across Salesforce clouds and industries to \nquickly access and update critical business data from anywhere.  \n\nWork safely and securely\nBuilt-in, enterprise-grade, app security protects your data in transit and on device while using the world’s most trusted cloud platform. Stay even more protected and compliant with granular security policies enabled by your business using Enhanced Mobile App Security and Compliance. \n\nStay engaged\nWith custom push notifications tailored to your workflows, you can receive updates about your business data the moment they happen — powered by Notification Builder.\n\nInstall Salesforce Mobile to start running your business on your iPhone or iPad today!",
+      "android_package_name": "com.salesforce.chatter",
+      "ios_bundle_id": "com.salesforce.chatter",
+      "title": "Salesforce",
+      "domain_name": [
+        "http://www.salesforce.com",
+        "https://www.salesforce.com"
+      ],
+      "website": "http://www.salesforce.com",
+      "developer": "salesforce.com",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/8zeY2rMMqLfUYBGebRWALtqxcE00WK2y43inlWRSEbjiZJs_vW1N1r4CoIF-FCQ3wvU",
+      "icon_72": "https://play-lh.googleusercontent.com/8zeY2rMMqLfUYBGebRWALtqxcE00WK2y43inlWRSEbjiZJs_vW1N1r4CoIF-FCQ3wvU=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.google.android.apps.enterprise.cpanel"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "WeCom is a business communication and office collaboration tool developed by Tencent WeChat Team. WeCom provides the same communication experience as WeChat and connects with WeChat in an all-round manner. It also offers productivity tools such as Document, Meeting, Email, Calendar, and WeDrive, and flexible OA apps for effective business communication and management.\nWeCom provides exclusive industry solutions for retail, education, government, manufacturing, catering, financial services and other industries, helping various industries to better serve users on WeChat. WeCom has been widely adopted by millions of leading organizations, including Xibei Restaurant, Rainbow, P&G, Cartier, WalMart, IKEA, Bank of China, PICC, Deppon Express, Changan Automobile, Shenzhen Mingde Experimental School, Affiliated High School of South China Normal University, Guangzhou Haizhu Bureau of Education, Longhua District Education Bureau, and Shenzhen Taxation Bureau.\n\n1. Provides a communication environment to work with colleagues\n[Ease of Use] Creating a user-friendly experience consistent with WeChat.\n[Reliable Storage] Messages are synchronized between devices and stored in the cloud.\n[Effective Communication] Message read status is shown for the sent.\n[Corporate Directory] Supports import and centralized management of member information.\n\n2. Connect with WeChat in an all-round manner\n[Exchange Messages] Add WeChat users as contacts and offer services via private or group chats.\n[Contact Customers] Companies can view and manage the customers added by members. Various tools such as Broadcast Messages and Chat Toolbar are available.\n[Customer Group] Manage the customer groups of members via tools such as Anti-harassment and Group Template.\n[Customer Moments] Posts about activities and product updates can be shared to Moments.\n[Channel] Invite customers to check activities and live videos through chats and Moments. Show members in the homepage and the live room to add contacts.\n[WeChat Customer Service] Provide consistent consulting experiences. Invite WeChat users to add members to upgrade services.\n[Partner Space] Manage the contacts of distributors, suppliers in one place. Use Document, Meeting and other tools and share apps across companies.\n[Inheritance from Former Employees] Customers of former members can be reassigned without confirmation.\n[Company Pay] Companies can receive or pay money to users and send Red Packets.\n\n3. Integrate multiple productivity tools and OA apps\n[Document] Provide rich capabilities and stable experience. Invite colleagues, customers or other contacts to collaborate.\n[Meeting] Provide stable experience and integrate screen sharing, e-whiteboard, meeting control, recording, and meeting minutes.\n[Email] Integrate the security and green anti-spam, supporting mutual reference with various tools.\n[Calendar] Organize online and offline meetings, view busy schedules and manage public calendars, and invite colleagues, WeChat customers, upstream and downstream.\n[WeDrive] Allow flexible permission and sharing business data with others.\n[OA Apps] Preset tools, such as Attendance, Reports, Announcement, Meeting and Forum.\n\n4. Open capabilities\n[Retail Industry] Open APIs for Contact Customers, Customer Group, and Customer Moments.\n[Education Industry] Open APIs for Contact Parents, Education Bureau-School Interconnection.\n[Government Affair Industry] Open APIs for Contact Residents are available.\n[Office and Collaboration] Open APIs for Attendance, Calendar, WeDoc and Meeting are available.\n[Developer Share] Answer questions and share experiences to make progress together.\n\n5. Security and management\n[All-round Safeguard] WeCom is the first domestic office product to pass SOC2Type2 auditing and has obtained ISO27018, ISO20000, and ISO27001, securing data in an all-round way.\n\nNote：WeCom is connected to HealthKit. After authorization, workout data can be accessed from HealthKit.",
+      "android_package_name": "com.google.android.apps.enterprise.cpanel",
+      "ios_bundle_id": "com.tencent.ww",
+      "title": "G Suite",
+      "domain_name": [],
+      "website": "",
+      "developer": "Tencent Technology (Shenzhen) Company Limited",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/UcM7d0MiWFxyZmTpluyrw7otkwV5aJ6Q_EYh2Ftl3EMYz64-JS3n0oNkZPsJYIzX7tw",
+      "icon_72": "https://play-lh.googleusercontent.com/UcM7d0MiWFxyZmTpluyrw7otkwV5aJ6Q_EYh2Ftl3EMYz64-JS3n0oNkZPsJYIzX7tw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.basecamp.bc3"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "The refreshingly simple, and remarkably effective, project management platform.\n\nManaging people and projects under pressure is tough enough. Unfortunately, lots of software makes it worse by over-complicating things. Basecamp’s different.\n\nWhat makes Basecamp special?\n\nIt’s dialed in. For nearly two decades, we’ve continually refined a unique set of tools and methods to fundamentally reduce complexity, and make project management more of a joy and less of a chore. Perfected and pressure-tested by hundreds of thousands of teams on millions of projects, Basecamp’s the gold standard for a simpler, superior version of project management.\n\nBasecamp works because it’s the easiest place for everyone in every role to put the stuff, work on the stuff, discuss the stuff, decide on the stuff, and deliver the stuff that makes up every project. Not on separate platforms scattered in various places, but all intuitively organized in one centralized place where everyone can work together.\n\nBasecamp’s intentionally simple by design. It’s why teams that sometimes leave in search of “more power” end up slamming into the consequences of over-powered software: Complexity. Complexity doesn’t work. Basecamp does. It’s why those that leave end up coming back and sticking with us the second time around. You never know what you had until it’s gone.",
+      "android_package_name": "com.basecamp.bc3",
+      "ios_bundle_id": "com.basecamp.bc3-ios",
+      "title": "Basecamp",
+      "domain_name": [
+        "https://basecamp.com",
+        "https://basecamp.com"
+      ],
+      "website": "https://basecamp.com",
+      "developer": "Basecamp, LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/Kzl0tRihUiiaX2H3a_zb8iQMTKfEuG-MZr3yx4E90-vTRBKfgUQM8bVmd6r7oAHAIQ",
+      "icon_72": "https://play-lh.googleusercontent.com/Kzl0tRihUiiaX2H3a_zb8iQMTKfEuG-MZr3yx4E90-vTRBKfgUQM8bVmd6r7oAHAIQ=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.freshbooks.andromeda"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "FreshBooks is a comprehensive invoicing and accounting software designed for business owners and their clients. It helps you manage your books, client relationships, and overall business more efficiently.\n\nKey Features:\n\nCreating Invoice - FreshBooks also offers easy and professional invoicing, allowing you to impress your clients with invoices that clearly show all the work you've done, and follow up with automated payment reminders if needed.\n\nExpense Tracking - Expense tracking is also made easy with FreshBooks. You can snap photos of receipts on the go or import expenses from your bank account, then organize and assign them to clients, so you're always ready for tax time.\n\nMileage Tracking - One of the key features of FreshBooks is its mileage tracking, which automatically tracks your business trips as you drive and categorizes them for potential tax deductions.\n\nTime Tracking - Time tracking in FreshBooks makes it easy for your team to log billable minutes, so you don't miss any billable time that can be costly. You can also automatically add billable time to invoices, ensuring all time is accounted for.\n\nOnline Payment Options - FreshBooks offers automated online payments, providing your clients with many different ways to pay and making it easier for you to get paid faster. It can help improve your cash flow and turn a trickle of payments into a waterfall.\nManage Your Clients - With FreshBooks, you can stay connected to your clients and manage your business on-the-go through its mobile app, so you're not tied to your computer all the time.\n\nGenerate Reports - You can run reports in FreshBooks anytime to see how your business is doing. It tracks every dollar in and out of your business, and with its easy-to-use double-entry accounting tools and reports, you can see your profitability, cash flow, and spending habits.\n\nGreat Customer Support - FreshBooks also has an award-winning customer support team that's always ready to help you with any questions or issues you might have. You can speak to a real human within three rings, making it easy to get the help you need.\n\n\n1-866-303-6061\nsupport@freshbooks.com\nPrivacy Policy: https://www.freshbooks.com/policies/privacy\nTerms of Service: https://www.freshbooks.com/policies/terms-of-service",
+      "android_package_name": "com.freshbooks.andromeda",
+      "ios_bundle_id": "com.freshbooks.helios",
+      "title": "FreshBooks",
+      "domain_name": [
+        "https://www.freshbooks.com/?utm_source=Mobile&utm_medium=iTunes-Description-Page&utm_campaign=Homepage-Marketing",
+        "https://www.freshbooks.com"
+      ],
+      "website": "https://www.freshbooks.com/?utm_source=Mobile&utm_medium=iTunes-Description-Page&utm_campaign=Homepage-Marketing",
+      "developer": "2ndSite Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EMobDJKabP1eY_63QHgPS_-TK3eRfxXaeOnERbcRaWAw573iaV74pXS9xOv997dRZtM",
+      "icon_72": "https://play-lh.googleusercontent.com/EMobDJKabP1eY_63QHgPS_-TK3eRfxXaeOnERbcRaWAw573iaV74pXS9xOv997dRZtM=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.xero.touch"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "With Xero Accounting, you can keep track of cash flow, view income, manage your expenses, and create invoices on the go. Xero Accounting app is a business tracking app, ideal for small business owners and managers who are signed up and set up in Xero. Managing your business finances, your invoices, cash flow, income and expenses, has never been so easy. The app acts as a companion to your Xero account, helping you stay productive and keep an eye on your business’ financial health from when and where it suits you.\n\n—\n\nFeatures: \n\n*MANAGE INVOICING FROM THE PALM OF YOUR HAND*\n• Raise and send quotes for faster client approval so you can get started on the job sooner.\n• Reduce the time it takes to get paid by raising and sending invoices from your device as soon as the job is completed.\n• Create an invoice in a few simple steps, and send directly to clients via email, text message or other apps. \n• Void invoices easily from your phone without needing to open your laptop \n• Easily keep track of unpaid invoices, to see who owe's you what - and even track the status of an invoice, seeing if it has been viewed by clients \n\n*KEEP TRACK OF CASH FLOW*\n• View summaries of outstanding bills and invoices to see what’s owed\n• Monitor your flexible profit and loss report which can be viewed on a cash or accrual basis & helps you keep your finger on your business’ financial health.\n• Drill down profit and loss reports, to help understand your business and help answer questions on sales and spending \n\n*MANAGE SPEND*\n• Record spend as soon as it happens to reduce office admin and time spent looking for lost receipts.\n\n*RECONCILE FROM ANYWHERE*\n• Good bookkeeping habits have been made easy. \n• Smart matches, rules and suggestions makes reconciling your business transactions easy, from anywhere with a few simple clicks\n• Filter bank statement lines to optimise your unique workflow, leading to faster reconciliation\n• New sort and search tools to make it easier to view business transactions and streamline the reconciliation process\n\n*MANAGE CUSTOMER AND SUPPLIER INFORMATION*\n• Have vital contact information in the palm of your hand so you can do business from wherever you are. \n• Get a view of how much is owed and quickly add notes so you can build better business relationships.\n\n—\n\nTo contact support, visit us at https://central.xero.com/, raise a ticket and someone will reach out to you. \n\nGot product and feature ideas for the Xero Accounting App?\nPlease contact us at https://productideas.xero.com/ - we welcome new ideas. \n\nXERO ACCOUNTING APP IS POWERED BY XERO\nXero is a global small business platform that connects your business to accountants, bookkeepers, banks, enterprise & apps. Small businesses, accountants and bookkeepers locally and across the world trust Xero with their numbers. We’re proud to be helping over 3 million+ subscribers worldwide and your business could be next.\n \nYou're in good hands with Xero. We're rated EXCELLENT on Trustpilot (4.2/5) with 6,650+ customer reviews (as of 24/05/2024)\n\nFollow Xero on Twitter: https://twitter.com/xero/\nJoin the Xero Facebook Fan page: https://www.facebook.com/Xero.Accounting",
+      "android_package_name": "com.xero.touch",
+      "ios_bundle_id": "JEC2FK53N4.com.xero.XeroTouch",
+      "title": "Xero Accounting",
+      "domain_name": [
+        "https://www.xero.com/xero-accounting-mobile-app",
+        "https://www.xero.com"
+      ],
+      "website": "https://www.xero.com/xero-accounting-mobile-app",
+      "developer": "Xero Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/VX1WlbpWZDSmPLhsBwJ8H6GYnBQD2MQiAr7FgC3KpLhN8NeVx7t_oD9MxSymGiryDg",
+      "icon_72": "https://play-lh.googleusercontent.com/VX1WlbpWZDSmPLhsBwJ8H6GYnBQD2MQiAr7FgC3KpLhN8NeVx7t_oD9MxSymGiryDg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.mailchimp.mailchimp"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Get more opens, clicks, and sales with the #1 email marketing and automation platform*\n\nIntuit Mailchimp's mobile app can help you market smarter and grow your business faster from day one. With Mailchimp, you'll never miss an opportunity to make a sale, bring customers back, find new subscribers, or share your brand's mission.\n\nMarketing CRM and Inbox - \nEngage with your customers, grow your audience, and build relationships. \nAdd contacts from your device, scan business cards, or import them from files on your phone, Google Drive, or Dropbox.\nTrack audience growth and view insights about individual contacts.\nCall, text, and email directly from the app to keep track of communication. Record notes and add tags after every interaction to remember the important details.\n\nReports & Analytics - \nTrack results for all of your campaigns and get quick actionable recommendations on how to improve. \nView analytics for email campaigns, landing pages, social posts, SMS, automations, and surveys.\nGain a deeper understanding of your customers so you can target and personalize your campaigns, using analytics such as: opens, clicks, devices, and more.\n\nEmails & Automations - \nCreate, edit and send email marketing campaigns, newsletters, and automations. \nWith one-click Resend to Non-Openers, new subscribers, or non-purchasers shortcuts, you'll be able to re-engage customers and grow sales in no time.\nAbandoned Cart Automations - Remind customers of products they’ve left behind and recapture lost sales.\n\nTimely Notifications and Insights - \nAnomaly detection notifications with insights and next steps to improve marketing performance. \nNon-opener insight notifications with auto-campaign replication to increase engagement. \nNew subscriber notifications and sales summaries to celebrate audience and revenue growth.\nNew inbox messages so you don’t miss any important communication from your contacts. \n\nAbout Intuit Mailchimp:\nIntuit Mailchimp is an email and marketing automation platform for growing businesses. We empower millions of customers around the world to start and grow their businesses with world-class marketing technology, award-winning customer support, and inspiring content. Mailchimp puts data-backed recommendations at the heart of your marketing, so you can find and engage customers across email, social media, landing pages, and advertising—automatically and with the power of AI.\n\nIf you enjoy using Mailchimp or have a great idea you’d like to share with us, please leave a review.\n\n*Disclosures\n#1 email marketing platform: Based on December 2023 publicly available data on competitors' number of customers.    \n\nAvailability of features and functionality varies by plan type. For details, please view Mailchimp's various plans and pricing. Terms, conditions, pricing, special features, and service and support options subject to change without notice.",
+      "android_package_name": "com.mailchimp.mailchimp",
+      "ios_bundle_id": "com.theRocketScienceGroup.mailChimp",
+      "title": "Mailchimp",
+      "domain_name": [
+        "http://mailchimp.com/features/mailchimp-mobile",
+        "https://mailchimp.com"
+      ],
+      "website": "http://mailchimp.com/features/mailchimp-mobile",
+      "developer": "The Rocket Science Group LLC",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/IBV0NyRdxyNlCgyWnbeZs3rkPYfNXlPJ4-rF0ok3Biox_N-GjLtMZ7Qub5HTmVZiWjg",
+      "icon_72": "https://play-lh.googleusercontent.com/IBV0NyRdxyNlCgyWnbeZs3rkPYfNXlPJ4-rF0ok3Biox_N-GjLtMZ7Qub5HTmVZiWjg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wetransfer.transfer"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "WeTransfer is the simplest way to send (and receive) big files. Whether you’re at your desk or on the go, transfer up to 200 GB in one go. That’s about 2000 videos of your cat. Share photos and videos in their original format, including all the important EXIF metadata that originates from your camera. With WeTransfer, you can check the download status, forward, and delete transfers right from your phone. If you previously sent a transfer from your laptop, you can access the files and link in the app, so you can easily paste it into your favorite messaging app without needing to open your computer. Our Live Activity notifies you when a transfer finishes uploading, so you can multitask or play a quick game while sending huge files. Notifications let you know the minute you receive something so you can preview (or download) your files wherever you are.\n\nAbout us\nHaving made our name in the game of quick and simple file-sharing, WeTransfer has grown into a collection of tools designed for and inspired by the creative process. Collect is the go-to app for saving and sharing inspiration in boards that organize your ideas. Portals makes it easy to request feedback on your in progress projects with Reviews that include asset markup and approval flows. WeTransfer is the original web platform, where creatives share their biggest files.\n\nTerms of Service: https://wetransfer.com/legal/terms\nPrivacy policy: https://wetransfer.com/legal/privacy",
+      "android_package_name": "com.wetransfer.transfer",
+      "ios_bundle_id": "com.wetransfer.transfer",
+      "title": "WeTransfer",
+      "domain_name": [],
+      "website": "",
+      "developer": "WeTransfer BV",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/L7KDvp_W27KHMqwq6FMA8NzxPJgKjEMtGMe7SKBr4cpjoLFvrxhSvRJ7pAbHPxoZ9_E",
+      "icon_72": "https://play-lh.googleusercontent.com/L7KDvp_W27KHMqwq6FMA8NzxPJgKjEMtGMe7SKBr4cpjoLFvrxhSvRJ7pAbHPxoZ9_E=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.stripe.android.dashboard"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Run your business from your pocket. With the Stripe Dashboard mobile app, you can securely log in to your existing Stripe account to track and manage your payments on the go.\n\nKeep track of your business\n• View your earnings, customers, payments, balances and payouts\n• Compare current business performance to historical data \n• Switch between daily, weekly, monthly, and yearly views of your data\n• Investigate disputes and failed payments\n• See all subscriptions and invoice events\n\nEasily take action\n• Issue full or partial refunds\n• Search your data for customers, transactions, and more\n• Email customers \n• Create new customer subscriptions\n\nGet notifications\n• Subscribe to daily summaries that let you wake up to the latest updates from your business\n• Customize your notifications with the option to be notified for payments, new customers, or deposits",
+      "android_package_name": "com.stripe.android.dashboard",
+      "ios_bundle_id": "com.stripe.dashboard",
+      "title": "Stripe Dashboard",
+      "domain_name": [
+        "https://stripe.com",
+        "https://stripe.com"
+      ],
+      "website": "https://stripe.com",
+      "developer": "Stripe Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/2PS6w7uBztfuMys5fgodNkTwTOE6bLVB2cJYbu5GHlARAK36FzO5bUfMDP9cEJk__cE",
+      "icon_72": "https://play-lh.googleusercontent.com/2PS6w7uBztfuMys5fgodNkTwTOE6bLVB2cJYbu5GHlARAK36FzO5bUfMDP9cEJk__cE=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.squareup"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Square Point of Sale is the free point-of-sale app that enables you to sell anywhere, with optional hardware that lets customers buy any way they want.\n\nUse the Point of Sale app with a Square Reader for contactless and chip to allow customers to pay touch free using payment links, QR codes, Apple Pay, and EMV chip cards. \n \nTake in-person contactless payments with just your iPhone. Enable Tap to Pay to accept contactless card, Apple Pay, or other digital wallet.\n\nIssue and track invoices directly from the app. Customize your invoices, set up weekly or monthly recurring invoices from your Dashboard, and let customers pay online with a credit or debit card.\n \nGet the job done faster. Add other Square tools, such as Online Checkout, Gift Cards, and Team Management, right to your POS.\n \nConnect your Point of Sale app to a free Square Online Store to accept orders for pickup and delivery.\n\nFunds are transferred fast—see money in your bank account in one to two business days.\n\nUse your point-of-sale system to keep track of sales and inventory in real time, manage items and employees, and view analytics about your business.\n \nAll this with no long-term contracts or surprise fees.\n\nYou can accept payments from 70 million Cash App customers on Square Point of Sale. Customers can now use Cash App to pay on your Square Online site or at your Square Point of Sale.\n\nSquare Dashboard\nThe free Square Dashboard app works in sync with the Square Point of Sale app and lets you view your live sales data, access powerful analytics and other easy tools to help you track and improve your business.\n \nPayment Information for U.S.\n2.6% + 10¢ per tap, dip, scan, or swipe. Charge $100 in a single transaction and see $97.30 in your bank account. Accept Visa, Mastercard, Discover, and American Express cards all at the same rate. Invoices are free to send and cost 2.9% + 30¢ per invoice paid online.\n \nNext-day Transfers\nGet your money fast. Square transfers payments into your bank account in one to two business days.\n \n- Record cash, gift cards, and other forms of tender\n- Customize your POS with photos, names, and variations\n- Send receipts via email or text message\n- Apply discounts and issue refunds\n- Track inventory in real time\n- Connect to a receipt printer, kitchen ticket printer, barcode scanner, and cash drawer",
+      "android_package_name": "com.squareup",
+      "ios_bundle_id": "com.squareup.square",
+      "title": "Square Point of Sale",
+      "domain_name": [
+        "https://squareup.com",
+        "https://squareup.com"
+      ],
+      "website": "https://squareup.com",
+      "developer": "Block, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/coMv1dl31PCfEs6essJoEUwVryaqKHKQvENdZ_WYpN-PXa8Qfitkg3grQxIVN22W5A",
+      "icon_72": "https://play-lh.googleusercontent.com/coMv1dl31PCfEs6essJoEUwVryaqKHKQvENdZ_WYpN-PXa8Qfitkg3grQxIVN22W5A=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.hubspot.android"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "CLOSE MORE DEALS\n- Call direct from the app. Use your mobile or your HubSpot number.\n- See who’s calling and get all the context you need with Caller ID.\n- Get real-time notifications when a contact opens your email.\n\nINCREASE EFFICIENCY\n- Save time on admin, automatically log calls when you hang up.\n- Cross off to-dos quicker with tasks.\n- Use the HubSpot keyboard to insert meeting links and snippets in any app, from WhatsApp to LinkedIn.\n\nCONNECT WITH CUSTOMERS\n- Access mobile inbox, create tickets and reply to conversations.\n- Assign tickets and collaborate with your team.\n- Real-time notifications when there’s a new live chat or email.\n\nSTAY UP TO DATE\n- View your reports, wherever you are. \n- See the latest from your contacts on activity feed.\n- Keep track of progress towards goals with forecasts.\n\nNEVER MISS AN OPPORTUNITY\n- Effortlessly scan business cards, including QR codes.\n- Add new contacts, companies or notes anytime.\n\nREACH MORE POTENTIAL CUSTOMERS\n- Schedule and review social media posts on Facebook, Instagram, LinkedIn and Twitter.\n\nPLUS\n- Use the app for 2FA when you log in on the web.\n- Learn and get certified in marketing, sales and customer service with HubSpot Academy.\n\nJoin hundreds of thousands of customers in over 120 countries growing their business on HubSpot.",
+      "android_package_name": "com.hubspot.android",
+      "ios_bundle_id": "com.hubspot.CRMAppRelease",
+      "title": "HubSpot CRM",
+      "domain_name": [
+        "https://www.hubspot.com/products",
+        "https://www.hubspot.com"
+      ],
+      "website": "https://www.hubspot.com/products",
+      "developer": "HubSpot",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/4ciMOQ0XcqbChkij9FV1HPShKHfCJwm5Ph5fypIG6veCOyAvFUmk7PCZgso_ub8nLw",
+      "icon_72": "https://play-lh.googleusercontent.com/4ciMOQ0XcqbChkij9FV1HPShKHfCJwm5Ph5fypIG6veCOyAvFUmk7PCZgso_ub8nLw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.paypal.android.p2pmobile"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "PayPal is a smart and secure way to shop in-store and online, earn cash back on brands you love, send money to friends and much more. Get started in the app.\n\nSAVE OFFERS IN THE APP\nGet cash back offers* from brands you love. We’ll automatically apply them at checkout.\n*Eligible items only. Redeem points for cash or other options. Terms and exclusions apply: PayPal.com/rewards-terms\n\nSEND AND REQUEST MONEY FOR FREE\nSecurely send and receive money with just about anyone in 120+ countries\nIt’s free to send and receive with friends & family in the US when funded by a bank account or PayPal balance\n\nGET THE PAYPAL DEBIT CARD AND EARN CASH BACK\nRequest your card right in the app. No credit check required.\nShop with your PayPal balance everywhere Mastercard® is accepted.\nEarn 5% cash back on a category you choose each month*\n \n*5% cash back earned as points you redeem for cash & other options on up to $1000 spend/month. Terms apply: http://paypal.com/rewardspal.\nA PayPal balance account is required to get the card.\nThe PayPal Debit Mastercard® is issued by The Bancorp Bank N.A. (“Bancorp”), pursuant to a license by Mastercard International Incorporated and may be used everywhere Mastercard is accepted. Mastercard and the circles design are registered trademarks of Mastercard International Incorporated. Bancorp is issuer of the Card only and not responsible for the associated accounts or other products, services, or offers from PayPal. PayPal is a financial technology company, not a bank. The Card is linked to your PayPal Balance account. See PayPal Balance Terms and Conditions: https://www.paypal.com/us/legalhub/pp-balance-tnc#holding\n\nCRYPTOCURRENCY\nBuy, sell and hold Bitcoin, Ethereum, PayPal USD, Bitcoin Cash and Litecoin with PayPal*\n\n*PayPal, Inc. is licensed to engage in virtual currency business activity by the NY Dept. of Financial Services. To buy, sell, transfer, and hold crypto is subject to risks, may result in significant losses, and not available where prohibited by law. We do not make recommendations about crypto transactions. Consider seeking advice from a financial and tax advisor. Crypto custody, trades and transfer services are performed for us by Paxos Trust Co. LLC or other appropriately authorized provider. See terms: paypal.com/crypto_terms\n\nGROW YOUR MONEY WITH HIGH-YIELD PAYPAL SAVINGS\nRoll your money into PayPal Savings and earn a competitive APY*\nEasily manage your account right from the app. Transfer money in and out, set individual goals, and track your progress as your savings grows.\n\n*PayPal Savings annual percentage yield (APY) is a variable rate and can change at any time, including after the account is opened. PayPal is a financial technology company, not a bank. Banking service provided by Synchrony Bank, Member FDIC. PayPal Balance account is required to use PayPal Savings. \n\nTRACK YOUR PACKAGES\nView your orders and their delivery status right from the PayPal app–even if you didn’t pay with PayPal. Simply link your Gmail or Outlook to get started.\nGet live updates each step of the way until they arrive safely at your door.\nNot all sellers are participants.\n\nPAY IN 4 WITH NO LATE FEES\nSplit everyday purchases into 4 interest-free payments at millions of online stores.\nNo late fees. No impact to your credit score.\nManage payments right in the app.\n\n*Pay in 4 is available upon approval for purchases of $30 - $1500 and is currently not available to residents of MO or NV. 18 years old or older to apply. PayPal, Inc.: Loans to CA residents are made or arranged pursuant to a CA Financing Law License. GA Installment Lender Licensee, NMLS #910457. RI Small Loan Lender Licensee. NM residents: Go to paypal.com/us/webapps/mpp/campaigns/newmexicodisclosure. Learn more at paypal.com/payin4\n\nAvailability of features varies by market.\u000b\u000b\n\nPayPal\n2211 N 1st St San Jose, CA 95131",
+      "android_package_name": "com.paypal.android.p2pmobile",
+      "ios_bundle_id": "com.yourcompany.PPClient",
+      "title": "PayPal",
+      "domain_name": [
+        "https://www.paypal.com",
+        "https://www.paypal.com"
+      ],
+      "website": "https://www.paypal.com",
+      "developer": "PayPal, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/xOKbvDt362x1uzW-nnggP-PgO9HM4L1vwBl5HgHFHy_n1X3mqeBtOSoIyNJzTS3rrj70",
+      "icon_72": "https://play-lh.googleusercontent.com/xOKbvDt362x1uzW-nnggP-PgO9HM4L1vwBl5HgHFHy_n1X3mqeBtOSoIyNJzTS3rrj70=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.payoneer.android"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Finance",
+      "description": "Payoneer is the leading cross-border payments platform for businesses. Our main mission? Streamline global commerce to empower businesses to go beyond. Millions of professionals use our platform every day to simplify their business payments.\n\nWhat can you do with Payoneer?\n\nGet paid by marketplaces, platforms, and clients \nReceive payments from clients and marketplaces located all over the world. Get paid in popular global currencies like USD, EUR, GBP, JPY, CAD, AUD, and more, via Payoneer receiving accounts. Withdraw funds directly to your local bank account in over 150 countries and currencies or from an ATM using the Payoneer card.\n\nPay freelancers, service providers, suppliers, and contractors\nMake international business payments to over 200 countries and skip the delays and costly hidden fees of wire transfers. Payoneer is the preferred payment method of millions of freelancers and businesses around the world. \n\nTrack your business payments every step of the way\nFollow up on your previous incoming and outgoing payments and view your dashboard of balances in multiple currencies. Easily manage currencies with competitive conversion rates so you control the currencies you are holding and can pay your suppliers in their preferred currency. \n\nEnjoy features designed with sellers in mind\nPay your VAT in multiple countries and receive working capital offers for your Amazon and Walmart stores. Instantly receive funds in your account to grow your business in any way you can imagine, then settle gradually without constricting your cash flow. \n\nDo business confidently with Payoneer by your side\nOur multilingual customer care team is available 24/7 in over 20 languages via phone, email, Live Chat, and social media. We’ll always do our best to make sure that your experience is a smooth one and whether you are making or receiving payments, we’re only a few clicks away to help when needed.\n\n\nWhy download the Payoneer app?\n\nThe Payoneer mobile app was designed to complement your web-based account, and it puts a snapshot of your business payments right in your pocket, so you can manage your global payments on the go. \n\nNot using Payoneer yet? Join millions of professionals worldwide who are already using Payoneer to get paid quickly and securely! Visit our website to learn more or download the app now and sign up. Did we mention our app is available in over 20 languages? \n\nIf you made it this far, we think you are ready to take your business beyond. Let’s do it together.",
+      "android_package_name": "com.payoneer.android",
+      "ios_bundle_id": "com.Payoneer.PayoneerDevAdHoc",
+      "title": "Payoneer",
+      "domain_name": [
+        "https://www.payoneer.com",
+        "https://www.payoneer.com"
+      ],
+      "website": "https://www.payoneer.com",
+      "developer": "Payoneer Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/e6la-fdbXc3m60Jh0zLsZn-YHYqipHMB3q_yGqnkt_Z0K9J_r4RefEn1kq49wPDHuT0",
+      "icon_72": "https://play-lh.googleusercontent.com/e6la-fdbXc3m60Jh0zLsZn-YHYqipHMB3q_yGqnkt_Z0K9J_r4RefEn1kq49wPDHuT0=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.monday.monday"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Make monday.com your central work hub and \njoin 70,000+ teams who get more done, together!\n \nNo. 1 Productivity App (2019 Webby Award Winner)\n \n“With thousands of customers... it’s becoming a major player in the collaboration and project management space.” \n- PC Mag\n \n“monday.com is a great addition and a direct extension of our team today. The mobile app is also really excellent.”\n- Tina S. (verified review from G2)\n \nWhy choose monday.com:\n \nTeamwork Game Changers\n \n• Keep everyone in the loop with real-time updates\n• Contact the right people (call or @mention)\n• See how your work fits into the big picture \n• Sync with your favorite tools\n• Quick setup & adoption\n \nManage for Success\n \n• Know where things stand at a glance\n• Track time and progress\n• Visually analyze your data with multiple views\n• Assign owners with ease\n• See who’s working on what\n \nProductivity Hacks\n \n• Prioritize with custom notifications\n• Automate repetitive work\n• Access your work anytime, anywhere\n• Get a head start with pre-made templates\n• Sync data in real time \n• Invite teammates to view your progress\n \nSo Customizable\n \n• Pick a template & edit any section \n• Add everything that needs to get done\n• Organize it (drag & drop) and get started \n   … It’s that easy!\n\nQuestions? We’re here to help! \nAccess customer support 24/7",
+      "android_package_name": "com.monday.monday",
+      "ios_bundle_id": "com.monday.monday",
+      "title": "Monday.com",
+      "domain_name": [
+        "http://www.monday.com",
+        "https://www.monday.com"
+      ],
+      "website": "http://www.monday.com",
+      "developer": "monday.com Ltd.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/zVNXJttU2hCZQtdhQHrMHbQx7zbh7ganOE6YPbE0KypiTXNhgEcP4cP2NMz7cCln4Q",
+      "icon_72": "https://play-lh.googleusercontent.com/zVNXJttU2hCZQtdhQHrMHbQx7zbh7ganOE6YPbE0KypiTXNhgEcP4cP2NMz7cCln4Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.zoho.crm"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Zoho CRM empowers a global network of over 250,000 businesses in over 180 countries. It \nhelps businesses engage with customers, convert more leads, and grow their revenue by \nclosing more deals.  \n \nOversee your sales on the move with the Zoho CRM mobile app.  \n \nWhether you're a sales rep making calls, a sales manager monitoring the sales pipeline, or a \nbusiness owner nurturing your business, approach your workday efficiently with a state-of-the-\nart mobile CRM system.   \n \nYour mobile CRM app not only covers your CRM software requirements on the go but also \nhelps boost mobile sales productivity with features like search, call, email, check-in, near-me, \nand notifications. With a highly fluid, interactive interface, offline access, and the ability to sync \ndata across all your devices automatically, Zoho's mobile CRM is perfect for field sales.  \n \nFeatures : \n \n- Get a clear overview of your scheduled tasks, meetings, and calls. Set reminders so that you \nnever miss out on a single one.  \n \n- Use the powerful global search to locate anything you need. \n \n- Review notes and attachments before heading out for important meetings.  \n \n- Locate customers and sales opportunities nearby and navigate.  \n \n- Check in at a client's location to record your visit.  \n \n- Know who's calling with the Caller ID feature.  \n \n- Log calls and capture the details of your conversation with ease by attaching voice notes.  \n \n- Visualize sales and marketing trends and make decisions while you're away from your desk. \n  \n- Collaborate with your team in real-time using Feeds and @mention colleagues on posts.  \n \n- Sync your data automatically across all platforms without worrying about network connectivity.   \n \n \n \nIf you have any questions or comments, please write to us at crm@zohomobile.com. We'll be \nhappy to help. \n \nPrivacy Policy:  \nhttps://www.zoho.com/privacy.html \n \nTerms of Service:  \nhttps://www.zoho.com/terms.html",
+      "android_package_name": "com.zoho.crm",
+      "ios_bundle_id": "com.zoho.zcrm",
+      "title": "Zoho CRM",
+      "domain_name": [
+        "https://www.zoho.com/in/crm/index.html",
+        "https://www.zoho.com"
+      ],
+      "website": "https://www.zoho.com/in/crm/index.html",
+      "developer": "Zoho Corporation",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/E1vbfVVAv5VRjK7g1KZ6s4HCdbUrCg-dzgWs-T-lgw_M6U3tXqswRYRyWi8Px89nfj5P",
+      "icon_72": "https://play-lh.googleusercontent.com/E1vbfVVAv5VRjK7g1KZ6s4HCdbUrCg-dzgWs-T-lgw_M6U3tXqswRYRyWi8Px89nfj5P=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wix.admin"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "The Wix website builder app gives you the ability to design, customize and manage your website and online business from anywhere. The intuitive website maker will give you the tools you need to create and manage your business website, online store, blog and more.\n\nOver 220 million people worldwide choose the Wix website creator and business manager to create professional online websites and manage every aspect of their business on the go. \n\nWhether your goal is to start a blog, build an online store, manage your business, or create a portfolio website, you can do it all using Wix’s powerful website builder from the Wix app.\n\nCreate a website with our website creator to manage and grow your brand and business:\n* Create any kind of website—from a travel blog, professional portfolio or eCommerce website\n* Help visitors find you online with a custom domain name\n* Choose from over 900 strategically designed website templates\n* Upload your own videos, images, content and blog posts\n* Design a custom logo with our logo maker for your business\n* Run your website on multi-cloud hosting, improve load time and ensure global coverage\n\nManage your business and website with the Wix website creator:\n* Monitor your blog, portfolio, or eCommerce site from your phone \n* Use the website maker to build and manage your online store and blog \n* Grow your business with powerful marketing tools \n* Get dashboard features on mobile to manage your website, anywhere\n\nBecome a blogger:\n* Write and share blog posts from your desktop or mobile\n* Use blog designs and website templates to bring your blogging ideas to life\n* Let readers share, follow and comment on your blog posts\n* View blog stats and web analytics\n\nFree tools you get when you create a website with the Wix website builder:\n* Use our Business Name Generator to start your brand \n* Establish your brand image with Wix’s logo maker and edit as you wish\n* Manage billings and expenses with a professional invoice generator\n* Leverage Wix’s paystub generator to create employee pay stubs quickly and efficiently\n\nCreate and manage events:\n* Streamline your events day of with the ticket scanner\n* Manage and edit past, present, and future events\n* Sell tickets online\n* Scan tickets and check people in\n* Send invitations, collect RSVPs and update guests\n\nEngage with your community online:\n* Chat with members and site visitors directly through your website or app\n* Create groups around shared interests\n* Start forums and group chats with members from the Wix Spaces app\n\nManage your eCommerce website on the go:\n* Get notified about new orders and purchases, and manage them in real-time\n* Update your products prices, colors and stock status instantly\n* Use Wix analytics to follow trends in your online store\n* Manage your inventory and upload product images seamlessly\n\n\nOffer services and collect payments:\n* Create and update services\n* Take online session bookings directly from your website\n* Get paid online commission-free\n* Manage calendars, staff, attendance and clients from the app\n* Connect pricing plans",
+      "android_package_name": "com.wix.admin",
+      "ios_bundle_id": "com.wix.admin",
+      "title": "Wix",
+      "domain_name": [
+        "https://www.wix.com",
+        "https://www.wix.com"
+      ],
+      "website": "https://www.wix.com",
+      "developer": "WIX.COM, INC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/EbdHNp8uMZcyzHqqf6IxkqYaUf0QjMzJyNOk33qEsrjf0_vVCPKq4QbOCjJx7jZ3LCs",
+      "icon_72": "https://play-lh.googleusercontent.com/EbdHNp8uMZcyzHqqf6IxkqYaUf0QjMzJyNOk33qEsrjf0_vVCPKq4QbOCjJx7jZ3LCs=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.canva.editor"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Photo & Video",
+      "description": "Canva is your easy to use photo editor and video editor in one graphic design app! Create stunning social media posts, videos, cards, flyers, photo collages & more. \n\nNo design experience or expertise? No problem! From photo editor to collage maker, to logo maker – we made Canva really simple & easy for everyone. \n\nSTUNNING TEMPLATES \n• Start inspired with thousands of customizable templates\n• Playful Facebook posts, Insta layouts, Instagram post maker, IG Story, & mood boards\n• Professionally-designed invitations, flyers, gift certificates, etc. to boost your business or event\n• Showcase your product with our logo maker\n• Visualize data with sleek presentation templates and slideshow maker\n\nPHOTO EDITOR – No ads, no watermarks\n• Effortless picture apps to crop, flip, & edit photos\n• Adjust brightness, contrast, saturation, tint, blur, etc.\n• Auto Focus for background blur & sharpen photo subject \n• Apply your style with aesthetic filters & effects (Retro, Pixelate, Liquify, etc.)\n• Fun photo grid & photo collage maker \n\nVIDEO EDITOR – make amazing videos in just a few taps\n• Produce professional videos right on your phone\n• Trim, cut, & split video layout and audio tracks\n• Crop, resize, and flip videos & images to any dimensions\n• Make static images move with one-tap animations & page transitions\n• Overlay multiple audio tracks of music, sound effects, & voiceovers\n• Use the video editor as a video collage maker & slideshow maker too!\n\nSOCIAL MEDIA – hit it big with on-trend content\n• Discover thousands of templates for Instagram, TikTok, Facebook, Twitter, YouTube, Snapchat, LinkedIn etc.\n•  Queue your planned posts on Instagram with Scheduler [Canva Pro]\n• Play with our photo editor for thumb-stopping Instagram layouts\n• Easy collage maker & video editor to create photo grids, collages\n\nEXTENSIVE STOCK LIBRARY – over 2M+ assets for you\n• Complete package: all the elements you need are here\n• 2M+ royalty-free images\n• Thousands of watermark-free stock videos\n• 25K+ pre-licensed audio & music tracks\n\nSMART MOCKUPS – see your designs on a shirt or poster and more\n• Look professional by visualizing your designs on products \n• High-res mockups for phones, laptops, posters & other displays\n• Order printed flyers, mugs, and apparel for gifts or business\n\nREAL-TIME COLLABORATION – with anyone across any device\n• Edit team projects & presentations anytime, anywhere\n• Start a design on mobile & finish on your desktop seamlessly\n• Work with your team in real-time, leave comments & apply changes\n\nCANVA PRO\n• Bring your vision to life with premium templates, images, videos & graphics\n• Save time with tools like Background Remover, Magic Resize, and Content Planner\n• Design and grow an authentic brand with Brand Kit\n• Working with a team? Create faster, together, with Canva for Teams\n\nDESIGN FOR EVERYONE \n• Personal - Layout designs for creative & professional pursuits like Instagram templates, resume, photo collages, etc.\n• Entrepreneurs - Grow your business with our logo creator, video editor, poster maker, etc.\n• Students & Teachers - Engage with beautiful presentations and worksheets\n• Social Media Managers & Content Creators - Use the photo editor and collage maker for consistent \nvisuals.\n\n*Your monthly subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. The  Payment will be charged to your iTunes Account at confirmation of purchase. You can manage app subscriptions in your iTunes Account settings. Any unused portion of a trial period, if offered, will be forfeited when you purchase a paid subscription. No lock-in contract.\n\nhttps://about.canva.com/terms-of-use\nhttps://about.canva.com/privacy-policy \n\nNote: Image pack in-app purchases on the App Store are only available to use on the Canva app for iPhone.\n\nGot questions or comments? Get in touch http://canva.me/ios",
+      "android_package_name": "com.canva.editor",
+      "ios_bundle_id": "com.canva.canvaeditor",
+      "title": "Canva",
+      "domain_name": [
+        "https://www.canva.com/iphone",
+        "https://www.canva.com"
+      ],
+      "website": "https://www.canva.com/iphone",
+      "developer": "Canva Pty Ltd",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/AZvFkMmN5dAzee-N6UrjRo8nS0eOu28U-sJx_oimuzo_5ZshMBccG1IJkAWzD5XfL2Q",
+      "icon_72": "https://play-lh.googleusercontent.com/AZvFkMmN5dAzee-N6UrjRo8nS0eOu28U-sJx_oimuzo_5ZshMBccG1IJkAWzD5XfL2Q=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.docusign.ink"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Docusign eSignature is the world’s #1 way for businesses and individuals to securely send and sign agreements from practically anywhere, at any time, from almost any device. The Docusign app is easy to use, includes unlimited free signing for all parties, and is trusted by millions of people worldwide.\n\nHOW DOCUSIGN WORKS | e-Sign PDFs, forms, and contracts on the go.\n• Step 1: Create your customized digital signature directly on your device.\n• Step 2: Upload documents easily via email, Google Drive, DropBox, Box, Evernote, Salesforce, or photo scanning.\n• Step 3: E-sign your documents for free with no monthly limit.\n\nSTREAMLINED, SIMPLIFIED MANAGEMENT | Send and monitor agreements straight from your device.\n• Step 1: Import files to prepare and send them out for signature.\n• Step 2: Prepare your document with “Sign Here” tags that show precisely where to sign, initial, or add additional information and invite others to sign.\n• You can set the signing order and workflow for multiple signers.\n• Docusign supports both in-person and remote signing.\n• Responsive signing functionality automatically adapts documents for mobile to the size and orientation of the signer’s device.\n• Step 3: Remind signers to sign with a single tap or void a document that has already been sent for signature.\n• Step 4: Receive real-time push notifications when a document has been signed.\n\nE-SIGNATURE THROUGH DOCUSIGN IS LEGAL AND SECURE.\n\nDocusign’s complies with the eSign Act, which means:\n• Agreements are legally binding.\n• There is a complete audit trail to track who signed when and where.\n• Documents are encrypted; this is safer and more secure than paper.\n• Docusign is ISO 27001 SSAE16 compliant.\n\nDocusign’s free eSignature app supports multiple document types and formats, including:\n• PDF\n• Word\n• Excel\n• Images (JPEG, PNG, TIFF)\n• Text-Based Files\n\nCommon documents to digitally sign with Docusign:\n• Non-disclosure agreements (NDAs)\n• Sales contracts and proposals\n• Health care documents\n• Financial agreements\n• Waivers\n• Permission slips\n• Lease agreements\n\nPREMIUM PLANS\nIn addition to the free signing experience, Docusign offers advanced features through subscription plans:\nBusiness Pro Plan\n• Send documents out for signature.\n• Add logic and advanced fields to your most critical documents.\n• Automate your agreement process with bulk send, powerforms, comments and personalized branding.\n\nStandard Plan\n• Send documents out for signature.\n• Access to advanced fields including Docusign’s most popular.\n• Manage signing on-the-go. Remind, void, in-person signing, and reusable templates.\nReal Estate Plan\n• Send documents out for signature.\n• Powerful real estate features including zipForm Plus integration and web branding.\n• Managing signing on-the-go. Remind, void, in-person signing, and reusable templates.\nPersonal Plan\n• Limited document sending. Send up to 5 documents monthly.\n• Access to essential fields. Request signature, date, and name.\n• Reusable templates so you can standardize your documents.\n\nEmail your questions or feedback to: mobilefeedback@docusign.com\n\nFind out more about Docusign and electronic signatures: https://www.docusign.com/products/electronic-signature/how-docusign-works\n\nSubscription Plan Information:\n• Payment is charged to iTunes Account at the time a user confirms purchase.\n• Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's account settings after purchase.\n• Cancellation of the current subscription is not allowed during the active subscription period.\n\nPrivacy Policy:\nhttps://www.docusign.com/privacy/\n\nAgreements and Terms:\nhttps://www.docusign.com/legal/agreements/",
+      "android_package_name": "com.docusign.ink",
+      "ios_bundle_id": "com.docusign.DocuSignIt",
+      "title": "DocuSign",
+      "domain_name": [
+        "http://www.docusign.com/features-and-benefits",
+        "https://www.docusign.com"
+      ],
+      "website": "http://www.docusign.com/features-and-benefits",
+      "developer": "Docusign",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/1fqmsQDxaBDhvgVq2ceqB4ij46YJ1P7pwIrAkIOBml9fbIMO8RZe1Q7bAwp4-VXetaw",
+      "icon_72": "https://play-lh.googleusercontent.com/1fqmsQDxaBDhvgVq2ceqB4ij46YJ1P7pwIrAkIOBml9fbIMO8RZe1Q7bAwp4-VXetaw=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.tinybaobab.baobab.appointment"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Square Appointments is an all-in-one solution for booking and scheduling appointments, sending reminders, and accepting payments.\n\n\n► THE ALL-IN ONE POINT OF SALE FOR BOOKING, PAYMENTS, AND MORE\nIt has everything you need to run your business from anywhere: online booking that’s easy for you and your customers, a point of sale that tracks customer details, and a secure, fast payment system. There are three monthly plans: Free, Plus, and Premium, and each is on a per-location basis. Custom pricing is available for businesses that process over $250K in annual revenue.\n\n► NO CREDIT CARD REQUIRED, NO LONG-TERM COMMITMENTS\nGet 24/7 online booking, automatic appointment reminders, seamless payment processing, and no-show protection with Square Appointments for iPhone, iPad, and desktop. This is especially beneficial for barbershops and nail salons that need to manage appointments efficiently.\n\n► PRICING PLANS TO FIT YOUR BUSINESS\nPricing for Square Appointments is based on the features that fit your business best. There are three monthly plans: Free, Plus, and Premium, and each is on a per-location basis. Custom pricing is available for businesses that process over $250K in annual revenue.\n\n► LET CLIENTS BOOK 24/7\nNo website? No problem—Square Appointments includes a pre-built booking site, so your customers can book anytime, from anywhere. Easily manage and accept bookings from your iPhone or iPad. With our Square Online integration, you can customize layouts, colors, and fonts that reflect your brand and even add pages for products, testimonials, and more. This feature is perfect for nail salons and barbershops looking to enhance their online presence.\n\n► CHECK OUT CLIENTS SEAMLESSLY\nAccept payments, sell products, or send invoices easily, all from one app. Let customers have Square save their card on file for even faster checkout.\n\n► REDUCE NO-SHOWS\nSet up automated appointment reminders, request prepayment or charge a cancellation fee for online booking.\n\n► MANAGE AN ENTIRE TEAM EASILY\nManage your whole team’s calendars, set their access and permissions, and see individual sales and appointment reports all from one place.\n\n► GET TO KNOW YOUR CLIENTS\nKeep notes on all your clients so you can keep track of their preferences, appointment and sales history. This is valuable for barbershops, nail salons, and health & beauty businesses aiming to provide personalized services.\n\n\nThis is more than just a calendar. Square Appointments is powerful appointment scheduling, a point of sale, and payment processing—all in one place.",
+      "android_package_name": "com.tinybaobab.baobab.appointment",
+      "ios_bundle_id": "com.squareup.appointments",
+      "title": "Square Appointments",
+      "domain_name": [
+        "http://squareup.com/appointments",
+        "https://squareup.com"
+      ],
+      "website": "http://squareup.com/appointments",
+      "developer": "Block, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/nLRbZQL0LKx3ijt7A2rq9Mmprp73qRhZdo7vzEv1fs969z40hcyirKlQXUupU0stzJMH",
+      "icon_72": "https://play-lh.googleusercontent.com/nLRbZQL0LKx3ijt7A2rq9Mmprp73qRhZdo7vzEv1fs969z40hcyirKlQXUupU0stzJMH=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.hootsuite.droid.full"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Social Networking",
+      "description": "The ideal companion app for Hootsuite to better manage your social media, engage new audiences, and grow your brand. You must have a Hootsuite account to use this app. This app includes in-app purchases and subscriptions.\n\nStay connected across all your social accounts with Hootsuite! Create scroll-stopping content, schedule and publish posts, monitor activity and mentions, and manage comments and messages—anywhere, anytime, and all in one app. Plus, make those long workdays a little easier on the eyes with dark mode.\n\nCOMPOSE\nUpload photos, videos, and GIFs directly from your phone. Create and schedule posts to all your Instagram (including carousels), TikTok, Facebook, LinkedIn, and Twitter profiles in advance, and publish automatically from the palm of your hand.\n \nPLANNER\nReview and edit drafts, see your content calendar at a glance, customize the frequency of your posts, and approve content from anywhere.\n\nSTREAMS\nMonitor likes, mentions, and conversations related to topics that matter to you.\n\nINBOX\nReview, manage, and respond to incoming messages from different social networks in one feed. Filter messages, reply, and assign messages to your team. \n\nWhat are people saying: \n\"The best social media scheduling app\" - Will H (G2 Reviewer)\n\"With the Hootsuite App, I don’t need to be in my office to do my job. If someone messages, I can go to Inbox right on my phone and answer. Plus I have access to the composer, publisher and streams. I’m on the mobile app more than I’m on the desktop” - Evan D., Social Media Manager\n\"I love Hootsuite for the ease of posting to social networks automatically...If you do not have a desktop computer and need to quickly publish the mobile application, you can solve that problem.\"- Bruno B (G2 Reviewer)\n\"The mobile application of Hootsuite is very practical, and has helped us a lot to work on the platform from anywhere during weekends.\"- Feastre L (G2 Reviewer)\n\"I love Hootsuite because it's a complete program… We can also use Hootsuite from the browser or mobile application, which we think is very comfortable and allows us to keep up with the work no matter where it is located.\" - Cate R (G2 Reviewer)\n\nQuestions?\nTwitter: @Hootsuite_Help\nFacebook: http://facebook.com/hootsuite\n\nTerms of service: https://hootsuite.com/legal/terms\nPrivacy policy: https://www.hootsuite.com/legal/privacy",
+      "android_package_name": "com.hootsuite.droid.full",
+      "ios_bundle_id": "com.hootsuite.hootsuite",
+      "title": "Hootsuite",
+      "domain_name": [
+        "http://hootsuite.com/iphone",
+        "https://hootsuite.com"
+      ],
+      "website": "http://hootsuite.com/iphone",
+      "developer": "Hootsuite Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/y_jHa50vnsNDh3gScIVlywiR9HeDDceCcVvWIwFLmWqqqOlXXz6sIrtpUoo0UXmaPCX-",
+      "icon_72": "https://play-lh.googleusercontent.com/y_jHa50vnsNDh3gScIVlywiR9HeDDceCcVvWIwFLmWqqqOlXXz6sIrtpUoo0UXmaPCX-=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.surveymonkey"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "Create, edit, and send surveys, review results, build with expert templates, and more — seamlessly across your desktop, tablet, and phone. \n\nHere’s some of that “more” we’re talking about:\n\n•\tMake a survey, quiz, or poll and send it out\n•\tEdit a live survey—fix a typo or add a question you forgot to ask\n•\tOpen and close surveys in your account\n•\tAnalyze charts and individual responses\n•\tFilter, compare, and analyze results\n•\tShare your survey link via text, email, or social media\n•\tShare results—decide what and with whom to share\n•\tEnable push notifications to monitor responses\n\nSurveyMonkey is a global leader in survey software. We’re trusted by 98% of the Fortune 500 and over 60 million users worldwide. We’re here for survey experts and dabblers alike.  \n\nPS — if you’d like to take surveys to earn gift cards or donate to charity, head on over to the SurveyMonkey Rewards app. \n\nOur app is free to download and use. Signing up for a paid plan through the app unlocks access to more advanced survey tools through an auto-renewing subscription. Subscription prices may vary based on your country of purchase. If you already have a paid plan, simply log in to enjoy paid features.\n\nPrivacy Policy: https://www.surveymonkey.com/mp/policy/privacy-policy/\nTerms of Use: https://www.surveymonkey.com/mp/policy/terms-of-use/",
+      "android_package_name": "com.surveymonkey",
+      "ios_bundle_id": "com.surveymonkey.SurveyMonkey",
+      "title": "SurveyMonkey",
+      "domain_name": [
+        "https://www.surveymonkey.com/mp/iphone-survey-app",
+        "https://www.surveymonkey.com"
+      ],
+      "website": "https://www.surveymonkey.com/mp/iphone-survey-app",
+      "developer": "SURVEYMONKEY INC.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/QBR4_b0G2bXWnNx8WOOL-3XmSC6yLkBrX8IuAM6Jpq_aDTnB3crN8GI0bdIp1eJPrW8",
+      "icon_72": "https://play-lh.googleusercontent.com/QBR4_b0G2bXWnNx8WOOL-3XmSC6yLkBrX8IuAM6Jpq_aDTnB3crN8GI0bdIp1eJPrW8=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.pipedrive"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Stay on top of your sales pipeline with the iOS app for Pipedrive.\n\nPipedrive is a powerful sales CRM for small teams with big ambitions. It helps you focus on the right contacts and gives you more control over your sales results.\n\nWith Pipedrive for iOS you can access your contacts, deal history and to-do's, create tasks and take meeting notes wherever you are - all changes are instantly synced to Pipedrive web app.\n\n∙ Access your to-do list and contacts instantly.\n∙ Log your phone calls.\n∙ Explore your business on a map view.\n∙ Schedule better with a smart agenda view while planning new activities.\n∙ Look up customer and deal details on the go.\n∙ Access files related to your contacts and deals.\n∙ Record or type meeting and call notes - synced instantly to web app.\n∙ Powerful offline syncing for those long flights and metro rides.\n∙ Start new calls and emails with just one click.\n∙ Get the powerful combination of mobile + web.\n\nA Pipedrive account is required to use Pipedrive for iOS.",
+      "android_package_name": "com.pipedrive",
+      "ios_bundle_id": "com.pipedrive.Pipedrive",
+      "title": "Pipedrive",
+      "domain_name": [
+        "https://www.pipedrive.com",
+        "https://www.pipedrive.com"
+      ],
+      "website": "https://www.pipedrive.com",
+      "developer": "Pipedrive Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/XAKratCqSJUb3ZmItve16p8RjiF0ZvN_czysEoqtGET7i-tsdJEozbnOYRM6jQNHEg",
+      "icon_72": "https://play-lh.googleusercontent.com/XAKratCqSJUb3ZmItve16p8RjiF0ZvN_czysEoqtGET7i-tsdJEozbnOYRM6jQNHEg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.wrike"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Where Work Flows\n\nWrike is a powerful cloud software tool for project management, planning, and team collaboration. Wrike used by over 15,000 organizations, including small, mid-size and Fortune 500 enterprise companies. Wrike was included as one of the fastest growing companies in North America on Deloitte's Technology Fast 500™ List for the third consecutive year.\n\n\"...Its advantage is in its crisp user interface which it can leverage even more as it embraces data as a way for project managers to better keep track of their projects.\" \n— TechCrunch\n\n\"...Wrike epitomizes the flexibility that many of today's project teams need in a SaaS-based project management solution.\" \n— TechRepublic\n\nMANAGE WORK & RESPOND TO UPDATES FROM TEAMS AND CLIENTS\n\n• Access your Wrike Account: Free, Professional, Business, Enterprise or Wrike for Marketers plans. Or, create a new account from your phone.\n• Review and respond to @ mentions, Inbox items and requests when you're on the go\n• Quickly access folders, projects and tasks anytime, anywhere\n• Assign and schedule work\n• Add tasks to My Work, projects or folders\n• Attach existing images and files to tasks right from your phone\n• Track time spent on tasks our quick automated timer^\n• Receive or submit requests through customized forms* \n• Access your personal and shared Dashboards^\n• View custom Reports as tables, and share them with teams, executives or clients*\n\nWith comprehensive project management tools, Wrike is perfect for all your project scheduling needs.\n\nDOWNLOAD THE WRIKE APP TODAY\niOS native\nElegant UI\nFast & Robust\n\n* Request Forms and Reports are available for users of Wrike's Business, Enterprise and Wrike for Marketer plans.\n\n^ Dashboards and time tracker are included for users of Wrike's Professional, Business, Enterprise, and Wrike for Marketer plans.\n\n**Questions? Bugs? Contact our support team here: https://help.wrike.com/hc/requests/new\nWe’re happy to help!\n\n**Love the app? Give us a high five!",
+      "android_package_name": "com.wrike",
+      "ios_bundle_id": "Wrike.WrikeApp",
+      "title": "Wrike",
+      "domain_name": [
+        "https://www.wrike.com",
+        "https://www.wrike.com"
+      ],
+      "website": "https://www.wrike.com",
+      "developer": "Wrike, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/uh-GbLWEKoIefta2iNX0L0zUWA66YTjfJ4cBarNZWbc7mEzbKUWbWg8NjjrojgkFH5ni",
+      "icon_72": "https://play-lh.googleusercontent.com/uh-GbLWEKoIefta2iNX0L0zUWA66YTjfJ4cBarNZWbc7mEzbKUWbWg8NjjrojgkFH5ni=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "co.mangotechnologies.clickup"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Productivity",
+      "description": "One app to replace them all! ClickUp is the place to work on anything with anyone. \n\nWhether you're an agile team doing weekly sprints or you're a marketing team collaborating on Black Friday promotions, you can do it all here. \n\n Over 800,000 teams use ClickUp to be more productive. ClickUp allows you to:\n\n• Create tasks on the go\n• Update/ edit seamlessly\n• Collaborate with your team \n• View your to-dos in one list\n• Stay connected with push notifications\n\nWith ClickUp, you'll solve these problems:\n• How do I know what people are working on?\n• How do I know what to work on next?\n• How long is my project going to take?\n\nGuaranteed to make you more productive, ClickUp is the platform that innovative teams use to get 62% more done.",
+      "android_package_name": "co.mangotechnologies.clickup",
+      "ios_bundle_id": "com.clickup.mobile",
+      "title": "ClickUp",
+      "domain_name": [
+        "https://clickup.com",
+        "https://clickup.com"
+      ],
+      "website": "https://clickup.com",
+      "developer": "Mango Technologies, Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/9U1Zbu7jlryfcgwvWHulHzjlgMVjOy_S4rIATrF0b6Qd_VR_5yftp0dQBfi-Q5Psjg",
+      "icon_72": "https://play-lh.googleusercontent.com/9U1Zbu7jlryfcgwvWHulHzjlgMVjOy_S4rIATrF0b6Qd_VR_5yftp0dQBfi-Q5Psjg=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.insightly.droid"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Insightly Customer Relationship Management (CRM) and project management is a leading cloud-based application built for businesses of all sizes.  More than 1.5 million users in 200+ countries worldwide, trust Insightly to help grow their business by managing customer interactions, leads, sales opportunities and projects. The Insightly platform is flexible, customizable and accessible via web browser and mobile app.\n\nThe Insightly CRM app is free and works in tandem with the Insightly CRM web application, so that your team has all key customer information on the go. \n\nInsightly CRM is recommended by PC Magazine, Entrepreneur Magazine, G2 Crowd, TrustRadius, & others.\n\nFeatures / benefits:\n\n* Add new contacts on the fly, scan business cards or import them from your device’s address book\n\n* Access task lists to see what’s upcoming and overdue. Complete tasks or assign follow up tasks immediately after a meeting.\n\n* Review opportunity notes to get prepared for a meeting. Update sales opportunities from the field. And, when a deal is closed - mark it as won in a few taps.\n\n* Save time by adding voice memos to leads and opportunities so everyone can be up-to-date on the progress. \n\n* Receive notifications for example when a lead gets assigned, reps can receive push notifications. \n\n* Create projects and assign tasks to your team from your smartphone. See how a project is developing to have answers ready for your customers and, more importantly, be prepared for upsell opportunities.",
+      "android_package_name": "com.insightly.droid",
+      "ios_bundle_id": "ly.insight.insightly",
+      "title": "Insightly CRM",
+      "domain_name": [
+        "https://www.insightly.com/product-crm-app",
+        "https://www.insightly.com"
+      ],
+      "website": "https://www.insightly.com/product-crm-app",
+      "developer": "Insightly Inc",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/__tDKmg7ocKBC3IWmsj_t5CtahIalPt7dJG9ITAYhbthMGpCc_T5HRwvxPnoSDWRzA",
+      "icon_72": "https://play-lh.googleusercontent.com/__tDKmg7ocKBC3IWmsj_t5CtahIalPt7dJG9ITAYhbthMGpCc_T5HRwvxPnoSDWRzA=s72-rw",
+      "market_status": "PUBLISHED"
+    },
+    {
+      "app_availability": {
+        "available_in": [
+          "IN",
+          "US"
+        ],
+        "package_name": "com.smartsheet.android"
+      },
+      "cat_key": "BUSINESS",
+      "cat_keys": [
+        "BUSINESS",
+        "APPLICATION"
+      ],
+      "category": "Business",
+      "description": "Getting started is easy! Either sign in with your existing Smartsheet account or enter your email to sign up for a free 30-day trial. Join millions of other innovative users and upgrade to a paid account at any time.\n\nUse Smartsheet, a dynamic workspace that empowers teams to manage projects, automate workflows, and rapidly build new solutions—using no-code tools they love, and backed by the security IT needs. Smartsheet is trusted by companies of all sizes, across 190 countries — including over 90% of Fortune 100 companies, and over 80% of Fortune 500 companies.\n\nManage projects and tasks, automate workflows, collaborate with your team, and maximize productivity, anytime, anywhere!\n\nWith Smartsheet you can:\n\nCOLLABORATE WITH YOUR TEAM\n\n• Seamlessly create, share, and collaborate with your team on projects, wherever you are, from your Mac, iPad, or iPhone.\n• Access your projects, tasks, workflows, and sheets anytime.\n• Get business collaboration tools on your mobile device.\n• Review and edit documents and sheets that your team is working on.\n\nORGANIZE PROJECTS & TASKS\n\n• Use sheets to oversee tasks and workflows, plan projects, and maximize the productivity of your team.\n• Add assignees, due dates, followers, checklists, predecessors, and files to your tasks and follow the progress of your projects.\n• Choose how to visualize tasks switching between grid, card, Gantt, and calendar views with the same data.\n• Keep everyone on the same page. Attach files from Google Drive, OneDrive, Dropbox, and more.\n\nAUTOMATE WORKFLOWS\n\n• Implement simple and powerful automated workflows in minutes.\n• Send automated update and approval requests to streamline work and reduce the need for meetings.\n• Automate repetitive processes by sending alerts, setting reminders, automatically moving, copying, or locking rows, and assigning work based on sheet changes and preset times.\n• Use card view to create kanban boards to manage your agile work.\n\nWORK IN ONE PLACE\n\n• See work alongside key conversations, decisions, and rationale in one place—improve project visibility across your organization.\n• Share spreadsheets with others to view, edit, or add comments, and collaborate anywhere.\n\nCOLLECT INFORMATION WITH FORMS\n\n• Collect data from the field with forms, capture and upload images, or scan barcodes with your mobile device.\n• Easily collect and act on error-free, consistent data from internal and external stakeholders.\n• Quickly create forms that automatically map to the columns in your sheets.\n• Ask the right people the right questions with conditional logic in forms.\n• Provide easy access by embedding forms on dashboards and websites, or by sharing a unique link.\n\nVIEW WORK STATUS IN REAL TIME\n\n• Easily view and manage your dashboards, sheets, and more in real-time from your phone, so you always know the status of work.\n• Get notifications to your Inbox or through push notifications about the projects, and tasks you’re following.\n• Rapidly adapt to changing conditions and identify trends with easy-to-use widgets that display live data, charts, and key metrics.\n• Easily customize Smartsheet to show and share what matters with an easy-to-use drag-and-drop UI in dashboards.\n\nWORK SEAMLESSLY WITH YOUR FAVORITE APPS\n\n• Smartsheet's out-of-the-box integrations enable real-time synchronization and visibility with many of your favorite apps from Google, Microsoft, Salesforce, and more, so you can easily track tasks, compile data in spreadsheets, and collaborate with your team, all in one place.\n• Seamlessly connect your enterprise ecosystem of apps like Slack, Jira, DocuSign, Microsoft Teams, Gmail, Box, and more with Smartsheet.\n\nBUILD PURPOSE BUILT APPS WITHOUT CODING\n\nSmartsheet is the leading platform for dynamic work, built for the enterprise, empowering teams like IT, Marketing, and Operations with a no-code tool for project management, workflow automation, and solution creation.",
+      "android_package_name": "com.smartsheet.android",
+      "ios_bundle_id": "com.smartsheet.smartsheet",
+      "title": "Smartsheet",
+      "domain_name": [
+        "https://smartsheet.com?s=158",
+        "https://smartsheet.com?s=158"
+      ],
+      "website": "https://smartsheet.com?s=158",
+      "developer": "Smartsheet Inc.",
+      "app_country": "US",
+      "icon": "https://play-lh.googleusercontent.com/hIaG-BBdA-LaXmUXI3CL4XBGcJAWU-LffKAmX16wfqcNQ0e73dxOHsWYElNx9kFtlQ",
+      "icon_72": "https://play-lh.googleusercontent.com/hIaG-BBdA-LaXmUXI3CL4XBGcJAWU-LffKAmX16wfqcNQ0e73dxOHsWYElNx9kFtlQ=s72-rw",
+      "market_status": "PUBLISHED"
     }
   ]

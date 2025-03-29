@@ -1,382 +1,326 @@
 {
   "categories": {
-    "PREINSTALLED": {
-      "id": "7015",
+    "BANKING": {
+      "id": "7018",
         "apps": [
           {
-            "name": "Clock",
-            "display_name": "Clock",
+            "name": "Kotak-811",
+            "display_name": "Kotak-811 & Mobile Banking App",
             "search_terms": {
-              "itunes": "Clock",
-              "playstore": "Clock"
+              "itunes": "Kotak-811",
+              "playstore": "Kotak-811"
             }
           },
           {
-            "name": "Settings",
-            "display_name": "Settings",
+            "name": "HDFC MobileBanking",
+            "display_name": "HDFC Bank MobileBanking App",
             "search_terms": {
-              "itunes": "Settings",
-              "playstore": "Settings"
+              "itunes": "HDFC MobileBanking",
+              "playstore": "HDFC MobileBanking"
             }
           },
           {
-            "name": "Calculator",
-            "display_name": "Calculator",
+            "name": "iMobile",
+            "display_name": "ICICI Bank iMobile App",
             "search_terms": {
-              "itunes": "Calculator",
-              "playstore": "Calculator"
+              "itunes": "iMobile",
+              "playstore": "iMobile"
             }
           },
           {
-            "name": "File Manager",
-            "display_name": "File Manager",
+            "name": "YONO SBI",
+            "display_name": "SBI YONO (You Only Need One) App",
             "search_terms": {
-              "itunes": "File Manager",
-              "playstore": "File Manager"
+              "itunes": "YONO SBI",
+              "playstore": "YONO SBI"
             }
           },
           {
-            "name": "Camera",
-            "display_name": "Camera",
+            "name": "Axis Mobile",
+            "display_name": "Axis Mobile App",
             "search_terms": {
-              "itunes": "Camera",
-              "playstore": "Camera"
+              "itunes": "Axis Mobile",
+              "playstore": "Axis Mobile"
             }
           },
           {
-            "name": "Gallery",
-            "display_name": "Gallery",
+            "name": "M-Connect Plus",
+            "display_name": "Bank of Baroda M-Connect Plus App",
             "search_terms": {
-              "itunes": "Gallery",
-              "playstore": "Gallery"
+              "itunes": "M-Connect Plus",
+              "playstore": "M-Connect Plus"
             }
           },
           {
-            "name": "Calendar",
-            "display_name": "Calendar",
+            "name": "PNB ONE",
+            "display_name": "PNB ONE App",
             "search_terms": {
-              "itunes": "Calendar",
-              "playstore": "Calendar"
+              "itunes": "PNB ONE",
+              "playstore": "PNB ONE"
             }
           },
           {
-            "name": "Email",
-            "display_name": "Email",
+            "name": "Union Bank",
+            "display_name": "Union Bank of India App",
             "search_terms": {
-              "itunes": "Email",
-              "playstore": "Email"
+              "itunes": "Union Bank",
+              "playstore": "Union Bank"
             }
           },
           {
-            "name": "Browser",
-            "display_name": "Browser",
+            "name": "IndOASIS",
+            "display_name": "Indian Bank IndOASIS App",
             "search_terms": {
-              "itunes": "Browser",
-              "playstore": "Browser"
+              "itunes": "IndOASIS",
+              "playstore": "IndOASIS"
             }
           },
           {
-            "name": "Store",
-            "display_name": "Store",
+            "name": "Canara e-Infobook",
+            "display_name": "Canara Bank e-Infobook App",
             "search_terms": {
-              "itunes": "Store",
-              "playstore": "Store"
+              "itunes": "Canara e-Infobook",
+              "playstore": "Canara e-Infobook"
             }
           },
           {
-            "name": "Voice Recorder",
-            "display_name": "Voice Recorder",
+            "name": "IDBI Bank Go Mobile+",
+            "display_name": "IDBI Bank Go Mobile+ App",
             "search_terms": {
-              "itunes": "Voice Recorder",
-              "playstore": "Voice Recorder"
+              "itunes": "IDBI Bank Go Mobile+",
+              "playstore": "IDBI Bank Go Mobile+"
             }
           },
           {
-            "name": "Play Store",
-            "display_name": "Play Store",
+            "name": "BOI Mobile",
+            "display_name": "Bank of India BOI Mobile App",
             "search_terms": {
-              "itunes": "Play Store",
-              "playstore": "Play Store"
+              "itunes": "BOI Mobile",
+              "playstore": "BOI Mobile"
             }
           },
           {
-            "name": "Google",
-            "display_name": "Google",
+            "name": "Central Bank Mobile Banking",
+            "display_name": "Central Bank of India Mobile Banking App",
             "search_terms": {
-              "itunes": "Google",
-              "playstore": "Google"
+              "itunes": "Central Bank Mobile Banking",
+              "playstore": "Central Bank Mobile Banking"
             }
           },
           {
-            "name": "Gmail",
-            "display_name": "Gmail",
+            "name": "UCO mBanking",
+            "display_name": "UCO Bank mBanking Plus App",
             "search_terms": {
-              "itunes": "Gmail",
-              "playstore": "Gmail"
+              "itunes": "UCO mBanking",
+              "playstore": "UCO mBanking"
             }
           },
           {
-            "name": "Meet",
-            "display_name": "Meet",
+            "name": "BOB World",
+            "display_name": "Bank of Baroda BOB World App",
             "search_terms": {
-              "itunes": "Meet",
-              "playstore": "Meet"
+              "itunes": "BOB World",
+              "playstore": "BOB World"
             }
           },
           {
-            "name": "Chrome",
-            "display_name": "Chrome",
+            "name": "Yes Mobile",
+            "display_name": "Yes Bank Mobile Banking App",
             "search_terms": {
-              "itunes": "Chrome",
-              "playstore": "Chrome"
+              "itunes": "Yes Mobile",
+              "playstore": "Yes Mobile"
             }
           },
           {
-            "name": "Maps",
-            "display_name": "Maps",
+            "name": "DBS digibank",
+            "display_name": "DBS Bank digibank App",
             "search_terms": {
-              "itunes": "Maps",
-              "playstore": "Maps"
+              "itunes": "DBS digibank",
+              "playstore": "DBS digibank"
             }
           },
           {
-            "name": "Photos",
-            "display_name": "Photos",
+            "name": "HSBC India",
+            "display_name": "HSBC India Mobile Banking App",
             "search_terms": {
-              "itunes": "Photos",
-              "playstore": "Photos"
+              "itunes": "HSBC India",
+              "playstore": "HSBC India"
             }
           },
           {
-            "name": "Image Playground",
-            "display_name": "Image Playground",
+            "name": "Citi Mobile",
+            "display_name": "Citi Mobile India App",
             "search_terms": {
-              "itunes": "Image Playground",
-              "playstore": "Image Playground"
+              "itunes": "Citi Mobile",
+              "playstore": "Citi Mobile"
             }
           },
           {
-            "name": "iMovie",
-            "display_name": "iMovie",
+            "name": "Standard Chartered Mobile",
+            "display_name": "Standard Chartered Mobile Banking App",
             "search_terms": {
-              "itunes": "iMovie",
-              "playstore": "iMovie"
+              "itunes": "Standard Chartered Mobile",
+              "playstore": "Standard Chartered Mobile"
             }
           },
           {
-            "name": "iTunes Store",
-            "display_name": "iTunes Store",
+            "name": "Google Pay",
+            "display_name": "Google Pay (Tez)",
             "search_terms": {
-              "itunes": "iTunes Store",
-              "playstore": "iTunes Store"
+              "itunes": "Google Pay",
+              "playstore": "Google Pay"
             }
           },
           {
-            "name": "Journal",
-            "display_name": "Journal",
+            "name": "PhonePe",
+            "display_name": "PhonePe: UPI, Recharge, Investment & Insurance",
             "search_terms": {
-              "itunes": "Journal",
-              "playstore": "Journal"
+              "itunes": "PhonePe",
+              "playstore": "PhonePe"
             }
           },
           {
-            "name": "Keynote",
-            "display_name": "Keynote",
+            "name": "Paytm",
+            "display_name": "Paytm: Secure UPI Payments",
             "search_terms": {
-              "itunes": "Keynote",
-              "playstore": "Keynote"
+              "itunes": "Paytm",
+              "playstore": "Paytm"
             }
           },
           {
-            "name": "Magnifier",
-            "display_name": "Magnifier",
+            "name": "Amazon Pay",
+            "display_name": "Amazon Pay UPI",
             "search_terms": {
-              "itunes": "Magnifier",
-              "playstore": "Magnifier"
+              "itunes": "Amazon Pay",
+              "playstore": "Amazon Pay"
             }
           },
           {
-            "name": "MapsMeasure",
-            "display_name": "MapsMeasure",
+            "name": "BHIM",
+            "display_name": "BHIM - Making India Cashless",
             "search_terms": {
-              "itunes": "MapsMeasure",
-              "playstore": "MapsMeasure"
+              "itunes": "BHIM",
+              "playstore": "BHIM"
             }
           },
           {
-            "name": "Messages",
-            "display_name": "Messages",
+            "name": "WhatsApp Pay",
+            "display_name": "WhatsApp Messenger",
             "search_terms": {
-              "itunes": "Messages",
-              "playstore": "Messages"
+              "itunes": "WhatsApp Messenger",
+              "playstore": "WhatsApp Messenger"
             }
           },
           {
-            "name": "Music",
-            "display_name": "Music",
+            "name": "MobiKwik",
+            "display_name": "MobiKwik - UPI, Bills, PayLater",
             "search_terms": {
-              "itunes": "Music",
-              "playstore": "Music"
+              "itunes": "MobiKwik",
+              "playstore": "MobiKwik"
             }
           },
           {
-            "name": "News",
-            "display_name": "News",
+            "name": "Freecharge",
+            "display_name": "Freecharge - UPI Payments, Recharge & Bill Pay",
             "search_terms": {
-              "itunes": "News",
-              "playstore": "News"
+              "itunes": "Freecharge",
+              "playstore": "Freecharge"
             }
           },
           {
-            "name": "Notes",
-            "display_name": "Notes",
+            "name": "JioPay",
+            "display_name": "MyJio: For Everything Jio",
             "search_terms": {
-              "itunes": "Notes",
-              "playstore": "Notes"
+              "itunes": "MyJio",
+              "playstore": "MyJio"
             }
           },
           {
-            "name": "Numbers",
-            "display_name": "Numbers",
+            "name": "Samsung Pay",
+            "display_name": "Samsung Pay",
             "search_terms": {
-              "itunes": "Numbers",
-              "playstore": "Numbers"
+              "itunes": "Samsung Pay",
+              "playstore": "Samsung Pay"
             }
           },
           {
-            "name": "Pages",
-            "display_name": "Pages",
+            "name": "CRED",
+            "display_name": "CRED: Credit Card Bills & UPI",
             "search_terms": {
-              "itunes": "Pages",
-              "playstore": "Pages"
+              "itunes": "CRED",
+              "playstore": "CRED"
             }
           },
           {
-            "name": "Passwords",
-            "display_name": "Passwords",
+            "name": "Airtel Thanks",
+            "display_name": "Airtel Thanks - Recharge & UPI",
             "search_terms": {
-              "itunes": "Passwords",
-              "playstore": "Passwords"
+              "itunes": "Airtel Thanks",
+              "playstore": "Airtel Thanks"
             }
           },
           {
-            "name": "Phone",
-            "display_name": "Phone",
+            "name": "Tata Neu",
+            "display_name": "Tata Neu - UPI & Shopping",
             "search_terms": {
-              "itunes": "Phone",
-              "playstore": "Phone"
+              "itunes": "Tata Neu",
+              "playstore": "Tata Neu"
             }
           },
           {
-            "name": "Photo Booth",
-            "display_name": "Photo Booth",
+            "name": "JioMoney",
+            "display_name": "JioMoney Wallet",
             "search_terms": {
-              "itunes": "Photo Booth",
-              "playstore": "Photo Booth"
+              "itunes": "JioMoney",
+              "playstore": "JioMoney"
             }
           },
           {
-            "name": "Podcasts",
-            "display_name": "Podcasts",
+            "name": "Truecaller Pay",
+            "display_name": "Truecaller: Caller ID & UPI",
             "search_terms": {
-              "itunes": "Podcasts",
-              "playstore": "Podcasts"
+              "itunes": "Truecaller",
+              "playstore": "Truecaller"
             }
           },
           {
-            "name": "Reminders",
-            "display_name": "Reminders",
+            "name": "Fampay",
+            "display_name": "Fampay - Payments for Teens",
             "search_terms": {
-              "itunes": "Reminders",
-              "playstore": "Reminders"
+              "itunes": "Fampay",
+              "playstore": "Fampay"
             }
           },
           {
-            "name": "Safari",
-            "display_name": "Safari",
+            "name": "Slice",
+            "display_name": "Slice - Credit Card & UPI",
             "search_terms": {
-              "itunes": "Safari",
-              "playstore": "Safari"
+              "itunes": "Slice",
+              "playstore": "Slice"
             }
           },
           {
-            "name": "Shortcuts",
-            "display_name": "Shortcuts",
+            "name": "Navi",
+            "display_name": "Navi - Instant Loans & UPI",
             "search_terms": {
-              "itunes": "Shortcuts",
-              "playstore": "Shortcuts"
+              "itunes": "Navi",
+              "playstore": "Navi"
             }
           },
           {
-            "name": "Stocks",
-            "display_name": "Stocks",
+            "name": "Fi Money",
+            "display_name": "Fi Money - Smart Banking",
             "search_terms": {
-              "itunes": "Stocks",
-              "playstore": "Stocks"
+              "itunes": "Fi Money",
+              "playstore": "Fi Money"
             }
           },
           {
-            "name": "Swift Playgrounds",
-            "display_name": "Swift Playgrounds",
+            "name": "Jupiter",
+            "display_name": "Jupiter - Money Manager",
             "search_terms": {
-              "itunes": "Swift Playgrounds",
-              "playstore": "Swift Playgrounds"
-            }
-          },
-          {
-            "name": "Tips",
-            "display_name": "Tips",
-            "search_terms": {
-              "itunes": "Tips",
-              "playstore": "Tips"
-            }
-          },
-          {
-            "name": "Translate",
-            "display_name": "Translate",
-            "search_terms": {
-              "itunes": "Translate",
-              "playstore": "Translate"
-            }
-          },
-          {
-            "name": "TV",
-            "display_name": "TV",
-            "search_terms": {
-              "itunes": "TV",
-              "playstore": "TV"
-            }
-          },
-          {
-            "name": "Voice Memos",
-            "display_name": "Voice Memos",
-            "search_terms": {
-              "itunes": "Voice Memos",
-              "playstore": "Voice Memos"
-            }
-          },
-          {
-            "name": "Wallet",
-            "display_name": "Wallet",
-            "search_terms": {
-              "itunes": "Wallet",
-              "playstore": "Wallet"
-            }
-          },
-          {
-            "name": "Watch",
-            "display_name": "Watch",
-            "search_terms": {
-              "itunes": "Watch",
-              "playstore": "Watch"
-            }
-          },
-          {
-            "name": "Weather",
-            "display_name": "Weather",
-            "search_terms": {
-              "itunes": "Weather",
-              "playstore": "Weather"
+              "itunes": "Jupiter",
+              "playstore": "Jupiter"
             }
           }
         ]
